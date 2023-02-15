@@ -1,0 +1,1144 @@
+{
+  "data": [
+    {
+      "name": "BET East",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1010",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BET West",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/51039",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 02",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19185",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 06",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19189",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 07",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19190",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 08",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19191",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 14",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19197",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 16",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19199",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 18",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19201",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 30",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19213",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 31",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19214",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 32",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19215",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 38",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19220",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinemax (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/7153",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "E! Entertainment (US East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12018",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "E! Entertainment (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12019",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "epix",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/674",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "epix 2",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/677",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "epix Drive In",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/675",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "epix Hits",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/676",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "fetv",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1178",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO ① (US East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/704",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO ① (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/700",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO ② (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/704",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO Comedy (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/701",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO Family (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/703",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO Signature (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/702",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO Zone (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/699",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Indie Plex",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/77613",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Logo•",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1068",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MAX 5 Star",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/706",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MAX Action",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/77615",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MAX East",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/672",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MAX More",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/673",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MAX Movie",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104861",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MAX Outer",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/77614",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MAX Thriller",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/13119",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MAX West",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104675",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Movie Plex",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/77612",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBC Boston",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/948",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pixl",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1130",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ScreenPix",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104829",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ScreenPix Action",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104831",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ScreenPix Voices",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104832",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ScreenPix Western",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104830",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showtime (East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/681",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showtime (West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/682",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showtime 2",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1414",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showtime Extreme",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/678",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showtime Family Zone",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/698",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showtime Next",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/697",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showtime Showcase",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/696",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showtime Women",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/693",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SHOxBET East",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104835",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SHOxBET West",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/679",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sony Movies",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27923",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz (East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/10749",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz (West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/680",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Cinema",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/687",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Comedy",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/694",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Edge",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/692",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Encore (East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/689",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Encore Action",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/688",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Encore Classic",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/686",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Encore Family",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/685",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Encore Suspense",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/684",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Encore Western",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/683",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz In Black",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/691",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Kids & Family",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/690",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SYFY (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12047",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TNT (West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12041",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AMC Presents",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/93036",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR Kai June",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/10699",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Business",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/891",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pozhWWXQPlCEqREfUBry_weCSbofgRbcpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Altitude Sports",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/98853",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AT&T SportsNet (Pittsburgh)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1139",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AT&T SportsNet (Rocky Mountain)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/91820",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AT&T SportsNet (Southwest)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1156",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Barstool Sports [Not 24/7]",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/111029",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BIG Ten Network",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1015",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Billiard TV (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/176",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Boxing TV",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/263",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CBS Sports Network",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/845",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN SEC Network (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1206",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Soccer Plus (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/79461",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Sports (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/10543",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FS1",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/120728",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FS2",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1179",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Galavision (US East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/92400",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MASN",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/79463",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MASN 2",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/79464",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MLB Network",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/747",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Moto America TV",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/262",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBC Sports Chicago",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/950",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBC Sports Philadelphia Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/91763",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBC Sports Washington",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/953",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Next Level Sports",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/98852",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NFL Red Zone",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27932",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NHL Network",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104306",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Spectrum SportsNet",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/39873",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SportsNet New York",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1160",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stadium 2",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/40325",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stadium 3",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/40326",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stadium College Sports Atlantic",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27933",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stadium College Sports Central",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/40323",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stadium College Sports Pacific",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/55465",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVG Network",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1116",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Willow Xtra Cricket",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/65375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "WWE Network",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1128",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "YES",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1129",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Arizona",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1180",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Arizona Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1145",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Detroit",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1182",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Detroit Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1196",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Florida",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1197",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Great Lakes",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1192",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Indiana",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/91761",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Kansas City",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/93053",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Midwest",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11361",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Midwest Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1183",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports New Orleans",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/91819",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports North Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11362",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Ohio",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1185",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Ohio Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/92068",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Oklahoma",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1186",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Oklahoma Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11367",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports San Diego",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1189",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports San Diego Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/13924",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports SoCal",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/93052",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports SoCal Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1187",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports South",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11363",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports South Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1190",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Southeast",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1191",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Southwest",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11365",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Southwest Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1188",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Sun",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1193",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports West",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11366",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports West Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1195",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Wisconsin Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1194",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Boomerang (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1017",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney Channel (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1038",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney Junior (US East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12016",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney Junior (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1039",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nick Junior Channel (US East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1084",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "A&E",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1000",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC East",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/796",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC Huntsville AL WAAY",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11785",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC West",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/92637",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Animal Planet (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/48863",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AWE Encore",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104673",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AXS TV",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1007",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CBS East",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/843",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Chef Champion",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/120971",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Discovery (US East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1034",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Food Network (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12021",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HGTV (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12026",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "History (US East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12027",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Investigation Discovery (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/14708",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Military",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1060",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBC New York WNBC",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/946",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8YtOWRGP5NpBd3TLoE3pPQRQgDSAzke_wmA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NRB TV",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/125682",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Travel Channel (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1113",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "truTV (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1115",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW (Los Angeles California★KTLA-5)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27917",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BET Her",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1012",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Spirit TV (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/94254",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Country Network",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/96007",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Vallenato Internacional (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/122112",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "VEVO 80s",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/122062",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Alternative",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27746",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Brits Hits",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1244",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Dance EDM",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27747",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Hi-Hop R&B",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27748",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Kids Only!",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27751",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Mexicana",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27753",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Music Choice Max",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27754",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Musica Urbana",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27755",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Pop & Country",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27756",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Pop Hits",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27757",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Pop Latino",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27758",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC R&B Soul",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27759",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Rap",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27760",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Rap 2K",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1247",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Rock",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27761",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Teen Beats",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27762",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Throwback Jamz",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27763",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Today's Country",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27764",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Toddler Tunes",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27765",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Tropicales",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27766",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Y2K",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27767",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    }
+  ]
+}
