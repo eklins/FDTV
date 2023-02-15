@@ -1,0 +1,490 @@
+{
+  "data": [
+    {
+      "name": "MG（备）01",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000028638/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）02",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000008379/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）03",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000008001/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）04",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000031494/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）05",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000008176/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）06★",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000010129/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）07",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000010948/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）08",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000007218/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）09",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000005308/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）10",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000005969/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）11",
+      "url": "http://117.136.156.71:80/000000001000/3000000001000026778/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）12",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000027691/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）13",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000015560/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）14",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000002809/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）15",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000000097/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）16",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000006077/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）17",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000012558/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）18",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000023434/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）19",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000003915/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）20",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000004193/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）21",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000021904/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）22",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000011297/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）23",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000006658/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）24",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000010833/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）25",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000025380/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）26",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000015686/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）27★",
+      "url": "http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）6124",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）6147",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）7047",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）7107",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227107/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）7158",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）7189",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227189/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）7228",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227228/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）01",
+      "url": "http://39.135.134.67/000000001000/3000000001000028638/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）02",
+      "url": "http://39.135.134.67/000000001000/3000000001000008379/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）03",
+      "url": "http://39.135.134.67/000000001000/3000000001000008001/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）04",
+      "url": "http://39.135.134.67/000000001000/3000000001000031494/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）05",
+      "url": "http://39.135.134.67/000000001000/3000000001000008176/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）07",
+      "url": "http://39.135.134.67/000000001000/3000000001000010948/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）08",
+      "url": "http://39.135.134.67/000000001000/3000000001000007218/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）09",
+      "url": "http://39.135.134.67/000000001000/3000000001000005308/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）10",
+      "url": "http://39.135.134.67/000000001000/3000000001000005969/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）11",
+      "url": "http://39.135.134.67/000000001000/3000000001000026778/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ASTRO Arena 801 (Malaysia)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157485",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRreIQGhzPcRN8NyAHJQGyoX0GO7kO5l5SPJw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ASTRO Supersport 1 (Malaysia)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ASTRO Supersport 2 (Malaysia)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157556",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ASTRO Supersport 3 (Malaysia)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157557",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ASTRO Supersport 4 (Malaysia)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 超级体育 5847★",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 超级体育 5848",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 超级体育 5849",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 超级体育 6895★",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226895/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 体育 5834",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 体育 5835",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 体育 5836",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 体育 5839",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 体育 5845",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 体育 5850",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cosmote Sport 8 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/127",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN5m1vxRf6VqCGD4GRrrrWV1jGWlcAntnfbA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Magenta Sport 07 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281749",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCB8g9REi6VUhD0IGNKPpbALXDqhgqp5WuQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果TV 01",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028056/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果TV 02",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285865/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果TV 03",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285866/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果TV 04",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285875/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Sports 3 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12846",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GcU39sVl0PP8MUm2Jk2UqSqIo6VCS9xYkw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Sports 4 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279631",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GcU39sVl0PP8MUm2Jk2UqSqIo6VCS9xYkw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Sports 5 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/45242",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GcU39sVl0PP8MUm2Jk2UqSqIo6VCS9xYkw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 01 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/202100",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 02 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/72238",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 03 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/32708",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 05 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/31445",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 06 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2133",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 07 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4489",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 08 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/147341",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport Bundesliga 01 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2432",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport Bundesliga 02 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2135",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport Bundesliga 03 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3513",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport Bundesliga 04 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2434",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport Bundesliga 05 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/13497",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport Bundesliga 10 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4493",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
+      "parse": false
+    }
+  ]
+}
