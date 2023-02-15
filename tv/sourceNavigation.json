@@ -3,7 +3,7 @@
     {
       "name": "电影轮播 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFQZkfW4mB8-y1U43eM8kk1wegyRlphXO6g&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%94%B5%E5%BD%B1%E8%BD%AE%E6%92%AD.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%94%B5%E5%BD%B1%E8%BD%AE%E6%92%AD.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -19,7 +19,7 @@
     {
       "name": "电视剧轮播 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JbDAisQCMVx6Q-zJ9SxT7aEfVGHZA7Jh9A&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%94%B5%E8%A7%86%E5%89%A7%E8%BD%AE%E6%92%AD.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%94%B5%E8%A7%86%E5%89%A7%E8%BD%AE%E6%92%AD.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -35,7 +35,7 @@
     {
       "name": "动漫轮播 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa06nulHaH-fHaRBeOuU-m0rHYDR2dqcfxRA&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E5%8A%A8%E6%BC%AB%E8%BD%AE%E6%92%AD.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E5%8A%A8%E6%BC%AB%E8%BD%AE%E6%92%AD.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -51,7 +51,7 @@
     {
       "name": "纪录•综艺 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxm_LTl3s8ZoEW-Xo1F1A2o6yInYSpA-Sihw&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%BA%AA%E5%BD%95%E3%80%81%E7%BB%BC%E8%89%BA.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%BA%AA%E5%BD%95%E3%80%81%E7%BB%BC%E8%89%BA.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -67,7 +67,7 @@
     {
       "name": "音乐台 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E9%9F%B3%E4%B9%90.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E9%9F%B3%E4%B9%90.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -83,7 +83,7 @@
     {
       "name": "体育台 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDfsenVNcBvC14yv6J7n0wjlP-Pz_pbb-dg&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E4%BD%93%E8%82%B2.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E4%BD%93%E8%82%B2.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -99,7 +99,7 @@
     {
       "name": "Global News ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9zSDPTv8-0dUMSimvMiPqHo4j0GPv-O6UQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20news.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/tv%20news.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -115,7 +115,7 @@
     {
       "name": "China TV ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiWDXgLiDbvrJalOcxFsedP__HwZ-9tTYUA&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20China.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/tv%20China.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -131,7 +131,7 @@
     {
       "name": "USA TV ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2t6I8u-RbV6-wyfDNZiDsgC2K9pLq4RpPKQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20USA.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/tv%20USA.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -147,7 +147,7 @@
     {
       "name": "Global TV ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxtbviCaL2IHaeTGsvzF9STDJcqLIWRj1kw&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20Global.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/tv%20Global.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -163,7 +163,7 @@
     {
       "name": "WebTV ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsSvI6d33KNTwPWeEuOpUZQo52mT4TQ06rQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/webtv.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/webtv.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -179,7 +179,7 @@
     {
       "name": "体育备台⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q6_vMChdElIy7esv8vvNUULF9AofaIMRiw&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E4%BD%93%E8%82%B2%EF%BC%88%E5%A4%87%EF%BC%89.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E4%BD%93%E8%82%B2%EF%BC%88%E5%A4%87%EF%BC%89.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -195,7 +195,7 @@
     {
       "name": "日本のAV🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0AcY62eHIvUL3f7zEbWUyzKmuLjG6FxyZQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/xxx%20Japan.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -211,7 +211,7 @@
     {
       "name": "成人TV🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-B0Yxy981z3qDZn3V_9au3CpqgC36sp3HYw&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/xxx.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -227,7 +227,7 @@
     {
       "name": "NewTV ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/NewTV.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/NewTV.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -243,7 +243,7 @@
     {
       "name": "json测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20test.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/tv%20test.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -259,7 +259,7 @@
     {
       "name": "m3u测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20test.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/tv%20test.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -275,7 +275,7 @@
     {
       "name": "直播•轮播后备json",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshTocS_vR5gi-k6Z5icyiicUZ-uV7kBcnPw&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E3%80%81%E8%BD%AE%E6%92%AD%E5%90%8E%E5%A4%87.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E3%80%81%E8%BD%AE%E6%92%AD%E5%90%8E%E5%A4%87.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -291,7 +291,7 @@
     {
       "name": "Kuchini ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZG0DbRonYicc5TqTTiX53gj4j3lleOiM6PQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/zz/IPTV20230202%20Kuchini.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/zz/IPTV20230202%20Kuchini.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -307,7 +307,7 @@
     {
       "name": "USA 2023 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFwC3BlQILhT7azWPN011JXSRoKaYAyONtw&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/zz/IPTV20230130%20US%20194.40.240.183.json",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/zz/IPTV20230130%20US%20194.40.240.183.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -323,7 +323,7 @@
     {
       "name": "Feb 2023",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReztq1stMgnYBZh6nwWI8ZqLGfmKuAdbc0Yg&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/zz/IPTV%20202302.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/zz/IPTV%20202302.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -339,7 +339,7 @@
     {
       "name": "Jan 2023",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReztq1stMgnYBZh6nwWI8ZqLGfmKuAdbc0Yg&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/zz/IPTV%20202301.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/zz/IPTV%20202301.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -355,7 +355,7 @@
     {
       "name": "Dec 2022",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSipWCdaJ4M7FPhy3eSsP1yRQfZJdzvk8Mj2g&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/zz/IPTV%20202212.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/zz/IPTV%20202212.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -371,7 +371,7 @@
     {
       "name": "Nov 2022",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSipWCdaJ4M7FPhy3eSsP1yRQfZJdzvk8Mj2g&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/zz/IPTV%20202211.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/zz/IPTV%20202211.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -387,7 +387,7 @@
     {
       "name": "直播❌",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E2%9D%A4%EF%BC%88%E6%97%A7%EF%BC%89.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E2%9D%A4%EF%BC%88%E6%97%A7%EF%BC%89.m3u",
       "type": "m3u",
       "subTitle": "",
       "subTitle": "",
@@ -404,7 +404,7 @@
     {
       "name": "直播*荐*",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E2%80%9C%E8%8D%90%E2%80%9D%EF%BC%88%E6%97%A7%EF%BC%89.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E2%80%9C%E8%8D%90%E2%80%9D%EF%BC%88%E6%97%A7%EF%BC%89.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
