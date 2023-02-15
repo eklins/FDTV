@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSml1RohUXU9F3EmzVHIMRr6E-Mm0MPKODHUw&usqp=CAU",CCTV-13 新闻
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",凤凰卫视中文台
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",凤凰卫视资讯台
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",香港Now直播台 CH331
+http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToCpmCkU23XAMFnNBAS8bXTbOk1p3Ow6zFw&usqp=CAU",香港Now新闻台 CH332
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",香港无线新闻台
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",香港无线财经•资讯台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2016/0922/2e357e13827907f8b90e628ebdd1d1e3.jpg",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQvmwHHrWYH0CsLglY9aYMbvZwZj2vfbBZVR-tI=s900-c-k-c0x00ffffff-no-rj",点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuR5H4Tebef3-p_nUbHxU08Ks5LvlVQ8pZfA&usqp=CAU",第一财经
+http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6sQaCsPXlX8oVHGoV-LDHKdH4aZbJB26jg&usqp=CAU",东方财经•浦东
+http://117.148.179.176/PLTV/88888888/224/3221231646/index.m3u8
+#EXTINF:-1 logo="https://www.nettvpro.live/uploads/19/1-1Z42Q25030444.jpg",北京财经
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
+#EXTINF:-1 logo="https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 logo="https://mumbrella.com.au/wp-content/uploads/2016/07/ABC-news.jpg",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 logo="https://live.mrf.io/mstore/21612f2/8d0e01c7fa6e5e22a5d1b91c6525ef4da5d0c04e/icon.png?width=144&height=144",Africa News English
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS934k9F2F5q9sTpqIbEJgSTfHYP-h2hkbHmg&usqp=CAU",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-vD5XSq3zKeTkKJcKiqxfF67F9Caqgz1Ig&usqp=CAU",Ameritrade
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1o_yrkMSTiSWu64Fva8109Fw0AvbMvcqkNg&usqp=CAU",Arirang English
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv5Q7QI4qSTQrUnkAawWTEHB-9hOnPsrL4Bg&usqp=CAU",Arise News (576p)
+https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",BBC News
+http://live.tvfix.org/hls/bbcnews.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWydvEITUDSPECwODd3bwcbdNa4PegZgFRQ&usqp=CAU",BBC World News
+https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRc38l1gl1JCFmSEKKuNjvlTPkuk25TH2fyw&usqp=CAU",Black News Channel
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71P4mnHdjmdwkH7R6ydUECWuLKxGKVX1-Hw&usqp=CAU",Bloomberg TV
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",Bloomberg TV Asia
+http://210.210.155.37/dr9445/h/h03/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",Bloomberg TV Mexico
+https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://shortyawards.imgix.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png?auto=format&fit=crop&h=300&q=65&w=500&s=cb21d6a342f58f8b5d569fb92fe02d19",Bloomberg Quicktake
+https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fYpZml0sLFA-53NYsRRS6UKV42iZ_yeXQA&usqp=CAU",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fYpZml0sLFA-53NYsRRS6UKV42iZ_yeXQA&usqp=CAU",CBC News Highlights
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskVXXGNJH8rbXPEyJsPvVlpITrId6NMB3UA&usqp=CAU",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png",CGTN News
+http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
+#EXTINF:-1 logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/128.png",Cheddar News
+https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:-1 logo="https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",CNA 亚洲新闻台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShCqoPVXQPFgZ4gDSY1G-XMPmgZg6-SKZ_Q&usqp=CAU",CNBC
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbq72Lp2epTgno002BMVVXJK3JmvG0TvF5dQ&usqp=CAU",CNBC Europe UK
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1 logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBt21a2KaqlSwB_PNmz8ZSkS8k_8uQIc74g&usqp=CAU",CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63z4qh5lzy_EVbD_tVoXNsrmnwVbdrK4H8A&usqp=CAU",CTV News
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 logo="https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75_512x512c.png",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYhJ421hWlI4nxowBYgrPzOhAxPG9bjpOQw&usqp=CAU",Entertainment Tonight
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/61-5K6QDrnL.png",Euronews English
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2021/01/FOX-5-NEWS-NOW-Logo-with-BG.jpg?w=1280",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDWpiol50Q-rQUJ9gyxpmlh6sbIWUl_cUwQ&usqp=CAU",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ae0JwGwgx9dRttQi1sg4k4Ufvcb5puBHUA&usqp=CAU",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyGuxCofh3wqGebKPnBav9EXEWkESCE3XKA&usqp=CAU",France 24 English
+https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMxu-fQMZRR5ZYR_IgUywODfnCLIPSwyiDFQ&usqp=CAU",GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLslZXLDkiM2Yz_tX9VeSlzYJQeHWZyvDVQ&usqp=CAU",Global News (Canada)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXaOxqLJW05rS3SHdrohAaZObWOjXeuXxWlg&usqp=CAU",NBC News Now
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRBf0L188buhIlbd0bVKlCHvAZuvCuRTGTm2VKrRQ=s900-c-k-c0x00ffffff-no-rj",News 12 New York
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s900-c-k-c0x00ffffff-no-rj",Newsmax
+https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVGT5GQN923PSeM8KyygkbskzRANR7J4s9Lg&usqp=CAU",NEWSnet
+https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1, logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlefI3-TyjxFiKubKCo_rSuTNrwE5CqypAw&usqp=CAU",NHK World Japan
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJLxHdFg-KXgCdhJFBXaW6ziXZ5MxBk7cS3g&usqp=CAU",OAN
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdferHGNXzr8ZVt36-3hfBK1jlpcEI3o8uGg&usqp=CAU",Real America's Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQch2bAo8MwO3Ts_31MAwKAqwhDuKb3_qEgXA&usqp=CAU",Real Vision
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-KKm-W76Q0v9POCdNuwVp6dkkh0ltKun2A&usqp=CAU",Reuters Now
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/RussiaToday-logo.jpg/revision/latest/scale-to-width-down/200?cb=20150103194351",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png",RTM Berita
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYzof1cB7QA9TSfSieN-s70esnHQJTXgbgA&usqp=CAU",Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Qv0hwgns7uMA4Ynd-G-BP_eyBI3TzeAVIg&usqp=CAU",Sky News Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSguQ_a8yvqAcoLyLLZJUbFfmUNpHv_n95lIg&usqp=CAU",Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYnaOLVLh4-GA2ktTzzm62gDLFyQ3tTIfhg&usqp=CAU",The First
+https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgY3ZlPnLYgHi_XRf2o77e2XUqqRareaj_w&usqp=CAU",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 logo="https://pic.baike.soso.com/ugc/baikepic2/19426/20180813201649-420903712_jpeg_427_284_24385.jpg/0",UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ3iOW4EgwMn672k9VqDBlzkIhUkGNcx4aSQ&usqp=CAU",US Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzaAjxJxTLytDaxwPOVKJm6FMpkgJauAs0tw&usqp=CAU",US Law & Crime
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lj7oMcPEPDgSrK234wDk9e8o3FbvXt74ow&usqp=CAU",VOA 美国之音
+https://4gtvfreepc-mozai.4gtv.tv/5ZwmWzNBtCBGJmd3qQPpmZz_Hu1QXzi14iwp5l7ZoyY%3d/stream2.m3u8?token=kqac7GfwXGt8I4XQfHaHjw&expires=1653587540&refer=OTg3ZThmODktMTgyZS00NDNmLTkyMWEtN2I2MjE4NDNiNjYx&token1=8nEd09vzzar52PgLfowo3A&expires1=1653587540&y=0&vt=
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmL_GWKy7TEjnnSI_kXoiPLZp64NKq-MSlA&usqp=CAU",WFMZ 69 News
+https://cdn.jaybirdtv.com/wfmz/channel/10/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVpE5eWLZwYejT5ZB-mdHwrVwiW0f-PwK5g&usqp=CAU",Yahoo News
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",台湾中天新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+#EXTINF:-1 logo="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg",台湾TVBS新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+#EXTINF:-1 logo="https://img.youtube.com/vi/yguQ1SzPM5U/0.jpg",台湾民视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+#EXTINF:-1 logo="https://i.ytimg.com/vi/TCnaIE_SAtM/maxresdefault.jpg",台湾中视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",台湾华视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+#EXTINF:-1 logo="https://img.isuper.tv/live-tv/ebc-news-live.jpg",台湾东森新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmmTdCyLry8FfUSEecc2Vcobs-7dbL8lrlA&usqp=CAU",台湾镜电视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCiY9BqZWCTHTzVJ1KPbQF3M2fVdn0G-rdA&usqp=CAU",台湾壹新闻
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",台湾三立新闻
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EB4g7wecgTI
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9Z-aC6taPLKZTdxmtz0VSWRwXuQlBWIxZQ&usqp=CAU",台湾三立新闻（海外直播）
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=FoBfXvlOR6I
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyXBEnFoM_2tBFAq79GbvBd97AmvRtjCm9A&usqp=CAU",台湾三立财经新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+#EXTINF:-1 logo="https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",台湾东森财经新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1LjHXLSG-6l6i1AEbxD48IZsuWJxWyHVOw&usqp=CAU",台湾SBN全球财经
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
