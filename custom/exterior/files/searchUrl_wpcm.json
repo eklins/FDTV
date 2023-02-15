@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "已经迁移至CDN此处仅测试",
+      "url": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
+      "cate": "动作片,6",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "★欧宝",
+      "url": "http://zy.266sc.cn/api.php/provide/vod/at/xml/",
+      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&站专区,20&&国创,21&&番剧,22&&站电视剧,23&&站电影,24&&泰剧,25",
+      "click": true,
+      "wePlus": {}
+    }
+  ]
+}
+
+
