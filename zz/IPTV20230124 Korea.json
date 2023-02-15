@@ -1,0 +1,232 @@
+{
+  "data": [
+    {
+      "name": "AsiaN (Korea)",
+      "url": "https://kr-streams.onrender.com/scraper?channel=215",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Cinema Heaven (Korea★540p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/231.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Indie Film (Korea)",
+      "url": "https://kr-streams.onrender.com/scraper?channel=818",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "OCN (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/234.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "PLAYY Action Movie (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/233.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "The Movie (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/232.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Channel A (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/212.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Channel China (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/229.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "ChungHwa TV (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/228.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "iHQ Drama (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/256.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "tvN Drama (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/226.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "SBS F!L (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/284.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "tvN (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/221.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "tvN Show (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/222.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "DreamWorks",
+      "url": "https://kr-streams.onrender.com/scraper?channel=451",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Miao Mi [Not 24/7]",
+      "url": "https://kr-streams.onrender.com/scraper?channel=521",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱JTBC",
+      "url": "http://mytv.dothome.co.kr/ch/catv/211.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱JTBC 2",
+      "url": "http://mytv.dothome.co.kr/ch/catv/282.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱JTBC 4",
+      "url": "http://mytv.dothome.co.kr/ch/catv/283.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱KBS Drama (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/2.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱KBS Joy (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/3.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱KBS Life (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/5.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱KBS Story (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/4.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱MBC (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/public/21.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱MBN (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/54.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱Mnet (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/224.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱OL!FE (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/254.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱OBS (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/281.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱tvN",
+      "url": "https://kr-streams.onrender.com/scraper?channel=280",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱YTN (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/215.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Billiards TV (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/252.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "IB Sports (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/253.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "JTBC Golf (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/248.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "JTBC Golf & Sports (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/249.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "PBA & Golf (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/250.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "SBS Golf (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/247.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "SPOTV (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/244.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "SPOTV2 (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/245.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    }
+  ]
+}
