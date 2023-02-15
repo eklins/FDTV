@@ -1,6 +1,6 @@
 # FDTV
 
-同步[原项目](https://github.com/eklins/FDTV)，增加自定义资源。<br>
+同步[原项目](https://github.com/eklins/FreeDTV)，增加自定义资源。<br>
 
 File | Descriptions 
 -- | -- 
