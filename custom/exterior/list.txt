@@ -1,0 +1,6 @@
+https://gitee.com/wpcmzjk/tv/raw/master/mobile/searchUrl.json  searchUrl_wpcm.json
+https://gitee.com/wpcmzjk/tv/raw/master/mobile/webPlugNavigation.json webPlugNavigation_wpcm.json
+https://raw.githubusercontent.com/gyhxxx/freedtv/main/searchUrl.json searchUrl_gyhxx.json
+https://raw.githubusercontent.com/gyhxxx/freedtv/main/webPlugNavigation.json webPlugNavigation_gyhxx.json
+https://raw.githubusercontent.com/YuanHsing/freed/master/tv/searchUrl.json searchUrl_YuanHsing.json
+https://raw.githubusercontent.com/YuanHsing/freed/master/tv/webPlugNavigation.json webPlugNavigation_YuanHsing.json
