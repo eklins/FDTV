@@ -1,0 +1,48 @@
+# 
+# Copyright (C) 2020 ArtXIA <https://github.com/artxia>
+# <https://github.com/artxia/FreedTV.git>
+#
+
+name: Sync freed
+
+on:
+  schedule:
+    - cron: 0 2 * * *
+  workflow_dispatch:
+    inputs:
+    
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Git freed
+        run: |
+          rm -rf .git
+          git clone https://github.com/freedtv/freed.git
+          mv freed/README.md freed/README_OI.md
+          
+      - name: Download files
+        run: |
+          /bin/bash "custom/exterior/download_files_from_list.sh"
+          sed -i '/"data": \[/r custom/webPlugNavigation.json' freed/tv/webPlugNavigation.json
+          sed -i '/"data": \[/r custom/searchUrl.json' freed/tv/searchUrl.json
+          cp -r custom freed
+          
+      - name: Deploy to Pages
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: main
+          FOLDER: freed
+          CLEAN: true
+          CLEAN_EXCLUDE: '["README.md"]'
+          SINGLE_COMMIT: false
+
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 2
+          keep_minimum_runs: 6
