@@ -62,9 +62,9 @@
     },
     {
       "id": 1,
-      "name": "百度",
+      "name": "非凡",
       "ad": "no",
-      "url": "https://jx.jxbdzyw.com/m3u8/?url="
+      "url": "https://ffzyplayer.com/?url="
     },
     {
       "id": 1,
@@ -95,6 +95,12 @@
       "name": "快车",
       "ad": "no",
       "url": "https://jiexi.kczyapi.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "百度",
+      "ad": "no",
+      "url": "https://jx.jxbdzyw.com/m3u8/?url="
     },
     {
       "id": 1,
