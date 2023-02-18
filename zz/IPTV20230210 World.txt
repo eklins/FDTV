@@ -950,29 +950,3 @@ USA | Discovery Velocity HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/692
 USA | Cheddar HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/678
 USA | Disney HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/687
 USA | Disney Jr HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/677
-USA | Disney XD USA,http://disfruta.net:80/erodriguez/jqD9QDy9VL/686
-USA | DIY NETWORK HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/685
-USA | E! HD.,http://disfruta.net:80/erodriguez/jqD9QDy9VL/684
-USA | Euronews,http://disfruta.net:80/erodriguez/jqD9QDy9VL/660
-USA | Food Network HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/683
-USA | FOX 7 MIAMI,http://disfruta.net:80/erodriguez/jqD9QDy9VL/652
-USA | Fox Business,http://disfruta.net:80/erodriguez/jqD9QDy9VL/724
-USA | FOX NY,http://disfruta.net:80/erodriguez/jqD9QDy9VL/682
-USA | FX HD.,http://disfruta.net:80/erodriguez/jqD9QDy9VL/676
-USA | H2 HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/674
-USA | Hallmark Drama HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/675
-USA | HBO EAST  HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/711
-USA | HALLMARK MOVIES &MYSTERIES,http://disfruta.net:80/erodriguez/jqD9QDy9VL/673
-USA | Hallmark Drama,http://disfruta.net:80/erodriguez/jqD9QDy9VL/734
-USA | HBO 2  HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/712
-USA | HBO COMEDY HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/735
-USA | HBO West,http://disfruta.net:80/erodriguez/jqD9QDy9VL/736
-USA | HBO FAMILY HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/737
-USA | HBO HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/738
-USA | HBO SIGNATURE,http://disfruta.net:80/erodriguez/jqD9QDy9VL/739
-USA | 5 STARMAX,http://disfruta.net:80/erodriguez/jqD9QDy9VL/709
-USA | SHOWTIME BEYOND,http://disfruta.net:80/erodriguez/jqD9QDy9VL/708
-USA | HBO ZONE,http://disfruta.net:80/erodriguez/jqD9QDy9VL/740
-USA | HGTV West HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/704
-USA | History Channel,http://disfruta.net:80/erodriguez/jqD9QDy9VL/690
-USA | Investigation Discovery HD,http://disfruta.net:80/erodriguez/jqD9QDy9VL/691
