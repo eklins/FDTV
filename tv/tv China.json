@@ -2341,12 +2341,6 @@
       "parse": false
     },
     {
-      "name": "台湾中视新闻",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾华视新闻",
       "url": "http://stream.dsichannel.com/hls/cts-news.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
@@ -2451,12 +2445,6 @@
     {
       "name": "台湾TITV（原住民电视）",
       "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾TVBS",
-      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
