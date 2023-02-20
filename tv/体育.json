@@ -529,6 +529,12 @@
       "parse": false
     },
     {
+      "name": "FC Bayern TV (Germany)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16509",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUhn61CHFpCPysru0tz4HCmYUy8aWO9tf0dA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Fight Network (Canada)",
       "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -777,7 +783,7 @@
     {
       "name": "MUTV",
       "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUP3c_iePxWFaqmAUmdS7FZEOakhox31hrzw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmY4cYj9LaRyFv9heQUniWGmSoGAEuPTfbkw&usqp=CAU",
       "parse": false
     },
     {
@@ -901,7 +907,7 @@
       "parse": false
     },
     {
-      "name": "Real Madrid TV",
+      "name": "Real Madrid TV (Spain)",
       "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLkWQ-XnT5-ozoGABaHiSlgVgEUD5t7xdHg&usqp=CAU",
       "parse": false
