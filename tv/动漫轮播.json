@@ -265,6 +265,24 @@
       "parse": false
     },
     {
+      "name": "Disney Channel (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32162",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney Jr. (US East)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32164",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney XD (US West)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32163",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "External Ottera",
       "url": "https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
