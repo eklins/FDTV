@@ -1311,10 +1311,12 @@ https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 ,GRC★Dipso TV (720p) [Not 24/7]
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1 ,GRC★EAT (Regional)
+#EXTINF:-1 ,GRC★EAT Regional
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/226104
-#EXTINF:-1 ,GRC★ECAT (Sigma)
+#EXTINF:-1 ,GRC★ECAT Sigma
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210186
+#EXTINF:-1 ,GRC★ECAT Skai
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210187
 #EXTINF:-1 ,GRC★Ellas TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 ,GRC★Ena Channel
@@ -1347,6 +1349,8 @@ http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 ,GRC★Magic TV (480p)
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 ,GRC★Mega TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210129
 #EXTINF:-1 ,GRC★Mesogeios TV (432p)
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 ,GRC★Μεσσάτιδα TV (Messatida TV★450p) [Not 24/7]
