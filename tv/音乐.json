@@ -547,6 +547,12 @@
       "parse": false
     },
     {
+      "name": "MTV Classic (UK)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16320",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MTV Classic (US)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149153",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
