@@ -1307,6 +1307,8 @@ https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 ,GRC★Dipso TV (720p) [Not 24/7]
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 ,GRC★EAT (Regional)
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/226104
 #EXTINF:-1 ,GRC★Ellas TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 ,GRC★Ena Channel
