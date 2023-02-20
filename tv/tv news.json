@@ -247,6 +247,12 @@
       "parse": false
     },
     {
+      "name": "CP 24 (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31986",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXcUc8fy4eZGUdGp_40jlh8_Fg4SklM6c0Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "DW (Germany)",
       "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJlMEGy8RyOAyUkPteM0L0p26jaQ5oPbkvA&usqp=CAU",
