@@ -199,6 +199,12 @@
       "parse": false
     },
     {
+      "name": "Boomerang (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32158",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Boomerang EMEA (Slovenia)",
       "url": "http://194.163.179.246/slovenci/djeciji/boomerang.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -231,6 +237,12 @@
     {
       "name": "CARTOON 6743 (China)",
       "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cartoon Network (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159863",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
