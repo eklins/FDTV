@@ -355,6 +355,12 @@
       "parse": false
     },
     {
+      "name": "BIG Ten Network",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32240",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "blue Sport 1 🔇 (Switzerland)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2815",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -573,6 +579,12 @@
     {
       "name": "FITE",
       "url": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Soccer Plus (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32272",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
