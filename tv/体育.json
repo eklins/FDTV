@@ -517,6 +517,18 @@
       "parse": false
     },
     {
+      "name": "Eurosport 1 (Portugal)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130966",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Eurosport 2 (Portugal)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130967",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Eurosport 1 (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/412",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
