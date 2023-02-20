@@ -703,6 +703,12 @@
       "parse": false
     },
     {
+      "name": "Animal Planet (Denmark)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213476",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Animal Planet (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9839",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1039,6 +1045,18 @@
       "parse": false
     },
     {
+      "name": "Discovery (Sweden)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16087",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Discovery Science (Denmark)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213473",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Discovery Science (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12026",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1101,6 +1119,12 @@
     {
       "name": "E! Entertainment (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "E! Entertainment (Sweden)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/61351",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1227,6 +1251,12 @@
     {
       "name": "Fat Guys In The Woods Channel",
       "url": "https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FEM (Norway)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/15784",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1465,6 +1495,18 @@
       "parse": false
     },
     {
+      "name": "Kanal 9 (Sweden)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16041",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Kanal 10 (Sweden)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213437",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Lifestyle",
       "url": "https://simultv.s.llnwi.net/o058/Lifestyle/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1611,6 +1653,18 @@
     {
       "name": "National Assembly TV (Korea)",
       "url": "https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "National Geographic (Greece)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210133",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "National Geographic (Norway)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213458",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1981,6 +2035,12 @@
       "parse": false
     },
     {
+      "name": "Star Channel (Norway★FOX)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213450",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Start (Greece)",
       "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2161,6 +2221,12 @@
       "parse": false
     },
     {
+      "name": "TLC (Norway)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213452",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TLC (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12030",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2257,6 +2323,36 @@
       "parse": false
     },
     {
+      "name": "TV 3 (Denmark)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16000",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TV 4 (Sweden)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/84532",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TV 4 Guld (Sweden)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/43195",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TV 6 (Norway)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213442",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TV 6 (Sweden)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16052",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TV Max (Brazil)",
       "url": "https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2329,6 +2425,12 @@
       "parse": false
     },
     {
+      "name": "Viasat Explore (Sweden)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/61336",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Viasat History (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2259",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2337,6 +2439,12 @@
     {
       "name": "Viasat History (Russia)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16398",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Viasat History (Sweden)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213439",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
