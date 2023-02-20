@@ -145,6 +145,12 @@
       "parse": false
     },
     {
+      "name": "C More First (Sweden)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16062",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cai Chang 采昌 (Taiwan)",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -248,19 +254,19 @@
     },
     {
       "name": "Cosmote Cinema 1 (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291104",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210064",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Cosmote Cinema 2 (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291105",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210065",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Cosmote Cinema 3 (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291106",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210066",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -555,12 +561,6 @@
     {
       "name": "Freebie TV [Not 24/7]",
       "url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FX (Iran)",
-      "url": "http://51.210.199.52/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1419,6 +1419,12 @@
     {
       "name": "tvN Movies (Indonesia★576p)",
       "url": "http://45.126.83.51/dr9445/h/h21/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Viasat Action (Norway)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/142455",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
