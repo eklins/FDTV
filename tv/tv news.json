@@ -289,6 +289,12 @@
       "parse": false
     },
     {
+      "name": "MSNBC",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32201",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHg5r1R9ZzAX388OdSNCcLBb4LstUV1ONfQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NBC News Now",
       "url": "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJrgDEpY9IQryUMSTVFXuT4_tqN9TvJ7hOg&usqp=CAU",
