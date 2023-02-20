@@ -61,6 +61,12 @@
       "parse": false
     },
     {
+      "name": "Antenna TV",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32231",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Asian Crush",
       "url": "https://ac-samsung-us.ono.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -85,6 +91,12 @@
       "parse": false
     },
     {
+      "name": "AXN (Portugal)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131050",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AXN (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2234",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -103,8 +115,26 @@
       "parse": false
     },
     {
+      "name": "AXN White (Portugal)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131044",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BBC America",
       "url": "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BET★",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/15861",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BET★Her",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32214",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -165,6 +195,12 @@
     {
       "name": "Celestial Movies 天映频道 (Indonesia★576p)",
       "url": "http://45.126.83.51/dr9445/h/h14/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cine Mundo (Portugal)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131042",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -243,6 +279,12 @@
     {
       "name": "Comedy Central (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12023",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Comedy Central (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32195",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -397,6 +439,12 @@
       "parse": false
     },
     {
+      "name": "E!",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208688",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Electric Now",
       "url": "https://ov.ottera.tv/live/master.m3u8?channel=elec_en",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -405,6 +453,18 @@
     {
       "name": "Epic Drama (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19918",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Epix 1",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208689",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Epix Hits",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32263",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -561,6 +621,30 @@
     {
       "name": "Freebie TV [Not 24/7]",
       "url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Freeform",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32208",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "fuse",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208697",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FX (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208698",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FXX",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32309",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1417,6 +1501,18 @@
       "parse": false
     },
     {
+      "name": "TVCine Emotion (Portugal)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131039",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVCine Top (Portugal)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131037",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "tvN Movies (Indonesia★576p)",
       "url": "http://45.126.83.51/dr9445/h/h21/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1462,6 +1558,12 @@
       "name": "Zjarr (Albania)",
       "url": "https://mfe01.tring.al/delta/106/out/u/284_1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AMC (Portugal)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131049",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
     {
@@ -2404,6 +2506,12 @@
       "name": "STIRR Westerns",
       "url": "https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Philly 57 (Philadelphia★WPSG) 142391",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191732",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
     {
