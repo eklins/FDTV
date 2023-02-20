@@ -1275,12 +1275,16 @@ https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
 https://player-api.new.livestream.com/accounts/14143407/events/9828641/broadcasts/233548882.secure.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/240px-Flag_of_Greece.svg.png",Greece♥34100 TV (720p)
 https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 ,GRC★A Entertainment
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/225788
 #EXTINF:-1 ,GRC★Action 24
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1971
 #EXTINF:-1 ,GRC★alert
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 ,GRC★Alfa Dramas
 https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+#EXTINF:-1 ,GRC★ANT 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210045
 #EXTINF:-1 ,GRC★ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
 #EXTINF:-1 ,GRC★Attica TV
@@ -1309,6 +1313,8 @@ https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 ,GRC★EAT (Regional)
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/226104
+#EXTINF:-1 ,GRC★ECAT (Sigma)
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210186
 #EXTINF:-1 ,GRC★Ellas TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 ,GRC★Ena Channel
@@ -1359,6 +1365,8 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 https://streaming.onetv.gr/show/onetv_src/index.m3u8
 #EXTINF:-1 ,GRC★Open Beyond HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 ,GRC★RIK Sat
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210184
 #EXTINF:-1 ,GRC★SKAÏ
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
 #EXTINF:-1 ,GRC★Smile TV (360p)
