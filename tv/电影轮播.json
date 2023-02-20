@@ -13,6 +13,12 @@
       "parse": false
     },
     {
+      "name": "5 Star (UK)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16172",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "24 Hour Free Movies",
       "url": "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -21,6 +27,12 @@
     {
       "name": "34100 TV (Greece)",
       "url": "https://s1.cystream.net/live/34100/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC Spark (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31959",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -187,6 +199,12 @@
       "parse": false
     },
     {
+      "name": "CBS Justice (UK)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16191",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Celestial Classic Movies 天映经典频道 (Indonesia★576p)",
       "url": "http://45.126.83.51/qwr9ew/s/s31/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -271,6 +289,12 @@
       "parse": false
     },
     {
+      "name": "CMT (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77848",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Comedy Central (Netherlands)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2451",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -283,14 +307,20 @@
       "parse": false
     },
     {
+      "name": "Comedy Channel (UK)",
+      "url": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Comedy Central (US)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32195",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Comedy Channel (UK)",
-      "url": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
+      "name": "Comedy Central Extra (UK)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104187",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -441,6 +471,12 @@
     {
       "name": "E!",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208688",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "E4 (UK)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16126",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -811,6 +847,12 @@
       "parse": false
     },
     {
+      "name": "HITS Movies (Indonesia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16148",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Horror & Disaster 奶虫",
       "url": "http://epg.112114.xyz/douyu/263824",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -861,6 +903,12 @@
     {
       "name": "ion PLUS",
       "url": "https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "itv1 (UK)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104026",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1453,6 +1501,12 @@
       "parse": false
     },
     {
+      "name": "Sky Atlantic (UK)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16144",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sky Cinema Family (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/727",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1473,6 +1527,12 @@
     {
       "name": "Sky Cinema Sci-Fi & Horror (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/725",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Cinema Select (UK)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16157",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1599,6 +1659,12 @@
     {
       "name": "Suria (Singapore) [Not 24/7]",
       "url": "http://23.237.10.66:16492",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SYFY (UK)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104238",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1771,6 +1837,12 @@
       "parse": false
     },
     {
+      "name": "AMC (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77854",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AMC (Portugal)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131049",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
@@ -1779,6 +1851,12 @@
     {
       "name": "AMC (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/14854",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AMC (UK)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16178",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
