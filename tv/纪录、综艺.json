@@ -1123,6 +1123,12 @@
       "parse": false
     },
     {
+      "name": "Discovery Velocity (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205836",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "DocuBay TV [Not 24/7]",
       "url": "https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1471,6 +1477,18 @@
       "parse": false
     },
     {
+      "name": "History (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208705",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "History 2 (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208703",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "HLN",
       "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1533,6 +1551,12 @@
     {
       "name": "Investigation Discovery (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/278449",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Investigation Discovery (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159853",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1677,6 +1701,12 @@
     {
       "name": "Magellan TV (New Zealand)",
       "url": "https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Magnolia Network",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77844",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2071,12 +2101,6 @@
       "parse": false
     },
     {
-      "name": "SBS Viceland (Australia)",
-      "url": "https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master_1800K.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Scientology Network",
       "url": "https://stream6.scientology.org/stream/hls_1280x720_4500k.m3u8?offset=30",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2311,6 +2335,12 @@
       "parse": false
     },
     {
+      "name": "TLC (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205837",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Today All Day",
       "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2319,6 +2349,12 @@
     {
       "name": "Tranquil Thunderstorms",
       "url": "https://a.jsrdn.com/broadcast/18b42f9aef/+0000/c.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Travel Channel (US)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32349",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2541,6 +2577,12 @@
     {
       "name": "Vice (US East)",
       "url": "https://d2do1g43aq7264.cloudfront.net/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Viceland",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32207",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
