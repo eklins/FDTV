@@ -3095,6 +3095,8 @@ https://spi-filmstream-1-se.samsung.wurl.tv/playlist.m3u8
 https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Gusto TV
 https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Kanal 5
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16040
 #EXTINF:-1 ,SWE★Kanal 10 Asia
 https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist_w522739009_b2128000.m3u8
 #EXTINF:-1 ,SWE★MavTV Global
