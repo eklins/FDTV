@@ -253,6 +253,12 @@
       "parse": false
     },
     {
+      "name": "FOX News",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32271",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6rCH-5bbqvrxS6cx6JxG0QJafh0jHan7oQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "FOX News Now",
       "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDJr3pu8jjXF_FEKNBZNbAVB2WusKqzd01A&usqp=CAU",
