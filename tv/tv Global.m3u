@@ -20,13 +20,13 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO TVB Jade 翡翠台
 http://23.237.10.66:16410
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwnSGubDN1ge8MBQARTGACXd5fhPEPtEAljA&usqp=CAU",Cinema World (576p)
-http://45.126.83.51/dr9445/h/h04/index.m3u8
+http://210.210.155.35:80/dr9445/h/h04/index.m3u8
 #EXTINF:-1 logo="https://www.coolstreaming.us/img/ch/ima24238087143.jpg",Maah TV
 http://51.210.199.33/hls/stream.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-0l7Wwk6Ti1-ogUxr5ftDXsO4gN2RmQ_qA&usqp=CAU",ROCK Action (576p) [Formerly as ROCK Extreme]
-http://45.126.83.51/dr9445/h/h15/index.m3u8
+http://210.210.155.35:80/dr9445/h/h15/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIzgPMYDjGIH2DVqOkbYsLxWbxgpF1ANs0g&usqp=CAU",ROCK Entertainment (576p)
-http://45.126.83.51/dr9445/h/h16/index.m3u8
+http://210.210.155.35:80/dr9445/h/h16/index.m3u8
 #EXTINF:-1 logo="https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg",RTM Sukan
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpoxvRef94zWT_VgzRRAxOY2QX1j41E6b8ag&usqp=CAU",TV1
@@ -1534,9 +1534,9 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/240px-Flag_of_Indonesia.svg.png",Indonesia♥Ainos (576p)
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
 #EXTINF:-1 ,IDN★Aniplus (576p)
-http://45.126.83.51/dr9445/h/h02/index.m3u8
+http://210.210.155.35:80/dr9445/h/h02/index.m3u8
 #EXTINF:-1 ,IDN★antv
-http://45.126.83.51/qwr9ew/s/s07/index1.m3u8
+http://210.210.155.35:80/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 ,IDN★Banjar TV (720p) [Not 24/7]
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
 #EXTINF:-1 ,IDN★Banten TV (720p) [Not 24/7]
@@ -1560,33 +1560,33 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #EXTINF:-1 ,IDN★CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 ,IDN★Dens Food Channel (576p)
-http://45.126.83.51/x6bnqe/s/s38/index.m3u8
+http://210.210.155.35:80/x6bnqe/s/s38/index.m3u8
 #EXTINF:-1 ,IDN★Dens Knowledge and Learning (576p)
-http://45.126.83.51/x6bnqe/s/s36/index.m3u8
+http://210.210.155.35:80/x6bnqe/s/s36/index.m3u8
 #EXTINF:-1 ,IDN★Dens Life Style (576p)
-http://45.126.83.51/x6bnqe/s/s65/index.m3u8
+http://210.210.155.35:80/x6bnqe/s/s65/index.m3u8
 #EXTINF:-1 ,IDN★Dens ShowBiz (576p)
-http://45.126.83.51/x6bnqe/s/s35/index.m3u8
+http://210.210.155.35:80/x6bnqe/s/s35/index.m3u8
 #EXTINF:-1 ,IDN★Dhamma TV (720p) [Not 24/7]
 https://bravo.kugo.id/dangduttivi/udp.stream/playlist.m3u8
 #EXTINF:-1 ,IDN★Elshinta TV (480p) [Not 24/7]
-http://45.126.83.51/qwr9ew/s/s10/02.m3u8
+http://210.210.155.35:80/qwr9ew/s/s10/02.m3u8
 #EXTINF:-1 ,IDN★Ficom Channel (720p)
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 ,IDN★GPR TV (720p)
 https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 #EXTINF:-1 ,IDN★HITS (576p)
-http://45.126.83.51/dr9445/h/h37/01.m3u8
+http://210.210.155.35:80/dr9445/h/h37/01.m3u8
 #EXTINF:-1 ,IDN★I AM CHANNEL (576p) [Not 24/7]
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1 ,IDN★Indosiar (480p)
-http://45.126.83.51/qwr9ew/s/s04/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 ,IDN★Jakarta Globe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 #EXTINF:-1 ,IDN★K+ (576p)
-http://45.126.83.51/uq2663/h/h08/index.m3u8
+http://210.210.155.35:80/uq2663/h/h08/index.m3u8
 #EXTINF:-1 ,IDN★KIX (576p)
-http://45.126.83.51/dr9445/h/h07/index.m3u8
+http://210.210.155.35:80/dr9445/h/h07/index.m3u8
 #EXTINF:-1 ,IDN★Kompas TV
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 #EXTINF:-1 ,IDN★Kugo Star (576p)
@@ -1596,39 +1596,39 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 ,IDN★Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 ,IDN★My Cinema (1080p)
-http://45.126.83.51/uq2663/h/h192/index.m3u8
+http://210.210.155.35:80/uq2663/h/h192/index.m3u8
 #EXTINF:-1 ,IDN★My Cinema Asia (1080p)
-http://45.126.83.51/uq2663/h/h193/index.m3u8
+http://210.210.155.35:80/uq2663/h/h193/index.m3u8
 #EXTINF:-1 ,IDN★My Family Channel (1080p)
-http://45.126.83.51/uq2663/h/h194/index.m3u8
+http://210.210.155.35:80/uq2663/h/h194/index.m3u8
 #EXTINF:-1 ,IDN★My Kidz (1080p)
-http://45.126.83.51/uq2663/h/h191/index.m3u8
+http://210.210.155.35:80/uq2663/h/h191/index.m3u8
 #EXTINF:-1 ,IDN★NET. (480p)
-http://45.126.83.51/qwr9ew/s/s08/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 ,IDN★Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 ,IDN★RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 ,IDN★RTV (576p)
-http://45.126.83.51/dr9445/h/h10/index.m3u8
+http://210.210.155.35:80/dr9445/h/h10/index.m3u8
 #EXTINF:-1 ,IDN★SCTV (480p)
-http://45.126.83.51/qwr9ew/s/s03/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 ,IDN★The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #EXTINF:-1 ,IDN★Thrill (576p)
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 ,IDN★TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 ,IDN★tvN (576p)
-http://45.126.83.51/dr9445/h/h20/index.m3u8
+http://210.210.155.35:80/dr9445/h/h20/index.m3u8
 #EXTINF:-1 ,IDN★tvN Movies (576p)
-http://45.126.83.51/dr9445/h/h21/index.m3u8
+http://210.210.155.35:80/dr9445/h/h21/index.m3u8
 #EXTINF:-1 ,IDN★tvOne (480p)
-http://45.126.83.51/qwr9ew/s/s105/01.m3u8
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 ,IDN★TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 ,IDN★U Channel (576p) [Not 24/7]
-http://45.126.83.51/x6bnqe/s/s73/index2.m3u8
+http://210.210.155.35:80/x6bnqe/s/s73/index2.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/240px-Flag_of_Iran.svg.png",Iran♥AVA Family (720p) [Not 24/7]
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 ,IRN★AVA Series (720p)
@@ -1880,7 +1880,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 ,ITA★RAI 4 (HD)
 http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/258845.ts
 #EXTINF:-1 ,ITA★Rai Italia Asia
-http://45.126.83.51/x6bnqe/s/s63/index2.m3u8
+http://210.210.155.35:80/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 ,ITA★Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 ,ITA★Rakuten Action Movies
@@ -2758,7 +2758,7 @@ http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318117.ts
 #EXTINF:-1 ,PRT★RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★RTP Internacional Asia (480p)
-http://45.126.83.51/qwr9ew/s/s38/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 ,PRT★SIC KIDS (HEVC)
 http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364557.ts
 #EXTINF:-1 ,PRT★TV Maná 1 (1080p)
@@ -3086,7 +3086,7 @@ https://sofytv-samsunges.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Supertoons TV
 https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★TVE Internacional Asia-Oceania (576p)
-http://45.126.83.51/uq2663/h/h158/index2.m3u8
+http://210.210.155.35:80/uq2663/h/h158/index2.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/240px-Flag_of_Sri_Lanka.svg.png",Sri Lanka♥ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 #EXTINF:-1 ,LKA★Santhora TV
@@ -3170,7 +3170,7 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/52435
 #EXTINF:-1 ,CHE★LFM TV (1080p)
 http://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
 #EXTINF:-1 ,CHE★My Cinema Europe (576p) [Indonesian Subtitle]
-http://45.126.83.51/uq2663/h/h18/index.m3u8
+http://210.210.155.35:80/uq2663/h/h18/index.m3u8
 #EXTINF:-1 ,CHE★One TV (360p)
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 ,CHE★Pluto Movies
