@@ -206,13 +206,13 @@
     },
     {
       "name": "Celestial Classic Movies 天映经典频道 (Indonesia★576p)",
-      "url": "http://45.126.83.51/qwr9ew/s/s31/index.m3u8",
+      "url": "http://210.210.155.35:80/qwr9ew/s/s31/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Celestial Movies 天映频道 (Indonesia★576p)",
-      "url": "http://45.126.83.51/dr9445/h/h14/index.m3u8",
+      "url": "http://210.210.155.35:80/dr9445/h/h14/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -236,7 +236,7 @@
     },
     {
       "name": "Cinema World (Malaysia★576p)",
-      "url": "http://45.126.83.51/dr9445/h/h04/01.m3u8",
+      "url": "http://210.210.155.35:80/dr9445/h/h04/01.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -836,7 +836,7 @@
     },
     {
       "name": "HITS (Indonesia★576p)",
-      "url": "http://45.126.83.51/dr9445/h/h37/01.m3u8",
+      "url": "http://210.210.155.35:80/dr9445/h/h37/01.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -938,7 +938,7 @@
     },
     {
       "name": "K+ (Indonesia★576p)",
-      "url": "http://45.126.83.51/uq2663/h/h08/index.m3u8",
+      "url": "http://210.210.155.35:80/uq2663/h/h08/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -950,7 +950,7 @@
     },
     {
       "name": "KIX (Indonesia★576p)",
-      "url": "http://45.126.83.51/dr9445/h/h07/index.m3u8",
+      "url": "http://210.210.155.35:80/dr9445/h/h07/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1154,25 +1154,25 @@
     },
     {
       "name": "My Cinema (Indonesia)",
-      "url": "http://45.126.83.51/uq2663/h/h192/index.m3u8",
+      "url": "http://210.210.155.35:80/uq2663/h/h192/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "My Cinema Asia (Indonesia)",
-      "url": "http://45.126.83.51/uq2663/h/h193/index.m3u8",
+      "url": "http://210.210.155.35:80/uq2663/h/h193/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "My Cinema Europe (Switzerland★576p) [Indonesian Subtitles]",
-      "url": "http://45.126.83.51/uq2663/h/h18/index.m3u8",
+      "url": "http://210.210.155.35:80/uq2663/h/h18/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "My Family Channel (Indonesia)",
-      "url": "http://45.126.83.51/uq2663/h/h194/index.m3u8",
+      "url": "http://210.210.155.35:80/uq2663/h/h194/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1400,13 +1400,13 @@
     },
     {
       "name": "ROCK Action (Malaysia★576p)",
-      "url": "http://45.126.83.51/dr9445/h/h15/index.m3u8",
+      "url": "http://210.210.155.35:80/dr9445/h/h15/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "ROCK Entertainment (Malaysia★576p)",
-      "url": "http://45.126.83.51/dr9445/h/h16/index.m3u8",
+      "url": "http://210.210.155.35:80/dr9445/h/h16/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1712,7 +1712,7 @@
     },
     {
       "name": "Thrill (Indonesia★576p)",
-      "url": "http://45.126.83.51/qwr9ew/s/s34/index.m3u8",
+      "url": "http://210.210.155.35:80/qwr9ew/s/s34/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1772,7 +1772,7 @@
     },
     {
       "name": "tvN Movies (Indonesia★576p)",
-      "url": "http://45.126.83.51/dr9445/h/h21/index.m3u8",
+      "url": "http://210.210.155.35:80/dr9445/h/h21/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1820,7 +1820,7 @@
     },
     {
       "name": "Zee Bioskop (Indonesia★360p)",
-      "url": "http://45.126.83.51/qwr9ew/s/s32/index.m3u8",
+      "url": "http://210.210.155.35:80/qwr9ew/s/s32/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -3794,7 +3794,7 @@
     },
     {
       "name": "星空国际 (360p)",
-      "url": "http://45.126.83.51/x6bnqe/s/s94/index2.m3u8",
+      "url": "http://210.210.155.35:80/x6bnqe/s/s94/index2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
