@@ -16,6 +16,8 @@ https://cdn.hklive.tv/xxxx/83/index.m3u8
 https://tvp22.sky4k.top/index2.php
 #EXTINF:-1 ,无线财经 2022.stream
 http://2022.stream-link.org/playlist/tvb_finance
+#EXTINF:-1 ,无线财经 hklive
+https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 ,香港有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 ,香港有线财经资讯台
