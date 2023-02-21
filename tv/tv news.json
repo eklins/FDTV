@@ -284,7 +284,7 @@
     },
     {
       "name": "France 24",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=13",
+      "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6H9Mj1n4qlKxQCTeo82ftRpflvkxJBBgAjQ&usqp=CAU",
       "parse": false
     },
