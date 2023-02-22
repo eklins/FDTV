@@ -475,6 +475,12 @@
       "parse": false
     },
     {
+      "name": "台湾中天新闻2 Talk Show",
+      "url": "https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPgNWQor0oaPEa4Y9jViBUOCfWVbmBT6mcw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾TVBS新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
@@ -506,7 +512,7 @@
     },
     {
       "name": "台湾mnews•镜新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=28",
+      "url": "https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
       "parse": false
     },
