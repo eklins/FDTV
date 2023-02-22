@@ -31,6 +31,24 @@
       "parse": false
     },
     {
+      "name": "香港无线明珠台 Pearl",
+      "url": "https://cdn.hklive.tv/xxxx/84/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWT_eB_zmcynPDS2n1TgjiWLhZXFSS52DUjQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "香港无线新闻台",
+      "url": "https://cdn.hklive.tv/xxxx/83/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "香港无线财经•体育•资讯台",
+      "url": "https://cdn.hklive.tv/xxxx/85/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzYje3dnB-4N0ZMmtrv5NvLM__grjKn4DiRA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "香港有线新闻台",
       "url": "http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
