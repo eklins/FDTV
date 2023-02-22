@@ -589,6 +589,12 @@
       "parse": false
     },
     {
+      "name": "台湾TVBS亚洲台",
+      "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾台视",
       "url": "http://23.237.10.66:16344",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -2241,6 +2247,12 @@
     {
       "name": "TⅠtutv (Temple University TV)",
       "url": "https://templeuni.secure.footprint.net/egress/bhandler/templeuni/streama/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Taiwan Plus",
+      "url": "https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
