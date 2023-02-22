@@ -19,6 +19,12 @@
       "parse": true
     },
     {
+      "name": "香港无线明珠台 Pearl",
+      "url": "https://cdn.hklive.tv/xxxx/84/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWT_eB_zmcynPDS2n1TgjiWLhZXFSS52DUjQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Epic Drama",
       "url": "http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/17767",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
