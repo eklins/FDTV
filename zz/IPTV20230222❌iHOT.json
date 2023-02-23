@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "name": "iHOT 动漫",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=wasusyt&Contentid=6000000006000280630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251GS70-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 谍战",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221015131206309318&channel-id=wasusyt&Contentid=6000000006000070630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J4330-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 都市",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000080630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014141030294619&channel-id=wasusyt&Contentid=6000000006000080630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251G9340-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 怀旧",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000260630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221014135640297861&channel-id=wasusyt&Contentid=6000000006000260630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J2230-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 极限",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221014135739304394&channel-id=wasusyt&Contentid=6000000006000170630",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 家庭",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000090630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221015131414302251&channel-id=wasusyt&Contentid=6000000006000090630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251JK20-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 江湖",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000110630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960120221015130207299754&channel-id=wasusyt&Contentid=6000000006000110630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H0150-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 解密",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960720221014135726306339&channel-id=wasusyt&Contentid=6000000006000200630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H1090-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 经典",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000060630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221014141024294069&channel-id=wasusyt&Contentid=6000000006000060630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H2130-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 科幻",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958220221014141436296807&channel-id=wasusyt&Contentid=6000000006000020630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H4440-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 科学",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000160630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959620221014141038314650&channel-id=wasusyt&Contentid=6000000006000160630",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 浪漫",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960320221015130909297281&channel-id=wasusyt&Contentid=6000000006000040630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H5480-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 历史",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000150630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957720221014140909304245&channel-id=wasusyt&Contentid=6000000006000150630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HA20-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 猎奇",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135801301517&channel-id=wasusyt&Contentid=6000000006000190630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J5500-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 旅行",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000250630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960020221014135646305380&channel-id=wasusyt&Contentid=6000000006000250630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J1040-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 美食",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957320221014141056297085&channel-id=wasusyt&Contentid=6000000006000120630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HQ10-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 奇谈",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014133234310230&channel-id=wasusyt&Contentid=6000000006000270630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HU90-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 青春",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000100630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956720221014141458304245&channel-id=wasusyt&Contentid=6000000006000100630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J9210-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 赛车",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000240630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133355301960&channel-id=wasusyt&Contentid=6000000006000240630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251IS50-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 世界",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000210630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960420221015130011307610&channel-id=wasusyt&Contentid=6000000006000210630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I0500-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 时尚",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221015130638311630&channel-id=wasusyt&Contentid=6000000006000140630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H9580-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 探索",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000300630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221014141449279879&channel-id=wasusyt&Contentid=6000000006000300630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J6430-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 体育",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000290630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1889520221014135601185158&channel-id=wasusyt&Contentid=6000000006000290630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 玩具",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000220630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014133340294427&channel-id=wasusyt&Contentid=6000000006000220630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I1460-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 喜剧",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000010630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959220221014141111305853&channel-id=wasusyt&Contentid=6000000006000010630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251G5050-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 悬疑",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1891220221014135811192524&channel-id=wasusyt&Contentid=6000000006000050630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I2380-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 娱乐",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000130630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960820221015130348305898&channel-id=wasusyt&Contentid=6000000006000130630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J3250-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 幼教",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014135750294528&channel-id=wasusyt&Contentid=6000000006000180630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I3300-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHOT 院线",
+      "url": "http://39.135.7.4:6610/000000001000/6000000006000030630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1888520221014141430188219&channel-id=wasusyt&Contentid=6000000006000030630",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I4420-L.jpg",
+      "parse": false
+    }
+  ]
+}
