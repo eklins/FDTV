@@ -481,12 +481,6 @@
       "parse": false
     },
     {
-      "name": "台湾中天新闻",
-      "url": "https://www.chaojidianshi.net/extension/42.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "台湾中天新闻2 Talk Show",
       "url": "https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPgNWQor0oaPEa4Y9jViBUOCfWVbmBT6mcw&usqp=CAU",
@@ -511,12 +505,6 @@
       "parse": false
     },
     {
-      "name": "台湾中视新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=02",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾华视新闻",
       "url": "http://stream.dsichannel.com/hls/cts-news.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
@@ -526,18 +514,6 @@
       "name": "台湾mnews•镜新闻",
       "url": "https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾寰宇新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=22",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾三立iNews",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=51",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
       "parse": false
     }
   ]
