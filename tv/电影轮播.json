@@ -469,6 +469,12 @@
       "parse": false
     },
     {
+      "name": "E! (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135308",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "E4 (UK)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16126",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -673,13 +679,25 @@
       "parse": false
     },
     {
+      "name": "FX (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32037",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "FX (US)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208698",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "FXX",
+      "name": "FXX (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135313",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FXX (US)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32309",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -747,6 +765,12 @@
     {
       "name": "HBO (Bulgaria)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291123",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO 2 (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77837",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -981,6 +1005,12 @@
     {
       "name": "Latest TV [Not 24/7]",
       "url": "https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "LMN (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77835",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1453,6 +1483,12 @@
       "parse": false
     },
     {
+      "name": "Showcase (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77831",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Showtime (West)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135311",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1773,6 +1809,12 @@
     {
       "name": "tvN Movies (Indonesia★576p)",
       "url": "http://210.210.155.35:80/dr9445/h/h21/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVO Kids (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32030",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
