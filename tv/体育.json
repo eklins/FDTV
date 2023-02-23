@@ -805,6 +805,12 @@
       "parse": false
     },
     {
+      "name": "NBA TV (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32052",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NFL Podcast",
       "url": "https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1075,6 +1081,30 @@
       "parse": false
     },
     {
+      "name": "SportsNet East (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32040",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SportsNet One (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/153592",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SportsNet West (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32044",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SportsNet World (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32394",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SporTV 2 (Denmark)",
       "url": "http://23.237.10.66:16180",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1179,6 +1209,30 @@
     {
       "name": "Trace Sport Stars (New Zealand)",
       "url": "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TSN 1 (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32046",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TSN 2 (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32047",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TSN 4 (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32049",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TSN 5 (Canada)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32480",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
