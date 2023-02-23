@@ -31,6 +31,12 @@
       "parse": false
     },
     {
+      "name": "ABC Me (Australia) [Not 24/7]",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31959",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ABC Spark (Canada)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31959",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -255,6 +261,12 @@
     {
       "name": "Cinemax 2 (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291103",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinemax+ (Romania)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31079",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1345,6 +1357,12 @@
       "parse": false
     },
     {
+      "name": "Paramount Channel (Romania)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31160",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Parsiland TV (Iran)",
       "url": "http://vps.parsiland.net/hls/ParsiLand.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1453,6 +1471,18 @@
       "parse": false
     },
     {
+      "name": "SBS (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207181",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SBS World Movies (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207183",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sci-Fi & Action",
       "url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1534,6 +1564,12 @@
       "name": "Sky Atlantic (UK)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16144",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Cinema Comedy (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/225797",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
@@ -1724,7 +1760,7 @@
     },
     {
       "name": "The Grio",
-      "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207169",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1779,6 +1815,12 @@
     {
       "name": "Tring Fantasy (Albania)",
       "url": "https://mfe01.tring.al/delta/106/out/u/1115_3.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TV 1000 (Romania)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31196",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
