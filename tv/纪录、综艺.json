@@ -547,6 +547,30 @@
       "parse": false
     },
     {
+      "name": "9 (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207141",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "9 Brisbane (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207158",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "9 Life (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207143",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "9 Sydney (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207160",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "A&E (Canada)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77855",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -555,6 +579,18 @@
     {
       "name": "A&E (US)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149136",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ANC One (Australia）",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207151",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ANC Plus Brisbane (Australia）",
+      "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1027,6 +1063,12 @@
       "parse": false
     },
     {
+      "name": "DIGI Life (Romania)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31090",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "DIGI World (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2244",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1052,7 +1094,7 @@
     },
     {
       "name": "Discovery (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9814",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31097",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1323,6 +1365,12 @@
     {
       "name": "Food Network",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/51716",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Food Network (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207164",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1867,6 +1915,18 @@
       "parse": false
     },
     {
+      "name": "Outdoor (Australia)",
+      "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Outdoor (New Zealand)",
+      "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Outdoor Adventure",
       "url": "http://epg.112114.xyz/douyu/454867",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1875,12 +1935,6 @@
     {
       "name": "Outdoor America",
       "url": "https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Outdoor Channel (New Zealand)",
-      "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2653,7 +2707,13 @@
       "parse": false
     },
     {
-      "name": "Viceland",
+      "name": "Viceland (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207182",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Viceland (US)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32207",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
