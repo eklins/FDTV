@@ -799,24 +799,6 @@
       "parse": false
     },
     {
-      "name": "iHOT 动漫",
-      "url": "http://39.135.7.4:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=wasusyt&Contentid=6000000006000280630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251GS70-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHOT 玩具",
-      "url": "http://39.135.7.4:6610/000000001000/6000000006000220630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014133340294427&channel-id=wasusyt&Contentid=6000000006000220630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I1460-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHOT 幼教",
-      "url": "http://39.135.7.4:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014135750294528&channel-id=wasusyt&Contentid=6000000006000180630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I3300-L.jpg",
-      "parse": false
-    },
-    {
       "name": "iQIYI 兔小贝",
       "url": "http://aliyuncocsouth.inter.iqiyi.com/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcMYi7EF_hUwJlzMQinyVh3OzQMLE321Z5Q&usqp=CAU",
