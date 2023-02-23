@@ -181,6 +181,12 @@
       "parse": false
     },
     {
+      "name": "7 Mate (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207136",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "A Spor (Turkey)",
       "url": "https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -427,6 +433,12 @@
       "parse": false
     },
     {
+      "name": "DIGI Sport 1 (Romania)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/126059",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "DIGI Sport 3 (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2243",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -535,6 +547,12 @@
       "parse": false
     },
     {
+      "name": "Fight Box (Romania)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31054",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Fight Network (Canada)",
       "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -565,6 +583,48 @@
       "parse": false
     },
     {
+      "name": "FLOW Sports (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207163",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX 501 (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207165",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX 502 (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207166",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX 504 (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207168",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX 505 (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207169",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX 506 (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207170",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX 507 (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207171",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "FOX Soccer Plus (US)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32272",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -579,6 +639,12 @@
     {
       "name": "Free Sports (UK) [Not 24/7]",
       "url": "https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FS1 (Australia)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207172",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -849,6 +915,12 @@
     {
       "name": "One Golf",
       "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Orange Sport 2 🔇 (Romania)",
+      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31185",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
