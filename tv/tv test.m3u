@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,中天新闻（牛视网extension）
+https://www.chaojidianshi.net/extension/42.xhtml
 #EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV 八度空间
 http://23.237.10.66:16406
 #EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV 八度空间
