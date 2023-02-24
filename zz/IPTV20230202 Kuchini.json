@@ -763,6 +763,18 @@
       "parse": false
     },
     {
+      "name": "BBC News",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/696",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BBC World News (UK★576p)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2585",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWydvEITUDSPECwODd3bwcbdNa4PegZgFRQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Elektrika TV (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163081",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
