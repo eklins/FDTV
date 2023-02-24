@@ -445,6 +445,60 @@
       "parse": false
     },
     {
+      "name": "MG（备1）30",
+      "url": "http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000009788&livemode=1&stbId=2&channel-id=FifastbLive",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备1）31",
+      "url": "http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000011518&livemode=1&stbId=2&channel-id=FifastbLive",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备1）32",
+      "url": "http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000011873&livemode=1&stbId=2&channel-id=FifastbLive",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备1）33",
+      "url": "http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000012616&livemode=1&stbId=2&channel-id=FifastbLive",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备1）34",
+      "url": "http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000015470&livemode=1&stbId=2&channel-id=FifastbLive",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备1）35",
+      "url": "http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000017678&livemode=1&stbId=2&channel-id=FifastbLive",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备1）36",
+      "url": "http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000019839&livemode=1&stbId=2&channel-id=FifastbLive",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备1）37",
+      "url": "http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000031669&livemode=1&stbId=2&channel-id=FifastbLive",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备1）38",
+      "url": "http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000032106&livemode=1&stbId=2&channel-id=FifastbLive",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MG（备2）01",
       "url": "http://117.136.156.71:80/000000001000/3000000001000028638/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
