@@ -259,6 +259,12 @@
       "parse": false
     },
     {
+      "name": "Cinemax (Colombia)",
+      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/2210",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cinemax 2 (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291103",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -267,6 +273,18 @@
     {
       "name": "Cinemax+ (Romania)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31079",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinemax More Max (US)",
+      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/732",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinemax Thriller Max (US)",
+      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/733",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -812,7 +830,7 @@
     },
     {
       "name": "HBO (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32129",
+      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/738",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1531,6 +1549,12 @@
       "parse": false
     },
     {
+      "name": "Showtime Family",
+      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/647",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Showtime Family Zone",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/158682",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1729,6 +1753,12 @@
       "parse": false
     },
     {
+      "name": "SYFY (US)",
+      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/669",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SYFY (US East)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1068",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1815,6 +1845,12 @@
     {
       "name": "TV 1000 (Romania)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31196",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TV Land Classic",
+      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/648",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1909,8 +1945,20 @@
       "parse": false
     },
     {
+      "name": "AMC [Spanish Subtitles]",
+      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/702",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AMC (Canada)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77854",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AMC (Colombia)",
+      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/2083",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
