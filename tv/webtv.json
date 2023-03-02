@@ -1,7 +1,13 @@
 {
   "data": [
     {
-      "name": "Marvel",
+      "name": "Marvel (DouYu)",
+      "url": "http://epg.112114.xyz/douyu/6140589",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Marvel (YY)",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930233",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
       "parse": true
@@ -67,8 +73,56 @@
       "parse": true
     },
     {
-      "name": "DouBan",
-      "url": "http://my.seasky.icu/qy1.php?id=180055822",
+      "name": "DouBan Top 250",
+      "url": "http://epg.112114.xyz/douyu/8770422",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "DouYu 129",
+      "url": "http://epg.112114.xyz/douyu/413573",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "DouYu 747764",
+      "url": "http://epg.112114.xyz/douyu/747764",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "DouYu 8791622",
+      "url": "http://epg.112114.xyz/douyu/8791622",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "DouYu 贝爷MAX厅",
+      "url": "http://epg.112114.xyz/douyu/4332",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "DouYu 贝爷影厅 ①",
+      "url": "http://epg.112114.xyz/douyu/252802",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "DouYu 贝爷影厅 ②",
+      "url": "http://epg.112114.xyz/douyu/36337",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "DouYu 可乐电影",
+      "url": "http://epg.112114.xyz/douyu/20415",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "DouYu 麓山迷踪",
+      "url": "http://epg.112114.xyz/douyu/4505431",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -79,14 +133,38 @@
       "parse": true
     },
     {
+      "name": "Harry Potter",
+      "url": "http://epg.112114.xyz/douyu/8814650",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Horror",
       "url": "https://m.huya.com/11352903",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
     {
+      "name": "Horror & Disaster 奶虫",
+      "url": "http://epg.112114.xyz/douyu/263824",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Horror Classic",
+      "url": "http://epg.112114.xyz/douyu/1165374",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "HZTV-1 惠州",
       "url": "http://ye23.vip/z7z8/2021/0752.php?id=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "James Bond",
+      "url": "http://epg.112114.xyz/douyu/9292499",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -109,6 +187,12 @@
       "parse": true
     },
     {
+      "name": "Mutant Movies",
+      "url": "http://epg.112114.xyz/douyu/9651304",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Sci-Fi ①",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930209",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -117,6 +201,12 @@
     {
       "name": "Sci-Fi ②",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Sci-Fi & Action 008",
+      "url": "http://epg.112114.xyz/douyu/323876",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -205,33 +295,21 @@
       "parse": true
     },
     {
-      "name": "杨幂",
-      "url": "http://my.seasky.icu/qy1.php?id=180054622",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt-dwLfhnbTZ5h_bsaGpUGzeh8y2mIf6QGw&usqp=CAU",
+      "name": "粤语电影 ①",
+      "url": "http://epg.112114.xyz/douyu/6566671",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
-      "name": "赵丽颖",
-      "url": "http://my.seasky.icu/qy1.php?id=180054222",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ICGJzAu-ZAwTh9BDcUDLSWILlzfyspJqcA&usqp=CAU",
+      "name": "粤语电影 ②",
+      "url": "http://epg.112114.xyz/douyu/5033502",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
-      "name": "胡歌",
-      "url": "http://my.seasky.icu/qy1.php?id=180062122",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxoUfZdleuOqsM1Bglmc4y3pLhM4SqEX1JQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "靳东",
-      "url": "http://my.seasky.icu/qy1.php?id=180059122",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1Wb41XNC9qL7AG40VwMTX_ZUPnN_Or4UmA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "倪大红",
-      "url": "http://my.seasky.icu/qy1.php?id=180062022",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0m3j2XSFUj9WiR4jQaoTfnHRQyoW8AxoRlg&usqp=CAU",
+      "name": "粤语电影 ③",
+      "url": "http://epg.112114.xyz/douyu/1226741",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
@@ -481,6 +559,54 @@
       "parse": true
     },
     {
+      "name": "冰冰小剧场",
+      "url": "http://epg.112114.xyz/douyu/74374",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗鱼 016",
+      "url": "http://epg.112114.xyz/douyu/431460",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗鱼 095",
+      "url": "http://epg.112114.xyz/douyu/4549169",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗鱼 108",
+      "url": "http://epg.112114.xyz/douyu/6566671",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗鱼 111",
+      "url": "http://epg.112114.xyz/douyu/8475821",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "华语经典",
+      "url": "http://epg.112114.xyz/douyu/434971",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "神乐影片 ①",
+      "url": "http://epg.112114.xyz/douyu/122402",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "神乐影片 ②",
+      "url": "http://epg.112114.xyz/douyu/85894",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "香港喜剧",
       "url": "https://m.huya.com/11342423",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -535,13 +661,13 @@
       "parse": true
     },
     {
-      "name": "康熙王朝 2001（爱奇艺）",
-      "url": "http://my.seasky.icu/qy1.php?id=380069822",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
+      "name": "新水浒传 2011",
+      "url": "http://epg.112114.xyz/douyu/6785471",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "康熙王朝 2001（虎牙）",
+      "name": "康熙王朝 2001",
       "url": "https://m.huya.com/11352940",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
       "parse": true
@@ -565,6 +691,18 @@
       "parse": true
     },
     {
+      "name": "汉武大帝 2005",
+      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355260855",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDrMhO3P6gYdgZzgPn6YF0WnDUi_go2XERIw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "芈月传 2015",
+      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=21881901",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvXm6EBSw9L68tp2BOqOzUsMNNDXmMlA3Q&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "包青天之七侠五义 2010",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1456625255",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysMSlKwkDteUDGfvvSD-BiZ5Og0SqVrN-aQ&usqp=CAU",
@@ -577,21 +715,9 @@
       "parse": true
     },
     {
-      "name": "芈月传 2015",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=21881901",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvXm6EBSw9L68tp2BOqOzUsMNNDXmMlA3Q&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "济公活佛 2010",
-      "url": "https://m.huya.com/11342400",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHtvMxJdFwSIIIY9UKRlpPBVYtkL4aEbkwg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "汉武大帝 2005",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355260855",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDrMhO3P6gYdgZzgPn6YF0WnDUi_go2XERIw&usqp=CAU",
+      "name": "宰相刘罗锅 1996",
+      "url": "http://epg.112114.xyz/douyu/8543072",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPT1DuFORJ95r05kypIYDsAhVkzErK69TlDA&usqp=CAU",
       "parse": true
     },
     {
@@ -658,6 +784,12 @@
       "name": "东游记 1998",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355326475",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8mVl_RLojPF3N0zQZmol0I9vHHQbKtSgVw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "济公活佛 2010",
+      "url": "https://m.huya.com/11342400",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHtvMxJdFwSIIIY9UKRlpPBVYtkL4aEbkwg&usqp=CAU",
       "parse": true
     },
     {
@@ -775,6 +907,12 @@
       "parse": true
     },
     {
+      "name": "龙门镖局 2013",
+      "url": "http://epg.112114.xyz/douyu/9650860",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXyJ8tqbSOFyZtZj6IVNzbswJfOGNW-WdQw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "大清盐商 2014",
       "url": "https://m.huya.com/11342432",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLv1lcIWppREKu8_pegQlJvkR4dW5w5953Q&usqp=CAU",
@@ -782,7 +920,7 @@
     },
     {
       "name": "庆余年 2019",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355268928",
+      "url": "http://epg.112114.xyz/douyu/7489563",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MWbCT00LROfbtH-ohRUwlSMZwzgNdekDkg&usqp=CAU",
       "parse": true
     },
@@ -862,6 +1000,12 @@
       "name": "怪医文三块 2012",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936154",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4N34X9oc2GygeQXE_TuT15Grejad9j7PZA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "火线三兄弟 2013",
+      "url": "http://epg.112114.xyz/douyu/9176009",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrZzw8idh22tSMkUoUZnSbnor5kpLuB7Bow&usqp=CAU",
       "parse": true
     },
     {
@@ -973,12 +1117,6 @@
       "parse": true
     },
     {
-      "name": "炊事班的故事 2002-2007",
-      "url": "http://my.seasky.icu/qy1.php?id=180056322",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JoZkCsi-l92Ayz_7HuR6mevPxCTYW9tdFg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "壹号皇庭（华•I－V）1992-1997",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=95095060",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVLzBF1s8gBddy3Hl8K-h6nrOeY7iGReabnQ&usqp=CAU",
@@ -997,12 +1135,6 @@
       "parse": true
     },
     {
-      "name": "办公室剧场",
-      "url": "http://my.seasky.icu/qy1.php?id=180064622",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "爆笑剧场",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736916",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1015,12 +1147,6 @@
       "parse": true
     },
     {
-      "name": "国剧修复",
-      "url": "http://my.seasky.icu/qy1.php?id=180049922",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "欢笑剧场",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888747",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1029,36 +1155,6 @@
     {
       "name": "经典剧场",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355114305",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "军旅剧场",
-      "url": "http://my.seasky.icu/qy1.php?id=180063522",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "青春剧场",
-      "url": "http://my.seasky.icu/qy1.php?id=180063722",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "权谋剧场",
-      "url": "http://my.seasky.icu/qy1.php?id=180065222",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "燃烧岁月",
-      "url": "http://my.seasky.icu/qy1.php?id=180048022",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "特种兵剧场",
-      "url": "http://my.seasky.icu/qy1.php?id=180057122",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
@@ -1077,12 +1173,6 @@
     {
       "name": "言情、都市",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936241",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "医院剧场",
-      "url": "http://my.seasky.icu/qy1.php?id=180056922",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
@@ -1120,6 +1210,42 @@
       "name": "TVB剧场",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736881",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "避风港影院",
+      "url": "http://epg.112114.xyz/douyu/9826611",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗鱼 090",
+      "url": "http://epg.112114.xyz/douyu/6785471",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗鱼 113",
+      "url": "http://epg.112114.xyz/douyu/5522351",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗鱼 117",
+      "url": "http://epg.112114.xyz/douyu/338759",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗鱼 135",
+      "url": "http://epg.112114.xyz/douyu/7476264",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗鱼 141",
+      "url": "http://epg.112114.xyz/douyu/7623292",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
@@ -1360,12 +1486,6 @@
       "name": "失忆症（日）2012",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936239",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFjdMAZLZ73g543oef2AWF8rPxCY5QuMGaw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "动画电影",
-      "url": "http://my.seasky.icu/qy1.php?id=180056522",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
     {
