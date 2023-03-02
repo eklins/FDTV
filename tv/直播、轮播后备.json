@@ -7,6 +7,12 @@
       "parse": false
     },
     {
+      "name": "DouYu 麓山迷踪",
+      "url": "https://epg.112114.xyz/douyu/4505431",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "香港无线新闻台",
       "url": "http://9.zhxinda.xyz/newss.php?id=1",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
