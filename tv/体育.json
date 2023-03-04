@@ -19,24 +19,6 @@
       "parse": false
     },
     {
-      "name": "CCTV 风云足球",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
-      "parse": false
-    },
-    {
-      "name": "CCTV 高尔夫•网球",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
-      "parse": false
-    },
-    {
-      "name": "CCTV 台球",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
-      "parse": false
-    },
-    {
       "name": "BesTV 天下足球 🔇",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226347/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
@@ -117,12 +99,6 @@
     {
       "name": "河南武术世界",
       "url": "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "湖南先锋兵羽",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/xianfeng/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
