@@ -56,13 +56,13 @@
     },
     {
       "name": "Running Man 2010（点播）",
-      "url": "http://epg.112114.xyz/douyu/131977",
+      "url": "https://akm-tct.douyucdn.cn/live/131977rH73aFSByv.m3u8?uuid=",
       "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
       "parse": false
     },
     {
       "name": "Running Man 2010（轮播）",
-      "url": "http://epg.112114.xyz/douyu/7298973",
+      "url": "https://akm-tct.douyucdn.cn/live/7298973r1TQFvGlk.m3u8?uuid=",
       "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
       "parse": false
     },
@@ -91,12 +91,6 @@
       "parse": false
     },
     {
-      "name": "冒险雷探长 2014",
-      "url": "http://epg.112114.xyz/douyu/5028934",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YB0ubH8Sc5G57nlyVXWegr70KGrwuog3Fg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "天才衝衝衝 2006",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HRw_8I8206grqxn4_BEQ8TH9eQMPqxyiaQ&usqp=CAU",
@@ -118,42 +112,6 @@
       "name": "CCTV-10 科教",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYL2v7XpnJDK5h0OdY161IocFytfm6IoQkFw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CCTV 兵器科技",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
-      "parse": false
-    },
-    {
-      "name": "CCTV 发现之旅",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/faxian/__op/default/__f//index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
-      "parse": false
-    },
-    {
-      "name": "CCTV 风云音乐",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121053553871.jpg",
-      "parse": false
-    },
-    {
-      "name": "CCTV 老故事",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/gushi/__op/default/__f//index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
-      "parse": false
-    },
-    {
-      "name": "CCTV 女性时尚",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6FE_v2wtvMu4J7lyFBZUVVvxoE3BswYgPA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CCTV 文化精品",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
       "parse": false
     },
     {
@@ -241,12 +199,6 @@
       "parse": false
     },
     {
-      "name": "SiTV 生活时尚",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/shenghuo/__op/default/__f//index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "澳亚卫视",
       "url": "https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -265,32 +217,8 @@
       "parse": false
     },
     {
-      "name": "重庆科教",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "重庆汽摩",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqcarSD/__op/default/__f//index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "重庆时尚生活",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "重庆文体娱乐",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "东南亚丛林生活实录",
-      "url": "http://epg.112114.xyz/douyu/9612117",
+      "url": "https://akm-tct.douyucdn.cn/live/9612117r5mv5gPnR.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -302,7 +230,7 @@
     },
     {
       "name": "果库科幻所长",
-      "url": "http://epg.112114.xyz/douyu/9383318",
+      "url": "https://akm-tct.douyucdn.cn/live/9383318rDccyfpnl.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -349,14 +277,8 @@
       "parse": false
     },
     {
-      "name": "环球旅游",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "纪录经典时刻",
-      "url": "http://epg.112114.xyz/douyu/3485629",
+      "url": "https://akm-tct.douyucdn.cn/live/3485629rOJKCwjSh.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -367,32 +289,26 @@
       "parse": false
     },
     {
-      "name": "军武直播",
-      "url": "http://epg.112114.xyz/douyu/227670",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "看鉴历史",
-      "url": "http://epg.112114.xyz/douyu/9498431",
+      "url": "https://akm-tct.douyucdn.cn/live/9498431r7iXFzYa3.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "辽宁卫视综艺汇",
-      "url": "http://epg.112114.xyz/douyu/9403779",
+      "url": "https://akm-tct.douyucdn.cn/live/9403779rqUJiVqMb.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "龙视超级笑匠",
-      "url": "http://epg.112114.xyz/douyu/9375450",
+      "url": "https://akm-tct.douyucdn.cn/live/9375450rKb9QSKmx.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "龙视欢乐英雄转",
-      "url": "http://epg.112114.xyz/douyu/9374836",
+      "url": "https://akm-tct.douyucdn.cn/live/9374836rPZrLlaNS.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -403,26 +319,8 @@
       "parse": false
     },
     {
-      "name": "浅绿的历史盒子",
-      "url": "http://epg.112114.xyz/douyu/8913515",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "摄影频道",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f//index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "神秘现象研究调查报告",
-      "url": "http://epg.112114.xyz/douyu/9385184",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "收藏天下",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/soucang/__op/default/__f//index.m3u8",
+      "url": "https://akm-tct.douyucdn.cn/live/9385184rd8kAX5ti.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -440,7 +338,7 @@
     },
     {
       "name": "赵本山经典小品",
-      "url": "http://epg.112114.xyz/douyu/9817716",
+      "url": "https://akm-tct.douyucdn.cn/live/9817716r7623jdwj.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -453,12 +351,6 @@
     {
       "name": "中华美食",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中华特产",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/techan/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -476,7 +368,7 @@
     },
     {
       "name": "台湾国防时报",
-      "url": "http://epg.112114.xyz/douyu/9680887",
+      "url": "https://akm-tct.douyucdn.cn/live/9680887rrNgeJpWU.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1083,12 +975,6 @@
     {
       "name": "Discovery",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/24963",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery 求索纪录 (China)",
-      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1868,7 +1754,7 @@
     },
     {
       "name": "Nature Documentary",
-      "url": "http://epg.112114.xyz/douyu/4837387",
+      "url": "https://akm-tct.douyucdn.cn/live/4837387rlw2Uy8Vt.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1952,7 +1838,7 @@
     },
     {
       "name": "Outdoor Adventure",
-      "url": "http://epg.112114.xyz/douyu/454867",
+      "url": "https://akm-tct.douyucdn.cn/live/454867rRrO0mX6Em.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1964,7 +1850,7 @@
     },
     {
       "name": "Outdoor Survive 荒野生存",
-      "url": "http://epg.112114.xyz/douyu/1339207",
+      "url": "https://akm-tct.douyucdn.cn/live/1339207rwJSN24Rh.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
