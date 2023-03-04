@@ -2,32 +2,26 @@
   "data": [
     {
       "name": "海绵宝宝 ①",
-      "url": "http://epg.112114.xyz/douyu/2250349",
+      "url": "https://akm-tct.douyucdn.cn/live/2250349rfBbQRo4a.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
       "parse": false
     },
     {
       "name": "海绵宝宝 ②",
-      "url": "http://epg.112114.xyz/douyu/7528160",
+      "url": "https://akm-tct.douyucdn.cn/live/7528160rDOtpXHYr.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
       "parse": false
     },
     {
       "name": "海绵宝宝 ③",
-      "url": "http://epg.112114.xyz/douyu/8762358",
+      "url": "https://akm-tct.douyucdn.cn/live/8762358rcL2mms6Q.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4haP2-Asg8a544pqQxwsE5umyfdLA0UJ7Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "哆啦A梦",
-      "url": "http://epg.112114.xyz/douyu/9445279",
+      "url": "https://akm-tct.douyucdn.cn/live/9445279rTWwhXA80.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JDOcmPcc3Byrj8amfEnk87lWAyKdCD4Seg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "幽游白书（日）1992",
-      "url": "http://epg.112114.xyz/douyu/9938431",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfDzubI2r1GMWJGXmHf8sL7xIXm5xyDvgMw&usqp=CAU",
       "parse": false
     },
     {
@@ -38,25 +32,19 @@
     },
     {
       "name": "名侦探柯南 1996 (DouYu)",
-      "url": "http://epg.112114.xyz/douyu/6484910",
+      "url": "http://akm-tct.douyucdn.cn/live/6484910rbekRZI75.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "宝可梦 1997",
-      "url": "http://epg.112114.xyz/douyu/9765742",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3iO2XREqy57y9h0-8Uu1lOoTPX2JFEUd3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "全职猎人（日）1999",
-      "url": "http://epg.112114.xyz/douyu/6610883",
+      "url": "https://akm-tct.douyucdn.cn/live/6610883reQHa0dha.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
       "parse": false
     },
     {
       "name": "海贼王（日）1999",
-      "url": "http://epg.112114.xyz/douyu/997925",
+      "url": "https://akm-tct.douyucdn.cn/live/997925r9R4yRIKjr.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
       "parse": false
     },
@@ -68,7 +56,7 @@
     },
     {
       "name": "中华小当家 2019",
-      "url": "http://epg.112114.xyz/douyu/8231658",
+      "url": "https://akm-tct.douyucdn.cn/live/8231658r2fGGsLZN.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQth-oj2MMWq8RuU-u-ZNLBW7DueHHA3Xtgxw&usqp=CAU",
       "parse": false
     },
@@ -146,7 +134,7 @@
     },
     {
       "name": "Tom & Jerry (DouYu)",
-      "url": "http://epg.112114.xyz/douyu/7888428",
+      "url": "https://akm-tct.douyucdn.cn/live/7888428rdI6bn5XF.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFN15bB_XxayGeGA0skchT-cXK0nHLft3Kg&usqp=CAU",
       "parse": false
     },
@@ -878,7 +866,7 @@
     },
     {
       "name": "动漫合集",
-      "url": "http://epg.112114.xyz/douyu/7620081",
+      "url": "https://akm-tct.douyucdn.cn/live/7620081r7cHHSGMh.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -889,14 +877,8 @@
       "parse": false
     },
     {
-      "name": "斗鱼 151",
-      "url": "http://epg.112114.xyz/douyu/426517",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼动漫",
-      "url": "http://epg.112114.xyz/douyu/426517",
+      "name": "斗鱼动漫 151",
+      "url": "https://akm-tct.douyucdn.cn/live/426517ri5D2fbukY.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -956,7 +938,7 @@
     },
     {
       "name": "热血动漫",
-      "url": "http://epg.112114.xyz/douyu/206858",
+      "url": "https://akm-tct.douyucdn.cn/live/206858rtesHKjl.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
