@@ -272,13 +272,13 @@
     },
     {
       "name": "DouYu MTV 81 (China)",
-      "url": "http://epg.112114.xyz/douyu/3870925",
+      "url": "https://akm-tct.douyucdn.cn/live/3870925rBEBQ9y0n.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "DouYu MTV 92 (China)",
-      "url": "http://epg.112114.xyz/douyu/7537296",
+      "url": "https://akm-tct.douyucdn.cn/live/7537296rcOgJFXmX.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
