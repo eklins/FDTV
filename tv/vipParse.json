@@ -38,6 +38,12 @@
     },
     {
       "id": 1,
+      "name": "速播",
+      "ad": "no",
+      "url": "https://subojiexi.com/play/?url="
+    },
+    {
+      "id": 1,
       "name": "天猫",
       "ad": "no",
       "url": "https://tmjiexi.com/play/?url="
