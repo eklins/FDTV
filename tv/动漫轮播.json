@@ -31,8 +31,20 @@
       "parse": false
     },
     {
-      "name": "名侦探柯南 1996 (DouYu)",
-      "url": "https://akm-tct.douyucdn.cn/live/6484910rbekRZI75.m3u8?uuid=",
+      "name": "名侦探柯南（斗鱼）1996",
+      "url": "http://akm-tct.douyucdn.cn/live/5377297rK0DXIk3Z.m3u8?uuid=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "名侦探柯南（剧场版）1996",
+      "url": "http://akm-tct.douyucdn.cn/live/1783144rO1c6InLA.m3u8?uuid=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "名侦探柯南（日）1996",
+      "url": "http://akm-tct.douyucdn.cn/live/7050342rsYBBfOIt.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
       "parse": false
     },
