@@ -337,12 +337,6 @@
       "parse": false
     },
     {
-      "name": "CBS Sports Network",
-      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/698",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CF97 Soccer Live",
       "url": "https://d1sp4cpu5on4l7.cloudfront.net/out/v1/ec82e0a9c5564fb497366186c09052e5/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -471,18 +465,6 @@
     {
       "name": "ELEVEN 2 (Taiwan)",
       "url": "http://61.221.81.93:8078/hls/26/80/esport2.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ESPN (US)",
-      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/3859",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ESPN 2 (US)",
-      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/3860",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -757,12 +739,6 @@
       "parse": false
     },
     {
-      "name": "La Liga TV 1 (Spain)",
-      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/18428",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Lax Sports Network TV",
       "url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -771,12 +747,6 @@
     {
       "name": "LFM TV (Switzerland)",
       "url": "http://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Liga 1 Max",
-      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/18428",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
