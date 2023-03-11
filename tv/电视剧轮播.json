@@ -73,12 +73,6 @@
       "parse": false
     },
     {
-      "name": "Chicago PD 2014 [Spanish Subtitles]",
-      "url": "http://disfruta.net:80/erodriguez/jqD9QDy9VL/1054",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefFTSsk0uDl6tdqiAaeuHaFEMqMw2iagVHw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CSI 2000-2015",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-iGCzEWaHRGfKxjtWTBEJ49_IwaKIFLYFw&usqp=CAU",
