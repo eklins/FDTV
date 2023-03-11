@@ -527,6 +527,12 @@
       "url": "https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "台湾三立LIVE新闻",
+      "url": "http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
+      "parse": true
     }
   ]
 }
