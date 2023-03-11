@@ -323,8 +323,8 @@
     {
       "name": "World 16/02/2023",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReztq1stMgnYBZh6nwWI8ZqLGfmKuAdbc0Yg&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/zz/IPTV20230216%20World.txt",
-      "type": "txt",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/zz/IPTV20230216%20World.m3u",
+      "type": "m3u",
       "subTitle": "",
       "click": true,
       "autoNext": false,
