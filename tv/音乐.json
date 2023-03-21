@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "name": "大秦赋 2020",
-      "url": "http://121.51.249.73/txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "大秦赋 2020",
-      "url": "http://121.51.249.73/txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8?ratio=4000",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "4FUN TV (Poland★576p) [Not 24/7]",
       "url": "https://stream.4fun.tv:8888/hls/4f.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
