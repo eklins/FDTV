@@ -373,12 +373,6 @@
       "parse": false
     },
     {
-      "name": "DC",
-      "url": "http://epg.112114.xyz/huya/11342428",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Decades (WNYW-DT5)",
       "url": "https://v-ny.mybtv.net/live/553.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -3307,134 +3301,14 @@
       "parse": false
     },
     {
-      "name": "周星驰",
-      "url": "http://epg.112114.xyz/huya/11336587",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYHb0CIIAKXM7730yClboVdyBh4_52y9ntQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "刘德华",
-      "url": "https://akm-tct.douyucdn.cn/live/2516864rfCm5vrkl.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xmPpq9apJ8h6UzY9SifmEd7l1ixJrAS91A&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "成龙",
-      "url": "https://akm-tct.douyucdn.cn/live/3379942r6C9qEafP.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyonUE9t64WOsuo4wTjNzScnPBurY2S8_tdA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "李连杰",
-      "url": "http://epg.112114.xyz/huya/11342390",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YnpQVyhTIqYBTwki-jogP_fVGVb4NUfrFA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "周润发",
-      "url": "http://epg.112114.xyz/huya/11342387",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkzkCCDTFAbDnZSsiov_KCW4wy8eNg6RL3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "许氏三杰",
-      "url": "http://epg.112114.xyz/huya/11602033",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4uadw7nJQDvMX5JjofW9g67dPW0hVyXiYA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "林正英",
       "url": "https://akm-tct.douyucdn.cn/live/218859rFZLUZWPCX.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevpbyR423Jajl6MUSac5XOG62gthORIqDkQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "金庸武侠电影 ①",
-      "url": "http://epg.112114.xyz/huya/11342427",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVcTqnsaQaywzhJnNR8mypzeyqA40kNFeUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "金庸武侠电影 ②",
-      "url": "http://epg.112114.xyz/huya/11342435",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eIMvG4MP7IAnckZrVMJfMx3XtM6pcFFFSQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "粤语喜剧",
-      "url": "http://epg.112114.xyz/huya/11352894",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "粤语电影 ①",
-      "url": "https://akm-tct.douyucdn.cn/live/6566671rC1jnYhfM.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "粤语电影 ②",
+      "name": "粤语电影",
       "url": "https://akm-tct.douyucdn.cn/live/5033502r1DnQtDRG.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "粤语电影 ③",
-      "url": "https://akm-tct.douyucdn.cn/live/1226741rnlC714B3.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "镖行天下系列",
-      "url": "http://epg.112114.xyz/huya/11352969",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "古墓、探险",
-      "url": "http://epg.112114.xyz/huya/11352913",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "搞笑、恐怖",
-      "url": "http://epg.112114.xyz/huya/11601960",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "喜剧",
-      "url": "http://epg.112114.xyz/huya/11352897",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "灾难",
-      "url": "http://epg.112114.xyz/huya/11602075",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "动作",
-      "url": "http://epg.112114.xyz/huya/11602041",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "悬疑",
-      "url": "http://epg.112114.xyz/huya/11342395",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "贺岁电影",
-      "url": "http://epg.112114.xyz/huya/11601986",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "香港喜剧",
-      "url": "http://epg.112114.xyz/huya/11342423",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
