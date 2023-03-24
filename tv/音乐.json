@@ -289,12 +289,6 @@
       "parse": false
     },
     {
-      "name": "Elektrika TV (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163081",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Ellas TV",
       "url": "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -339,12 +333,6 @@
     {
       "name": "Glas Drine (Bosnia and Herzegovina)",
       "url": "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "H!T Music Channel (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/7008",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -469,20 +457,8 @@
       "parse": false
     },
     {
-      "name": "MAD Greekz (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163155",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Magenta Musik (Germany)",
       "url": "https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Magic TV (Bulgaria)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/66500",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -495,12 +471,6 @@
     {
       "name": "Magic TV (Romania)",
       "url": "https://tv.broadcasting.ro/memfs/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Magic TV (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280282",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -529,12 +499,6 @@
       "parse": false
     },
     {
-      "name": "Mooz Dance (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/81097",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MTV (Japan)",
       "url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -559,12 +523,6 @@
       "parse": false
     },
     {
-      "name": "MTV Hits",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3486",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Multi Show",
       "url": "http://23.237.10.66:16124",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -573,12 +531,6 @@
     {
       "name": "Mun2TV (Dominican Republic)",
       "url": "https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MUSIC 265254",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/265254",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -627,12 +579,6 @@
     {
       "name": "Newfoundland Television (Canada★480p)",
       "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ng Radio (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146366",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -997,12 +943,6 @@
       "parse": false
     },
     {
-      "name": "THΛE MOYΣIKH (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/43486",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "The Box (UK)",
       "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -1155,12 +1095,6 @@
     {
       "name": "Vuemme (Italy)",
       "url": "https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Xalastra TV (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/7169",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
