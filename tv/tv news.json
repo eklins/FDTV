@@ -127,12 +127,6 @@
       "parse": false
     },
     {
-      "name": "BBC News (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/696",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BBC World News (UK★480p)",
       "url": "http://ott-cdn.ucom.am/s24/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWydvEITUDSPECwODd3bwcbdNa4PegZgFRQ&usqp=CAU",
