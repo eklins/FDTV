@@ -721,36 +721,6 @@
       "parse": false
     },
     {
-      "name": "ASTRO Arena 801 (Malaysia)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157485",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRreIQGhzPcRN8NyAHJQGyoX0GO7kO5l5SPJw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO Supersport 1 (Malaysia)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO Supersport 2 (Malaysia)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157556",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO Supersport 3 (Malaysia)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157557",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO Supersport 4 (Malaysia)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BesTV 超级体育 5847★",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
@@ -811,18 +781,6 @@
       "parse": false
     },
     {
-      "name": "Cosmote Sport 8 (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/127",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN5m1vxRf6VqCGD4GRrrrWV1jGWlcAntnfbA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Magenta Sport 07 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281749",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCB8g9REi6VUhD0IGNKPpbALXDqhgqp5WuQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "芒果TV 01",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028056/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
@@ -844,102 +802,6 @@
       "name": "芒果TV 04",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285875/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NOVA Sports 3 (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12846",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GcU39sVl0PP8MUm2Jk2UqSqIo6VCS9xYkw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NOVA Sports 4 (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279631",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GcU39sVl0PP8MUm2Jk2UqSqIo6VCS9xYkw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NOVA Sports 5 (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/45242",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GcU39sVl0PP8MUm2Jk2UqSqIo6VCS9xYkw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport 01 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/202100",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport 02 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/72238",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport 03 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/32708",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport 05 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/31445",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport 06 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2133",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport 07 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4489",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport 08 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/147341",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport Bundesliga 01 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2432",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport Bundesliga 02 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2135",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport Bundesliga 03 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3513",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport Bundesliga 04 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2434",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport Bundesliga 05 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/13497",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sport Bundesliga 10 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4493",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
       "parse": false
     }
   ]
