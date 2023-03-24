@@ -607,18 +607,6 @@
       "parse": false
     },
     {
-      "name": "Animal Planet (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9839",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Animal Planet (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1130",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Arirang Korea",
       "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -679,42 +667,6 @@
       "parse": false
     },
     {
-      "name": "BBC Earth (Indonesia)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171979",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BBC Earth (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19910",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BBC Entertainment (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/13991",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BBC One North West (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296927",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BBC One Scotland (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296933",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BBC One South (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296932",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Beach TV (East Coast)",
       "url": "https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastbeachtveastcoast/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -723,12 +675,6 @@
     {
       "name": "Bite",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bitenz-samsungnz/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Blaze (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4642",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -771,12 +717,6 @@
     {
       "name": "Buzzr (KCKS-LD1)",
       "url": "https://cdn.igocast.com/channel1_hls/channel1_master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CBS Reality (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9810",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -871,32 +811,8 @@
       "parse": false
     },
     {
-      "name": "Create & Craft (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157284",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Crime 360 (US)",
       "url": "https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Crime+Investigation (Netherlands)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2452",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Crime+Investigation (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/57964",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Crime+Investigation (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/734",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -955,26 +871,8 @@
       "parse": false
     },
     {
-      "name": "DIGI Animal World (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2238",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "DIGI Life (Romania)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31090",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DIGI World (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2244",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/24963",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1021,18 +919,6 @@
       "parse": false
     },
     {
-      "name": "Discovery Science (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12026",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Science (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2454",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Discovery Science (US)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32348",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1047,12 +933,6 @@
     {
       "name": "DocuBay TV [Not 24/7]",
       "url": "https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DocuBox (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/121127",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1093,32 +973,14 @@
       "parse": false
     },
     {
-      "name": "DTX (Poland)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/41558",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "E! (Canada)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135308",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "E! (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19925",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "E! (Sweden)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/61351",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "E! (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1542",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1261,12 +1123,6 @@
       "parse": false
     },
     {
-      "name": "Food Network",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/51716",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Food Network (Australia)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207164",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1275,18 +1131,6 @@
     {
       "name": "Food Network (Canada)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32009",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Food Network (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19900",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX (Netherlands)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2463",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1323,12 +1167,6 @@
     {
       "name": "GEM Food (Iran★576p) [Not 24/7]",
       "url": "http://216.66.42.47:7777/GemFood_HD.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "GEO (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266963",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1393,12 +1231,6 @@
       "parse": false
     },
     {
-      "name": "HGTV (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2230",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Highway Thru Hell Channel",
       "url": "https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1407,18 +1239,6 @@
     {
       "name": "History (Canada)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77836",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "History (Croatia)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1601",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "History (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282756",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1483,26 +1303,8 @@
       "parse": false
     },
     {
-      "name": "Investigation Discovery (Netherlands)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2471",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Investigation Discovery (Portugal)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131077",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Investigation Discovery (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9813",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Investigation Discovery (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/278449",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1609,12 +1411,6 @@
       "parse": false
     },
     {
-      "name": "Love Nature (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/78665",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Love Stories TV (Australia)",
       "url": "https://lovestoriestv-lovestoriestv-1-au.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1665,12 +1461,6 @@
     {
       "name": "Manoto TV",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Medíka TV (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/147311",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1729,32 +1519,14 @@
       "parse": false
     },
     {
-      "name": "National Geographic (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4248",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "National Geographic (UK)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16280",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "National Geographic Wild (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174724",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Nature Documentary",
       "url": "https://akm-tct.douyucdn.cn/live/4837387rlw2Uy8Vt.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Netflix",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/85549",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2161,12 +1933,6 @@
       "parse": false
     },
     {
-      "name": "stv (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/192776",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Supreme Master TV",
       "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2337,18 +2103,6 @@
     {
       "name": "TLC (Norway)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213452",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TLC (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12030",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TLC (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1067",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2551,50 +2305,14 @@
       "parse": false
     },
     {
-      "name": "Viasat Explore (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/57539",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Viasat Explore (Sweden)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/61336",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Viasat History (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2259",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Viasat History (Russia)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16398",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Viasat History (Sweden)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213439",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Viasat Nature (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296239",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Viasat Nature (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2260",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Viasat Nature (Sweden)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/65910",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
