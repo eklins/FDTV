@@ -1,12 +1,6 @@
 {
   "data": [
     {
-      "name": "DC",
-      "url": "http://121.51.249.73/txtest-xp2p.p2p.huya.com/src/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1.m3u8?ratio=4000",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "香港无线新闻台",
       "url": "https://cdn.hklive.tv/xxxx/83/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
@@ -41,6 +35,18 @@
       "url": "https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
+    },
+    {
+      "name": "AVA Family (Iran)",
+      "url": "http://51.210.199.5/hls/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AVA Series (Iran)",
+      "url": "http://51.210.199.4/hls/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
     },
     {
       "name": "Marvel",
