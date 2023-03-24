@@ -253,20 +253,8 @@
       "parse": false
     },
     {
-      "name": "Cartoonito (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1546",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cocoro",
       "url": "https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Da Vinci Kids (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9811",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -379,12 +367,6 @@
       "parse": false
     },
     {
-      "name": "Nickelodeon (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281864",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Nicktoons (Canada)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135331",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -415,12 +397,6 @@
       "parse": false
     },
     {
-      "name": "POP (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1599",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Pop Max (UK★576p)",
       "url": "https://live-sonybebanjo.simplestreamcdn.com/live/popmax/bitrate1.isml/live.mpd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -447,12 +423,6 @@
     {
       "name": "Ryan and Friends",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Flix Anime (UAE)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283270",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -501,12 +471,6 @@
     {
       "name": "Universal Kids",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32168",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Yamato Animation",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1090",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
