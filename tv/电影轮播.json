@@ -55,6 +55,12 @@
       "parse": false
     },
     {
+      "name": "Anime Featured Live Action (Taiwan)",
+      "url": "http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Antenna TV",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32231",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -937,6 +943,12 @@
       "parse": false
     },
     {
+      "name": "My Cinema Europe (Switzerland★576p) [Chinese Subtitles]",
+      "url": "http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "My Cinema Europe (Switzerland★576p) [Indonesian Subtitles]",
       "url": "http://210.210.155.35:80/uq2663/h/h18/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1443,6 +1455,12 @@
     {
       "name": "We TV",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205844",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "WOWOW Cinema (Japan)",
+      "url": "https://cdnul194.cloudrsst.com/live/wowcinema_720/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -3187,6 +3205,12 @@
       "parse": false
     },
     {
+      "name": "台湾经典电影",
+      "url": "http://www.336699.live:1935/blocksix/4gtv-live021.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾靖天国际台",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -3207,6 +3231,18 @@
     {
       "name": "台湾靖洋戏剧台",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾龙华日韩",
+      "url": "http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾人间卫视",
+      "url": "http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
