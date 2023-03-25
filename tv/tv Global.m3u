@@ -1747,32 +1747,22 @@ https://vse2-sa-all4.secdn.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 ,JPN★日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
-#EXTINF:-1 ,JPN★Animax (720p)
-https://cdnv148.cloudrsst.com/jptv/janimax_720/playlist.m3u8
 #EXTINF:-1 ,JPN★AT-X
 https://sub.neetball.net/live/neet.m3u8
 #EXTINF:-1 ,JPN★BS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 ,JPN★Disney Channel (540p) [Not 24/7]
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
-#EXTINF:-1 ,JPN★Disney Junior (540p) [Not 24/7]
-https://cdnv148.cloudrsst.com/jptv/disney_junior/playlist.m3u8
 #EXTINF:-1 ,JPN★Fuji TV
 https://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 ,JPN★Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-#EXTINF:-1 ,JPN★Jidaigeki Senmon Channel (540p)
-https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8
 #EXTINF:-1 ,JPN★Movie Plus (540p)
 http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
 #EXTINF:-1 ,JPN★MTV ①
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 ,JPN★MTV ② (540p) [Not 24/7]
-http://cdnv148.cloudrsst.com:1935/jptv/mtv/playlist.m3u8
-#EXTINF:-1 ,JPN★MTV ③ (540p) [Not 24/7]
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
-#EXTINF:-1 ,JPN★Neco (540p)
-https://cdnv148.cloudrsst.com/jptv/Neco/playlist.m3u8
 #EXTINF:-1 ,JPN★New Japan Pro Wrestling World (540p)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 #EXTINF:-1 ,JPN★NHK Chinese Vision 华语视界
@@ -1781,24 +1771,18 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://nhk2.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 ,JPN★NHK World Japan
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 ,JPN★Nippon TV (540p)
-https://cdnv148.cloudrsst.com/jptv/kanto_nippon_540/playlist.m3u8
-#EXTINF:-1 ,JPN★Nittele G+ Sports & News (540p)
-https://cdnv148.cloudrsst.com/jptv/japan_tv_G_540/playlist.m3u8
 #EXTINF:-1 ,JPN★NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 ,JPN★QVC (720p)
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 ,JPN★Star 1 (720p) [Not 24/7]
-https://cdnv148.cloudrsst.com/jptv/starch1_720/playlist.m3u8
+https://cdnul194.cloudrsst.com/live/starch1_720/playlist.m3u8
 #EXTINF:-1 ,JPN★Star 2 (720p) [Not 24/7]
-https://cdnv148.cloudrsst.com/jptv/starch2_720/playlist.m3u8
+https://cdnul194.cloudrsst.com/live/starch2_720/playlist.m3u8
 #EXTINF:-1 ,JPN★Star 3 (720p) [Not 24/7]
-https://cdnv148.cloudrsst.com/jptv/starch3_720/playlist.m3u8
+https://cdnul194.cloudrsst.com/live/starch3_720/playlist.m3u8
 #EXTINF:-1 ,JPN★TBS
 https://tbs1.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 ,JPN★Toei Channel (540p) [Not 24/7]
-https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
 #EXTINF:-1 ,JPN★Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 ,JPN★Tokyo MX2
@@ -1808,11 +1792,13 @@ https://travelxp-travelxp-1-jp.rakutenjp.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,JPN★Weather News (ウェザーニュース)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 ,JPN★WOWOW Cinema (720p)
-http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
+https://cdnul194.cloudrsst.com/live/wowcinema_720/playlist.m3u8
 #EXTINF:-1 ,JPN★WOWOW Live (720p)
-http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8
+https://cdnul194.cloudrsst.com/live/wowlive_720/playlist.m3u8
+#EXTINF:-1,JPN★WOWOW Plus (720p)
+https://cdnul194.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
 #EXTINF:-1 ,JPN★WOWOW Prime (720p)
-http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8
+https://cdnul194.cloudrsst.com/live/wowprime_720/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/240px-Flag_of_Jordan.svg.png",Jordan♥Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 ,JOR★Jordan Satellite Channel
