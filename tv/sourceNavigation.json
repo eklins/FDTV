@@ -353,10 +353,10 @@
       "webPlus": {}
     },
     {
-      "name": "中港台国际 25/02/2023",
+      "name": "中港台国际 22/03/2023",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReztq1stMgnYBZh6nwWI8ZqLGfmKuAdbc0Yg&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/zz/IPTV20230225%20%E4%B8%AD%E6%B8%AF%E5%8F%B0%E5%9B%BD%E9%99%85.txt",
-      "type": "txt",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/zz/IPTV20230322%20%E4%B8%AD%E6%B8%AF%E5%8F%B0%E5%9B%BD%E9%99%85%E7%9B%B4%E6%92%AD.m3u",
+      "type": "m3u",
       "subTitle": "",
       "click": true,
       "autoNext": false,
