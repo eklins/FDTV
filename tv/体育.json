@@ -302,7 +302,19 @@
     },
     {
       "name": "DIGI Sport 1 (Romania)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/126059",
+      "url": "http://84.17.61.203:8086/udp/238.2.25.79:1234",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DIGI Sport 2 (Romania)",
+      "url": "http://84.17.61.203:8086/udp/238.2.25.78:1234",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DIGI Sport 3 (Romania)",
+      "url": "http://84.17.61.203:8086/udp/238.2.25.90:1234",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -333,6 +345,12 @@
     {
       "name": "EDGE Sport (US)",
       "url": "https://edgesport-samsungus.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ELEVEN 1 (Taiwan)",
+      "url": "http://61.221.81.93:8078/hls/25/80/esport.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
