@@ -391,12 +391,6 @@
       "parse": false
     },
     {
-      "name": "EBC Western (Taiwan)",
-      "url": "http://120.84.96.82:808/hls/33/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Electric Now",
       "url": "https://ov.ottera.tv/live/master.m3u8?channel=elec_en",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1389,12 +1383,6 @@
     {
       "name": "TV 1000 (Romania)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31196",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVB Jade 翡翠台 (Hong Kong)",
-      "url": "http://23.237.10.66:16106",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
