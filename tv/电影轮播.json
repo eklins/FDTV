@@ -241,6 +241,12 @@
       "parse": false
     },
     {
+      "name": "Comedy Central",
+      "url": "http://176.57.50.167:25461/536416/231244/83495",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Comedy Central (US)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32195",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -415,8 +421,14 @@
       "parse": false
     },
     {
-      "name": "Epix Hits",
+      "name": "Epix Hits ①",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32263",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Epix Hits ②",
+      "url": "http://176.57.50.167:25461/536416/231244/22886",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1311,6 +1323,12 @@
     {
       "name": "tbs",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205834",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TCM Cinema",
+      "url": "http://176.57.50.167:25461/536416/231244/84812",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
