@@ -55,18 +55,6 @@
       "parse": false
     },
     {
-      "name": "Running Man 2010（点播）",
-      "url": "https://akm-tct.douyucdn.cn/live/131977rH73aFSByv.m3u8?uuid=",
-      "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
-      "parse": false
-    },
-    {
-      "name": "Running Man 2010（轮播）",
-      "url": "https://akm-tct.douyucdn.cn/live/7298973r1TQFvGlk.m3u8?uuid=",
-      "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
-      "parse": false
-    },
-    {
       "name": "Survivor 2000",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuBKBVxd89d9TdPprjGY8aRly1RsqKr_-3A&usqp=CAU",
@@ -217,20 +205,8 @@
       "parse": false
     },
     {
-      "name": "东南亚丛林生活实录",
-      "url": "https://akm-tct.douyucdn.cn/live/9612117r5mv5gPnR.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "非遗美食",
       "url": "http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "果库科幻所长",
-      "url": "https://akm-tct.douyucdn.cn/live/9383318rDccyfpnl.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -277,50 +253,14 @@
       "parse": false
     },
     {
-      "name": "纪录经典时刻",
-      "url": "https://akm-tct.douyucdn.cn/live/3485629rOJKCwjSh.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "纪实人文",
       "url": "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "看鉴历史",
-      "url": "https://akm-tct.douyucdn.cn/live/9498431r7iXFzYa3.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "辽宁卫视综艺汇",
-      "url": "https://akm-tct.douyucdn.cn/live/9403779rqUJiVqMb.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "龙视超级笑匠",
-      "url": "https://akm-tct.douyucdn.cn/live/9375450rKb9QSKmx.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "龙视欢乐英雄转",
-      "url": "https://akm-tct.douyucdn.cn/live/9374836rPZrLlaNS.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "美食汇 (576p)",
       "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226702/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "神秘现象研究调查报告",
-      "url": "https://akm-tct.douyucdn.cn/live/9385184rd8kAX5ti.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -333,12 +273,6 @@
     {
       "name": "天元围棋 (576p)",
       "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226607/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "赵本山经典小品",
-      "url": "https://akm-tct.douyucdn.cn/live/9817716r7623jdwj.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -375,12 +309,6 @@
     {
       "name": "台湾ELTA娱乐",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾国防时报",
-      "url": "https://akm-tct.douyucdn.cn/live/9680887rrNgeJpWU.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1555,12 +1483,6 @@
       "parse": false
     },
     {
-      "name": "Nature Documentary",
-      "url": "https://akm-tct.douyucdn.cn/live/4837387rlw2Uy8Vt.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "New Beginning TV",
       "url": "https://broadcast.mytvtogo.net/newbeginningtv/newbeginningtv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1627,20 +1549,8 @@
       "parse": false
     },
     {
-      "name": "Outdoor Adventure",
-      "url": "https://akm-tct.douyucdn.cn/live/454867rRrO0mX6Em.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Outdoor America",
       "url": "https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Outdoor Survive 荒野生存",
-      "url": "https://akm-tct.douyucdn.cn/live/1339207rwJSN24Rh.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
