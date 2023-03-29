@@ -1,13 +1,7 @@
 {
   "data": [
     {
-      "name": "Marvel (DouYu)",
-      "url": "http://epg.112114.xyz/douyu/6140589",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "Marvel (YY)",
+      "name": "Marvel",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930233",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
       "parse": true
