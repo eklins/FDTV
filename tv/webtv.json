@@ -1405,9 +1405,69 @@
       "parse": true
     },
     {
-      "name": "海绵宝宝",
+      "name": "海绵宝宝 ①",
+      "url": "http://epg.112114.xyz/douyu/2250349",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "海绵宝宝 ②",
+      "url": "http://epg.112114.xyz/douyu/7528160",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "海绵宝宝 ③",
+      "url": "http://epg.112114.xyz/douyu/8762358",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4haP2-Asg8a544pqQxwsE5umyfdLA0UJ7Q&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "海绵宝宝 ④",
       "url": "https://m.huya.com/11352919",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "哆啦A梦",
+      "url": "http://epg.112114.xyz/douyu/9445279",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JDOcmPcc3Byrj8amfEnk87lWAyKdCD4Seg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "名侦探柯南（斗鱼）1996",
+      "url": "http://epg.112114.xyz/douyu/5377297",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "名侦探柯南（剧场版）1996",
+      "url": "http://epg.112114.xyz/douyu/1783144",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "名侦探柯南（日）1996",
+      "url": "http://epg.112114.xyz/douyu/7050342",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "全职猎人（日）1999",
+      "url": "http://epg.112114.xyz/douyu/6610883",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "海贼王（日）1999",
+      "url": "http://epg.112114.xyz/douyu/997925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "中华小当家 2019",
+      "url": "http://epg.112114.xyz/douyu/8231658",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQth-oj2MMWq8RuU-u-ZNLBW7DueHHA3Xtgxw&usqp=CAU",
       "parse": true
     },
     {
@@ -1525,6 +1585,30 @@
       "parse": true
     },
     {
+      "name": "动漫合集",
+      "url": "http://epg.112114.xyz/douyu/7620081",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗鱼动漫 151",
+      "url": "http://epg.112114.xyz/douyu/426517",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "热血动漫",
+      "url": "http://epg.112114.xyz/douyu/206858",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Tom & Jerry",
+      "url": "http://epg.112114.xyz/douyu/7888428",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFN15bB_XxayGeGA0skchT-cXK0nHLft3Kg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🆔Documentary & Variety",
       "url": "",
       "pic": "",
@@ -1546,6 +1630,18 @@
       "name": "易中天品三国",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1461244449",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ONvFFHEi1G-hIjgwGojzm-5EYnoVNyKfAQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Running Man 2010（点播）",
+      "url": "http://epg.112114.xyz/douyu/131977",
+      "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
+      "parse": true
+    },
+    {
+      "name": "Running Man 2010（轮播）",
+      "url": "http://epg.112114.xyz/douyu/7298973",
+      "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
       "parse": true
     },
     {
@@ -1585,14 +1681,74 @@
       "parse": true
     },
     {
+      "name": "东南亚丛林生活实录",
+      "url": "http://epg.112114.xyz/douyu/9612117",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "果库科幻所长",
+      "url": "http://epg.112114.xyz/douyu/9383318",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "荒野探秘",
       "url": "https://m.huya.com/21059555",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
+      "name": "纪录经典时刻",
+      "url": "http://epg.112114.xyz/douyu/3485629",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "看鉴历史",
+      "url": "http://epg.112114.xyz/douyu/9498431",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "辽宁卫视综艺汇",
+      "url": "http://epg.112114.xyz/douyu/9403779",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "龙视超级笑匠",
+      "url": "http://epg.112114.xyz/douyu/9375450",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "龙视欢乐英雄转",
+      "url": "http://epg.112114.xyz/douyu/9374836",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "神秘现象研究调查报告",
+      "url": "http://epg.112114.xyz/douyu/9385184",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "探秘海底世界／复古恐龙时代",
       "url": "https://m.huya.com/20985846",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "赵本山经典小品",
+      "url": "http://epg.112114.xyz/douyu/9817716",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾国防时报",
+      "url": "http://epg.112114.xyz/douyu/9680887",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
@@ -1645,6 +1801,12 @@
       "parse": true
     },
     {
+      "name": "Nature Documentary",
+      "url": "http://epg.112114.xyz/douyu/4837387",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "No Kitchen Required 2012",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736890",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fJEwOi9PQk_i4ZHYmO0VnS8bvEcDiXlL-A&usqp=CAU",
@@ -1653,6 +1815,18 @@
     {
       "name": "Ocean",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736850",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Outdoor Adventure",
+      "url": "http://epg.112114.xyz/douyu/454867",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Outdoor Survive 荒野生存",
+      "url": "http://epg.112114.xyz/douyu/1339207",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
