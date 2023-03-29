@@ -313,60 +313,6 @@
       "parse": false
     },
     {
-      "name": "DouBan Top 250",
-      "url": "https://akm-tct.douyucdn.cn/live/8770422rPynkEFeR.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 129",
-      "url": "https://akm-tct.douyucdn.cn/live/413573rPhoa9Wtau.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 747764",
-      "url": "https://akm-tct.douyucdn.cn/live/747764rSurv4YkpQ.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 8791622",
-      "url": "https://akm-tct.douyucdn.cn/live/8791622rT5cwx78W.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 贝爷MAX厅",
-      "url": "https://akm-tct.douyucdn.cn/live/4332r3YdQas8FhBE.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 贝爷影厅 ①",
-      "url": "https://akm-tct.douyucdn.cn/live/252802rhOZGvHgL2.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 贝爷影厅 ②",
-      "url": "https://akm-tct.douyucdn.cn/live/36337rDpDYZlSAU9.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 可乐电影",
-      "url": "https://akm-tct.douyucdn.cn/live/20415rnWbjg6Ex1K.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 麓山迷踪",
-      "url": "https://akm-tct.douyucdn.cn/live/4505431rrNEQo6QF.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Dove Channel",
       "url": "https://dovenow-tcl.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -571,12 +517,6 @@
       "parse": false
     },
     {
-      "name": "Harry Potter",
-      "url": "https://akm-tct.douyucdn.cn/live/8814650rjiD72wey.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "HBO 2 (Canada)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77837",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -643,18 +583,6 @@
       "parse": false
     },
     {
-      "name": "Horror & Disaster 奶虫",
-      "url": "https://akm-tct.douyucdn.cn/live/263824rmYrNxlGQD.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Horror Classic",
-      "url": "https://akm-tct.douyucdn.cn/live/1165374rB9FWXhob.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Horror Machine",
       "url": "https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -693,12 +621,6 @@
     {
       "name": "itv1 (UK)",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104026",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "James Bond",
-      "url": "https://akm-tct.douyucdn.cn/live/9292499r0UpzhjvH.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -835,12 +757,6 @@
       "parse": false
     },
     {
-      "name": "Marvel",
-      "url": "http://akm-tct.douyucdn.cn/live/6140589rubiWDY5Z.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MCN6 Arts Channel [Not 24/7]",
       "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -915,12 +831,6 @@
     {
       "name": "MTV 2",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191701",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Mutant Movies",
-      "url": "https://akm-tct.douyucdn.cn/live/9651304rLO05ucG0.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1101,12 +1011,6 @@
     {
       "name": "Sci-Fi & Action",
       "url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sci-Fi & Action 008",
-      "url": "https://akm-tct.douyucdn.cn/live/323876rHkdAgVl2T.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -2863,12 +2767,6 @@
       "parse": false
     },
     {
-      "name": "粤语电影",
-      "url": "https://akm-tct.douyucdn.cn/live/5033502r1DnQtDRG.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "安徽影视",
       "url": "http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -2881,12 +2779,6 @@
       "parse": false
     },
     {
-      "name": "冰冰小剧场",
-      "url": "https://akm-tct.douyucdn.cn/live/74374rPCZzw5FYyT.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "橙子影视-1",
       "url": "https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/525678/live_1849890871_69368354_1500.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -2895,30 +2787,6 @@
     {
       "name": "东至影视 (576p)",
       "url": "http://223.247.33.124:1935/live/yingshi/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼 016",
-      "url": "https://akm-tct.douyucdn.cn/live/431460rJhUsuho3P.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼 095",
-      "url": "https://akm-tct.douyucdn.cn/live/4549169rYnH7POVF.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼 108",
-      "url": "https://akm-tct.douyucdn.cn/live/6566671rC1jnYhfM.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼 111",
-      "url": "https://akm-tct.douyucdn.cn/live/8475821rF6MmGF6U.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -2985,12 +2853,6 @@
     {
       "name": "湖南国际频道",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000045/main.m3u8?IASHttpSessionId=OTT",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "华语经典",
-      "url": "https://akm-tct.douyucdn.cn/live/434971rnY8PoS6G2.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -3099,18 +2961,6 @@
     {
       "name": "绍兴影视（浙江）",
       "url": "http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "神乐影片 ①",
-      "url": "https://akm-tct.douyucdn.cn/live/122402rK7MO9bXSq.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "神乐影片 ②",
-      "url": "https://akm-tct.douyucdn.cn/live/85894rmovieChow.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
