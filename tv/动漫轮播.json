@@ -1,75 +1,15 @@
 {
   "data": [
     {
-      "name": "海绵宝宝 ①",
-      "url": "https://akm-tct.douyucdn.cn/live/2250349rfBbQRo4a.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "海绵宝宝 ②",
-      "url": "https://akm-tct.douyucdn.cn/live/7528160rDOtpXHYr.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "海绵宝宝 ③",
-      "url": "https://akm-tct.douyucdn.cn/live/8762358rcL2mms6Q.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4haP2-Asg8a544pqQxwsE5umyfdLA0UJ7Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "哆啦A梦",
-      "url": "https://akm-tct.douyucdn.cn/live/9445279rTWwhXA80.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JDOcmPcc3Byrj8amfEnk87lWAyKdCD4Seg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "名侦探柯南 1996",
       "url": "http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQf37zCMrHwLTt-STvzC6yDTomOapwwvvXA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "名侦探柯南（斗鱼）1996",
-      "url": "http://akm-tct.douyucdn.cn/live/5377297rK0DXIk3Z.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "名侦探柯南（剧场版）1996",
-      "url": "http://akm-tct.douyucdn.cn/live/1783144rO1c6InLA.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "名侦探柯南（日）1996",
-      "url": "http://akm-tct.douyucdn.cn/live/7050342rsYBBfOIt.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "全职猎人（日）1999",
-      "url": "https://akm-tct.douyucdn.cn/live/6610883reQHa0dha.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "海贼王（日）1999",
-      "url": "https://akm-tct.douyucdn.cn/live/997925r9R4yRIKjr.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "龙珠•改（日）2009",
       "url": "http://121.51.249.73/txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8?ratio=4000",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJ5dREDA5RSGqAMIUKqMdyANSj3qLKNqRUw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中华小当家 2019",
-      "url": "https://akm-tct.douyucdn.cn/live/8231658r2fGGsLZN.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQth-oj2MMWq8RuU-u-ZNLBW7DueHHA3Xtgxw&usqp=CAU",
       "parse": false
     },
     {
@@ -142,12 +82,6 @@
       "name": "Tom & Jerry",
       "url": "http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0uU_l4TnMXGBxiq7SnvsPef5HKEC4W9S3Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tom & Jerry (DouYu)",
-      "url": "https://akm-tct.douyucdn.cn/live/7888428rdI6bn5XF.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFN15bB_XxayGeGA0skchT-cXK0nHLft3Kg&usqp=CAU",
       "parse": false
     },
     {
@@ -847,20 +781,8 @@
       "parse": false
     },
     {
-      "name": "动漫合集",
-      "url": "https://akm-tct.douyucdn.cn/live/7620081r7cHHSGMh.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "动漫秀场",
       "url": "http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼动漫 151",
-      "url": "https://akm-tct.douyucdn.cn/live/426517ri5D2fbukY.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -915,12 +837,6 @@
     {
       "name": "南京少儿",
       "url": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "热血动漫",
-      "url": "https://akm-tct.douyucdn.cn/live/206858rtesHKjl.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
