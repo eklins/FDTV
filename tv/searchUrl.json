@@ -277,6 +277,15 @@
     },
     {
       "id": 1,
+      "name": "18X 影库",
+      "url": "https://yingkuzy.com/api.php/provide/vod/at/xml",
+      "cate": "三级伦理,22&&韩国伦理,23&&日本伦理,24&&香港伦理,25&&欧美伦理,26&&台湾伦理,28&&美女写真,29&&日本写真,30&&欧美写真,31",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
+      "id": 1,
       "name": "18X KK资源",
       "url": "http://kkzy.me/api.php/provide/vod/at/xml/",
       "cate": "伦理片,2&&写真资源,20&&韩国伦理,21&&香港三级,22&&西方伦理,23&&动漫精品,24&&日本伦理,25&&两性课堂,26&&短视频主播,27",
