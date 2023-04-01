@@ -2791,8 +2791,20 @@
       "parse": false
     },
     {
+      "name": "许氏三杰",
+      "url": "http://aldirect.corp-hls.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8??",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLYf_JXseOHF5nsCVecqdAH-UMJEj_qQuag&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "王晶电影",
       "url": "http://aldirect.corp-hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8??",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "五福星电影",
+      "url": "http://aldirect.corp-hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8??",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
