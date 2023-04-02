@@ -2419,24 +2419,6 @@
       "parse": false
     },
     {
-      "name": "XUMO Dove Channel",
-      "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Family",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Film Hub",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "XUMO Free Movies",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
@@ -2449,32 +2431,14 @@
       "parse": false
     },
     {
-      "name": "XUMO Hi-YAH!",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "XUMO ion MYSTERY",
       "url": "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "XUMO Maverick Movies (432p)",
-      "url": "http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "XUMO Shout! Factory TV",
       "url": "https://shoutfactory-xumo.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO The Archive (540p)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
