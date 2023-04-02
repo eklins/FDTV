@@ -109,6 +109,12 @@
       "parse": false
     },
     {
+      "name": "BesTV 音乐厅",
+      "url": "http://bp-caster.bestv.com.cn/469/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BET★Jams",
       "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32216",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
