@@ -2443,50 +2443,56 @@
       "parse": false
     },
     {
-      "name": "BesTV 电影 ①",
-      "url": "http://bp-caster.bestv.com.cn/494/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BesTV 电影 ②",
-      "url": "http://bp-caster.bestv.com.cn/532/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BesTV 电影 ④",
-      "url": "http://bp-caster.bestv.com.cn/490/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BesTV 电影 ⑤",
+      "name": "BesTV 电影 480",
       "url": "http://bp-caster.bestv.com.cn/480/1/video.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 独播 ①",
-      "url": "https://bp-caster.bestv.com.cn/946/3/video.m3u8",
+      "name": "BesTV 电影 490",
+      "url": "http://bp-caster.bestv.com.cn/490/1/video.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 独播 ②",
-      "url": "https://bp-caster.bestv.com.cn/955/3/video.m3u8",
+      "name": "BesTV 电影 494",
+      "url": "http://bp-caster.bestv.com.cn/494/1/video.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 独播 ③",
+      "name": "BesTV 电影 532",
+      "url": "http://bp-caster.bestv.com.cn/532/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 独播 789",
+      "url": "https://bp-caster.bestv.com.cn/789/3/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 独播 940",
       "url": "https://bp-caster.bestv.com.cn/940/3/video.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 独播 ④",
+      "name": "BesTV 独播 944",
       "url": "https://bp-caster.bestv.com.cn/944/3/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 独播 946",
+      "url": "https://bp-caster.bestv.com.cn/946/3/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 独播 955",
+      "url": "https://bp-caster.bestv.com.cn/955/3/video.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
       "parse": false
     },
