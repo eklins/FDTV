@@ -403,12 +403,6 @@
       "parse": false
     },
     {
-      "name": "Foreign Movies (China)",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Freebie TV [Not 24/7]",
       "url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -2563,20 +2557,8 @@
       "parse": false
     },
     {
-      "name": "芒果独播",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "芒果好看（IPTV）",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099174/main.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "芒果华语",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
       "parse": false
     },
@@ -2590,12 +2572,6 @@
       "name": "芒果热剧（IPTV）",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099232/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewTV 爱情喜剧",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225877/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
@@ -2991,30 +2967,6 @@
     {
       "name": "兴隆影视",
       "url": "https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "影视 6754",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "影视综艺 5893",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "优电影 ①",
-      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225733/index.m3u8?$广西",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "优电影 ②",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
