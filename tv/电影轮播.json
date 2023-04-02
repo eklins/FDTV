@@ -2557,20 +2557,20 @@
       "parse": false
     },
     {
-      "name": "芒果好看（IPTV）",
+      "name": "IPTV 芒果好看",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099174/main.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxo3xfmYTH1NY8CH2V9PqD63SjwF8fIU_B5Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "IPTV 芒果热剧",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099232/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxo3xfmYTH1NY8CH2V9PqD63SjwF8fIU_B5Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "芒果乐活",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000154081/main.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "芒果热剧（IPTV）",
-      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099232/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
       "parse": false
     },
