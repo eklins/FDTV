@@ -61,12 +61,6 @@
       "parse": false
     },
     {
-      "name": "Antenna TV",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32231",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Asian Crush",
       "url": "https://ac-samsung-us.ono.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1287,12 +1281,6 @@
     {
       "name": "tvN Movies (Indonesia★576p)",
       "url": "http://210.210.155.35:80/dr9445/h/h21/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVO Kids (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32030",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
