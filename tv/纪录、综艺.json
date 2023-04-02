@@ -127,12 +127,6 @@
       "parse": false
     },
     {
-      "name": "芒果综艺",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NewTV 超级综艺",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
@@ -147,12 +141,6 @@
     {
       "name": "NewTV 精品纪录",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewTV 精品萌宠",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227183/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
