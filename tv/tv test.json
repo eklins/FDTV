@@ -121,15 +121,87 @@
       "parse": false
     },
     {
-      "name": "SBS (Australia)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207181",
+      "name": "Foreign Movies (China)",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "SBS World Movies (Australia)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207183",
+      "name": "芒果独播",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果华语",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "影视 6754",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "影视综艺 5893",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "优电影 ①",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225733/index.m3u8?$广西",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "优电影 ②",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果综艺",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CARTOON 6732 (China)",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CARTOON 6736 (China)",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CARTOON 6741 (China)",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CARTOON 6743 (China)",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "北京卡酷少儿",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?$广西cdn",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "上海哈哈炫动",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225711/index.m3u8?$广西cdn",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
