@@ -661,6 +661,12 @@
       "parse": false
     },
     {
+      "name": "Pequeradio (Peru)",
+      "url": "https://stmv.panel.grupolimalive.com/peruvian/peruvian/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Persiana Music (Iran)",
       "url": "http://51.210.199.24/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
