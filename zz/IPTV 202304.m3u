@@ -1,54 +1,54 @@
 #EXTM3U
-#EXTINF:-1 ,♦01/04 香港台湾直播源
-#EXTINF:-1 ,鏉辨．鏂拌仦
+#EXTINF:-1 ,♦01/04 港台直播源
+#EXTINF:-1 ,東森新聞
 http://2023.stream-link.org/live/1793825065
-#EXTINF:-1 ,鏉辨．璨＄稉鏂拌仦
+#EXTINF:-1 ,東森財經新聞
 http://2023.stream-link.org/live/249006034
-#EXTINF:-1 ,鑿鏂拌仦
+#EXTINF:-1 ,華視新聞
 http://2023.stream-link.org/live/215730961
-#EXTINF:-1 ,涓ぉ鏂拌仦
+#EXTINF:-1 ,中天新聞
 http://2023.stream-link.org/live/1552993665
-#EXTINF:-1 ,涓鏂拌仦
+#EXTINF:-1 ,中視新聞
 http://2023.stream-link.org/live/926790469
-#EXTINF:-1 ,姘戣鏂拌仦
+#EXTINF:-1 ,民視新聞
 http://2023.stream-link.org/live/1637144344
-#EXTINF:-1 ,瀵板畤鍦嬮殯鏂拌仦
+#EXTINF:-1 ,寰宇國際新聞
 http://2023.stream-link.org/live/1212532853
-#EXTINF:-1 ,瀵板畤鍙扮仯鏂拌仦
+#EXTINF:-1 ,寰宇台灣新聞
 http://2023.stream-link.org/live/1932250847
-#EXTINF:-1 ,涓夌珛璨＄稉鏂拌仦
+#EXTINF:-1 ,三立財經新聞
 http://2023.stream-link.org/live/172551145
-#EXTINF:-1 ,涓夌珛鏂拌仦
+#EXTINF:-1 ,三立新聞
 http://2023.stream-link.org/live/1803236734
-#EXTINF:-1 ,涓夌珛鏂拌仦+
+#EXTINF:-1 ,三立新聞+
 http://2023.stream-link.org/live/1998094138
-#EXTINF:-1 ,鍙拌鏂拌仦
+#EXTINF:-1 ,台視新聞
 http://2023.stream-link.org/live/966381653
-#EXTINF:-1 ,TVBS鏂拌仦
+#EXTINF:-1 ,TVBS新聞
 http://2023.stream-link.org/live/401131254
-#EXTINF:-1 ,TVBS璨＄稉
+#EXTINF:-1 ,TVBS財經
 http://2023.stream-link.org/live/1711676066
-#EXTINF:-1 ,涓ぉ缍滃悎鍙�
+#EXTINF:-1 ,中天綜合台
 http://2023.stream-link.org/live/35397979
-#EXTINF:-1 ,涓ぉ浜炴床鍙�
+#EXTINF:-1 ,中天亞洲台
 http://2023.stream-link.org/live/1096161090
-#EXTINF:-1 ,鍙拌
+#EXTINF:-1 ,台視
 http://2023.stream-link.org/live/280878870
-#EXTINF:-1 ,澶╂墠琛濊琛�
+#EXTINF:-1 ,天才衝衝衝
 http://2023.stream-link.org/live/1311166619
-#EXTINF:-1 ,鏉辨．yoyo
+#EXTINF:-1 ,東森yoyo
 http://2023.stream-link.org/live/367293080
-#EXTINF:-1 ,鍗涓枃鍙�
+#EXTINF:-1 ,卫视中文台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
-#EXTINF:-1 ,鍗涓枃鍙�
+#EXTINF:-1 ,卫视中文台
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941624
-#EXTINF:-1 ,鍗鐢靛奖鍙�
+#EXTINF:-1 ,卫视电影台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
-#EXTINF:-1 ,鏄熷崼鐢靛奖鍙�
+#EXTINF:-1 ,星卫电影台
 http://23.237.10.66:16359
-#EXTINF:-1 ,鏄熷崼鐢靛奖鍙�
+#EXTINF:-1 ,星卫电影台
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941625
-#EXTINF:-1 ,鏄熷崼鐢靛奖鍙�
+#EXTINF:-1 ,星卫电影台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=vFR5CkmzbA
 #EXTINF:-1 ,HBO 2
 http://208.115.225.174:14140
@@ -58,53 +58,53 @@ http://208.115.225.174:14148
 http://208.115.225.174:14160
 #EXTINF:-1 ,HBO
 http://208.115.225.174:14165
-#EXTINF:-1 ,姘戣HD
+#EXTINF:-1 ,民视HD
 http://23.237.10.66:16334
-#EXTINF:-1 ,姘戣HD
+#EXTINF:-1 ,民视HD
 http://107.151.203.111:2209/135/us50.php?id=msk
-#EXTINF:-1 ,姘戣HD
+#EXTINF:-1 ,民视HD
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 ,姘戣鏂伴椈HD
+#EXTINF:-1 ,民视新闻HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156389&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,姘戣鏂伴椈HD
+#EXTINF:-1 ,民视新闻HD
 http://123.51.230.108:18663/.m3u8
-#EXTINF:-1 ,姘戣鏂伴椈HD
+#EXTINF:-1 ,民视新闻HD
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 ,姘戣鏂伴椈HD
+#EXTINF:-1 ,民视新闻HD
 http://2023.stream-link.org/playlist/ftv_news.flv
-#EXTINF:-1 ,姘戣鏂伴椈HD
+#EXTINF:-1 ,民视新闻HD
 http://2023.stream-link.org/playlist/ftv_news
-#EXTINF:-1 ,涓夌珛鏂伴椈HD
+#EXTINF:-1 ,三立新闻HD
 http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
-#EXTINF:-1 ,涓夌珛鏂伴椈HD
+#EXTINF:-1 ,三立新闻HD
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 ,涓夌珛鏂伴椈HD
+#EXTINF:-1 ,三立新闻HD
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 ,涓夌珛鏂伴椈HD
+#EXTINF:-1 ,三立新闻HD
 http://2023.stream-link.org/playlist/set_news.flv
-#EXTINF:-1 ,涓夌珛鏂伴椈HD
+#EXTINF:-1 ,三立新闻HD
 http://2023.stream-link.org/playlist/set_news+.flv
-#EXTINF:-1 ,涓夌珛鍥介檯鍙�
+#EXTINF:-1 ,三立国际台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156390&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,绾潵缁煎悎HD
+#EXTINF:-1 ,纬来综合HD
 http://123.51.230.108:18540/.m3u8
-#EXTINF:-1 ,绾潵鏃ユ湰HD
+#EXTINF:-1 ,纬来日本HD
 http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
-#EXTINF:-1 ,绾潵浣撹偛HD
+#EXTINF:-1 ,纬来体育HD
 http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
-#EXTINF:-1 ,绾潵浣撹偛HD
+#EXTINF:-1 ,纬来体育HD
 http://123.51.230.108:18509/.m3u8
-#EXTINF:-1 ,绾潵浣撹偛HD
+#EXTINF:-1 ,纬来体育HD
 https://epg.pw/stream/39e8448c3fe78d23604c0555a3b80d2e706bd1fbc408150490b8a1191ff44a10.m3u8
-#EXTINF:-1 ,涓滈37
+#EXTINF:-1 ,东风37
 http://123.51.230.108:18560/.m3u8
-#EXTINF:-1 ,涓鏂伴椈HD
+#EXTINF:-1 ,中视新闻HD
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 ,涓鏂伴椈HD
+#EXTINF:-1 ,中视新闻HD
 http://2023.stream-link.org/playlist/ctv_news.flv
-#EXTINF:-1 ,涓鏂伴椈HD
+#EXTINF:-1 ,中视新闻HD
 http://2023.stream-link.org/playlist/ctv_news
-#EXTINF:-1 ,涓鑿侀噰HD
+#EXTINF:-1 ,中视菁采HD
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 #EXTINF:-1 ,TVBSHD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156402&extension=ts&play_token=UEKTIim7lP
@@ -112,115 +112,115 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156402&extensi
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941621
 #EXTINF:-1 ,TVBSHD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
-#EXTINF:-1 ,TVBS浜氭床
+#EXTINF:-1 ,TVBS亚洲
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153397&extension=ts&play_token=ICdnbP1fWe
-#EXTINF:-1 ,TVBS浜氭床
+#EXTINF:-1 ,TVBS亚洲
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
-#EXTINF:-1 ,TVBS鏂伴椈HD
+#EXTINF:-1 ,TVBS新闻HD
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941622
-#EXTINF:-1 ,TVBS鏂伴椈HD
+#EXTINF:-1 ,TVBS新闻HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
-#EXTINF:-1 ,TVBS鏂伴椈HD
+#EXTINF:-1 ,TVBS新闻HD
 http://2023.stream-link.org/playlist/tvbs_news.flv
-#EXTINF:-1 ,TVBS鏂伴椈HD
+#EXTINF:-1 ,TVBS新闻HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=vFR5CkmzbA
-#EXTINF:-1 ,TVBS鏂伴椈HD
+#EXTINF:-1 ,TVBS新闻HD
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 ,TVBS鏂伴椈HD
+#EXTINF:-1 ,TVBS新闻HD
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 ,闀滄柊闂�
+#EXTINF:-1 ,镜新闻
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 ,瀵板畤鏂伴椈HD
+#EXTINF:-1 ,寰宇新闻HD
 http://2023.stream-link.org/playlist/global_news.flv
-#EXTINF:-1 ,瀵板畤鍙版咕鏂伴椈
+#EXTINF:-1 ,寰宇台湾新闻
 http://2023.stream-link.org/playlist/global_tw.flv
-#EXTINF:-1 ,澹规柊闂籋D
+#EXTINF:-1 ,壹新闻HD
 http://123.51.230.124:8550/.m3u8
-#EXTINF:-1 ,鍙拌鏂伴椈HD
+#EXTINF:-1 ,台视新闻HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156398&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,鍙拌鏂伴椈HD
+#EXTINF:-1 ,台视新闻HD
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 ,鍙拌鏂伴椈HD
+#EXTINF:-1 ,台视新闻HD
 http://2023.stream-link.org/playlist/ttv_news.flv
-#EXTINF:-1 ,鍙拌鏂伴椈HD
+#EXTINF:-1 ,台视新闻HD
 http://2023.stream-link.org/playlist/ttv_news
-#EXTINF:-1 ,鍙拌鏂伴椈HD
+#EXTINF:-1 ,台视新闻HD
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 ,鍙拌鏂伴椈HD
+#EXTINF:-1 ,台视新闻HD
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 ,鍙拌缁煎悎HD
+#EXTINF:-1 ,台视综合HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156392&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,鍙拌HD
+#EXTINF:-1 ,台视HD
 https://epg.pw/stream/e43c7da3f07bd4a5c8584901e2f6ff522368b6b3d8a02ac7e476de8a9a31912c.ctv
-#EXTINF:-1 ,鍙拌HD
+#EXTINF:-1 ,台视HD
 http://23.237.10.66:16344
-#EXTINF:-1 ,鍙拌HD
+#EXTINF:-1 ,台视HD
 http://107.151.203.111:2209/135/us50.php?id=tsk
-#EXTINF:-1 ,涓ぉ浜氭床鍙�
+#EXTINF:-1 ,中天亚洲台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
-#EXTINF:-1 ,涓ぉ浜氭床鍙�
+#EXTINF:-1 ,中天亚洲台
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941638
-#EXTINF:-1 ,涓ぉ鏂伴椈HD
+#EXTINF:-1 ,中天新闻HD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 ,涓ぉ鏂伴椈HD
+#EXTINF:-1 ,中天新闻HD
 http://2023.stream-link.org/playlist/cti_news
-#EXTINF:-1 ,涓ぉ缁煎悎鍙�
+#EXTINF:-1 ,中天综合台
 http://23.237.10.66:16372
-#EXTINF:-1 ,涓ぉ缁煎悎鍙�
+#EXTINF:-1 ,中天综合台
 http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
-#EXTINF:-1 ,涓ぉ缁煎悎鍙�
+#EXTINF:-1 ,中天综合台
 http://107.151.203.111:2209/135/us50.php?id=ztz
-#EXTINF:-1 ,涓ぉ缁煎悎鍙�
+#EXTINF:-1 ,中天综合台
 http://2023.stream-link.org/playlist/cti_zh.flv
-#EXTINF:-1 ,鍗庤鏂伴椈璧勮
+#EXTINF:-1 ,华视新闻资讯
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 ,鍗庤鏂伴椈璧勮
+#EXTINF:-1 ,华视新闻资讯
 http://stream.dsichannel.com:80/hls/cts-news.m3u8
-#EXTINF:-1 ,鍗庤HD
+#EXTINF:-1 ,华视HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156391&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,涓滄．涓浗鍙�
+#EXTINF:-1 ,东森中国台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156393&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,涓滄．鍗HD
+#EXTINF:-1 ,东森卫视HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156394&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,涓滄．缇庢床HD
+#EXTINF:-1 ,东森美洲HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,涓滄．浜氭床鍗
+#EXTINF:-1 ,东森亚洲卫视
 https://epg.pw/stream/24902af2f2babc48561b197a028bc127eba8d384a0130c2f775393c833adc55d.m3u8
-#EXTINF:-1 ,涓滄．瓒呰34.5
+#EXTINF:-1 ,东森超视34.5
 https://epg.pw/stream/eb60567383fe9a9226fd2ea1f728a1acbf5dd7543ede209993527ef9bef82a68.m3u8
-#EXTINF:-1 ,涓滄．瓒呰34.5
+#EXTINF:-1 ,东森超视34.5
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 ,涓滄．鏂伴椈
+#EXTINF:-1 ,东森新闻
 http://123.51.230.108:8531/.m3u8
-#EXTINF:-1 ,涓滄．鏂伴椈
+#EXTINF:-1 ,东森新闻
 http://2023.stream-link.org/playlist/ebc_news.flv
-#EXTINF:-1 ,涓滄．鏂伴椈
+#EXTINF:-1 ,东森新闻
 http://2023.stream-link.org/playlist/ebc_news
-#EXTINF:-1 ,涓滄．鏂伴椈
+#EXTINF:-1 ,东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 ,涓滄．璐㈢粡HD
+#EXTINF:-1 ,东森财经HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156396&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,涓滄．璐㈢粡HD
+#EXTINF:-1 ,东森财经HD
 http://123.51.230.108:18515/.m3u8
-#EXTINF:-1 ,涓滄．璐㈢粡HD
+#EXTINF:-1 ,东森财经HD
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 ,涓滄．鎴忓墽HD
+#EXTINF:-1 ,东森戏剧HD
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156395&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,涓滄．鎴忓墽HD
+#EXTINF:-1 ,东森戏剧HD
 http://123.51.230.108:18538/.m3u8
-#EXTINF:-1 ,涓滄．yoyo
+#EXTINF:-1 ,东森yoyo
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156403&extension=ts&play_token=UEKTIim7lP
-#EXTINF:-1 ,鍏ぇ绗竴鍙癏D
+#EXTINF:-1 ,八大第一台HD
 http://123.51.230.108:18539/.m3u8
-#EXTINF:-1 ,鏅烘灄浣撹偛
+#EXTINF:-1 ,智林体育
 http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-#EXTINF:-1 ,澶х珛鐢佃
+#EXTINF:-1 ,大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 ,鏃犵嚎鏂伴椈鍙�
+#EXTINF:-1 ,无线新闻台
 http://107.151.203.111:2209/135/hk.php?id=cable37h
-#EXTINF:-1 ,鏃犵嚎鏂伴椈鍙�
+#EXTINF:-1 ,无线新闻台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153399&extension=ts&play_token=ICdnbP1fWe
-#EXTINF:-1 ,鏃犵嚎鏂伴椈鍙�
+#EXTINF:-1 ,无线新闻台
 http://shazui.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 ,ViuTV
 https://live.astradamy.com/viutv/index.m3u8
@@ -232,45 +232,45 @@ http://2022.stream-link.org/playlist/rthk_31
 http://2022.stream-link.org/playlist/rthk_32
 #EXTINF:-1 ,RTHK33
 https://live.astradamy.com/hk33/index.m3u8
-#EXTINF:-1 ,TVB鍗庝附鍙�
+#EXTINF:-1 ,TVB华丽台
 http://23.237.10.66:16410
-#EXTINF:-1 ,TVB鍗庝附鍙�
+#EXTINF:-1 ,TVB华丽台
 http://r.jdshipin.com/thuYX
-#EXTINF:-1 ,TVB1鍙�
+#EXTINF:-1 ,TVB1台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=ICdnbP1fWe
-#EXTINF:-1 ,TVB1鍙�
+#EXTINF:-1 ,TVB1台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153395&extension=ts&play_token=ICdnbP1fWe
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 http://107.151.203.111:2209/135/hk.php?id=tvbfct
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=ICdnbP1fWe
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 https://live.astradamy.com/tvbfc/index.m3u8
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 http://radius.8866.org:800/hls/80/index.m3u8
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 http://shazui.8866.org:800/hls/80/index.m3u8
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 http://r.jdshipin.com/n90gt
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1 ,缈＄繝鍙�
+#EXTINF:-1 ,翡翠台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=HnxccIWiNo
-#EXTINF:-1 ,鐝嶇彔鍙�
+#EXTINF:-1 ,珍珠台
 https://live.astradamy.com/tvbpearl/index.m3u8
-#EXTINF:-1 ,鏄庣彔鍙�
+#EXTINF:-1 ,明珠台
 http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1351_4500
-#EXTINF:-1 ,鏄庣彔鍙�
+#EXTINF:-1 ,明珠台
 http://107.151.203.111:2209/135/hk.php?id=tvbmzt
-#EXTINF:-1 ,鏄庣彔鍙�
+#EXTINF:-1 ,明珠台
 http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8?zgangd
-#EXTINF:-1 ,鏄庣彔鍙�
+#EXTINF:-1 ,明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 ,J2
 https://live.astradamy.com/tvbj2/index.m3u8
@@ -278,107 +278,107 @@ https://live.astradamy.com/tvbj2/index.m3u8
 http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 #EXTINF:-1 ,J2
 http://shazui.8866.org:800/hls/81/index.m3u8
-#EXTINF:-1 ,鍑ゅ嚢璧勮
+#EXTINF:-1 ,凤凰资讯
 http://123.51.230.108:18580/.m3u8
-#EXTINF:-1 ,TVB璐㈢粡鍙�
+#EXTINF:-1 ,TVB财经台
 https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8?$1M1280x720
-#EXTINF:-1 ,TVB鍗冪Η缁忓吀鍙�
+#EXTINF:-1 ,TVB千禧经典台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=HnxccIWiNo
-#EXTINF:-1 ,TVB濞变箰鏂伴椈鍙�
+#EXTINF:-1 ,TVB娱乐新闻台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=HnxccIWiNo
-#EXTINF:-1 ,TVB鏄熸渤棰戦亾
+#EXTINF:-1 ,TVB星河频道
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=vFR5CkmzbA
-#EXTINF:-1 ,TVB鏄熸渤棰戦亾
+#EXTINF:-1 ,TVB星河频道
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
-#EXTINF:-1 ,TVB鏄熸渤棰戦亾
+#EXTINF:-1 ,TVB星河频道
 http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
-#EXTINF:-1 ,TVB鏄熸渤棰戦亾
+#EXTINF:-1 ,TVB星河频道
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941620
 #EXTINF:-1 ,RTHK32
 http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 ,鏄熺┖鍗
+#EXTINF:-1 ,星空卫视
 http://120.84.96.113:808/hls/79/index.m3u8
-#EXTINF:-1 ,鏄熺┖鍗
+#EXTINF:-1 ,星空卫视
 http://107.151.203.111:2209/135/hk.php?id=xkwst
-#EXTINF:-1 ,鏄熺┖鍗
+#EXTINF:-1 ,星空卫视
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-#EXTINF:-1 ,榫欑ゥ鏃朵唬
+#EXTINF:-1 ,龙祥时代
 http://120.84.96.87:808/hls/35/index.m3u8
-#EXTINF:-1 ,榫欑ゥ鏃朵唬
+#EXTINF:-1 ,龙祥时代
 http://120.84.96.113:808/hls/35/index.m3u8
-#EXTINF:-1 ,榫欑ゥ鏃朵唬
+#EXTINF:-1 ,龙祥时代
 http://lcx-olt.8866.org:8181/tsfile/live/1077_1.m3u8
-#EXTINF:-1 ,榫欑ゥ鏃朵唬
+#EXTINF:-1 ,龙祥时代
 https://epg.pw/stream/af3d4696a51795162a37751aa9540a4bb224ef256d6ade811cc8418030e666ae.m3u8
-#EXTINF:-1 ,涓滄．鐢靛奖
+#EXTINF:-1 ,东森电影
 http://120.84.96.87:808/hls/32/index.m3u8
-#EXTINF:-1 ,涓滄．鐢靛奖
+#EXTINF:-1 ,东森电影
 http://120.84.96.113:808/hls/32/index.m3u8
-#EXTINF:-1 ,涓滄．鐢靛奖
+#EXTINF:-1 ,东森电影
 http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
-#EXTINF:-1 ,涓滄．鐢靛奖
+#EXTINF:-1 ,东森电影
 http://120.84.96.89:808/hls/32/index.m3u8
-#EXTINF:-1 ,涓滄．鐢靛奖
+#EXTINF:-1 ,东森电影
 http://120.84.96.82:808/hls/32/index.m3u8
-#EXTINF:-1 ,涓滄．鐢靛奖
+#EXTINF:-1 ,东森电影
 http://120.84.96.73:808/hls/32/index.m3u8
-#EXTINF:-1 ,涓滄．娲嬬墖
+#EXTINF:-1 ,东森洋片
 http://120.84.96.87:808/hls/33/index.m3u8
-#EXTINF:-1 ,涓滄．娲嬬墖
+#EXTINF:-1 ,东森洋片
 http://120.84.96.73:808/hls/33/index.m3u8
-#EXTINF:-1 ,涓滄．娲嬬墖
+#EXTINF:-1 ,东森洋片
 http://120.84.96.82:808/hls/33/index.m3u8
-#EXTINF:-1 ,澶╂槧缁忓吀
+#EXTINF:-1 ,天映经典
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571182&extension=ts&play_token=HnxccIWiNo
-#EXTINF:-1 ,澶╂槧缁忓吀
+#EXTINF:-1 ,天映经典
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941639&extension=ts&play_token=vFR5CkmzbA
-#EXTINF:-1 ,澶╂槧缁忓吀
+#EXTINF:-1 ,天映经典
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941639
-#EXTINF:-1 ,澶╂槧缁忓吀
+#EXTINF:-1 ,天映经典
 http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
-#EXTINF:-1 ,澶╂槧棰戦亾
+#EXTINF:-1 ,天映频道
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=HnxccIWiNo
-#EXTINF:-1 ,澶╂槧棰戦亾
+#EXTINF:-1 ,天映频道
 http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-#EXTINF:-1 ,澶╂槧棰戦亾
+#EXTINF:-1 ,天映频道
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941618
-#EXTINF:-1 ,澶╂槧棰戦亾
+#EXTINF:-1 ,天映频道
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=vFR5CkmzbA
-#EXTINF:-1 ,闈栧ぉ娆箰鍙�
+#EXTINF:-1 ,靖天欢乐台
 http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-#EXTINF:-1 ,闈栨磱鎴忓墽鍙�
+#EXTINF:-1 ,靖洋戏剧台
 http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-#EXTINF:-1 ,閲囨槍褰卞墽鍙�
+#EXTINF:-1 ,采昌影剧台
 http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-#EXTINF:-1 ,闈栧ぉ鎴忓墽鍙�
+#EXTINF:-1 ,靖天戏剧台
 http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-#EXTINF:-1 ,闈栧ぉ鑲蹭箰鍙�
+#EXTINF:-1 ,靖天育乐台
 http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-#EXTINF:-1 ,闈栧ぉ鍗￠€氬彴
+#EXTINF:-1 ,靖天卡通台
 http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
-#EXTINF:-1 ,闈栧ぉ鍥介檯鍙�
+#EXTINF:-1 ,靖天国际台
 http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-#EXTINF:-1 ,闈栧ぉ鏄犵敾
+#EXTINF:-1 ,靖天映画
 http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-#EXTINF:-1 ,榫欏崕鐢靛奖
+#EXTINF:-1 ,龙华电影
 https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
-#EXTINF:-1 ,鍑ゅ嚢鐢靛奖
+#EXTINF:-1 ,凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1 ,WB TV
 http://208.115.225.174:14132
 #EXTINF:-1 ,TVN
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941623
-#EXTINF:-1 ,TVN鐢靛奖鍙�
+#EXTINF:-1 ,TVN电影台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571261&extension=ts&play_token=HnxccIWiNo
-#EXTINF:-1 ,鍙屾槦
+#EXTINF:-1 ,双星
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571191&extension=ts&play_token=6Do9QdLKkM
-#EXTINF:-1 ,鍏ㄤ匠
+#EXTINF:-1 ,全佳
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571192&extension=ts&play_token=xEP94V2R5Q
-#EXTINF:-1 ,灏忓お闃�
+#EXTINF:-1 ,小太阳
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571230&extension=ts&play_token=D3QyPDZb9O
 #EXTINF:-1 ,ONE
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941628&extension=ts&play_token=vFR5CkmzbA
-#EXTINF:-1 ,HUB濞卞
+#EXTINF:-1 ,HUB娱家
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941634&extension=ts&play_token=vFR5CkmzbA
 #EXTINF:-1 ,astro
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571229&extension=ts&play_token=HnxccIWiNo
