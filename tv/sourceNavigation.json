@@ -193,9 +193,9 @@
       "webPlus": {}
     },
     {
-      "name": "日のA-I🈲",
+      "name": "日のA-F🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0AcY62eHIvUL3f7zEbWUyzKmuLjG6FxyZQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20A-I.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20A-F.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -209,9 +209,9 @@
       "webPlus": {}
     },
     {
-      "name": "日のJ-R🈲",
+      "name": "日のG-M🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYMFvsxMAQlQ6sNQg_p-h6QHLd0mlszmRkA&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20J-R.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20G-M.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -225,9 +225,25 @@
       "webPlus": {}
     },
     {
-      "name": "日のS-Z🈲",
+      "name": "日のN-S🈲",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaYkLZiORKp8xKtNhoh902sIXssM5KJOy5EQ&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20N-S.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "日のT-Z🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVx_RNqsgCaw-ejkHFX6hIO667Ta9dSukkQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20S-Z.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20T-Z.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
