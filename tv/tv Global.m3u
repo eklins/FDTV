@@ -1021,8 +1021,6 @@ https://rakuten-thriller-3-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DEU★Rakuten TV Shows
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,DEU★RBB
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/209385
 #EXTINF:-1 ,DEU★RBW
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 #EXTINF:-1 ,DEU★RFH
@@ -1049,14 +1047,10 @@ https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
 https://player-api.new.livestream.com/accounts/14143407/events/9828641/broadcasts/233548882.secure.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/240px-Flag_of_Greece.svg.png",Greece♥34100 TV (720p)
 https://s1.cystream.net/live/34100/playlist.m3u8
-#EXTINF:-1 ,GRC★A Entertainment
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/225788
 #EXTINF:-1 ,GRC★alert
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 ,GRC★Alfa Dramas
 https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
-#EXTINF:-1 ,GRC★ANT 1
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210045
 #EXTINF:-1 ,GRC★ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
 #EXTINF:-1 ,GRC★Attica TV
@@ -1081,12 +1075,6 @@ https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 ,GRC★Dipso TV (720p) [Not 24/7]
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1 ,GRC★EAT Regional
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/226104
-#EXTINF:-1 ,GRC★ECAT Sigma
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210186
-#EXTINF:-1 ,GRC★ECAT Skai
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210187
 #EXTINF:-1 ,GRC★Ellas TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 ,GRC★Ena Channel
@@ -1119,8 +1107,6 @@ http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 ,GRC★Magic TV (480p)
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 ,GRC★Mega TV
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210129
 #EXTINF:-1 ,GRC★Mesogeios TV (432p)
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 ,GRC★Μεσσάτιδα TV (Messatida TV★450p) [Not 24/7]
@@ -1139,8 +1125,6 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 https://streaming.onetv.gr/show/onetv_src/index.m3u8
 #EXTINF:-1 ,GRC★Open Beyond HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1 ,GRC★RIK Sat
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210184
 #EXTINF:-1 ,GRC★SKAÏ
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
 #EXTINF:-1 ,GRC★Smile TV (360p)
@@ -2823,8 +2807,6 @@ https://spi-filmstream-1-se.samsung.wurl.tv/playlist.m3u8
 https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Gusto TV
 https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,SWE★Kanal 5
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16040
 #EXTINF:-1 ,SWE★Kanal 10 Asia
 https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist_w522739009_b2128000.m3u8
 #EXTINF:-1 ,SWE★MavTV Global
@@ -2869,8 +2851,6 @@ https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Travel XP
 https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,SWE★TV4
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/84532
 #EXTINF:-1 ,SWE★Västmanlands TV
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:-1 ,SWE★Waterbear
