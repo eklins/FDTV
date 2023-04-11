@@ -115,18 +115,6 @@
       "parse": false
     },
     {
-      "name": "BET★Jams",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32216",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BET★Soul",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32217",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Blue Mountain TV",
       "url": "https://1189614805.rsc.cdn77.org/hls/bmt.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -367,12 +355,6 @@
       "parse": false
     },
     {
-      "name": "Jukebox (Germany)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208364",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "K-Pop",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/kpop.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -501,18 +483,6 @@
     {
       "name": "MTV (Portugal)",
       "url": "https://cloudvideo.servers10.com:8081/8108/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV Classic (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16320",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV Classic (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149153",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
