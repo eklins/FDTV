@@ -403,48 +403,6 @@
       "parse": false
     },
     {
-      "name": "9 (Australia)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207141",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "9 Brisbane (Australia)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207158",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "9 Life (Australia)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207143",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "9 Sydney (Australia)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207160",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "A&E (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77855",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "A&E (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149136",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ANC One (Australia）",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207151",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ANC Plus Brisbane (Australia）",
       "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -511,12 +469,6 @@
       "parse": false
     },
     {
-      "name": "American Heroes Channel",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32229",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "amp",
       "url": "https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamd/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -553,18 +505,6 @@
       "parse": false
     },
     {
-      "name": "Animal Planet (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77853",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Animal Planet (Denmark)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213476",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Arirang Korea",
       "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -579,18 +519,6 @@
     {
       "name": "ATD HD",
       "url": "http://46.99.146.236/0.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AWE",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149143",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AXS TV",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191720",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -613,18 +541,6 @@
       "parse": false
     },
     {
-      "name": "BBC 1 (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16133",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BBC 2 (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16135",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Beach TV (East Coast)",
       "url": "https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastbeachtveastcoast/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -639,12 +555,6 @@
     {
       "name": "bon appétit",
       "url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bravo",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208672",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -709,12 +619,6 @@
       "parse": false
     },
     {
-      "name": "City TV (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77849",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CJON-DT (Canada)",
       "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -745,12 +649,6 @@
       "parse": false
     },
     {
-      "name": "Cooking Channel (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77847",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cooking Panda",
       "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -759,12 +657,6 @@
     {
       "name": "Cosmic Unleashed",
       "url": "https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cottage Life (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31985",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -783,12 +675,6 @@
     {
       "name": "Cut Up N Cook",
       "url": "https://simultv.s.llnwi.net/o059/CutUpNCook/interlink.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Dabl",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191709",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -819,72 +705,6 @@
     {
       "name": "Dens Life Style (Indonesia★576p)",
       "url": "http://210.210.155.35:80/x6bnqe/s/s65/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Destination America",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208686",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DIGI Life (Romania)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31090",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery (Portugal)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131080",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery (Romania)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31097",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16087",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Family (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159811",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Life (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/68043",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Science (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32006",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Science (Denmark)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213473",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Science (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32348",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Velocity (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205836",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -921,24 +741,6 @@
     {
       "name": "DryBar Comedy (US)",
       "url": "https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DTOUR (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77842",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "E! (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135308",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "E! (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/61351",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1063,12 +865,6 @@
       "parse": false
     },
     {
-      "name": "FEM (Norway)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/15784",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Firstlight (576p)",
       "url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1077,18 +873,6 @@
     {
       "name": "FNX (WMBQ-LD★432p)",
       "url": "https://v-ny.mybtv.net/live/658.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Food Network (Australia)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207164",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Food Network (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32009",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1107,18 +891,6 @@
     {
       "name": "Fun Roads (404p)",
       "url": "http://104.143.4.5:2080/funroads.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "fyi",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32310",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Game Show Network",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208699",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1201,30 +973,6 @@
       "parse": false
     },
     {
-      "name": "History (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77836",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "History (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208705",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "History 2 (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208703",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HLN (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135324",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "HLN (US)",
       "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1267,18 +1015,6 @@
       "parse": false
     },
     {
-      "name": "Investigation Discovery (Portugal)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131077",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Investigation Discovery (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159853",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "InWild (UK)",
       "url": "https://inwild-samsung-uk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1305,18 +1041,6 @@
     {
       "name": "Justice",
       "url": "https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Kanal 9 (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16041",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Kanal 10 (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213437",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1375,12 +1099,6 @@
       "parse": false
     },
     {
-      "name": "Love Nature (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32014",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Love Stories TV (Australia)",
       "url": "https://lovestoriestv-lovestoriestv-1-au.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1423,20 +1141,8 @@
       "parse": false
     },
     {
-      "name": "Magnolia Network",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77844",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Manoto TV",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "More 4 (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16128",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1473,24 +1179,6 @@
     {
       "name": "National Assembly TV (Korea)",
       "url": "https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "National Geographic (Greece)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210133",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "National Geographic (Norway)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213458",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "National Geographic (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16280",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1569,12 +1257,6 @@
     {
       "name": "Outside TV",
       "url": "https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Paramount Network (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135336",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1735,12 +1417,6 @@
       "parse": false
     },
     {
-      "name": "Really (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16182",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Reelz",
       "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1819,32 +1495,8 @@
       "parse": false
     },
     {
-      "name": "Sky Arts (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104051",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Slice (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32026",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Slice Casa (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31952",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Smithsonian Channel (Australia)",
       "url": "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sony TV Asia (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104074",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1857,12 +1509,6 @@
     {
       "name": "Spark TV",
       "url": "https://sparktv-samsunguk.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Star Channel (Norway★FOX)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213450",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2053,30 +1699,6 @@
       "parse": false
     },
     {
-      "name": "TLC (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135340",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TLC (Norway)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213452",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TLC (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205837",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "tln (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135341",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Today All Day",
       "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2085,12 +1707,6 @@
     {
       "name": "Tranquil Thunderstorms",
       "url": "https://a.jsrdn.com/broadcast/18b42f9aef/+0000/c.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Travel Channel (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32349",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2167,36 +1783,6 @@
       "parse": false
     },
     {
-      "name": "TV 3 (Denmark)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16000",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TV 4 (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/84532",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TV 4 Guld (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/43195",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TV 6 (Norway)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213442",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TV 6 (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16052",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "TV Max (Brazil)",
       "url": "https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2263,32 +1849,8 @@
       "parse": false
     },
     {
-      "name": "Viasat Explore (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/61336",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Viasat History (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/213439",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Vice (US East)",
       "url": "https://d2do1g43aq7264.cloudfront.net/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Viceland (Australia)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/207182",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Viceland (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32207",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2341,12 +1903,6 @@
       "parse": false
     },
     {
-      "name": "World Fishing Network (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135347",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "WPS TV (360p)",
       "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2373,12 +1929,6 @@
     {
       "name": "Y2 (WHYY-DT2★432p)",
       "url": "https://v-pi.mybtv.net/live/348.m3u8?env=prd&uid=-1&x=1&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Yes TV (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135349",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2421,12 +1971,6 @@
     {
       "name": "AMC All Weddings (US)",
       "url": "https://amc-allweddings-1-us.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AMC Crime (Portugal)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131094",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
