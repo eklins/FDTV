@@ -469,6 +469,12 @@
       "parse": false
     },
     {
+      "name": "台湾中天新闻",
+      "url": "http://2023.stream-link.org/live/1552993665",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾中天新闻2 Talk Show",
       "url": "https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPgNWQor0oaPEa4Y9jViBUOCfWVbmBT6mcw&usqp=CAU",
@@ -478,6 +484,12 @@
       "name": "台湾TVBS新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾东森新闻",
+      "url": "http://2023.stream-link.org/live/1793825065",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSeltIT1EVJAcXzstrQnjajWsrDUJj64FlQ&usqp=CAU",
       "parse": false
     },
     {
@@ -505,10 +517,28 @@
       "parse": false
     },
     {
+      "name": "台湾寰宇新闻台",
+      "url": "http://2023.stream-link.org/live/1932250847",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾寰宇国际新闻台",
+      "url": "http://2023.stream-link.org/live/1212532853",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmviZt66uWVcrtZPqKcutAp2eEo-7oI4pBGg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾三立iNews",
+      "url": "http://2023.stream-link.org/live/1998094138",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾三立LIVE新闻",
-      "url": "http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8",
+      "url": "http://2023.stream-link.org/live/1803236734",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
-      "parse": true
+      "parse": false
     }
   ]
 }
