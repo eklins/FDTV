@@ -67,32 +67,8 @@
       "parse": false
     },
     {
-      "name": "AXN (Portugal)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131050",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AXN White (Portugal)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131044",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BBC America",
       "url": "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BET★",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/15861",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BET★Her",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32214",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -133,20 +109,8 @@
       "parse": false
     },
     {
-      "name": "C More First (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16062",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cai Chang 采昌 (Taiwan)",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CBS Justice (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16191",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -159,12 +123,6 @@
     {
       "name": "Celestial Movies 天映频道 (Indonesia★576p)",
       "url": "http://210.210.155.35:80/dr9445/h/h14/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cine Mundo (Portugal)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131042",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -183,12 +141,6 @@
     {
       "name": "Cinema World (Malaysia★576p)",
       "url": "http://210.210.155.35:80/dr9445/h/h04/01.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cinemax+ (Romania)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31079",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -223,44 +175,8 @@
       "parse": false
     },
     {
-      "name": "CMT (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77848",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Comedy Channel (UK)",
       "url": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Comedy Central (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32195",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Comedy Central Extra (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104187",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cosmote Cinema 1 (Greece)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210064",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cosmote Cinema 2 (Greece)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210065",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cosmote Cinema 3 (Greece)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/210066",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -337,12 +253,6 @@
       "parse": false
     },
     {
-      "name": "Epix",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208689",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Fave TV (WCBS-DT4)",
       "url": "https://v-ny.mybtv.net/live/648.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -409,30 +319,6 @@
       "parse": false
     },
     {
-      "name": "Freeform",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32208",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "fuse",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208697",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FX (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208698",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FXX (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135313",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "get TV (KFPH-DT3★480p)",
       "url": "https://v-px.mybtv.net/live/928.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -463,60 +349,6 @@
       "parse": false
     },
     {
-      "name": "Hallmark Drama",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32127",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Hallmark Movies & Mysteries",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32128",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO 2 (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77837",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO 2 (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32130",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Comedy (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32132",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Family (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32135",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Signature (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/27728",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Zone (US)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/65111",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HDNET Movies",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159761",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Heroes & Icons (WWOR-DT3)",
       "url": "https://v-ny.mybtv.net/live/561.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -531,12 +363,6 @@
     {
       "name": "HITS (Indonesia★576p)",
       "url": "http://210.210.155.35:80/dr9445/h/h37/01.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HITS Movies (Indonesia)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16148",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -573,12 +399,6 @@
     {
       "name": "ion PLUS",
       "url": "https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "itv1 (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104026",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -627,18 +447,6 @@
     {
       "name": "Latest TV [Not 24/7]",
       "url": "https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Lifetime",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208714",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "LMN (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77835",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -697,12 +505,6 @@
       "parse": false
     },
     {
-      "name": "Logo•",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208715",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Lone Star",
       "url": "https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/high/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -723,12 +525,6 @@
     {
       "name": "MeTV NY (WJLP-DT1)",
       "url": "https://v-ny.mybtv.net/live/637.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MGM+ Marquee",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32263",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -783,18 +579,6 @@
     {
       "name": "Movies! (WNYW-DT2)",
       "url": "https://v-ny.mybtv.net/live/551.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191700",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV 2",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191701",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -867,12 +651,6 @@
     {
       "name": "Ovation",
       "url": "http://vcnovation.teleosmedia.com/stream/ovation/ovationtv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Paramount Channel (Romania)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31160",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -979,72 +757,6 @@
       "parse": false
     },
     {
-      "name": "Showcase (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77831",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime (West)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135311",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime 2",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135312",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime Extreme",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32153",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime Family Zone",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/158682",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime Next",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32467",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime Showcase",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32468",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime Women",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159873",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Cinema Comedy (Australia)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/225797",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Cinema Comedy (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16153",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Cinema Select (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16157",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Sofy TV (UK)",
       "url": "https://sofytv-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1075,72 +787,6 @@
       "parse": false
     },
     {
-      "name": "STARZ (East)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/39453",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ (West)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159773",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ Action",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159925",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ Cinema",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32137",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ Classic",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32141",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ Comedy",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32138",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ Edge",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/79697",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ Encore",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32149",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ Family",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159766",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ Suspense",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32143",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ Western",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32140",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Sundance TV",
       "url": "https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1149,18 +795,6 @@
     {
       "name": "Suria (Singapore) [Not 24/7]",
       "url": "http://23.237.10.66:16492",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SYFY (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104238",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "tbs",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205834",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1195,12 +829,6 @@
       "parse": false
     },
     {
-      "name": "TNT",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205839",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Toonami Aftermath Movies (540p)",
       "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1225,26 +853,8 @@
       "parse": false
     },
     {
-      "name": "TV 1000 (Romania)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31196",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "TVB Jade 翡翠台 (Malaysia)",
       "url": "http://23.237.10.66:16410",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVCine Emotion (Portugal)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131039",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVCine Top (Portugal)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131037",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1255,38 +865,8 @@
       "parse": false
     },
     {
-      "name": "VH1",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205843",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "V Film Action (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/142455",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "V Film Hits (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/43185",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "V Film Premiere (Sweden)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16067",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Victor Valley Movies [Not 24/7]",
       "url": "https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "We TV",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205844",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1312,24 +892,6 @@
       "name": "Zjarr (Albania)",
       "url": "https://mfe01.tring.al/delta/106/out/u/284_1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AMC (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77854",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AMC (Portugal)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131049",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AMC (UK)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16178",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
     {
@@ -2260,12 +1822,6 @@
       "name": "STIRR Westerns",
       "url": "https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW Philly 57 (Philadelphia★WPSG) 142391",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191732",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
     {
