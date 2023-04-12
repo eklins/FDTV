@@ -67,6 +67,18 @@
       "parse": false
     },
     {
+      "name": "iFilm English (Iran★480p) [Not 24/7]",
+      "url": "https://live1.presstv.ir/live/ifilmen.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "KLMN TV (KLNM-LD1★Lufkin TX)",
+      "url": "https://broadcast.mytvtogo.net/klmntv/klmntv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Marvel",
       "url": "http://epg.112114.xyz/douyu/6140589",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
