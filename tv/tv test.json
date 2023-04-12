@@ -85,18 +85,6 @@
       "parse": false
     },
     {
-      "name": "Watch it Kid",
-      "url": "https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Watch It Scream!",
-      "url": "https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cine Pride",
       "url": "https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -105,6 +93,18 @@
     {
       "name": "Galxy TV",
       "url": "https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Watch it Kid",
+      "url": "https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Watch It Scream!",
+      "url": "https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
