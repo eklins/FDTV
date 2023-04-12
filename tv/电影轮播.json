@@ -79,12 +79,6 @@
       "parse": false
     },
     {
-      "name": "Bounce (WPXN-DT2)",
-      "url": "https://v-ny.mybtv.net/live/581.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Bounce XL",
       "url": "https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -104,7 +98,7 @@
     },
     {
       "name": "Brat TV",
-      "url": "https://brat-roku-us.amagi.tv/playlist.m3u8",
+      "url": "https://brat-samsung-us.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -123,12 +117,6 @@
     {
       "name": "Celestial Movies 天映频道 (Indonesia★576p)",
       "url": "http://210.210.155.35:80/dr9445/h/h14/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cine Pride",
-      "url": "https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -157,8 +145,8 @@
       "parse": false
     },
     {
-      "name": "Circle (WRNN-DT2★432p)",
-      "url": "https://v-ny.mybtv.net/live/662.m3u8?env=prd&uid=-1&x=1",
+      "name": "Circle",
+      "url": "https://circle-roku.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -187,12 +175,6 @@
       "parse": false
     },
     {
-      "name": "COZI TV (WCAU-DT2★432p)",
-      "url": "https://v-pi.mybtv.net/live/346.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Crackle",
       "url": "https://crackle-plex.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -201,12 +183,6 @@
     {
       "name": "Dark Matter TV",
       "url": "https://dmtv-plex.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Decades (WNYW-DT5)",
-      "url": "https://v-ny.mybtv.net/live/553.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -249,12 +225,6 @@
     {
       "name": "Epic Drama (Netherlands★360p)",
       "url": "http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/17767",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Fave TV (WCBS-DT4)",
-      "url": "https://v-ny.mybtv.net/live/648.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -319,20 +289,8 @@
       "parse": false
     },
     {
-      "name": "get TV (KFPH-DT3★480p)",
-      "url": "https://v-px.mybtv.net/live/928.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Gravitas Movies",
       "url": "https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Grit (WJLP-DT3)",
-      "url": "https://v-ny.mybtv.net/live/626.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -345,12 +303,6 @@
     {
       "name": "Groovy (Greece★360p)",
       "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Heroes & Icons (WWOR-DT3)",
-      "url": "https://v-ny.mybtv.net/live/561.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -439,12 +391,6 @@
       "parse": false
     },
     {
-      "name": "Laff (WJLP-DT2★432p)",
-      "url": "https://v-ny.mybtv.net/live/625.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Latest TV [Not 24/7]",
       "url": "https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -523,12 +469,6 @@
       "parse": false
     },
     {
-      "name": "MeTV NY (WJLP-DT1)",
-      "url": "https://v-ny.mybtv.net/live/637.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MHz Choice (Canada)",
       "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -573,12 +513,6 @@
     {
       "name": "Movie Sphere (US)",
       "url": "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Movies! (WNYW-DT2)",
-      "url": "https://v-ny.mybtv.net/live/551.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -661,6 +595,12 @@
       "parse": false
     },
     {
+      "name": "PBS 39 Extra",
+      "url": "https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Persiana Comedy (Iran)",
       "url": "http://51.210.199.27/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -711,18 +651,6 @@
     {
       "name": "Retro TV",
       "url": "https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Retro TV (WJLP-DT5★432p)",
-      "url": "https://v-ny.mybtv.net/live/628.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rewind TV (WPIX-DT4★480p)",
-      "url": "https://v-ny.mybtv.net/live/565.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -781,12 +709,6 @@
       "parse": false
     },
     {
-      "name": "Start TV (WCBS-DT2)",
-      "url": "https://v-ny.mybtv.net/live/546.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Sundance TV",
       "url": "https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -801,12 +723,6 @@
     {
       "name": "The Archive",
       "url": "https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The Grio (WNYW-DT4)",
-      "url": "https://v-ny.mybtv.net/live/552.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
