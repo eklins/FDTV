@@ -1544,13 +1544,13 @@
     },
     {
       "name": "RedBox MST3K",
-      "url": "https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8",
+      "url": "https://mst3k-redbox.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8WKhpHTZoLYtP6x6QThDEu0Q9nPIE_z7pg&usqp=CAU",
       "parse": false
     },
     {
       "name": "RedBox Rush",
-      "url": "https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8",
+      "url": "https://rush-redbox.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8WKhpHTZoLYtP6x6QThDEu0Q9nPIE_z7pg&usqp=CAU",
       "parse": false
     },
