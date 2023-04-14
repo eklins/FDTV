@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "1080ZYK",
+      "ad": "no",
+      "url": "https://vip.zykbf.com/?url="
+    },
+    {
+      "id": 1,
       "name": "无尽备用",
       "ad": "no",
       "url": "https://jx.wujinkk.com/dplayer/?url="
@@ -23,12 +29,6 @@
       "name": "iKun",
       "ad": "no",
       "url": "https://www.ikdmjx.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "1080ZYK",
-      "ad": "no",
-      "url": "https://vip.zykbf.com/?url="
     },
     {
       "id": 1,
