@@ -32,7 +32,7 @@
     },
     {
       "name": "香港无线新闻台",
-      "url": "https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8",
+      "url": "http://162.19.247.76:22222/live/tvbnews/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
       "parse": false
     },
