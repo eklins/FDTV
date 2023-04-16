@@ -433,6 +433,12 @@
       "parse": false
     },
     {
+      "name": "台湾中天Talk Show",
+      "url": "https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾中天亚洲台",
       "url": "http://103.68.63.37:8278/ctiasia_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
