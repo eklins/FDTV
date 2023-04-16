@@ -469,85 +469,85 @@
       "parse": false
     },
     {
-      "name": "台湾中天新闻",
+      "name": "中天新闻",
       "url": "http://103.68.63.37:8278/ctinews/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾中天新闻 2",
+      "name": "中天新闻 2",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=03",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPgNWQor0oaPEa4Y9jViBUOCfWVbmBT6mcw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾中天新闻 Talk Show",
+      "name": "中天新闻 Talk Show",
       "url": "https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyzS7wwbXeDD0hpdXr0cg593tcsP9_eNMxmA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾TVBS新闻",
+      "name": "TVBS新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾东森新闻",
+      "name": "东森新闻",
       "url": "http://2023.stream-link.org/live/1793825065",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSeltIT1EVJAcXzstrQnjajWsrDUJj64FlQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾民视新闻",
+      "name": "民视新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾台视新闻",
+      "name": "台视新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q8qNfsfYckBC4fWMv5VeLk9NvT4Ixp1cKA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾华视新闻",
+      "name": "华视新闻",
       "url": "http://stream.dsichannel.com/hls/cts-news.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾中视新闻",
+      "name": "中视新闻",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=02",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾mnews•镜新闻",
+      "name": "mnews•镜新闻",
       "url": "https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾寰宇新闻台",
+      "name": "寰宇新闻台",
       "url": "http://2023.stream-link.org/live/1932250847",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾寰宇国际新闻台",
+      "name": "寰宇国际新闻台",
       "url": "http://2023.stream-link.org/live/1212532853",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmviZt66uWVcrtZPqKcutAp2eEo-7oI4pBGg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾三立iNews",
+      "name": "三立iNews",
       "url": "http://2023.stream-link.org/live/1998094138",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾三立LIVE新闻",
+      "name": "三立LIVE新闻",
       "url": "http://2023.stream-link.org/live/1803236734",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
       "parse": false
