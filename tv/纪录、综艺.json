@@ -307,26 +307,8 @@
       "parse": false
     },
     {
-      "name": "台湾八大综合台",
-      "url": "http://103.68.63.37:8278/badazhonghe/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾东风37",
       "url": "http://123.51.230.108:18560/.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾东森超视",
-      "url": "http://103.68.63.37:8278/ettvsuper/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾东森综合",
-      "url": "http://103.68.63.37:8278/ettvzhonghe/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -373,38 +355,8 @@
       "parse": false
     },
     {
-      "name": "台湾三立",
-      "url": "http://103.68.63.37:8278/sanlitaiwan/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾三立综合台",
-      "url": "http://103.68.63.37:8278/sanlizhonghe/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾世新综合",
       "url": "http://61.58.60.230:9319/live/49.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾TITV（原住民电视）",
-      "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾TVBS",
-      "url": "http://103.68.63.37:8278/tvbs/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾TVBS欢乐台",
-      "url": "http://103.68.63.37:8278/tvbshuanle_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -429,18 +381,6 @@
     {
       "name": "台湾中天美食旅游",
       "url": "http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾中天亚洲台",
-      "url": "http://103.68.63.37:8278/ctiasia_twn/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾中天娱乐",
-      "url": "http://103.68.63.37:8278/ctient/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1839,12 +1779,6 @@
     {
       "name": "Vice (US East)",
       "url": "https://d2do1g43aq7264.cloudfront.net/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "VIUTV 6 (Hong Kong)",
-      "url": "http://103.68.63.37:8278/viusix_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
