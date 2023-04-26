@@ -2,37 +2,31 @@
   "data": [
     {
       "name": "MG（备）12",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221226235/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226235/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "MG（备）13",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221226238/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226238/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "MG（备）14",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221226240/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "MG（备）15",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221226241/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226241/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "MG（备）16",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221226243/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）17",
-      "url": "http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226243/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
@@ -45,6 +39,18 @@
     {
       "name": "MG（备）6147★",
       "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）6241",
+      "url": "http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）6243",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221226243/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
