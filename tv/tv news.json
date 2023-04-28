@@ -469,12 +469,6 @@
       "parse": false
     },
     {
-      "name": "中天新闻",
-      "url": "http://2023.stream-link.org/live/1552993665",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "中天新闻 2",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=03",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPgNWQor0oaPEa4Y9jViBUOCfWVbmBT6mcw&usqp=CAU",
@@ -490,12 +484,6 @@
       "name": "TVBS新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "东森新闻",
-      "url": "http://2023.stream-link.org/live/1793825065",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSeltIT1EVJAcXzstrQnjajWsrDUJj64FlQ&usqp=CAU",
       "parse": false
     },
     {
@@ -526,30 +514,6 @@
       "name": "mnews•镜新闻",
       "url": "https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "寰宇新闻台",
-      "url": "http://2023.stream-link.org/live/1932250847",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "寰宇国际新闻台",
-      "url": "http://2023.stream-link.org/live/1212532853",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmviZt66uWVcrtZPqKcutAp2eEo-7oI4pBGg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "三立iNews",
-      "url": "http://2023.stream-link.org/live/1998094138",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "三立LIVE新闻",
-      "url": "http://2023.stream-link.org/live/1803236734",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
       "parse": false
     }
   ]
