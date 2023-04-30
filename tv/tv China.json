@@ -313,6 +313,12 @@
       "parse": false
     },
     {
+      "name": "康巴卫视",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226207/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8JKrudU_Susx-dYcAYTh7dspM5xBoxo1G1Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "辽宁卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png",
@@ -328,6 +334,12 @@
       "name": "宁夏卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225726/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/ningxia.png",
+      "parse": false
+    },
+    {
+      "name": "农林卫视",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikiw4Lpy2hCM_X2fWOs8f02_RMAv1Eu2zsw&usqp=CAU",
       "parse": false
     },
     {
