@@ -44,7 +44,7 @@
     },
     {
       "name": "NewTV 动作电影",
-      "url": "http://39.135.7.4:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3",
+      "url": "http://117.169.124.149:8080/live/dongzuody/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -104,7 +104,7 @@
     },
     {
       "name": "NewTV 惊悚悬疑",
-      "url": "http://39.135.7.4:6610/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3",
+      "url": "http://117.169.124.149:8080/live/jingsongxy/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
