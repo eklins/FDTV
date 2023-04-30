@@ -2,16 +2,17 @@
   "data": [
     {
       "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
-      "url": "http://akm-tct.douyucdn.cn/live/1584198rWxDrjX1t.m3u8?uuid=",
+      "url": "http://epg.112114.xyz/douyu/1584198",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
       "parse": false
     },
     {
       "name": "大秦赋 2020",
-      "url": "http://aldirect.corp-hls.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8??",
+      "url": "http://epg.112114.xyz/huya/11352881",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
       "parse": false
     },
+
     {
       "name": "三国演义 1994",
       "url": "https://akm-tct.douyucdn.cn/live/7459925rjxKcfdq1.m3u8?uuid=",
