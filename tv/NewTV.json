@@ -139,6 +139,12 @@
       "parse": false
     },
     {
+      "name": "NewTV 热播精选",
+      "url": "http://39.134.136.205:6610/200000001898/460000089800010121/1.m3u8?IAS=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NewTV 武搏世界",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
