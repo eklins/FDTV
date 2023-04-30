@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
-      "url": "http://epg.112114.xyz/douyu/1584198",
+      "url": "http://hdltctwk.douyucdn2.cn/live/1584198rMkRumSxq.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
       "parse": false
     },
@@ -12,34 +12,33 @@
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
       "parse": false
     },
-
     {
       "name": "三国演义 1994",
-      "url": "https://akm-tct.douyucdn.cn/live/7459925rjxKcfdq1.m3u8?uuid=",
+      "url": "http://hdltctwk.douyucdn2.cn/live/7459925rjxKcfdq1.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
       "parse": false
     },
     {
       "name": "康熙王朝 2001",
-      "url": "http://aldirect.corp-hls.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8??",
+      "url": "http://epg.112114.xyz/huya/11352940",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "康熙微服私访记 1997-2003",
-      "url": "https://akm-tct.douyucdn.cn/live/7550220rtR7gNPCW.m3u8?uuid=",
+      "url": "http://hdltctwk.douyucdn2.cn/live/7550220rEXv3Benp.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "铁齿铜牙纪晓岚 1999-2008",
-      "url": "https://akm-tct.douyucdn.cn/live/9071554rmZUDXmCR.m3u8?uuid=",
+      "url": "http://hdltctwk.douyucdn2.cn/live/9071554rmZUDXmCR.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "2 Broke Girls 2011-2017",
-      "url": "http://aldirect.corp-hls.huya.com/src/1394575539-1394575539-5989656331806572544-2789274534-10057-A-0-1.m3u8??",
+      "url": "http://epg.112114.xyz/huya/11342417",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgG3T1ekIEeQpgxzRQ532cG0A0E_RoIFykA&usqp=CAU",
       "parse": false
     },
@@ -221,114 +220,6 @@
       "name": "Your Pretty Face Is Going to Hell 2013-2019",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJRgSlvEDVDpr24RXEr8d0TIoxDhTrgP_i8w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "朱元璋 2006",
-      "url": "https://akm-tct.douyucdn.cn/live/308752rzTqB0oYfk.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcU9ndGhf8h1WTPxKgQkw5KmD9kXD6d7LDg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "芈月传 2015",
-      "url": "http://aldirect.corp-hls.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvXm6EBSw9L68tp2BOqOzUsMNNDXmMlA3Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "新三国 2010",
-      "url": "https://akm-tct.douyucdn.cn/live/276200r8BuXLoShZ.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfoCWDswarGIVU7EBrJ_gN0AtNbNcIL8a8g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "新水浒传 2011",
-      "url": "https://akm-tct.douyucdn.cn/live/6785471ryzbw96Kz.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "宰相刘罗锅 1996",
-      "url": "https://akm-tct.douyucdn.cn/live/8543072rIYIMKk2I.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPT1DuFORJ95r05kypIYDsAhVkzErK69TlDA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "神探狄仁杰 2004",
-      "url": "http://aldirect.corp-hls.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmNbfckKx_YJkdR7L6oxsM_Sj528yekbzlA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "西游记（华）1996",
-      "url": "http://aldirect.corp-hls.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBLTj796bEKG8yfbBrdFfbg7ZEu9yWfzwwg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "西游记 贰（粤）1998",
-      "url": "http://aldirect.corp-hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3GL2TS8glFCjXtvSJIYahoLO1IR4QivYcmA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "济公活佛 2010",
-      "url": "http://aldirect.corp-hls.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHtvMxJdFwSIIIY9UKRlpPBVYtkL4aEbkwg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "神雕侠侣 2014",
-      "url": "http://aldirect.corp-hls.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoriG1geAQ6mrDVWHS9gcgkYs0IFcQeQZdnQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "书剑恩仇录 2002",
-      "url": "http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2777027388-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeV-pPtdy-AzC-G8zjrsqqt9QKZesSQkv4fQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "白眉大侠 1995",
-      "url": "http://aldirect.corp-hls.huya.com/src/1081939992-1081939992-4646896881874501632-2164003440-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zyrz1nK0D8RyT_H8Cq2BVdRMOcuHfZeqHQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "龙门镖局 2013",
-      "url": "https://akm-tct.douyucdn.cn/live/9650860rML6TwmqI.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXyJ8tqbSOFyZtZj6IVNzbswJfOGNW-WdQw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "大清盐商 2014",
-      "url": "http://aldirect.corp-hls.huya.com/src/1449545371-1449545371-6225749962513186816-2789274568-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLv1lcIWppREKu8_pegQlJvkR4dW5w5953Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "庆余年 2019",
-      "url": "https://akm-tct.douyucdn.cn/live/7489563rNae2J57j.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MWbCT00LROfbtH-ohRUwlSMZwzgNdekDkg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "铁梨花 2010",
-      "url": "http://aldirect.corp-hls.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ArJiQkmoy8N_Z7S1MWaqzPxuqmBDEZzrpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "火线三兄弟 2013",
-      "url": "https://akm-tct.douyucdn.cn/live/9176009rs56WSQVO.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrZzw8idh22tSMkUoUZnSbnor5kpLuB7Bow&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "伪装者 2015",
-      "url": "http://aldirect.corp-hls.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrCDD97ubdn52y0XRiqWdhy0HYmLC9MeaXg&usqp=CAU",
       "parse": false
     },
     {
@@ -550,36 +441,6 @@
     {
       "name": "东南电视剧（福建）",
       "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼 090",
-      "url": "https://akm-tct.douyucdn.cn/live/6785471ryzbw96Kz.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼 113",
-      "url": "https://akm-tct.douyucdn.cn/live/5522351rfDRipYot.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼 117",
-      "url": "https://akm-tct.douyucdn.cn/live/338759rI0ypPx4dr.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼 135",
-      "url": "https://akm-tct.douyucdn.cn/live/7476264rVo7560bm.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "斗鱼 141",
-      "url": "https://akm-tct.douyucdn.cn/live/7623292r5bcwwnUu.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
