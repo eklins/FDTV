@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
+      "url": "https://epg.112114.xyz/douyu/1584198",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "大秦赋 2020",
+      "url": "https://epg.112114.xyz/huya/11352881",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港无线新闻台",
       "url": "https://cdn.hklive.tv/xxxx/83/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
