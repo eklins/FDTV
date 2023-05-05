@@ -8,7 +8,13 @@
     },
     {
       "name": "海绵宝宝 ②",
-      "url": "https://m.huya.com/11352919",
+      "url": "http://diyp.112114.xyz/douyu/8762358",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4haP2-Asg8a544pqQxwsE5umyfdLA0UJ7Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "海绵宝宝 ③",
+      "url": "http://diyp.112114.xyz/huya/11352919",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
       "parse": true
     },
