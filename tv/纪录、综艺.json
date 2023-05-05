@@ -613,6 +613,12 @@
       "parse": false
     },
     {
+      "name": "Crime and Evidence (Somalia)",
+      "url": "https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cut Up N Cook",
       "url": "https://simultv.s.llnwi.net/o059/CutUpNCook/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -699,6 +705,12 @@
     {
       "name": "Entrepreneur",
       "url": "https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ETVN (Somalia)",
+      "url": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -807,6 +819,12 @@
     {
       "name": "FOX Soul (US)",
       "url": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Fresh (Somalia)",
+      "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -985,6 +1003,12 @@
       "parse": false
     },
     {
+      "name": "Limelight (Somalia)",
+      "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Link TV",
       "url": "https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamb/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1017,6 +1041,12 @@
     {
       "name": "LOL! Network (Netherlands)",
       "url": "https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "LOL African (Somalia)",
+      "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1641,6 +1671,12 @@
     {
       "name": "Travel XP (UK)",
       "url": "https://travelxp-travelxp-1-gb.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "True African (Somalia)",
+      "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
