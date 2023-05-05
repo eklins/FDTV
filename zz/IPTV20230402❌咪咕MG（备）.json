@@ -1343,6 +1343,30 @@
       "url": "http://39.135.46.102:6610/PLTV/77777777/224/3221225852/index.m3u8?hls",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "芒果TV 01",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028056/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果TV 02",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285865/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果TV 03",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285866/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果TV 04",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285875/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
+      "parse": false
     }
   ]
 }
