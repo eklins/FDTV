@@ -1,21 +1,21 @@
 {
   "data": [
     {
-      "name": "海绵宝宝",
-      "url": "http://aldirect.corp-hls.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.m3u8??",
+      "name": "海绵宝宝 ①",
+      "url": "http://hdltctwk.douyucdn2.cn/live/2250349rPeCTJpXY.m3u8?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "海绵宝宝 ②",
+      "url": "https://m.huya.com/11352919",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
+      "parse": true
     },
     {
       "name": "名侦探柯南 1996",
       "url": "http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQf37zCMrHwLTt-STvzC6yDTomOapwwvvXA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "龙珠•改（日）2009",
-      "url": "http://aldirect.corp-hls.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8??",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJ5dREDA5RSGqAMIUKqMdyANSj3qLKNqRUw&usqp=CAU",
       "parse": false
     },
     {
