@@ -80,12 +80,6 @@
     },
     {
       "id": 1,
-      "name": "速看",
-      "ad": "no",
-      "url": "https://open.wn231.com/?url="
-    },
-    {
-      "id": 1,
       "name": "光速（新）",
       "ad": "no",
       "url": "https://www.gszyv.com/m3u8/?url="
@@ -119,6 +113,18 @@
       "name": "百度",
       "ad": "no",
       "url": "https://jx.jxbdzyw.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "速看",
+      "ad": "no",
+      "url": "https://open.wn231.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "草榴",
+      "ad": "no",
+      "url": "https://jx.caoliuzycdn.com/m3u8.php?url="
     },
     {
       "id": 1,
