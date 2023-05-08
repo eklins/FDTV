@@ -253,12 +253,6 @@
       "parse": false
     },
     {
-      "name": "CP 24 (Canada)",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31986",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXcUc8fy4eZGUdGp_40jlh8_Fg4SklM6c0Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "DW (Germany)",
       "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJlMEGy8RyOAyUkPteM0L0p26jaQ5oPbkvA&usqp=CAU",
@@ -268,12 +262,6 @@
       "name": "Euronews (France)",
       "url": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9l9XznkKEKKDPC58NZAkvqOpclUl4a472rQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX News",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32271",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6rCH-5bbqvrxS6cx6JxG0QJafh0jHan7oQ&usqp=CAU",
       "parse": false
     },
     {
@@ -304,12 +292,6 @@
       "name": "Global News (Canada)",
       "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTX0-GiIU3F2ADp-KT5vrZ-c7DY9juidEsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MSNBC",
-      "url": "http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32201",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHg5r1R9ZzAX388OdSNCcLBb4LstUV1ONfQ&usqp=CAU",
       "parse": false
     },
     {
