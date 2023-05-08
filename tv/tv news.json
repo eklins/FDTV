@@ -133,9 +133,9 @@
       "parse": false
     },
     {
-      "name": "BBC World News",
+      "name": "BBC News",
       "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWydvEITUDSPECwODd3bwcbdNa4PegZgFRQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",
       "parse": false
     },
     {
