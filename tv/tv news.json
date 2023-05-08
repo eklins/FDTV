@@ -19,20 +19,26 @@
       "parse": false
     },
     {
-      "name": "香港凤凰卫视中文台",
-      "url": "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
+      "name": "凤凰卫视中文台",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8",
       "pic": "https://img.sinchew.com.my/2020-07/06/b7834eb2-3a07-4c1e-94da-6fa5fd0ddd3b.jpg",
       "parse": false
     },
     {
-      "name": "香港凤凰卫视资讯台",
-      "url": "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8",
+      "name": "凤凰卫视资讯台",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpp4JUET7lRmP38E2ezRIs3yIb5646mRecg&usqp=CAU",
       "parse": false
     },
     {
+      "name": "凤凰卫视香港台",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHyBvfLga6ivAtyORxggGkvxlbTM8DxIK2Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港无线新闻台",
-      "url": "http://162.19.247.76:22222/live/tvbnews/index.m3u8",
+      "url": "https://pull-l3-cny.douyincdn.com/live/stream-1452172023043011035.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
       "parse": false
     },
