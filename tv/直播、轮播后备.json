@@ -55,6 +55,60 @@
       "parse": false
     },
     {
+      "name": "香港有线新闻台",
+      "url": "http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港有线财经资讯台",
+      "url": "http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KtzyAbZDyX7rNNKoDVHVZ2JCtfTupWfafw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港国际财经台 HKIBC",
+      "url": "http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8I0ZPWACRx9egWfTzOeaSpkP03A7Armnzg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港耀才财经台 BSTV",
+      "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQmKKfdMA2xHnNYBbix78Ksq5XxlK7G_WQw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "第一财经",
+      "url": "http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuR5H4Tebef3-p_nUbHxU08Ks5LvlVQ8pZfA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "点掌财经",
+      "url": "http://cclive2.aniu.tv/live/anzb.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWcVHWbib_SsMA9i6TznmRGwheSayuemnHw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "东方财经•浦东",
+      "url": "http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYG1YmQpfseqW6Db0qdvMBcDO52e_PafM6A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "福州财富天下",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/caifu/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiiX62ZfeZxHUON7TZ3nr21o_93g3AksISNg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "INBM证劵服务",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/jiazheng/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTteSX-OBwfWQX9zzyZ-_5KtMvDUgJmvGHbgA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Epic Drama (Netherlands★360p)",
       "url": "http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/17767",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
