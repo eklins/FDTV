@@ -37,6 +37,18 @@
       "parse": false
     },
     {
+      "name": "Afriwood Blockbuster (Somalia) [Not 24/7]",
+      "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Afriwood Series (Somalia) [Not 24/7]",
+      "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "American Horrors (480p)",
       "url": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
