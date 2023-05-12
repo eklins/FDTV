@@ -3,8 +3,6 @@
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO TVB Jade 翡翠台
-http://23.237.10.66:16410
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKp-sybJjzhXH-L4eIHD0JGj7YA5rVsjHmBw&usqp=CAU",Bernama
 https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwnSGubDN1ge8MBQARTGACXd5fhPEPtEAljA&usqp=CAU",Cinema World (576p)
