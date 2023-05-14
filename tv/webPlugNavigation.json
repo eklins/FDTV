@@ -122,6 +122,17 @@
       "click": true
     },
     {
+      "name": "Koora Live⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSztZBEgOQE5JA9LZHVd2SxNUXoEI2i2B_Wtw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://koora-lives.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "考古纪录片",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JbDAisQCMVx6Q-zJ9SxT7aEfVGHZA7Jh9A&usqp=CAU",
       "keyDownPlay": false,
