@@ -1,16 +1,16 @@
 {
   "data": [
     {
-      "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
-      "url": "https://epg.112114.xyz/douyu/1584198",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
+      "name": "咪咕",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.10.0.28:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "大秦赋 2020",
-      "url": "https://epg.112114.xyz/huya/11352881",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
-      "parse": false
+      "name": "咪咕 T",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.10.0.28:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
     },
     {
       "name": "香港无线新闻台",
