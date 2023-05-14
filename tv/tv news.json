@@ -8,37 +8,37 @@
     },
     {
       "name": "CNC 新华社",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225694/index.m3u8",
+      "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_2A9rgtSm-3C7YsRtSrsL7Mi2tQJE58r1Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "CNC World",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225693/index.m3u8",
+      "url": "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kT5PSUXc0FFuiwcGBHRVEFHsvtUC8kdbJg&usqp=CAU",
       "parse": false
     },
     {
       "name": "凤凰卫视中文台",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8",
-      "pic": "https://img.sinchew.com.my/2020-07/06/b7834eb2-3a07-4c1e-94da-6fa5fd0ddd3b.jpg",
+      "url": "http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJR1PgOCVMIZz26J2ICl9ifdXXm6JEmp-fTA&usqp=CAU",
       "parse": false
     },
     {
       "name": "凤凰卫视资讯台",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpp4JUET7lRmP38E2ezRIs3yIb5646mRecg&usqp=CAU",
+      "url": "http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFtQ5Y4OPZb9g-0O8r0XMuvaIFrrSzAUoIg&usqp=CAU",
       "parse": false
     },
     {
       "name": "凤凰卫视香港台",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8",
+      "url": "http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHyBvfLga6ivAtyORxggGkvxlbTM8DxIK2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港无线新闻台",
-      "url": "https://pull-l3-cny.douyincdn.com/live/stream-1452172023043011035.m3u8",
+      "url": "http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
       "parse": false
     },
