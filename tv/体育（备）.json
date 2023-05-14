@@ -73,6 +73,12 @@
       "parse": false
     },
     {
+      "name": "MG（备）122／4K",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.122:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MG（备）12",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226235/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
