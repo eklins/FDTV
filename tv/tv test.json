@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "name": "咪咕",
-      "url": "http://iptv.kjrzxhb.top:2086/udp/239.10.0.28:5140",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕 T",
-      "url": "http://iptv.kjrzxhb.top:2086/udp/239.10.0.28:5140",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "香港无线新闻台",
       "url": "https://cdn.hklive.tv/xxxx/83/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
