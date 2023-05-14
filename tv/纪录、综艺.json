@@ -307,6 +307,12 @@
       "parse": false
     },
     {
+      "name": "中央新影发现之旅",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港HOY TV（开电视）",
       "url": "http://media.fantv.hk/m3u8/archive/channel2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
