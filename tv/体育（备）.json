@@ -197,6 +197,18 @@
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "ELTA體育1台",
+      "url": "http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmR57bPaNxNG1_f-gwy_eDMsT9INstrKRAQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ELTA體育2台",
+      "url": "http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmR57bPaNxNG1_f-gwy_eDMsT9INstrKRAQ&usqp=CAU",
+      "parse": false
     }
   ]
 }
