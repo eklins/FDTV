@@ -361,6 +361,12 @@
       "parse": false
     },
     {
+      "name": "Scripps News",
+      "url": "https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0XFGWPW6Mwmt2lo0UJF9M9DQSdzfaDekKw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sky News (UK)",
       "url": "https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYzof1cB7QA9TSfSieN-s70esnHQJTXgbgA&usqp=CAU",
