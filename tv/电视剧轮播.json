@@ -314,13 +314,13 @@
     },
     {
       "name": "STIRR Charge! [2100-1500]",
-      "url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+      "url": "https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
     {
       "name": "STIRR Comet [2100-1500]",
-      "url": "http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8",
+      "url": "https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
