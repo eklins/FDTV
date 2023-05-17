@@ -91,6 +91,12 @@
       "parse": false
     },
     {
+      "name": "Comet [2100-1500]",
+      "url": "https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Futura",
       "url": "https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
