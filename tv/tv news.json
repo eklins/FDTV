@@ -43,6 +43,12 @@
       "parse": false
     },
     {
+      "name": "香港无线财经•体育•资讯台",
+      "url": "http://cdn.hkdtmb.com/hls/85/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzYje3dnB-4N0ZMmtrv5NvLM__grjKn4DiRA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港有线新闻台",
       "url": "http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
