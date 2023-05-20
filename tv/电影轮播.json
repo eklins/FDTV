@@ -1981,6 +1981,24 @@
       "parse": false
     },
     {
+      "name": "CCTV 第一剧场",
+      "url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 风云剧场",
+      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012513603.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 怀旧剧场",
+      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012511203.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
+      "parse": false
+    },
+    {
       "name": "IPTV 高清院线",
       "url": "http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxo3xfmYTH1NY8CH2V9PqD63SjwF8fIU_B5Q&usqp=CAU",
