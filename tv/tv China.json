@@ -121,21 +121,15 @@
       "parse": false
     },
     {
-      "name": "CCTV 风云剧场",
-      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012513603.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
-      "parse": false
-    },
-    {
-      "name": "CCTV 高尔夫•网球",
-      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012512503.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
-      "parse": false
-    },
-    {
       "name": "CCTV 发现之旅",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 风云剧场",
+      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012513603.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
       "parse": false
     },
     {
@@ -148,6 +142,12 @@
       "name": "CCTV 风云足球",
       "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012514203.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 高尔夫•网球",
+      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012512503.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
       "parse": false
     },
     {
