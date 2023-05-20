@@ -127,6 +127,12 @@
       "parse": false
     },
     {
+      "name": "CGTN Documentary",
+      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2010155403.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
+      "parse": false
+    },
+    {
       "name": "IPTV 芒果互娱",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196970/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxo3xfmYTH1NY8CH2V9PqD63SjwF8fIU_B5Q&usqp=CAU",
