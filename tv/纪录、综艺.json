@@ -86,20 +86,44 @@
     },
     {
       "name": "CCTV-3 综艺",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGS5wQ-Fb9Bts78C8A9We8EEL-XnI6ylTCPQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-9 纪录",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQysQQ5EJfQrVkfErdfB5suwV6ID1tEThNg&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-10 科教",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYL2v7XpnJDK5h0OdY161IocFytfm6IoQkFw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 发现之旅",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 女性时尚",
+      "url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6FE_v2wtvMu4J7lyFBZUVVvxoE3BswYgPA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 老故事",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
+      "parse": false
+    },
+    {
+      "name": "CCTV 文化精品",
+      "url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
       "parse": false
     },
     {
