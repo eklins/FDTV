@@ -1003,6 +1003,12 @@
       "parse": false
     },
     {
+      "name": "U Channel (Indonesia) [Not 24/7]",
+      "url": "http://210.210.155.35/x6bnqe/s/s73/index2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "V Classic TV (Chile)",
       "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
