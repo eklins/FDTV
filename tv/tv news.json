@@ -206,7 +206,7 @@
     },
     {
       "name": "CNBC Europe (UK)",
-      "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
+      "url": "https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live_720p/chunks.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU",
       "parse": false
     },
