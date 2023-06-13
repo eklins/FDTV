@@ -145,6 +145,12 @@
       "parse": false
     },
     {
+      "name": "Parsiland TV (Iran)",
+      "url": "http://vps.parsiland.net/hls/ParsiLand.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Suria (Singapore) [Not 24/7]",
       "url": "http://23.237.10.66:16492",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
