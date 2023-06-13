@@ -37,6 +37,12 @@
       "parse": true
     },
     {
+      "name": "HBO (Singapore)",
+      "url": "https://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941648",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "BBC News (UK)",
       "url": "http://xtra.fireottplus.com:2052/017458648389/407609858756/146413",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",
