@@ -3,17 +3,15 @@
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKp-sybJjzhXH-L4eIHD0JGj7YA5rVsjHmBw&usqp=CAU",Bernama
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Bernama
 https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwnSGubDN1ge8MBQARTGACXd5fhPEPtEAljA&usqp=CAU",Cinema World (576p)
 http://210.210.155.35:80/dr9445/h/h04/index.m3u8
-#EXTINF:-1 logo="https://www.coolstreaming.us/img/ch/ima24238087143.jpg",Maah TV
-http://51.210.199.33/hls/stream.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrmy0ciO60F5FvI3dHiRAG4eglSGk1XUG5Q&usqp=CAU",ROCK Action (576p) [Formerly as ROCK Extreme]
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrmy0ciO60F5FvI3dHiRAG4eglSGk1XUG5Q&usqp=CAU",ROCK Action (576p) [Formerly known as ROCK Extreme]
 http://210.210.155.35:80/dr9445/h/h15/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIzgPMYDjGIH2DVqOkbYsLxWbxgpF1ANs0g&usqp=CAU",ROCK Entertainment (576p)
 http://210.210.155.35:80/dr9445/h/h16/index.m3u8
-#EXTINF:-1 logo="https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg",RTM Sukan
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fffh0YASFhxtsC8OMF9K0E-Mkse189bGPQ&usqp=CAU",RTM Sukan
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpoxvRef94zWT_VgzRRAxOY2QX1j41E6b8ag&usqp=CAU",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
