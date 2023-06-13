@@ -163,6 +163,36 @@
       "parse": true
     },
     {
+      "name": "HBO (Singapore)",
+      "url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941648",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "HBO Family (Singapore)",
+      "url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941646",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "HBO Family (Singapore)",
+      "url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941647",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "HBO Signature (Singapore)",
+      "url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941645",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "HITS Movies (Singapore)",
+      "url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571200",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Horror",
       "url": "https://m.huya.com/11352903",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -265,8 +295,8 @@
       "parse": true
     },
     {
-      "name": "TVB Jade (Hong Kong)",
-      "url": "http://r.jdshipin.com/62WM7",
+      "name": "TVB Jade 翡翠台 (B)",
+      "url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941619",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
