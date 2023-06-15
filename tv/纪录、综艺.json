@@ -235,6 +235,12 @@
       "parse": false
     },
     {
+      "name": "UTV 时尚音乐",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.188:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "UTV 文化教育",
       "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.183:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
