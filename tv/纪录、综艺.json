@@ -223,9 +223,27 @@
       "parse": false
     },
     {
-      "name": "SiTV 乐游（全纪实）",
-      "url": "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "name": "UTV 钓鱼生活",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.185:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 纪实天下",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.176:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 文化教育",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.183:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 舞蹈视界",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.174:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
       "parse": false
     },
     {
