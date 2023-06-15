@@ -49,39 +49,9 @@
       "parse": false
     },
     {
-      "name": "NewTV 超级体育",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewTV 精品体育",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 极速汽车",
-      "url": "http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 劲爆体育",
-      "url": "http://39.134.136.138:6610/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 魅力足球",
-      "url": "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 新视觉HD",
-      "url": "http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "name": "UTV 风云体育",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.184:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
       "parse": false
     },
     {
