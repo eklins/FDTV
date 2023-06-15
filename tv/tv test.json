@@ -301,6 +301,30 @@
       "parse": false
     },
     {
+      "name": "SiTV 极速汽车",
+      "url": "http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SiTV 劲爆体育",
+      "url": "http://39.134.136.138:6610/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SiTV 魅力足球",
+      "url": "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SiTV 新视觉HD",
+      "url": "http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cai Chang 采昌 (Taiwan)",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
