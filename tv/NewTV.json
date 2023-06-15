@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "NewTV 爱情喜剧",
-      "url": "http://117.169.124.149:8080/live/aiqingxj/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.149:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -44,19 +44,19 @@
     },
     {
       "name": "NewTV 动作电影",
-      "url": "http://117.169.124.149:8080/live/dongzuody/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.142:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "NewTV 古装剧场",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.141:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "NewTV 海外剧场",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.145:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -68,7 +68,7 @@
     },
     {
       "name": "NewTV 家庭剧场",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.131:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -80,13 +80,13 @@
     },
     {
       "name": "NewTV 精品大剧",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.150:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "NewTV 精品纪录",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.132:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -104,19 +104,19 @@
     },
     {
       "name": "NewTV 惊悚悬疑",
-      "url": "http://117.169.124.149:8080/live/jingsongxy/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.144:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "NewTV 军旅剧场",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.143:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "NewTV 军事评论",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.136:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -128,13 +128,13 @@
     },
     {
       "name": "NewTV 明星大片",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.147:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "NewTV 农业致富",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.137:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -146,7 +146,7 @@
     },
     {
       "name": "NewTV 武搏世界",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.146:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -158,13 +158,13 @@
     },
     {
       "name": "NewTV 怡伴健康",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.133:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "NewTV 中国功夫",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.151:5140",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     }
