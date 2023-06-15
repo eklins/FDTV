@@ -637,9 +637,21 @@
       "parse": false
     },
     {
-      "name": "SiTV 动漫秀场",
-      "url": "http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "name": "UTV 金色童年",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.182:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 卡通动画",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.181:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 炫酷动漫",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.186:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
       "parse": false
     },
     {
