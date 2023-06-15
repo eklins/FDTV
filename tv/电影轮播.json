@@ -2005,15 +2005,63 @@
       "parse": false
     },
     {
-      "name": "SiTV 都市剧场",
-      "url": "http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "name": "UTV 第一电影",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.180:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "UTV 精彩连播",
+      "name": "UTV 第一剧场",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.189:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 电影天地",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.177:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 都市剧场",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.175:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 家庭影院",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.179:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 经典剧场",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.178:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 经典影视",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.173:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 热播剧场",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.171:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 影视精选",
       "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.170:5140",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UTV 优视影院",
+      "url": "http://iptv.kjrzxhb.top:2086/udp/239.11.0.172:5140",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3p6R5zWwSYa2UByVhqEQDfp79TNrt24VHQ&usqp=CAU",
       "parse": false
     },
     {
