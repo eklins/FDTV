@@ -313,6 +313,12 @@
       "parse": false
     },
     {
+      "name": "天才衝衝衝 2006",
+      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HRw_8I8206grqxn4_BEQ8TH9eQMPqxyiaQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SiTV 极速汽车",
       "url": "http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
