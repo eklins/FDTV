@@ -38,6 +38,12 @@
     },
     {
       "id": 1,
+      "name": "OK资源",
+      "ad": "no",
+      "url": "https://apiok.tv/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "68资源",
       "ad": "no",
       "url": "https://jiexi.68zy.vip/m3u8/?url="
