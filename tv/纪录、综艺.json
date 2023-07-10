@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "48 Hours MYSTERY 1988",
+      "name": "48 HOURS∣MYSTERY 1988",
       "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ckUT6AI8x1ArnbefX_8xG-acdeIh7KoARA&usqp=CAU",
       "parse": false
@@ -64,12 +64,6 @@
       "name": "The Price is Right 1972",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6L2OMvXRkklrd2D0x88B1H5EfwBOQj7GUA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Total Wipeout 2009",
-      "url": "https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3MSrsP2AK0fsXqgQ833p1jhePoimMqm40GA&usqp=CAU",
       "parse": false
     },
     {
