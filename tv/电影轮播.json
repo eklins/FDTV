@@ -55,12 +55,6 @@
       "parse": false
     },
     {
-      "name": "Asian Crush",
-      "url": "https://ac-samsung-us.ono.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "AVA Family (Iran)",
       "url": "https://familyhls.avatv.live/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -92,7 +86,7 @@
     },
     {
       "name": "Bounce XL",
-      "url": "https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8",
+      "url": "https://linear-434.frequency.stream/434/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -380,7 +374,7 @@
     },
     {
       "name": "ion",
-      "url": "https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8",
+      "url": "https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -392,7 +386,7 @@
     },
     {
       "name": "ion PLUS",
-      "url": "https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8",
+      "url": "https://linear-433.frequency.stream/433/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
