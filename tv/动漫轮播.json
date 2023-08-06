@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "name": "海绵宝宝 ①",
-      "url": "http://hdltctwk.douyucdn2.cn/live/2250349rPeCTJpXY.m3u8?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "海绵宝宝 ②",
-      "url": "http://diyp.112114.xyz/douyu/8762358",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4haP2-Asg8a544pqQxwsE5umyfdLA0UJ7Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "海绵宝宝 ③",
-      "url": "http://diyp.112114.xyz/huya/11352919",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "名侦探柯南 1996",
       "url": "http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQf37zCMrHwLTt-STvzC6yDTomOapwwvvXA&usqp=CAU",
@@ -271,8 +253,8 @@
       "parse": false
     },
     {
-      "name": "Retro Crush TV",
-      "url": "https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads",
+      "name": "Retro Crush",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
