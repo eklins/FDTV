@@ -271,6 +271,12 @@
       "parse": false
     },
     {
+      "name": "i24 News",
+      "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/2c699e7a-0f46-495a-8da7-4813e561ec39.m3u8?did=ngIZ23",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AcPszXzqE9ka5yXwb1QxPER8CSIIa3S8ww&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NBC News Now",
       "url": "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJrgDEpY9IQryUMSTVFXuT4_tqN9TvJ7hOg&usqp=CAU",
