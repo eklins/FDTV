@@ -55,6 +55,12 @@
       "parse": false
     },
     {
+      "name": "Asian Crush",
+      "url": "https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AVA Family (Iran)",
       "url": "https://familyhls.avatv.live/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -481,7 +487,13 @@
       "parse": false
     },
     {
-      "name": "Lone Star",
+      "name": "Lone Star ①",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Lone Star ②",
       "url": "https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/high/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -507,6 +519,12 @@
     {
       "name": "MHz Choice (Canada)",
       "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Midnight Pulp",
+      "url": "https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -721,8 +739,8 @@
       "parse": false
     },
     {
-      "name": "The Love Destination",
-      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43",
+      "name": "The Film Detective",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
