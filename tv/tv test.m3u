@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,中天
+#EXTINF:-1 ,中天 107
 http://107.151.203.111:2209/hls/zt.m3u8
 #EXTINF:-1 ,中天 php
 http://sc2022.stream-link.org/tv2306.php?id=t03
