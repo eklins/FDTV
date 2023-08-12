@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "name": "中天新闻 T",
-      "url": "https://sc2022.stream-link.org/tv2306.php?id=t03",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "中天新闻 F",
-      "url": "https://sc2022.stream-link.org/tv2306.php?id=t03",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "香港无线新闻台",
       "url": "https://cdn.hklive.tv/xxxx/83/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
