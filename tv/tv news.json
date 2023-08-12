@@ -50,13 +50,13 @@
     },
     {
       "name": "香港有线新闻台",
-      "url": "http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8",
+      "url": "https://sc2022.stream-link.org/list.php?id=h08",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港有线财经资讯台",
-      "url": "http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8",
+      "url": "https://sc2022.stream-link.org/list.php?id=h09",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KtzyAbZDyX7rNNKoDVHVZ2JCtfTupWfafw&usqp=CAU",
       "parse": false
     },
