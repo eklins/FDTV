@@ -38,13 +38,13 @@
     },
     {
       "name": "香港无线新闻台",
-      "url": "http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3",
+      "url": "https://sc2022.stream-link.org/tv2306.php?id=h04",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港无线财经•体育•资讯台",
-      "url": "http://cdn.hkdtmb.com/hls/85/index.m3u8",
+      "url": "https://sc2022.stream-link.org/tv2306.php?id=h05",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzYje3dnB-4N0ZMmtrv5NvLM__grjKn4DiRA&usqp=CAU",
       "parse": false
     },
@@ -457,6 +457,18 @@
       "parse": false
     },
     {
+      "name": "寰宇新闻台",
+      "url": "https://sc2022.stream-link.org/tv2306.php?id=t07",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS32ZVnVLdJF8yY5d6HPYSvbexnosXBLx4Eg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "华视新闻",
+      "url": "http://stream.dsichannel.com/hls/cts-news.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "民视新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
@@ -469,9 +481,9 @@
       "parse": false
     },
     {
-      "name": "华视新闻",
-      "url": "http://stream.dsichannel.com/hls/cts-news.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
+      "name": "中视新闻台",
+      "url": "https://sc2022.stream-link.org/tv2306.php?id=t05",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
       "parse": false
     },
     {
@@ -481,10 +493,22 @@
       "parse": false
     },
     {
-      "name": "台湾三立iNEWS",
-      "url": "https://ythls.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8",
+      "name": "三立iNEWS",
+      "url": "https://sc2022.stream-link.org/tv2306.php?id=t10",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": true
+      "parse": false
+    },
+    {
+      "name": "三立LIVE新闻",
+      "url": "https://sc2022.stream-link.org/tv2306.php?id=t11",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "三立财经台",
+      "url": "https://sc2022.stream-link.org/tv2306.php?id=t09",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hrwOGGBZLLW0koZdu68Vrg6ks9JBDITOCQ&usqp=CAU",
+      "parse": false
     }
   ]
 }
