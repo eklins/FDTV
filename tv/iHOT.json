@@ -1,175 +1,175 @@
 {
   "data": [
     {
-      "name": "iHOT 动漫",
+      "name": "爱动漫",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuVmMF3fbeSLxnpsCUwdkW2sbQnJsj_16Aw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 谍战",
+      "name": "爱谍战",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251J4330-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 都市",
+      "name": "爱都市",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251G9340-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 怀旧",
+      "name": "爱怀旧",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXy2aPEwTBffMwIQ8fzT7ydYP0FPMngMF_4g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 极限",
+      "name": "爱极限",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 家庭",
+      "name": "爱家庭",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251JK20-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 江湖",
+      "name": "爱江湖",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251H0150-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 解密",
+      "name": "爱解密",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNpr_D67SlWwDl-pX1-L3TvNWqIn21ZP8jA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 经典",
+      "name": "爱经典",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251H2130-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 科幻",
+      "name": "爱科幻",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251H4440-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 科学",
+      "name": "爱科学",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 浪漫",
+      "name": "爱浪漫",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251H5480-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 历史",
+      "name": "爱历史",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2Mz3EmwIG64i2ysHU4vZs5q8fiFhbnxS7g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 猎奇",
+      "name": "爱猎奇",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNzOEppMwRntX1DYoUDjXcAw_mI1Rzps3mA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 旅行",
+      "name": "爱旅行",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_EaHjWuKwJKM72sO73Uizpj1oKl_1O2fayg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 美食",
+      "name": "爱美食",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInhxblToHHoPecM_b2JpNg7XLy5A5Cyn7Gw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 奇谈",
+      "name": "爱奇谈",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_4aowadV9A2JCZgq0j46_Ow1zdZ1EKQMFg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 青春",
+      "name": "爱青春",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQyPvcwrU21XyYF7KyVnlvijImgsAlo3saw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 赛车",
+      "name": "爱赛车",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251IS50-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 世界",
+      "name": "爱世界",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF4P2OLUFuFE6vp6hT_JTD9r52O67gubgMvQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 时尚",
+      "name": "爱时尚",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRci41KEQcLCcFkIyCjVXuTOqsZfijzAUEElw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 探索",
+      "name": "爱探索",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8KbnLiVCUri8KCD3EGWlpq7GKJ1uW2aAoA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 体育",
+      "name": "爱体育",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSqnbTESDsOkQT3OJqgUkzTvQpMwjrStd2A&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 玩具",
+      "name": "爱玩具",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMTxBtO4sFYMbXtv0-xl_m_B4jlCmTe1vHQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 喜剧",
+      "name": "爱喜剧",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251G5050-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 悬疑",
+      "name": "爱悬疑",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThqTdanzF3BnVqJ1HUMzvnLPBCjW6HQqAG7w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 娱乐",
+      "name": "爱娱乐",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251J3250-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 幼教",
+      "name": "爱幼教",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251I3300-L.jpg",
       "parse": false
     },
     {
-      "name": "iHOT 院线",
+      "name": "爱院线",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3",
       "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251I4420-L.jpg",
       "parse": false
