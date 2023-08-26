@@ -145,6 +145,66 @@
       "parse": false
     },
     {
+      "name": "iHOT 解密",
+      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNpr_D67SlWwDl-pX1-L3TvNWqIn21ZP8jA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 科学",
+      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 历史",
+      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2Mz3EmwIG64i2ysHU4vZs5q8fiFhbnxS7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 猎奇",
+      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNzOEppMwRntX1DYoUDjXcAw_mI1Rzps3mA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 旅行",
+      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_EaHjWuKwJKM72sO73Uizpj1oKl_1O2fayg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 美食",
+      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInhxblToHHoPecM_b2JpNg7XLy5A5Cyn7Gw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 世界",
+      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF4P2OLUFuFE6vp6hT_JTD9r52O67gubgMvQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 时尚",
+      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRci41KEQcLCcFkIyCjVXuTOqsZfijzAUEElw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 探索",
+      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8KbnLiVCUri8KCD3EGWlpq7GKJ1uW2aAoA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHOT 娱乐",
+      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3",
+      "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251J3250-L.jpg",
+      "parse": false
+    },
+    {
       "name": "IPTV 芒果互娱",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196970/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxo3xfmYTH1NY8CH2V9PqD63SjwF8fIU_B5Q&usqp=CAU",
