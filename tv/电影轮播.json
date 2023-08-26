@@ -1,12 +1,6 @@
 {
   "data": [
     {
-      "name": "2A Network",
-      "url": "https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "34100 TV (Greece)",
       "url": "https://s1.cystream.net/live/34100/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
