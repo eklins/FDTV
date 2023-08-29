@@ -169,6 +169,12 @@
       "parse": false
     },
     {
+      "name": "Pop",
+      "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sci-Fi & Action",
       "url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
