@@ -65,9 +65,9 @@
       "webPlus": {}
     },
     {
-      "name": "IPTV📡",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOS5yW04VEeqQWP2w-j2fGh_WlkYg8yZntSw&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/IPTV.json",
+      "name": "音乐台 ",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E9%9F%B3%E4%B9%90.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -161,9 +161,9 @@
       "webPlus": {}
     },
     {
-      "name": "WebTV ",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsSvI6d33KNTwPWeEuOpUZQo52mT4TQ06rQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/webtv.json",
+      "name": "IPTV📡",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYly60y8jHpRs-IzpmCkvxTHq6KSJdiHe3Sw&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/IPTV.json",
       "type": "json",
       "subTitle": "",
       "click": true,
@@ -321,9 +321,9 @@
       "webPlus": {}
     },
     {
-      "name": "音乐台 ",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E9%9F%B3%E4%B9%90.json",
+      "name": "WebTV ",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsSvI6d33KNTwPWeEuOpUZQo52mT4TQ06rQ&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/webtv.json",
       "type": "json",
       "subTitle": "",
       "click": true,
