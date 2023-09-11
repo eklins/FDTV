@@ -193,9 +193,9 @@
       "webPlus": {}
     },
     {
-      "name": "日のA-E🈲",
+      "name": "日のA-C🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0AcY62eHIvUL3f7zEbWUyzKmuLjG6FxyZQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20A-E.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20A-C.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -209,9 +209,9 @@
       "webPlus": {}
     },
     {
-      "name": "日のF-J🈲",
+      "name": "日のD-H🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaYkLZiORKp8xKtNhoh902sIXssM5KJOy5EQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20F-J.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20D-H.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -225,9 +225,9 @@
       "webPlus": {}
     },
     {
-      "name": "日のK-P🈲",
+      "name": "日のI-L🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYMFvsxMAQlQ6sNQg_p-h6QHLd0mlszmRkA&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20K-P.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20I-L.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -241,9 +241,25 @@
       "webPlus": {}
     },
     {
-      "name": "日のQ-U🈲",
+      "name": "日のM-Q🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVx_RNqsgCaw-ejkHFX6hIO667Ta9dSukkQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20Q-U.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20M-Q.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "日のR-U🈲",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR401q1h0RnVK2NMcamKVI96wraymSQxMwZhw&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20R-U.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -258,7 +274,7 @@
     },
     {
       "name": "日のV-Z🈲",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAKahUjJdBVqtVOdpLUCnky6dl3_QgQO36Zw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4rHbutIdkGe2hGcLFWuvlm6KunTyikXCcg&usqp=CAU",
       "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20V-Z.m3u",
       "type": "m3u",
       "subTitle": "",
