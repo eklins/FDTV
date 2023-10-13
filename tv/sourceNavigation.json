@@ -65,9 +65,9 @@
       "webPlus": {}
     },
     {
-      "name": "精选剧 ",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICJRMr-OS_C30vvIu-WWPLX1oIFUccZF3EQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/blob/raw/tv/%E7%B2%BE%E9%80%89%E5%89%A7.m3u",
+      "name": "美影剧 ",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IAiTCBB3ctb0OcQ7VciMkkyrEM6cT49GhA&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%BE%8E%E5%BD%B1%E5%89%A7.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
