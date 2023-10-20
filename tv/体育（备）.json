@@ -461,6 +461,12 @@
       "url": "http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmR57bPaNxNG1_f-gwy_eDMsT9INstrKRAQ&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "Pluto La Liga Premier | Paramount+",
+      "url": "https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
     }
   ]
 }
