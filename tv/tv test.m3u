@@ -867,6 +867,15 @@ https://www.cnbctv18.com/live-tv/
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
 #EXTINF:-1, 北京体育
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6IcNOzi9RPagnTG4DEKhnUFdzohEeY2OTjA&usqp=CAU",武
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtEGN24gVa3ESQOdsGusnoyqC1eilq51GpQ&usqp=CAU",堂汤
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8wYrYYjgWzuE36Oa6_bWvw0__2rw1i1-gw&usqp=CAU",貌娇
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsEz5ZO0090RAP9B_JydE3eFfnnfTHZIRK0w&usqp=CAU",全缘
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjDunZokWX9R9VB9MALNWQNANVOoCVMfjdIw&usqp=CAU",画何
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYO8pIXOFLCUtYeZLqSlhIIIUxle-0fsRptQ&usqp=CAU",闲会
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvbpX45UIKr4AkbJBu8UoQBT2dtHOykXVdA&usqp=CAU",风云
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAc5YF9ZUSygtxRchPnqMLyqdrDiUH_LE3Dg&usqp=CAU",山风
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhx7PPAEm4fDHXPEBL55e1vAMXS-NENuDfA&usqp=CAU",爱华爱
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",北极光01
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",北极光02
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",北极光03
