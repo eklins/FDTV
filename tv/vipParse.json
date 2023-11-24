@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "海外看",
       "ad": "no",
       "url": "https://dp.haiwaikan.com/index.html?url="
@@ -11,12 +17,6 @@
       "name": "快帆",
       "ad": "no",
       "url": "https://jx.kuaifan.tv/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽备用",
-      "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
