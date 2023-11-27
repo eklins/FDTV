@@ -1489,7 +1489,7 @@ https://m3u.haiwaikan.com/xm3u8/ca139beb68ec3fbd0ae87267a4f992d5fef38f7fe7fe1674
 https://m3u.haiwaikan.com/xm3u8/3402a31faf89558947e22482ed6861062fd55955040c9ce4f84d6ba0938c2fbc9921f11e97d0da21.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8ZuIjDIXiAky0nuA--PDM40-uh9zAknYag&usqp=CAU",The Avengers（复仇者联盟）04/05/2012
 https://cdn.1080pzy.co/20220515/cyXEMxC6/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQynyg6GYzFfIxACD7pTwSXkyRd6wjbrHEvPg&usqp=CAU",Avengers 2：Age of Ultron（复仇者联盟 2：奥创纪元）01/05/2015
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQynyg6GYzFfIxACD7pTwSXkyRd6wjbrHEvPg&usqp=CAU",Avengers 2：Age Of Ultron（复仇者联盟 2：奥创纪元）01/05/2015
 https://cdn.1080pzy.co/20220514/YR5jbNoI/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfRXAzGT5VzOIvCD1wjEUsCu4KjA2JxLe-w&usqp=CAU",Avengers 3：Infinity War（复仇者联盟 3：无限战争）27/04/2018
 https://new.1080pzy.co/20220930/hkKwL85s/index.m3u8
@@ -1507,5 +1507,25 @@ https://s2.fsvod1.com/20220305/c2sHPHYZ/index.m3u8
 https://s2.fsvod1.com/20220305/9sibyVMG/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB06zANAWkdMC2XZazOOJKxtCR7JvgTml-wQ&usqp=CAU",Thor 3：Ragnarok（雷神 3：诸神黄昏）03/11/2017
 https://s2.fsvod1.com/20220305/WK6rDzjM/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJroxpFz_c-qqIKeUz_yPSorMhqlpELXSiTQ&usqp=CAU",Thor 4：Love and Thunder（雷神 4：爱与雷霆）08/07/2022
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJroxpFz_c-qqIKeUz_yPSorMhqlpELXSiTQ&usqp=CAU",Thor 4：Love And Thunder（雷神 4：爱与雷霆）08/07/2022
 https://ikcdn01.ikzybf.com/20220930/rqg7scF9/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-7g5YlDxQAM5nzZmJ-m8OQuGiul3iY5dGw&usqp=CAU",Captain America：The First Avenger（美国队长：复仇者先锋）22/07/2011
+https://vip.kuaiyun3-cdn.com/20230331/9ReODMiU/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9UGedSzSDuTHltyj9ztK3k6UBiQyCnN9jA&usqp=CAU",Captain America 2：The Winter Soldier（美国队长 2：冬日战士）04/04/2014
+https://hd.ijycnd.com/play/Le3wype6/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyoMLALuSzS4ZWw9L6KCr19heD0n9GMmSTA&usqp=CAU",Captain America 3：Civil War（美国队长 3：内战）06/05/2016
+https://m3u.haiwaikan.com/xm3u8/c9bbb0a40ac2bc19b4aeb00c141279fde1b0918b1f293b65b5bfa065256096af9921f11e97d0da21.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLpUGu7pemADn-GHFmcw2NZf2P5AfiN6GRfg&usqp=CAU",Guardians Of The Galaxy（银河护卫队）01/08/2014
+https://vip.kuaiyun3-cdn.com/20230331/XZQJCcJ4/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-89mTDVnqEL26IwGEtkzM621wlAVi6kKGEw&usqp=CAU",Guardians Of The Galaxy 2（银河护卫队 2）05/05/2017
+https://vip.kuaiyun3-cdn.com/20230331/0lbfuXBe/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnn2JPcPmVuGADq9ailifHEx219LlHKSQs8A&usqp=CAU",The Guardians Of The Galaxy Holiday Special（银河护卫队：假日特辑）25/11/2022
+https://vip.lz-cdn1.com/20221125/18618_4df5aace/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86l_IJwwZ2gnOWJqyhM8bDjGasXT7bk75xQ&usqp=CAU",Guardians Of The Galaxy 3（银河护卫队 3）05/05/2023
+https://hot.1080pzy.co/20230707/Ozq1ACN4/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-okwX2K2KqTylHEXFj6buIkj36QltdABBKw&usqp=CAU",Spiderman：Homecoming（蜘蛛侠：英雄归来）07/07/2017
+https://s4.fsvod1.com/20220228/OST2NV1s/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAJVQR57JMcKSfKchdkMj3DB8M2cI3tMQdQ&usqp=CAU",Spiderman 2：Far From Home（蜘蛛侠 2：英雄远征）03/07/2019
+https://s7.fsvod1.com/20220828/nhGyxkde/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-2xriQK2DkC17GlImQsA4eV4XhEhj6enuA&usqp=CAU",Spiderman 3：No Way Home（蜘蛛侠 3：英雄无归）17/12/2021
+https://new.1080pzy.co/20221016/KOseCj8g/index.m3u8
