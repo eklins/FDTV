@@ -37,6 +37,12 @@
       "parse": true
     },
     {
+      "name": "中天新闻",
+      "url": "https://sc2022.stream-link.org/tv2306.php?id=t03",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BBC News (UK)",
       "url": "http://xtra.fireottplus.com:2052/017458648389/407609858756/146413",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",
