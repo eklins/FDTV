@@ -446,7 +446,7 @@
     },
     {
       "name": "中天新闻",
-      "url": "http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=03",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
@@ -454,12 +454,6 @@
       "name": "TVBS新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "寰宇新闻台",
-      "url": "https://sc2022.stream-link.org/tv2306.php?id=t07",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS32ZVnVLdJF8yY5d6HPYSvbexnosXBLx4Eg&usqp=CAU",
       "parse": false
     },
     {
@@ -481,33 +475,9 @@
       "parse": false
     },
     {
-      "name": "中视新闻台",
-      "url": "https://sc2022.stream-link.org/tv2306.php?id=t05",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "mnews•镜新闻",
       "url": "https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "三立iNEWS",
-      "url": "https://sc2022.stream-link.org/tv2306.php?id=t10",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "三立LIVE新闻",
-      "url": "https://sc2022.stream-link.org/tv2306.php?id=t11",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "三立财经台",
-      "url": "https://sc2022.stream-link.org/tv2306.php?id=t09",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hrwOGGBZLLW0koZdu68Vrg6ks9JBDITOCQ&usqp=CAU",
       "parse": false
     }
   ]
