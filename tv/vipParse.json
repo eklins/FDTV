@@ -44,6 +44,24 @@
     },
     {
       "id": 1,
+      "name": "博民",
+      "ad": "no",
+      "url": "https://www.bmm3u8.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "老鸭",
+      "ad": "no",
+      "url": "https://player.77lehuo.com/aliplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "色窝",
+      "ad": "no",
+      "url": "https://player.sewojx.com/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "快帆",
       "ad": "no",
       "url": "https://jx.kuaifan.tv/m3u8/?url="
