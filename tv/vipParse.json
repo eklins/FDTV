@@ -20,6 +20,12 @@
     },
     {
       "id": 1,
+      "name": "乐视",
+      "ad": "no",
+      "url": "https://leshivideoplayurl.com/?url="
+    },
+    {
+      "id": 1,
       "name": "索尼",
       "ad": "no",
       "url": "https://www.snplayer.com/?url="
