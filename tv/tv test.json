@@ -577,6 +577,48 @@
       "parse": false
     },
     {
+      "name": "CNC 新华社",
+      "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_2A9rgtSm-3C7YsRtSrsL7Mi2tQJE58r1Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNC World",
+      "url": "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kT5PSUXc0FFuiwcGBHRVEFHsvtUC8kdbJg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "凤凰卫视资讯台",
+      "url": "http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFtQ5Y4OPZb9g-0O8r0XMuvaIFrrSzAUoIg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港无线新闻台",
+      "url": "https://sc2022.stream-link.org/tv2306.php?id=h04",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港无线财经•体育•资讯台",
+      "url": "https://sc2022.stream-link.org/tv2306.php?id=h05",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzYje3dnB-4N0ZMmtrv5NvLM__grjKn4DiRA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港有线新闻台",
+      "url": "https://sc2022.stream-link.org/list.php?id=h08",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港有线财经资讯台",
+      "url": "https://sc2022.stream-link.org/list.php?id=h09",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KtzyAbZDyX7rNNKoDVHVZ2JCtfTupWfafw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "HBO (Romania)",
       "url": "http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56057&extension=ts&play_token=pqlvbiUAPq",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
