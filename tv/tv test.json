@@ -619,6 +619,60 @@
       "parse": false
     },
     {
+      "name": "Arise News (UK)",
+      "url": "https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv5Q7QI4qSTQrUnkAawWTEHB-9hOnPsrL4Bg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bloomberg Asia",
+      "url": "http://210.210.155.35:80/dr9445/h/h03/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNroASc9BorbVMaeVGiCxOrreGpPOzLh1FQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bloomberg Quicktake",
+      "url": "https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPk1SSH6ca1AWjIibTITn-A-Mn4Xq3hXXN-A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNBC Europe (UK)",
+      "url": "https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live_720p/chunks.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBC News Now",
+      "url": "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJrgDEpY9IQryUMSTVFXuT4_tqN9TvJ7hOg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky News (UK)",
+      "url": "https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYzof1cB7QA9TSfSieN-s70esnHQJTXgbgA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "US Court TV",
+      "url": "https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ3iOW4EgwMn672k9VqDBlzkIhUkGNcx4aSQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "US Law & Crime",
+      "url": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzaAjxJxTLytDaxwPOVKJm6FMpkgJauAs0tw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "WION (India)",
+      "url": "https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ-GjVvGAtquFlsS-YmzwhIojVinrsZ4Ve8A&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "HBO (Romania)",
       "url": "http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56057&extension=ts&play_token=pqlvbiUAPq",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
