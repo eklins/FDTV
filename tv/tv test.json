@@ -271,8 +271,26 @@
       "parse": false
     },
     {
+      "name": "Monarch TV",
+      "url": "https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Movie Kingdom",
+      "url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Mythos",
       "url": "https://simultv.s.llnwi.net/n4s4/Mythos/interlink.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NETV Toronto (Canada★Greek) [Not 24/7]",
+      "url": "https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -453,6 +471,12 @@
     {
       "name": "Zee Bioskop (Indonesia★360p)",
       "url": "http://210.210.155.35:80/qwr9ew/s/s32/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Zjarr (Albania)",
+      "url": "https://mfe01.tring.al/delta/106/out/u/284_1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
