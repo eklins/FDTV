@@ -367,6 +367,12 @@
       "parse": false
     },
     {
+      "name": "Sofy TV (UK)",
+      "url": "https://sofytv-samsunguk.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Spydar TV",
       "url": "https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
