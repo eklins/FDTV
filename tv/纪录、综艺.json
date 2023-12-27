@@ -415,8 +415,8 @@
       "parse": false
     },
     {
-      "name": "CGTN Documentary",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8",
+      "name": "Caught In Providence",
+      "url": "https://lnc-caught-in-providence.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -477,6 +477,12 @@
     {
       "name": "Cosmic Unleashed",
       "url": "https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Court TV",
+      "url": "https://lnc-court-tv.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -687,6 +693,18 @@
     {
       "name": "Fat Guys In The Woods Channel",
       "url": "https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmRise Forensic Files",
+      "url": "https://lnc-forensic-files.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmRise True Crime",
+      "url": "https://lnc-filmrise-true-crime.tubi.video/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1393,12 +1411,6 @@
       "parse": false
     },
     {
-      "name": "Taiwan Plus",
-      "url": "https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Talk TV (UK)",
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1443,12 +1455,6 @@
     {
       "name": "TBD.",
       "url": "https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TBN Asia (Singapore★360p)",
-      "url": "http://210.210.155.35:80/qwr9ew/s/s39/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1533,6 +1539,12 @@
     {
       "name": "TLC (Finland)",
       "url": "https://live-fi.tvkaista.net/tlc/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TMZ Live",
+      "url": "https://lnc-tmz.tubi.video/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1701,6 +1713,12 @@
     {
       "name": "Waterbear (Netherlands)",
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Waypoint TV",
+      "url": "https://lnc-waypoint.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2665,8 +2683,14 @@
       "parse": false
     },
     {
-      "name": "RedBox Food 52",
-      "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8",
+      "name": "RedBox Made In Hollywood TV",
+      "url": "https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8WKhpHTZoLYtP6x6QThDEu0Q9nPIE_z7pg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "RedBox Tastemade France",
+      "url": "https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8WKhpHTZoLYtP6x6QThDEu0Q9nPIE_z7pg&usqp=CAU",
       "parse": false
     },
