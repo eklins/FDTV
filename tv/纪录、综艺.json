@@ -2521,134 +2521,8 @@
       "parse": false
     },
     {
-      "name": "STIRR AFV",
-      "url": "https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Big Life TV",
-      "url": "https://biglife.sinclair.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Chicken Soup For The Soul",
-      "url": "https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Choppertown",
-      "url": "https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Comedy Dynamic",
-      "url": "https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Dick Cavett",
-      "url": "https://dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Docurama [Not 24/7]",
-      "url": "https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "STIRR ET Live (Entertainment Tonight)",
       "url": "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR evrgrn",
-      "url": "https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Glewed TV",
-      "url": "https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Insight TV",
-      "url": "https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Magellan TV",
-      "url": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Outdoor America",
-      "url": "https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Outside TV",
-      "url": "https://outsidetvplus-stirr.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR People TV",
-      "url": "https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Pursuit Up",
-      "url": "https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Reality TV",
-      "url": "https://dai.google.com/linear/hls/event/r9VoxPU7TYmpydEn2ZR0jA/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Revry",
-      "url": "https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR So…Real",
-      "url": "https://soreal-tcl.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR SOAR [Not 24/7]",
-      "url": "https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR The Bob Ross Channel (240p)",
-      "url": "https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Waypoint TV",
-      "url": "https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
@@ -2757,12 +2631,6 @@
     {
       "name": "XUMO FailArmy International",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Family Feud 2008",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
