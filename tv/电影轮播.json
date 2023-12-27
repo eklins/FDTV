@@ -1051,13 +1051,13 @@
       "parse": false
     },
     {
-      "name": "Rakuten Action (Finland)",
+      "name": "Rakuten Action (Finland) Toiminta",
       "url": "https://rakuten-action-12-fi.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Rakuten Action (Finland★PLEX)",
+      "name": "Rakuten Action (Finland★PLEX) Toiminta",
       "url": "https://rakuten-action-12-fi.plex.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
@@ -1129,13 +1129,13 @@
       "parse": false
     },
     {
-      "name": "Rakuten Comedy (Finland)",
+      "name": "Rakuten Comedy (Finland) Komedia",
       "url": "https://rakuten-comedy-12-fi.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Rakuten Comedy (Finland★PLEX)",
+      "name": "Rakuten Comedy (Finland★PLEX) Komedia",
       "url": "https://rakuten-comedy-12-fi.plex.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
@@ -1207,13 +1207,13 @@
       "parse": false
     },
     {
-      "name": "Rakuten Drama (Finland)",
+      "name": "Rakuten Drama (Finland) Draama",
       "url": "https://rakuten-drama-12-fi.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Rakuten Drama (Finland★PLEX)",
+      "name": "Rakuten Drama (Finland★PLEX) Draama",
       "url": "https://rakuten-drama-12-fi.plex.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
@@ -1263,12 +1263,6 @@
     {
       "name": "Rakuten Film Streams (UK)",
       "url": "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rakuten Huippuelokuvat★Top Movies (Finland)",
-      "url": "https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
@@ -1329,6 +1323,12 @@
     {
       "name": "Rakuten Top Free (UK★PLEX)",
       "url": "https://rakuten-topfree-1-gb.plex.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rakuten Top Movies (Finland) Huippuelokuvat",
+      "url": "https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
