@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,吸血鬼猎人巴菲S1E1
-https://v2.1080tg.com/202308/22/DwTQyAivMi2/video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕「移动」",咪咕直播-16
 http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
 #EXTINF:-1 ,中天 107
