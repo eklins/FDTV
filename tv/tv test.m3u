@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,大秦帝国
-http://epg.112114.xyz/douyu/6582435
-#EXTINF:-1 ,大秦赋 
-http://epg.112114.xyz/huya/11352881
 #EXTINF:-1 ,中天 107
 http://107.151.203.111:2209/hls/zt.m3u8
 #EXTINF:-1 ,中天 php
