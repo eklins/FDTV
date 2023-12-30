@@ -1,12 +1,6 @@
 {
   "data": [
     {
-      "name": "仙剑奇侠传 2005",
-      "url": "https://live.metshop.top/yy/1382749903",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKXq-mvQ0T70KY-cdApGi0ecVY1YCckfR_A&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "90210 Beverly Hills 1990-2000",
       "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIh7nN7nY5dLXiDNKZUwFuvTQERRN1_Dskg&usqp=CAU",
