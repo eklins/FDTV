@@ -133,8 +133,8 @@
       "parse": false
     },
     {
-      "name": "CGTN News (China)",
-      "url": "http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000009569/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3",
+      "name": "CGTN (China)",
+      "url": "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxZ3RixyVvFdCNg0Btma-aTxppRlM8MVIzA&usqp=CAU",
       "parse": false
     },
