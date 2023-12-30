@@ -2383,6 +2383,12 @@
       "parse": false
     },
     {
+      "name": "STIRR So...Real",
+      "url": "https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TVS Chef Champion",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-chefchampion/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
