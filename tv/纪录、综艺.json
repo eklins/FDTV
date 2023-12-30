@@ -109,12 +109,6 @@
       "parse": false
     },
     {
-      "name": "iHOT 解密",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNpr_D67SlWwDl-pX1-L3TvNWqIn21ZP8jA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "iHOT 科学",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -124,54 +118,6 @@
       "name": "iHOT 历史",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2Mz3EmwIG64i2ysHU4vZs5q8fiFhbnxS7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 猎奇",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNzOEppMwRntX1DYoUDjXcAw_mI1Rzps3mA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 旅行",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_EaHjWuKwJKM72sO73Uizpj1oKl_1O2fayg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 美食",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInhxblToHHoPecM_b2JpNg7XLy5A5Cyn7Gw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 世界",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF4P2OLUFuFE6vp6hT_JTD9r52O67gubgMvQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 时尚",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRci41KEQcLCcFkIyCjVXuTOqsZfijzAUEElw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 探索",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8KbnLiVCUri8KCD3EGWlpq7GKJ1uW2aAoA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 娱乐",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3",
-      "pic": "https://www.xhzb.tw/uploads/allimg/20/1-2003251J3250-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "IPTV 芒果互娱",
-      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196970/main.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxo3xfmYTH1NY8CH2V9PqD63SjwF8fIU_B5Q&usqp=CAU",
       "parse": false
     },
     {
@@ -991,24 +937,6 @@
       "parse": false
     },
     {
-      "name": "NewKID (Roku★Korea)",
-      "url": "https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewKID ① (Korea)",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=612",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewKID ② (Korea)",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=623",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NewKID ③ (Korea)",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=888",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1059,18 +987,6 @@
     {
       "name": "Pattrn",
       "url": "https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PBS 39 Allentown PA (WLVT)",
-      "url": "https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PBS America (UK)",
-      "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1754,7 +1670,7 @@
     },
     {
       "name": "AMC All Weddings (US)",
-      "url": "https://amc-allweddings-1-us.samsung.wurl.tv/playlist.m3u8",
+      "url": "https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
@@ -1774,66 +1690,6 @@
       "name": "AS Last Stream On The Left",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AS The Eric Andre Show",
-      "url": "https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AS Williams Stream",
-      "url": "http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bumblebee Docs Channel",
-      "url": "https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bumblebee Epic Misses & Mayhem",
-      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bumblebee Giggle Zone",
-      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bumblebee Life Bae",
-      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bumblebee Recoil",
-      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bumblebee Smosh",
-      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bumblebee Trinity & Beyond",
-      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bumblebee Tropics Live",
-      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
       "parse": false
     },
     {
@@ -2673,12 +2529,6 @@
     {
       "name": "XUMO Hungry",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO ion Mystery",
-      "url": "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
