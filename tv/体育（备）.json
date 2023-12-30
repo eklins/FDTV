@@ -13,12 +13,6 @@
       "parse": false
     },
     {
-      "name": "MG（备）03",
-      "url": "http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225617/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MG（备）04",
       "url": "http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
@@ -139,30 +133,6 @@
       "parse": false
     },
     {
-      "name": "MG（备）24",
-      "url": "http://[2409:8087:1a01:df::4070]/PLTV/88888888/224/3221225741/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）25",
-      "url": "http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225745/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）26",
-      "url": "http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225747/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）27",
-      "url": "http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225749/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MG（备）28",
       "url": "http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
@@ -183,36 +153,6 @@
     {
       "name": "MG（备）31",
       "url": "http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）32",
-      "url": "http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225762/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）33",
-      "url": "http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225764/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）34",
-      "url": "http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225766/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）35",
-      "url": "http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225768/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）36",
-      "url": "http://[2409:8087:1a01:df::4078]/PLTV/88888888/224/3221225782/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
@@ -247,20 +187,8 @@
       "parse": false
     },
     {
-      "name": "MG（备）42",
-      "url": "http://[2409:8087:1a01:df::4079]/PLTV/88888888/224/3221225904/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MG（备）43",
       "url": "http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）44",
-      "url": "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
@@ -337,18 +265,6 @@
       "parse": false
     },
     {
-      "name": "MG（备）4K-1",
-      "url": "http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）4K-2",
-      "url": "http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MG（备）5895",
       "url": "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
@@ -393,6 +309,90 @@
     {
       "name": "MG（备）6147★",
       "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "❌MG（备）03",
+      "url": "http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225617/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）24",
+      "url": "http://[2409:8087:1a01:df::4070]/PLTV/88888888/224/3221225741/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）25",
+      "url": "http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225745/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）26",
+      "url": "http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225747/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）27",
+      "url": "http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225749/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）32",
+      "url": "http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225762/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）33",
+      "url": "http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225764/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）34",
+      "url": "http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225766/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）35",
+      "url": "http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225768/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）36",
+      "url": "http://[2409:8087:1a01:df::4078]/PLTV/88888888/224/3221225782/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）42",
+      "url": "http://[2409:8087:1a01:df::4079]/PLTV/88888888/224/3221225904/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）44",
+      "url": "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）4K-1",
+      "url": "http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）4K-2",
+      "url": "http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
