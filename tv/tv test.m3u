@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 ,中天 tianhewan
+#EXTINF:-1 ,中天 tianhewan.php
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 #EXTINF:-1 ,中天 107
 http://107.151.203.111:2209/hls/zt.m3u8
-#EXTINF:-1 ,中天 php
+#EXTINF:-1 ,中天 sc2022.php
 http://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 ,大秦賦（虎牙）
 https://m.huya.com/11352881
