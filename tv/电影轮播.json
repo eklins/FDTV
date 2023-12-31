@@ -67,6 +67,12 @@
       "parse": false
     },
     {
+      "name": "AXN (Vietnam)",
+      "url": "http://vthanhtivi.pw:5000/axn/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Bloody Disgusting (Scream Box TV)",
       "url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -116,7 +122,7 @@
     },
     {
       "name": "Cinemax (Taiwan)",
-      "url": "http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84",
+      "url": "http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -469,6 +475,12 @@
       "parse": false
     },
     {
+      "name": "Movie Plus (Japan)",
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Movie Sphere (UK)",
       "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -583,6 +595,18 @@
       "parse": false
     },
     {
+      "name": "Star 1 (Japan★544p) スターチャンネル①",
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Star 2 (Japan★544p) スターチャンネル②",
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "The Archive",
       "url": "https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -631,8 +655,26 @@
       "parse": false
     },
     {
-      "name": "Wu Tang Collection (English Dub)",
+      "name": "WOWOW Cinema (Japan★544p) WOWOWシネマ",
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "WOWOW Prime (Japan★544p) WOWOWプライム",
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Wu Tang Collection (US★English Dub)",
       "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---&checkedby:iptvcat.com",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Zjarr (Albania)［Not 24/7］",
+      "url": "https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
