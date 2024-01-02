@@ -583,6 +583,12 @@
       "parse": false
     },
     {
+      "name": "Outlaw (WKRP 25.3★Cincinnati)",
+      "url": "https://cdn.igocast.com/wkrp_channel3_hls/wkrp_channel3_master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Popstar! TV",
       "url": "https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
