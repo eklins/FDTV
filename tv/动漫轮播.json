@@ -601,6 +601,12 @@
       "parse": false
     },
     {
+      "name": "TVS Hi-Tops",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-hitops/tracks-v1a1/mono.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TVS Pinball Network (480p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
