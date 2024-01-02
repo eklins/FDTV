@@ -2,26 +2,8 @@
   "data": [
     {
       "name": "名侦探柯南 1996",
-      "url": "http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525",
+      "url": "https://epg.pw/stream/61348a863d7df447d4185000da78ea9959e0233cfe72297fabe748bb347b17ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQf37zCMrHwLTt-STvzC6yDTomOapwwvvXA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "小猪佩奇 2004",
-      "url": "http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrZMOkoDojER9DAIj-WXiUMhBkAIfJ975zQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "倒霉熊 2005",
-      "url": "http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTLLKIgsjfUpnFqhHaYKHkWBOYVl02nFOYA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "喜羊羊与灰太狼 2005",
-      "url": "http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbTgm9fMRfw5MnE7hVaYsAFWYNo5KswgknA&usqp=CAU",
       "parse": false
     },
     {
@@ -73,21 +55,9 @@
       "parse": false
     },
     {
-      "name": "Tom & Jerry",
-      "url": "http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0uU_l4TnMXGBxiq7SnvsPef5HKEC4W9S3Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Totally Turtles (Nickelodeon)",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8livestitch/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d0c16d686454ead733d08f8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=983&terminate=false&userId=&profilesFromStream=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQVhGaHyiXeJl1hL45xfE_LX7RpWt1GNhRA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Ultraman（奥特曼）1966",
-      "url": "http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnr51l0-a63tyAmoq9cB3zWs1dO5xSjPrlg&usqp=CAU",
       "parse": false
     },
     {
@@ -97,32 +67,14 @@
       "parse": false
     },
     {
-      "name": "ABC (All Babies Channel)",
-      "url": "http://118.26.120.23:55336/tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key=0b292c335e5837e94dd521635e537be73",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Aghapy Kids",
       "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Aniplus (Indonesia★576p)",
-      "url": "http://210.210.155.35:80/dr9445/h/h02/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Beano TV",
       "url": "https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Boomerang EMEA (Slovenia)",
-      "url": "http://194.163.179.246/slovenci/djeciji/boomerang.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -157,7 +109,7 @@
       "parse": false
     },
     {
-      "name": "Kiddiwinks (Somalia)",
+      "name": "Kiddiwinks (South Africa)",
       "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
