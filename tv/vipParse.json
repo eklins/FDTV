@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "闪电",
+      "ad": "no",
+      "url": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "量子",
       "ad": "no",
       "url": "https://lziplayer.com/?url="
@@ -23,12 +29,6 @@
       "name": "飞速",
       "ad": "no",
       "url": "https://www.feisuplayer.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "闪电",
-      "ad": "no",
-      "url": "https://www.shankubf.com/m3u8/?url="
     },
     {
       "id": 1,
