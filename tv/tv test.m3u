@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,无线财经
+#EXTINF:-1 ,无线财经 jdshipin
 http://r.jdshipin.com/jUx8K
+#EXTINF:-1 ,无线财经 cooltv
+http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 ,巴菲S2E2
 https://v2.suonizy-youku.com/202308/22/k1YBi3NHLk2/video/index.m3u8
 #EXTINF:-1 ,巴菲S3E2
