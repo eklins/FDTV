@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "索尼",
+      "ad": "no",
+      "url": "https://www.snplayer.com/?url="
+    },
+    {
+      "id": 1,
       "name": "飞速",
       "ad": "no",
       "url": "https://www.feisuplayer.com/m3u8/?url="
@@ -32,15 +38,15 @@
     },
     {
       "id": 1,
-      "name": "乐视",
+      "name": "豪华",
       "ad": "no",
-      "url": "https://leshivideoplayurl.com/?url="
+      "url": "https://hhjiexi.com/play/?url="
     },
     {
       "id": 1,
-      "name": "索尼",
+      "name": "乐视",
       "ad": "no",
-      "url": "https://www.snplayer.com/?url="
+      "url": "https://leshivideoplayurl.com/?url="
     },
     {
       "id": 1,
@@ -155,12 +161,6 @@
       "name": "速更源",
       "ad": "no",
       "url": "https://wuxiezx.com/player/?url="
-    },
-    {
-      "id": 1,
-      "name": "量子",
-      "ad": "no",
-      "url": "https://lziplayer.com/?url="
     },
     {
       "id": 1,
