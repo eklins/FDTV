@@ -97,8 +97,14 @@
       "parse": false
     },
     {
-      "name": "Midsomer Murders 1997-?",
+      "name": "Midsomer Murders 1997-? (Pluto)",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cbf6a868a1bce4a3d52a5e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=385&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Midsomer Murders 1997-? (Tubi)",
+      "url": "https://lnc-midsomer-murders.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
       "parse": false
     },
