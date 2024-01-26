@@ -49,66 +49,6 @@
       "parse": false
     },
     {
-      "name": "CCTV-3 综艺",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGS5wQ-Fb9Bts78C8A9We8EEL-XnI6ylTCPQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CCTV-7 国防军事",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN9HCILZWD9W7b0LCOq9RsxVLTXzsJXclzw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CCTV-9 纪录",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQysQQ5EJfQrVkfErdfB5suwV6ID1tEThNg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CCTV-10 科教",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYL2v7XpnJDK5h0OdY161IocFytfm6IoQkFw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CCTV 发现之旅 (SD)",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
-      "parse": false
-    },
-    {
-      "name": "CCTV 老故事 (SD)",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
-      "parse": false
-    },
-    {
-      "name": "BesTV 宝藏纪录",
-      "url": "http://bp-caster.bestv.com.cn/515/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BesTV 高能脱口秀",
-      "url": "http://bp-caster.bestv.com.cn/462/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BesTV 极限挑战",
-      "url": "http://bp-caster.bestv.com.cn/511/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BesTV 相声有新人",
-      "url": "http://bp-caster.bestv.com.cn/512/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "iHOT 科学",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -118,6 +58,18 @@
       "name": "iHOT 历史",
       "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2Mz3EmwIG64i2ysHU4vZs5q8fiFhbnxS7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "4 Adventure",
+      "url": "https://lnc-4adventure.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "4 Emergency",
+      "url": "https://lnc-4emergency.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
