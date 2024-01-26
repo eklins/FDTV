@@ -355,12 +355,6 @@
       "parse": false
     },
     {
-      "name": "华视新闻",
-      "url": "http://stream.dsichannel.com/hls/cts-news.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "民视新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
