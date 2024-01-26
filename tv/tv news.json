@@ -13,18 +13,6 @@
       "parse": false
     },
     {
-      "name": "凤凰卫视香港台",
-      "url": "http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHyBvfLga6ivAtyORxggGkvxlbTM8DxIK2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "香港无线财经•体育•资讯台",
-      "url": "http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzYje3dnB-4N0ZMmtrv5NvLM__grjKn4DiRA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "香港耀才财经台 BSTV",
       "url": "https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQmKKfdMA2xHnNYBbix78Ksq5XxlK7G_WQw&usqp=CAU",
@@ -356,7 +344,7 @@
     },
     {
       "name": "中天新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=03",
+      "url": "https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
