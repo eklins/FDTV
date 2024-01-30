@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "1080ZYK",
+      "ad": "no",
+      "url": "https://vip.zykbf.com/?url="
+    },
+    {
+      "id": 1,
       "name": "乐视",
       "ad": "no",
       "url": "https://leshivideoplayurl.com/?url="
@@ -53,12 +59,6 @@
       "name": "豪华",
       "ad": "no",
       "url": "https://hhjiexi.com/play/?url="
-    },
-    {
-      "id": 1,
-      "name": "1080ZYK",
-      "ad": "no",
-      "url": "https://vip.zykbf.com/?url="
     },
     {
       "id": 1,
