@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,无
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-193/1500kb/hls/index.m3u8
 #EXTINF:-1 ,无线财经 jdshipin
 http://r.jdshipin.com/jUx8K
 #EXTINF:-1 ,无线财经 cooltv
