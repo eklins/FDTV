@@ -109,12 +109,6 @@
       "parse": false
     },
     {
-      "name": "Celestial Movies 天映频道 (Indonesia★576p)",
-      "url": "http://210.210.155.35:80/dr9445/h/h14/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Charge! [2100-1500]",
       "url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -201,12 +195,6 @@
     {
       "name": "Electric Now",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=53",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Ficom Channel (Indonesia) [Not 24/7]",
-      "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -537,12 +525,6 @@
     {
       "name": "POSI TV",
       "url": "https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ROCK Action (Singapore★576p)",
-      "url": "http://210.210.155.35:80/dr9445/h/h15/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
