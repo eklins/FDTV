@@ -1,12 +1,6 @@
 {
   "data": [
     {
-      "name": "名侦探柯南 1996",
-      "url": "https://epg.pw/stream/61348a863d7df447d4185000da78ea9959e0233cfe72297fabe748bb347b17ca.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQf37zCMrHwLTt-STvzC6yDTomOapwwvvXA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Bubble Guppies 2011",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c631817-0713-11eb-9df2-0242ac110002&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nn4oD4yp9V-jBqY0c4BdCZ7yDkkbhNRLCw&usqp=CAU",
@@ -147,12 +141,6 @@
     {
       "name": "My Kidz (Indonesia)",
       "url": "http://210.210.155.35:80/uq2663/h/h191/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "OMG Channel (Iran)",
-      "url": "http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
