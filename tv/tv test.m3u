@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,CINEMAX (Vietnam)
+http://fpt.vthanhtivi.pw/cinemax/index.m3u8
+#EXTINF:-1 ,HBO (Vietnam)
+http://fpt.vthanhtivi.pw/hbo/index.m3u8
+#EXTINF:-1 ,ONE (Vietnam)
+https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
 #EXTINF:-1 ,SYFY HD
 http://38.96.178.201:80/live/SYFYHD/index.m3u8
 #EXTINF:-1 ,无线财经 jdshipin
