@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,SYFY HD
+http://38.96.178.201:80/live/SYFYHD/index.m3u8
 #EXTINF:-1 ,无线财经 jdshipin
 http://r.jdshipin.com/jUx8K
 #EXTINF:-1 ,无线财经 cooltv
