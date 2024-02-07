@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,ATV Kinoman (Armenia)
+http://stream02.vnet.am/Kinoman/mono.m3u8
 #EXTINF:-1 ,CINEMAX (Vietnam)
 http://fpt.vthanhtivi.pw/cinemax/index.m3u8
 #EXTINF:-1 ,HBO (Vietnam)
