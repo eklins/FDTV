@@ -139,13 +139,7 @@
       "parse": false
     },
     {
-      "name": "The Carol Burnett Show 1967-1978 (AMG)",
-      "url": "https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIsCAt3ONRmdwPt3s_4z-L9b6peWz1NgzaTg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The Carol Burnett Show 1967-1978 (Roku)",
+      "name": "The Carol Burnett Show 1967-1978",
       "url": "https://carolburnett-roku.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
       "parse": false
