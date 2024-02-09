@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "The Carol Burnett Show 1967-1978 (AMG)",
+      "url": "https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIsCAt3ONRmdwPt3s_4z-L9b6peWz1NgzaTg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BBC News",
       "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",
