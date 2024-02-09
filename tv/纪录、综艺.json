@@ -50,7 +50,7 @@
     },
     {
       "name": "CCTV-4 中文国际",
-      "url": "http://1.80.12.9:10000/hls/4/index.m3u8",
+      "url": "http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000030093/1.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffpcllCOv5yV-6daYXvBRjtHlgByKzH1HFQ&usqp=CAU",
       "parse": false
     },
