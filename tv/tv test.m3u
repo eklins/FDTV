@@ -5,9 +5,11 @@ http://stream02.vnet.am/Kinoman/mono.m3u8
 http://fpt.vthanhtivi.pw/axn/index.m3u8
 #EXTINF:-1 ,CINEMAX (Vietnam)
 http://fpt.vthanhtivi.pw/cinemax/index.m3u8
+#EXTINF:-1 ,GEM (Singapore)
+https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8
 #EXTINF:-1 ,HBO (Vietnam)
 http://fpt.vthanhtivi.pw/hbo/index.m3u8
-#EXTINF:-1 ,ONE (Vietnam)
+#EXTINF:-1 ,ONE (Singapore)
 https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
 #EXTINF:-1 ,SYFY HD
 http://38.96.178.201:80/live/SYFYHD/index.m3u8
