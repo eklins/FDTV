@@ -68,7 +68,7 @@
     },
     {
       "name": "CCTV-10 科教",
-      "url": "https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYL2v7XpnJDK5h0OdY161IocFytfm6IoQkFw&usqp=CAU",
       "parse": false
     },
