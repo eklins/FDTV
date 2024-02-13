@@ -2,9 +2,21 @@
   "data": [
     {
       "id": 1,
+      "name": "1080ZYK",
+      "ad": "no",
+      "url": "https://vip.zykbf.com/?url="
+    },
+    {
+      "id": 1,
       "name": "无尽备用",
       "ad": "no",
       "url": "https://jx.wujinkk.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "量子",
+      "ad": "no",
+      "url": "https://lziplayer.com/?url="
     },
     {
       "id": 1,
@@ -14,39 +26,21 @@
     },
     {
       "id": 1,
-      "name": "iKun 福利",
+      "name": "海外看",
       "ad": "no",
-      "url": "https://bofang.ikdmjx.com/?url="
+      "url": "https://dp.haiwaikan.com/index.html?url="
     },
     {
       "id": 1,
-      "name": "iKun",
+      "name": "乐视",
       "ad": "no",
-      "url": "https://www.ikdmjx.com/?url="
+      "url": "https://leshivideoplayurl.com/?url="
     },
     {
       "id": 1,
-      "name": "1080ZYK",
+      "name": "索尼",
       "ad": "no",
-      "url": "https://vip.zykbf.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "68资源",
-      "ad": "no",
-      "url": "https://jiexi.68zy.vip/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "天猫",
-      "ad": "no",
-      "url": "https://tmjiexi.com/play/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽",
-      "ad": "no",
-      "url": "https://jx.xhswglobal.com/dplayer/?url="
+      "url": "https://www.snplayer.com/?url="
     },
     {
       "id": 1,
@@ -56,15 +50,81 @@
     },
     {
       "id": 1,
-      "name": "卧龙",
+      "name": "快云",
       "ad": "no",
-      "url": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
+      "url": "https://www.kuaiyunplayer.com/dplayer/?url="
     },
     {
       "id": 1,
       "name": "百度",
       "ad": "no",
       "url": "https://jx.jxbdzyw.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "豪华",
+      "ad": "no",
+      "url": "https://hhjiexi.com/play/?url="
+    },
+    {
+      "id": 1,
+      "name": "iKun",
+      "ad": "no",
+      "url": "https://www.ikdmjx.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "iKun 福利",
+      "ad": "no",
+      "url": "https://bofang.ikdmjx.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "博民",
+      "ad": "no",
+      "url": "https://www.bmm3u8.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "老鸭",
+      "ad": "no",
+      "url": "https://player.77lehuo.com/aliplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "色窝",
+      "ad": "no",
+      "url": "https://player.sewojx.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "速播",
+      "ad": "no",
+      "url": "https://subojiexi.com/play/?url="
+    },
+    {
+      "id": 1,
+      "name": "金鹰",
+      "ad": "no",
+      "url": "https://hd.iapijy.com/play?url="
+    },
+    {
+      "id": 1,
+      "name": "暴风",
+      "ad": "no",
+      "url": "https://bfzyplayer.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "卧龙",
+      "ad": "no",
+      "url": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "非凡",
+      "ad": "no",
+      "url": "https://ffzyplayer.com/?url="
     },
     {
       "id": 1,
@@ -80,21 +140,15 @@
     },
     {
       "id": 1,
-      "name": "速更源",
-      "ad": "no",
-      "url": "https://wuxiezx.com/player/?url="
-    },
-    {
-      "id": 1,
-      "name": "量子",
-      "ad": "no",
-      "url": "https://lziplayer.com/?url="
-    },
-    {
-      "id": 1,
       "name": "快车",
       "ad": "no",
       "url": "https://jiexi.kczyapi.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "速看",
+      "ad": "no",
+      "url": "https://open.wn231.com/?url="
     },
     {
       "id": 1,
@@ -107,18 +161,6 @@
       "name": "黄瓜",
       "ad": "no",
       "url": "https://www.zy018.com/player/?url="
-    },
-    {
-      "id": 1,
-      "name": "芒果",
-      "ad": "no",
-      "url": "https://mgm3u8-player.com/player/DPm3u8.php?url="
-    },
-    {
-      "id": 1,
-      "name": "爱播",
-      "ad": "no",
-      "url": "https://player.aibozyplayer.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -149,12 +191,6 @@
       "name": "U酷",
       "ad": "no",
       "url": "https://api.ukubf.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "酷点",
-      "ad": "no",
-      "url": "https://jx.kujiexi.net/m3u8.php?url="
     },
     {
       "id": 1,
