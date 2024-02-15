@@ -301,6 +301,12 @@
       "parse": false
     },
     {
+      "name": "FOX (Japan)",
+      "url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Freebie TV [Not 24/7]",
       "url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -465,6 +471,12 @@
     {
       "name": "Lone Star",
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Marvel",
+      "url": "https://live.metshop.top/douyu/6140589",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
