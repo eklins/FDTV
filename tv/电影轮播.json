@@ -433,12 +433,6 @@
       "parse": false
     },
     {
-      "name": "KIX (Indonesia★576p)",
-      "url": "http://210.210.155.35:80/dr9445/h/h07/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Korça＋ (Albania) [Not 24/7]",
       "url": "http://32.shqiptv.org/korca/albplus/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -655,18 +649,6 @@
       "parse": false
     },
     {
-      "name": "ROCK Action (Singapore★576p)",
-      "url": "http://210.210.155.37/dr9445/h/h15/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ROCK Entertainment (Singapore★576p)",
-      "url": "http://210.210.155.35:80/dr9445/h/h16/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Romanza+ Africa (South Africa)",
       "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -771,12 +753,6 @@
     {
       "name": "Tubi Originals",
       "url": "https://lnc-tubi-originals.tubi.video/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "tvN Movies (Indonesia★576p)",
-      "url": "http://210.210.155.35:80/dr9445/h/h21/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
