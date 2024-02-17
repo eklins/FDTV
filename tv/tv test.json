@@ -265,6 +265,12 @@
       "parse": false
     },
     {
+      "name": "KIX (Indonesia★576p)",
+      "url": "http://210.210.155.35:80/dr9445/h/h07/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "KLMN TV (KLNM-LD1★Lufkin TX)",
       "url": "https://broadcast.mytvtogo.net/klmntv/klmntv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -398,7 +404,13 @@
     },
     {
       "name": "ROCK Action (Singapore★576p)",
-      "url": "http://210.210.155.35:80/dr9445/h/h15/index.m3u8",
+      "url": "http://210.210.155.37/dr9445/h/h15/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ROCK Entertainment (Singapore★576p)",
+      "url": "http://210.210.155.35:80/dr9445/h/h16/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -513,6 +525,12 @@
     {
       "name": "TVB Jade 翡翠台 (Malaysia)",
       "url": "http://23.237.10.66:16410",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "tvN Movies (Indonesia★576p)",
+      "url": "http://210.210.155.35:80/dr9445/h/h21/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
