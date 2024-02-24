@@ -14,13 +14,13 @@
     },
     {
       "name": "CCTV-3 综艺",
-      "url": "http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8",
+      "url": "http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGS5wQ-Fb9Bts78C8A9We8EEL-XnI6ylTCPQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-4 中文国际",
-      "url": "http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000030093/1.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3",
+      "url": "http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffpcllCOv5yV-6daYXvBRjtHlgByKzH1HFQ&usqp=CAU",
       "parse": false
     },
@@ -50,7 +50,7 @@
     },
     {
       "name": "CCTV-7 国防军事",
-      "url": "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8",
+      "url": "http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN9HCILZWD9W7b0LCOq9RsxVLTXzsJXclzw&usqp=CAU",
       "parse": false
     },
@@ -68,19 +68,19 @@
     },
     {
       "name": "CCTV-10 科教",
-      "url": "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8",
+      "url": "http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYL2v7XpnJDK5h0OdY161IocFytfm6IoQkFw&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-11 戏曲",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8",
+      "url": "http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv11.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpde-u1QahDqv1v9QbPnoeUggmOuuXHeWFBQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-12 社会与法",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8",
+      "url": "http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScP2_2Tr7VigiB4JP0FeeVROpLlxAxwQV0DQ&usqp=CAU",
       "parse": false
     },
@@ -92,25 +92,25 @@
     },
     {
       "name": "CCTV-14 少儿",
-      "url": "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8",
+      "url": "http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv14.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054259469.jpg",
       "parse": false
     },
     {
       "name": "CCTV-15 音乐",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8",
+      "url": "http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv15.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054325579.jpg",
       "parse": false
     },
     {
       "name": "CCTV-16 奥林匹克",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8",
+      "url": "http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv16.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiYz9cTj9snQ_sJdWtiTJDatTgi-Qvou46g&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-17 农业农村",
-      "url": "https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8",
+      "url": "http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv17.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/4b142ac98dcc795bfb8565909c04cf92.jpg",
       "parse": false
     },
