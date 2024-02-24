@@ -11,10 +11,12 @@ https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8
 http://fpt.vthanhtivi.pw/hbo/index.m3u8
 #EXTINF:-1 ,ONE (Singapore)
 https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
-#EXTINF:-1 ,SYFY HD
-http://38.96.178.201:80/live/SYFYHD/index.m3u8
 #EXTINF:-1 ,Thrill (Hong Kong)
 https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
+#EXTINF:-1 ,AXN (Portugal)
+http://50.7.137.106:8080/AXN/index.m3u8?token=test
+#EXTINF:-1 ,SIC (Portugal) check category ~ movie or general
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 ,无线财经 jdshipin
 http://r.jdshipin.com/jUx8K
 #EXTINF:-1 ,无线财经 cooltv
@@ -27,10 +29,6 @@ https://v2.suonizy-youku.com/202308/22/LChNf15j4h2/video/index.m3u8
 https://v2.suonizy-youku.com/202308/22/5ac2BDi1pZ2/video/index.m3u8
 #EXTINF:-1 ,巴菲S5E2
 https://v2.suonizy-youku.com/202308/21/c24nQK1WL82/video/index.m3u8
-#EXTINF:-1 ,AXN (Portugal)
-http://50.7.137.106:8080/AXN/index.m3u8?token=test
-#EXTINF:-1 ,SIC (Portugal) check category ~ movie or general
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 ,中天 tianhewan.php
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 #EXTINF:-1 ,中天 107
