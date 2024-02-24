@@ -367,12 +367,6 @@
       "parse": false
     },
     {
-      "name": "GEM (Singapore)",
-      "url": "https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Grit Xtra",
       "url": "https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -637,12 +631,6 @@
       "parse": false
     },
     {
-      "name": "ONe (Singapore★576p)",
-      "url": "https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Outlaw (WKRP 25.3★Cincinnati)",
       "url": "https://cdn.igocast.com/wkrp_channel3_hls/wkrp_channel3_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -753,12 +741,6 @@
     {
       "name": "This (480p)",
       "url": "https://cdn.igocast.com/channel11_hls/channel11_master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Thrill (Hong Kong★576p)",
-      "url": "https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
