@@ -338,7 +338,7 @@
     },
     {
       "name": "青海卫视",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8",
+      "url": "http://stream.qhbtv.com/qhws/sd/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlesJEfCylrZmvYkPoiHXIeiViBRUEkjf8jQ&usqp=CAU",
       "parse": false
     },
@@ -394,6 +394,12 @@
       "name": "新疆卫视",
       "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",
+      "parse": false
+    },
+    {
+      "name": "延边卫视",
+      "url": "http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpITVUADxI8uaMjGZk20GEJ6I110zkCiswQ&usqp=CAU",
       "parse": false
     },
     {
@@ -1929,12 +1935,6 @@
     {
       "name": "台湾TVBS亚洲台",
       "url": "http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾星卫电影台",
-      "url": "http://23.237.10.66:16359",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
