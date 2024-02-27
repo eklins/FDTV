@@ -49,6 +49,12 @@
       "parse": false
     },
     {
+      "name": "BBC Silent Witness〘1996-?〙AND New Tricks〘2003-2015〙",
+      "url": "https://lnc-bbc-silent-witness-new-tricks.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMm_3_e7xbrOP6ONh31-P5KvarB57f2zVh4w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Black Jesus 2014-2019",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_de.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrAjvQmFbWOFY7Z4cszVpgpKr8Wfz95fK_w&usqp=CAU",
