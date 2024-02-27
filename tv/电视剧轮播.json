@@ -19,6 +19,12 @@
       "parse": false
     },
     {
+      "name": "Anger Management 2012-2014",
+      "url": "https://lnc-anger-management.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6nb5ACb7EgbAM_sPwJCNtOinwuE9Z-zk2A&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Baywatch 1989-2001 (Canada)",
       "url": "https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4A1h-quDi4AusK57pO52ivZSA6gB2KQr6A&usqp=CAU",
