@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "HLS Player",
+      "ad": "no",
+      "url": "https://www.hlsplayer.org/play?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -29,12 +35,6 @@
       "name": "海外看",
       "ad": "no",
       "url": "https://dp.haiwaikan.com/index.html?url="
-    },
-    {
-      "id": 1,
-      "name": "HLS Player",
-      "ad": "no",
-      "url": "https://www.hlsplayer.org/play?url="
     },
     {
       "id": 1,
