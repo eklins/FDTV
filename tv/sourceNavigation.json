@@ -65,9 +65,9 @@
       "webPlus": {}
     },
     {
-      "name": "美影剧 ",
+      "name": "影剧集 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IAiTCBB3ctb0OcQ7VciMkkyrEM6cT49GhA&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%BE%8E%E5%BD%B1%E5%89%A7.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E5%BD%B1%E5%89%A7%E9%9B%86.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
