@@ -13,23 +13,12 @@
     },
     {
       "name": "优直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSztZBEgOQE5JA9LZHVd2SxNUXoEI2i2B_Wtw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.yoozhibo.net/zuqiu/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "爱体育⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL8M9RTVz9LX_1VqkxuVovt-2Rcx61cyuXA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "http://itiyu5.tv/spweb/m/schedule",
+      "webUrl": "https://m.yoozhibo.net/zuqiu/",
       "webOpen": true,
       "click": true
     },
@@ -67,17 +56,6 @@
       "click": true
     },
     {
-      "name": "JRS直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK1ai78YhybmERMMuv6NkrcVkvYNcsufZyuw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "http://www.jrszhibo2018.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "乐视吧⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iDId3aMw0ewnTpWtZj2gxJ9HLffIN-B1jA&usqp=CAU",
       "keyDownPlay": false,
@@ -101,34 +79,12 @@
     },
     {
       "name": "360看球⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSztZBEgOQE5JA9LZHVd2SxNUXoEI2i2B_Wtw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK1ai78YhybmERMMuv6NkrcVkvYNcsufZyuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.360kanqiu.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "玩球直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSztZBEgOQE5JA9LZHVd2SxNUXoEI2i2B_Wtw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.wqzb128.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "Koora Live⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSztZBEgOQE5JA9LZHVd2SxNUXoEI2i2B_Wtw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://koora-lives.tv/",
       "webOpen": true,
       "click": true
     },
@@ -320,7 +276,7 @@
       "click": true
     },
     {
-      "name": "JAVDay（18X）",
+      "name": "JAVDay🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgmLKc7T_vnSWUYC5yhf1AEmFxgAuzYJXOg&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
@@ -331,7 +287,7 @@
       "click": true
     },
     {
-      "name": "Mat6Tube（18X）",
+      "name": "Mat6Tube🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_o20rNCKy3opdrBShyA1-p-j2h9iaOgjdvg&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
@@ -342,29 +298,7 @@
       "click": true
     },
     {
-      "name": "MissAV（18X）",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxptjVuGZyP5VHSe4b4Vnu2AyHtpFo8hK5w&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.missav.com/cn/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "XVIDEOS（18X）",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0El4IKTclsY8SNfQSo0FY8uHVKBCAXqgofw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.xvideos.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "AZNude",
+      "name": "AZNude🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkOiJ2JL3ZXMja0edLQdQXXNqtgjTvpgZYUQ&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
@@ -375,35 +309,13 @@
       "click": true
     },
     {
-      "name": "StripChat",
+      "name": "StripChat🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSooxV_gUDvJ0ERWBFzyvQrZywzXQhNNsV7Bg&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://zh.stripchat.global/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "XHAMSTER",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDAopJgzha8PyjjQog0-2MSn03F60QzDCyQ&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://zh.xhamster.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "海兔影院",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_49_g4gb9khQ7AFj537z2v9VjDZf0qsOfsg&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.haitu.tv/",
       "webOpen": true,
       "click": true
     },
@@ -419,7 +331,7 @@
       "click": true
     },
     {
-      "name": "泥巴影院",
+      "name": "泥视频",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_49_g4gb9khQ7AFj537z2v9VjDZf0qsOfsg&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
