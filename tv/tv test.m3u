@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,TCM
 http://143.244.60.30/TCM/index.m3u8
+#EXTINF:-1 ,EBC Foreign Movie
+http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp.flv
 #EXTINF:-1 ,LTV 龍華洋片
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
 #EXTINF:-1 tvg-id="",AXN (Belize)
