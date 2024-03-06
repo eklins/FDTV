@@ -277,6 +277,12 @@
       "parse": false
     },
     {
+      "name": "E！",
+      "url": "http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "EBC Movie (Taiwan)",
       "url": "https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -381,6 +387,12 @@
     {
       "name": "FX ① Movies (Iran)",
       "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FXX",
+      "url": "http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
