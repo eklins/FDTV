@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="HallmarkChannelEast.us",Hallmark Channel
+http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
+#EXTINF:-1 tvg-id="MeTV.us",MeTV
+http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
+#EXTINF:-1 tvg-id="LifetimeEast.us",Lifetime
+http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
+#EXTINF:-1 ,Paramount Network
+http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
+#EXTINF:-1 ,USA Network
+http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
 #EXTINF:-1 ,Paramount Network (Salvador)
 http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 ,咪咕视频
