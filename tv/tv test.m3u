@@ -126,7 +126,7 @@ https://cdn.hklive.tv/xxxx/85/index.m3u8
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 ,香港有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 欢喜台 (Hua Hee Dai)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIX3WFuCjzRnijG1KIDTNEswpP4KfQD7zJiHBijWrHHQ&s",ASTRO 欢喜台 (Hua Hee Dai)
 http://137.175.36.206:8488/test163/123456/13373
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 小太阳 (Xiao Tai Yang)
 http://137.175.36.206:8488/test163/123456/700
