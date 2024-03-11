@@ -205,6 +205,12 @@
       "parse": false
     },
     {
+      "name": "大秦赋 2020",
+      "url": "https://yang-1989.eu.org/huya/11352881",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "雍正王朝 1999",
       "url": "https://live.metshop.top/yy/1356043620",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
@@ -217,15 +223,27 @@
       "parse": false
     },
     {
-      "name": "康熙微服私访记 1997-2003",
+      "name": "康熙微服私访记 1997-2003（斗鱼）",
       "url": "https://live.metshop.top/douyu/7550220",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
       "parse": false
     },
     {
+      "name": "康熙微服私访记 1997-2003（虎牙）",
+      "url": "https://yang-1989.eu.org/huya/11342418",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "铁齿铜牙纪晓岚 1999-2008",
-      "url": "https://live.metshop.top/douyu/9071554",
+      "url": "https://yang-1989.eu.org/huya/25701671",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芈月传 2015",
+      "url": "https://yang-1989.eu.org/huya/11352975",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvXm6EBSw9L68tp2BOqOzUsMNNDXmMlA3Q&usqp=CAU",
       "parse": false
     },
     {
