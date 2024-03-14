@@ -67,20 +67,8 @@
       "parse": false
     },
     {
-      "name": "AXN (Belize)",
-      "url": "http://170.254.18.106/AXN/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BBC America",
       "url": "https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BET★ (Belize)",
-      "url": "http://170.254.18.106/BET/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -157,12 +145,6 @@
       "parse": false
     },
     {
-      "name": "Cinemax (Belize)",
-      "url": "http://170.254.18.106/CINEMAX/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cinevault 80s",
       "url": "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -229,7 +211,7 @@
       "parse": false
     },
     {
-      "name": "DouYu 20415",
+      "name": "DouYu 20415 [Not 24/7]",
       "url": "https://live.metshop.top/douyu/20415",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -241,7 +223,7 @@
       "parse": false
     },
     {
-      "name": "DouYu 2793084",
+      "name": "DouYu 2793084 [Not 24/7]",
       "url": "https://live.metshop.top/douyu/2793084",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -409,12 +391,6 @@
       "parse": false
     },
     {
-      "name": "FX (Belize)",
-      "url": "http://170.254.18.106/FX/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "FXX",
       "url": "http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -441,42 +417,6 @@
     {
       "name": "Hallmark Channel",
       "url": "http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO ＋ (Belize)",
-      "url": "http://170.254.18.106/HBO_PLUS/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO 2 (Belize)",
-      "url": "http://170.254.18.106/HBO2/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Family (Belize)",
-      "url": "http://170.254.18.106/HBO_FAMILY/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Mundi (Belize)",
-      "url": "http://170.254.18.106/HBO_MUNDI/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Signature (Belize)",
-      "url": "http://170.254.18.106/HBO_SIG/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Xtreme (Belize)",
-      "url": "http://170.254.18.106/HBO_XTREME/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -529,7 +469,7 @@
       "parse": false
     },
     {
-      "name": "KBS World",
+      "name": "KBS World (Korea)",
       "url": "https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -559,13 +499,7 @@
       "parse": false
     },
     {
-      "name": "Lifetime (Belize)",
-      "url": "http://170.254.18.106/LIFETIME/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Lifetime (US)",
+      "name": "Lifetime",
       "url": "http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -577,7 +511,7 @@
       "parse": false
     },
     {
-      "name": "LocalNow Always Christmas [Not 24/7]",
+      "name": "LocalNow Always Christmas",
       "url": "https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -685,12 +619,6 @@
       "parse": false
     },
     {
-      "name": "MTV (Belize)",
-      "url": "http://170.254.18.106/MTV/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Mutant Movies",
       "url": "https://live.metshop.top/douyu/9651304",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -763,13 +691,7 @@
       "parse": false
     },
     {
-      "name": "Paramount Network (Belize)",
-      "url": "http://170.254.18.106/PARAMOUNT/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Paramount Network (US)",
+      "name": "Paramount Network",
       "url": "http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -823,7 +745,7 @@
       "parse": false
     },
     {
-      "name": "Sci-Fi",
+      "name": "Sci-Fi [Not 24/7]",
       "url": "https://live.metshop.top/douyu/11673725",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -877,12 +799,6 @@
       "parse": false
     },
     {
-      "name": "Star Channel (Belize) ",
-      "url": "http://170.254.18.106/STAR/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "TCM",
       "url": "http://143.244.60.30/TCM/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -903,12 +819,6 @@
     {
       "name": "This (480p)",
       "url": "https://cdn.igocast.com/channel11_hls/channel11_master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TNT (Belize)",
-      "url": "http://170.254.18.106/TNT/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -939,12 +849,6 @@
     {
       "name": "USA Network",
       "url": "http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "VH1 (Belize)",
-      "url": "http://170.254.18.106/VH1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
