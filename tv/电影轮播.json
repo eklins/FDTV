@@ -295,12 +295,6 @@
       "parse": false
     },
     {
-      "name": "E！",
-      "url": "http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "EBC Movie 東森電影 (Taiwan)",
       "url": "https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -415,18 +409,6 @@
       "parse": false
     },
     {
-      "name": "FXX",
-      "url": "http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Grit",
-      "url": "http://livex.pop-app.live/s4n/poplive/ch563/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Grit Xtra",
       "url": "https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -435,12 +417,6 @@
     {
       "name": "Groovy (Greece★360p)",
       "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Hallmark Channel",
-      "url": "http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -565,12 +541,6 @@
       "parse": false
     },
     {
-      "name": "Lifetime (US)",
-      "url": "http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "LocalNow Adrenaline Rush",
       "url": "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -639,12 +609,6 @@
     {
       "name": "Maverick Black Cinema",
       "url": "https://lnc-maverick-black-cinema.tubi.video/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MeTV",
-      "url": "http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -765,12 +729,6 @@
     {
       "name": "Paramount Network (Belize)",
       "url": "http://170.254.18.106/PARAMOUNT/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Paramount Network (US)",
-      "url": "http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -933,12 +891,6 @@
     {
       "name": "tvN Movies (Indonesia★576p)",
       "url": "http://210.210.155.35:80/dr9445/h/h21/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "USA Network",
-      "url": "http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
