@@ -2,9 +2,9 @@
   "data": [
     {
       "id": 1,
-      "name": "量子",
+      "name": "HLS Player",
       "ad": "no",
-      "url": "https://lziplayer.com/?url="
+      "url": "https://www.hlsplayer.org/play?url="
     },
     {
       "id": 1,
@@ -14,9 +14,9 @@
     },
     {
       "id": 1,
-      "name": "HLS Player",
+      "name": "量子",
       "ad": "no",
-      "url": "https://www.hlsplayer.org/play?url="
+      "url": "https://lziplayer.com/?url="
     },
     {
       "id": 1,
