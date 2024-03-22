@@ -38,18 +38,6 @@
     },
     {
       "id": 1,
-      "name": "乐视",
-      "ad": "no",
-      "url": "https://leshivideoplayurl.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "索尼",
-      "ad": "no",
-      "url": "https://www.snplayer.com/?url="
-    },
-    {
-      "id": 1,
       "name": "飞速",
       "ad": "no",
       "url": "https://www.feisuplayer.com/m3u8/?url="
@@ -59,6 +47,24 @@
       "name": "快云",
       "ad": "no",
       "url": "https://www.kuaiyunplayer.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "新卧龙",
+      "ad": "no",
+      "url": "https://jx.wolongm3u8.com:65/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "乐视",
+      "ad": "no",
+      "url": "https://leshivideoplayurl.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "索尼",
+      "ad": "no",
+      "url": "https://www.snplayer.com/?url="
     },
     {
       "id": 1,
