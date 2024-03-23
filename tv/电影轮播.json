@@ -205,6 +205,12 @@
       "parse": false
     },
     {
+      "name": "DC's Movie",
+      "url": "https://live.metshop.top/huya/11342428",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Discover Film (UK)",
       "url": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -217,7 +223,7 @@
       "parse": false
     },
     {
-      "name": "DouYu 20415 [Not 24/7]",
+      "name": "DouYu 20415",
       "url": "https://live.metshop.top/douyu/20415",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -235,32 +241,32 @@
       "parse": false
     },
     {
-      "name": "DouYu 贝爷影厅 36337",
-      "url": "https://live.metshop.top/douyu/36337",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 贝爷影厅 252802 [Not 24/7]",
-      "url": "https://live.metshop.top/douyu/252802",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 粤语电影 1226741",
+      "name": "DouYu Cantonese 1226741",
       "url": "https://live.metshop.top/douyu/1226741",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 粤语电影 5033502",
+      "name": "DouYu Cantonese 5033502",
       "url": "https://live.metshop.top/douyu/5033502",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 粤语电影 6566671",
+      "name": "DouYu Cantonese 6566671",
       "url": "https://live.metshop.top/douyu/6566671",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu Cantonese Comedy",
+      "url": "https://live.metshop.top/huya/11352894",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu 贝爷影厅 36337",
+      "url": "https://live.metshop.top/douyu/36337",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -279,6 +285,12 @@
     {
       "name": "Dust (New Zealand)",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Dwayne Johnson",
+      "url": "https://live.metshop.top/huya/21059581",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -415,6 +427,12 @@
       "parse": false
     },
     {
+      "name": "Harry Potter",
+      "url": "https://live.metshop.top/douyu/8814650",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "HBO + (Belize)",
       "url": "http://170.254.18.106/HBO_PLUS/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -453,6 +471,18 @@
     {
       "name": "Hi-YAH！",
       "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Horror",
+      "url": "https://live.metshop.top/huya/11352903",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Horror & Disaster 奶虫",
+      "url": "https://live.metshop.top/douyu/263824",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -799,13 +829,13 @@
       "parse": false
     },
     {
-      "name": "Sci-Fi [Not 24/7]",
-      "url": "https://live.metshop.top/douyu/11673725",
+      "name": "Sci-Fi & Action (Douyu)",
+      "url": "https://live.metshop.top/douyu/323876",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Sci-Fi & Action",
+      "name": "Sci-Fi & Action (YY)",
       "url": "https://live.metshop.top/yy/37988782",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -835,6 +865,18 @@
       "parse": false
     },
     {
+      "name": "Sport's Inspirational",
+      "url": "https://live.metshop.top/yy/1382735626",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport's Legend",
+      "url": "https://live.metshop.top/yy/1382735625",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Spy Movies",
       "url": "https://live.metshop.top/douyu/9292499",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -855,6 +897,24 @@
     {
       "name": "Star Channel (Belize) ",
       "url": "http://170.254.18.106/STAR/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stephen Chow（周星驰）",
+      "url": "https://live.metshop.top/huya/11336587",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Superheroes ①",
+      "url": "https://live.metshop.top/yy/1382736863",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Superheroes ②",
+      "url": "https://live.metshop.top/yy/1382745091",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1843,63 +1903,69 @@
       "parse": false
     },
     {
-      "name": "BesTV 电影 480",
-      "url": "http://bp-caster.bestv.com.cn/480/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "name": "动作",
+      "url": "https://live.metshop.top/yy/1382736858",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 电影 490",
-      "url": "http://bp-caster.bestv.com.cn/490/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "name": "动作、科幻、玄幻",
+      "url": "https://live.metshop.top/yy/1355065896",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 电影 494",
-      "url": "http://bp-caster.bestv.com.cn/494/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "name": "古墓、探险",
+      "url": "https://live.metshop.top/huya/11352913",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 电影 532",
-      "url": "http://bp-caster.bestv.com.cn/532/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "name": "科幻 ①",
+      "url": "https://live.metshop.top/yy/1354936221",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 独播 789",
-      "url": "https://bp-caster.bestv.com.cn/789/3/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "name": "奇幻鬼怪",
+      "url": "https://live.metshop.top/yy/1459714870",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 独播 940",
-      "url": "https://bp-caster.bestv.com.cn/940/3/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "name": "喜剧",
+      "url": "https://live.metshop.top/huya/11352897",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 独播 944",
-      "url": "https://bp-caster.bestv.com.cn/944/3/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "name": "悬疑",
+      "url": "https://live.metshop.top/yy/1382736859",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 独播 946",
-      "url": "https://bp-caster.bestv.com.cn/946/3/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "name": "灾难",
+      "url": "https://live.metshop.top/huya/11602075",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BesTV 独播 955",
-      "url": "https://bp-caster.bestv.com.cn/955/3/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "name": "战争大片 ①",
+      "url": "https://live.metshop.top/yy/1382736819",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "长城精品",
-      "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "name": "战争大片 ②",
+      "url": "https://live.metshop.top/yy/1382735556",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "战争军事",
+      "url": "https://live.metshop.top/yy/1353426319",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     }
   ]
