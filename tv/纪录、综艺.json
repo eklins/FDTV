@@ -37,6 +37,12 @@
       "parse": false
     },
     {
+      "name": "Running Man 2010",
+      "url": "https://live.metshop.top/douyu/131977",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ikJIK4i66ebtBH6ZN4oFtB8xoUAC_5bCdA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Survivor 2000",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuBKBVxd89d9TdPprjGY8aRly1RsqKr_-3A&usqp=CAU",
@@ -52,6 +58,24 @@
       "name": "The Price is Right 1972",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6L2OMvXRkklrd2D0x88B1H5EfwBOQj7GUA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "中国通史 2013",
+      "url": "https://live.metshop.top/huya/20985822",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQx8YhflJtJjAUGOnqoMYL85hRPqwAlNfK9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "从秦始皇到汉武帝 2016",
+      "url": "https://live.metshop.top/huya/20969117",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzpe9dfl1apW88xEj8-0VUxTMrSih73xJ8A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "舌尖上的中国 2012",
+      "url": "https://live.metshop.top/huya/11352955",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGEtcZuUJyt3IKFzmLUXwivLjXJP6ZxTmiw&usqp=CAU",
       "parse": false
     },
     {
