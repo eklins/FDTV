@@ -265,8 +265,14 @@
       "parse": false
     },
     {
-      "name": "DouYu 贝爷影厅 36337",
+      "name": "DouYu 贝爷影厅",
       "url": "https://live.metshop.top/douyu/36337",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu 冰冰小剧场",
+      "url": "https://live.metshop.top/douyu/74374",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1903,7 +1909,13 @@
       "parse": false
     },
     {
-      "name": "动作",
+      "name": "动作（虎牙）",
+      "url": "https://live.metshop.top/huya/11602041",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "动作（YY）",
       "url": "https://live.metshop.top/yy/1382736858",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -1921,7 +1933,13 @@
       "parse": false
     },
     {
-      "name": "科幻 ①",
+      "name": "贺岁电影",
+      "url": "https://live.metshop.top/huya/11601986",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "科幻",
       "url": "https://live.metshop.top/yy/1354936221",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -1939,7 +1957,13 @@
       "parse": false
     },
     {
-      "name": "悬疑",
+      "name": "悬疑（虎牙）",
+      "url": "https://live.metshop.top/huya/11342395",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "悬疑（YY）",
       "url": "https://live.metshop.top/yy/1382736859",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
