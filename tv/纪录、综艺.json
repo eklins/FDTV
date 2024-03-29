@@ -583,6 +583,12 @@
       "parse": false
     },
     {
+      "name": "Gaki no Tsukai ガキの使い (Japan)【English Subs】",
+      "url": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Game Show Network [Not 24/7]",
       "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
