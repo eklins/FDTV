@@ -421,6 +421,12 @@
       "parse": false
     },
     {
+      "name": "E！(Canada)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/e.canada.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "EarthX TV",
       "url": "https://ov.ottera.tv/live/master.m3u8?channel=earth_et",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
