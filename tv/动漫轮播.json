@@ -97,6 +97,12 @@
       "parse": false
     },
     {
+      "name": "Boomerang (UK)",
+      "url": "http://tvnow.best/api/stream/bcandyone216@gmail.com/Love22458!/livetv.epg/boomerang.uk.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Camp Spoopy (576p)",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -111,6 +117,18 @@
     {
       "name": "Comedy Central (Belize)",
       "url": "http://170.254.18.106/COMEDY_CENTRAL/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney XD (Canada)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/disney.xd.canada.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney XD (US West)",
+      "url": "http://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/disney.xd.usa.pacific.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -171,6 +189,12 @@
     {
       "name": "My Kidz (Indonesia)",
       "url": "http://210.210.155.35:80/uq2663/h/h191/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nicktoons",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nicktoons.east.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
