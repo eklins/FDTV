@@ -13,8 +13,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqaca-JqaWqs_UvieEK88tQpOBeeQRFDNxg&usqp=CAU",TV3
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/index.m3u8
-#EXTINF:-1 ,🇺🇳Anime TV (480p)
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Afghanistan_%282004%E2%80%932021%29.svg/240px-Flag_of_Afghanistan_%282004%E2%80%932021%29.svg.png",Afghanistan♥ATN International
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 ,AFG★Solh TV
