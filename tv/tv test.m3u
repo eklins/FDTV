@@ -11,6 +11,10 @@ http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/great.act
 http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/hbo.eastern.us.m3u8
 #EXTINF:-1 ,HBO (Canada) or History
 http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/hbo.ca.m3u8
+#EXTINF:-1 ,More Max (US East)
+http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/moremax.eastern.us.m3u8
+#EXTINF:-1 ,Nick Toons (UK)🔇
+http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nicktoons.uk.m3u8
 #EXTINF:-1 ,5 ԹԻՎԻ (Armenia★480p)
 http://ott-cdn.ucom.am/s6/index.m3u8
 #EXTINF:-1 ,Film & Arts Panregional (US)
