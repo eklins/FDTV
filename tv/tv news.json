@@ -139,6 +139,12 @@
       "parse": false
     },
     {
+      "name": "CNBC World",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/cnbc.world.us.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNmz_zwIGUdGNAGUHMH2AMC8p0OrjcF8QuQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "CNN",
       "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcIOFz3H5PMBQtQZBP_aznkjyPi3ibCb23A&usqp=CAU",
