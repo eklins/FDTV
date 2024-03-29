@@ -199,6 +199,12 @@
       "parse": false
     },
     {
+      "name": "Crime+ Investigation (Canada)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/investigation.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cult Classic Movie Theater",
       "url": "https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -319,8 +325,20 @@
       "parse": false
     },
     {
+      "name": "Epix",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/epix.east.us.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Epix 2",
       "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/epix2.east.us.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Epix Drive In",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/epix.drive.in.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -439,8 +457,20 @@
       "parse": false
     },
     {
-      "name": "Great！TV (UK)",
+      "name": "FXX",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/fxx.usa.eastern.us.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Great！(UK)",
       "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/great.tv.uk.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Great！Movies (UK)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/great.movies.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -459,6 +489,12 @@
     {
       "name": "Harry Potter",
       "url": "https://live.metshop.top/douyu/8814650",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO (US West)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/hbo.west.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -607,6 +643,12 @@
       "parse": false
     },
     {
+      "name": "Lifetime (Canada)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/lifetime.tv.canada.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "LocalNow Adrenaline Rush",
       "url": "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -697,6 +739,12 @@
       "parse": false
     },
     {
+      "name": "More Max (US West)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/moremax.pacific.us.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Movie Max",
       "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/moviemax.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -721,6 +769,12 @@
       "parse": false
     },
     {
+      "name": "Movie Time (Canada)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/movietime.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Movies World 1 (Thailand)",
       "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -735,6 +789,18 @@
     {
       "name": "MTV (Belize)",
       "url": "http://170.254.18.106/MTV/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MTV (UK)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/mtv.uk.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MTV (US West)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/mtv.usa.pacific.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -907,7 +973,25 @@
       "parse": false
     },
     {
-      "name": "SKY Max (UK)",
+      "name": "Showcase (Canada)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/showcase.canada.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Comedy (UK)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.comedy.uk.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Crime (UK)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.crime.uk.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Max (UK)",
       "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.one.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -943,8 +1027,20 @@
       "parse": false
     },
     {
-      "name": "Star Channel (Belize) ",
+      "name": "Star Channel (Belize)",
       "url": "http://170.254.18.106/STAR/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz 1 (Canada)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/starz1.east.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz 2 (Canada)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/starz2.east.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -987,6 +1083,12 @@
     {
       "name": "TNT (Belize)",
       "url": "http://170.254.18.106/TNT/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TNT (US West)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/tnt.pacific.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
