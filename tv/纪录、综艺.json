@@ -164,13 +164,13 @@
     },
     {
       "name": "Animal Planet (Canada)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/animal.planet.canada.ca.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/animal.planet.canada.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Animal Planet (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/animal.planet.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/animal.planet.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -212,7 +212,7 @@
     },
     {
       "name": "BBC Earth (Canada)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/bbc.earth.ca.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/bbc.earth.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -242,7 +242,7 @@
     },
     {
       "name": "bravo (US West)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/bravo.usa.pacific.us.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/bravo.usa.pacific.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -392,25 +392,25 @@
     },
     {
       "name": "Discovery (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Discovery History (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.history.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.history.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Discovery Science (Canada)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.science.canada.ca.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.science.canada.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Discovery Science (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.science.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.science.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -470,7 +470,7 @@
     },
     {
       "name": "E！(Canada)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/e.canada.ca.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/e.canada.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -530,13 +530,13 @@
     },
     {
       "name": "Fairchild TV (Canada East) 新時代電視",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/fairchild.tv.east.ca.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/fairchild.tv.east.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Fairchild TV (Canada West) 新時代電視",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/fairchild.tv.pacific.ca.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/fairchild.tv.pacific.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -758,25 +758,25 @@
     },
     {
       "name": "History (Canada)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/history.canada.east.ca.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/history.canada.east.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "History 2 (Canada)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/history.2.canada.ca.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/history.2.canada.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "History 2 (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/history2.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/history2.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "History Channel",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/history.channel.us.east.us.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/history.channel.us.east.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -980,7 +980,7 @@
     },
     {
       "name": "Military History",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/military.history.us.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/military.history.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1022,7 +1022,7 @@
     },
     {
       "name": "National Geographic Wild (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nat.geo.wild.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nat.geo.wild.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1070,7 +1070,7 @@
     },
     {
       "name": "Outdoor (US)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/outdoor.channel.us.us.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/outdoor.channel.us.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1178,7 +1178,7 @@
     },
     {
       "name": "Pursuit Channel",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/pursuit.channel.us.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/pursuit.channel.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1310,31 +1310,31 @@
     },
     {
       "name": "Sky Arts (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.arts.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.arts.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Sky Documentaries (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.documntrs.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.documntrs.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Sky History (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/history.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/history.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Sky Replay (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.two.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.two.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Sky Witness (UK)",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.witness.uk.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.witness.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1610,7 +1610,7 @@
     },
     {
       "name": "True Crime Network",
-      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/true.crime.network.us.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/true.crime.network.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1634,7 +1634,7 @@
     },
     {
       "name": "truTV",
-      "url": "http://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/trutv.pacific.us.m3u8",
+      "url": "https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/trutv.pacific.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
