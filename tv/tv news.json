@@ -134,13 +134,7 @@
     },
     {
       "name": "CNBC",
-      "url": "http://23.237.98.42:8080/USA_CNBC/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CNBC Africa (South Africa★480p) [Not 24/7]",
-      "url": "http://41.205.93.154/CNBC/index.m3u8",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/cnbc.usa.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU",
       "parse": false
     },
