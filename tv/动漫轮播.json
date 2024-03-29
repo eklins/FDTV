@@ -139,6 +139,12 @@
       "parse": false
     },
     {
+      "name": "Disney (Canada)",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/disney.channel.canada.east.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Disney Jr. (US East)",
       "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/disney.junior.usa.east.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -235,6 +241,18 @@
       "parse": false
     },
     {
+      "name": "Nickelodeon (US East)",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nickelodeon.usa.east.us.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nickelodeon (US West)",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nickelodeon.usa.pacific.us.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Nicktoons",
       "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nicktoons.east.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -283,8 +301,26 @@
       "parse": false
     },
     {
+      "name": "Sky Cinema Animation (UK)",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.cinema.animation.uk.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Smile (540p)",
       "url": "https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Kids Family (US East)",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/starz.kids.family.eastern.us.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Starz Kids Family (US West)",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/starz.kids.family.pacific.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
