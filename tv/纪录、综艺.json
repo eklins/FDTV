@@ -397,6 +397,24 @@
       "parse": false
     },
     {
+      "name": "Discovery History (UK)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.history.uk.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Discovery Science (Canada)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.science.canada.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Discovery Science (UK)",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.science.uk.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Diva (South Africa)",
       "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -511,8 +529,14 @@
       "parse": false
     },
     {
-      "name": "Fairchild TV (Canada) 新時代電視",
+      "name": "Fairchild TV (Canada East) 新時代電視",
       "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/fairchild.tv.east.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Fairchild TV (Canada West) 新時代電視",
+      "url": "http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/fairchild.tv.pacific.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
