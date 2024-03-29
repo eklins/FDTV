@@ -3,12 +3,8 @@
 https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfMhaCbOPFZRmescC-Suy3ehTcUQ0L_3_t6A&usqp=CAU",Berita RTM [Not 24/7]
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfMhaCbOPFZRmescC-Suy3ehTcUQ0L_3_t6A&usqp=CAU",Berita RTM
 https://ythls.armelin.one/channel/UCjUxj4cyy_F0tVCT8WfmdZQ.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrmy0ciO60F5FvI3dHiRAG4eglSGk1XUG5Q&usqp=CAU",ROCK Action (576p) [Formerly known as ROCK Extreme]
-http://210.210.155.35:80/dr9445/h/h15/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIzgPMYDjGIH2DVqOkbYsLxWbxgpF1ANs0g&usqp=CAU",ROCK Entertainment (576p)
-http://210.210.155.35:80/dr9445/h/h16/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fffh0YASFhxtsC8OMF9K0E-Mkse189bGPQ&usqp=CAU",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpoxvRef94zWT_VgzRRAxOY2QX1j41E6b8ag&usqp=CAU",TV1
@@ -19,30 +15,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/index.m3u8
 #EXTINF:-1 ,🇺🇳Anime TV (480p)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 ,🇺🇳art
-https://59cba4d34b678.streamlock.net/canlitv/arttv/HasBahCa_w1071760387.m3u8
-#EXTINF:-1 ,🇺🇳Canal Sony
-http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16700
-#EXTINF:-1 ,🇺🇳CFN TV (720p)
-https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
-#EXTINF:-1 ,🇺🇳Cinema Classic TV
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1 ,🇺🇳Globo
-http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16730
-#EXTINF:-1 ,🇺🇳HBO 2
-http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31460
-#EXTINF:-1 ,🇺🇳ONTV
-https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
-#EXTINF:-1 ,🇺🇳Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist-1080p.m3u8
-#EXTINF:-1 ,🇺🇳SBT
-http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
-#EXTINF:-1 ,🇺🇳Slimo (540p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
-#EXTINF:-1 ,🇺🇳VIP Comedy
-http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,🇺🇳VIP Premiere
-http://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Afghanistan_%282004%E2%80%932021%29.svg/240px-Flag_of_Afghanistan_%282004%E2%80%932021%29.svg.png",Afghanistan♥ATN International
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 ,AFG★Solh TV
