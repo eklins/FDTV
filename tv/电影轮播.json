@@ -1429,7 +1429,7 @@
       "parse": false
     },
     {
-      "name": "AMC On Demand L1",
+      "name": "AMC On Demand",
       "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/amc.on.demand.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
