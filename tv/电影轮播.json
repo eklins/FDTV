@@ -505,7 +505,7 @@
       "parse": false
     },
     {
-      "name": "FXM Retro",
+      "name": "FXM",
       "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/fx.movie.channel.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -577,6 +577,12 @@
       "parse": false
     },
     {
+      "name": "HBO (Canada)",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/hbo.ca.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "HBO (US East)",
       "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/hbo.eastern.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -591,6 +597,12 @@
     {
       "name": "HBO 2 (Belize)",
       "url": "http://170.254.18.106/HBO2/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO 2 (Canada)",
+      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/hbo.2.eastern.ca.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
