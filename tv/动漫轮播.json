@@ -97,26 +97,8 @@
       "parse": false
     },
     {
-      "name": "Boomerang (UK)",
-      "url": "https://tvnow.best/api/stream/bcandyone216@gmail.com/Love22458!/livetv.epg/boomerang.uk.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Camp Spoopy (576p)",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cartoon Network (Canada)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/cartoon.network.canada.ca.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cartoon Network (UK)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/cartoon.network.uk.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -129,42 +111,6 @@
     {
       "name": "Comedy Central (Belize)",
       "url": "http://170.254.18.106/COMEDY_CENTRAL/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Family Channel",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/discovery.family.channel.us.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Disney (Canada)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/disney.channel.canada.east.ca.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Disney Jr. (US East)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/disney.junior.usa.east.us.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Disney XD (Canada)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/disney.xd.canada.ca.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Disney XD (US East)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/disney.xd.usa.eastern.us.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Disney XD (US West)",
-      "url": "https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/disney.xd.usa.pacific.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -229,36 +175,6 @@
       "parse": false
     },
     {
-      "name": "Nickelodeon (Canada)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nickelodeon.canada.ca.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Nickelodeon (UK)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nickelodeon.uk.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Nickelodeon (US East)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nickelodeon.usa.east.us.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Nickelodeon (US West)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nickelodeon.usa.pacific.us.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Nicktoons",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/nicktoons.east.us.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "PBS Kids",
       "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -301,32 +217,8 @@
       "parse": false
     },
     {
-      "name": "Sky Cinema Animation (UK)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sky.cinema.animation.uk.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Smile (540p)",
       "url": "https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Kids Family (US East)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/starz.kids.family.eastern.us.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Kids Family (US West)",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/starz.kids.family.pacific.us.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TeenNick",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/teennick.eastern.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -363,12 +255,6 @@
     {
       "name": "Toonami Aftermath West (480p)",
       "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Universal Kids",
-      "url": "https://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/universal.kids.us.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
