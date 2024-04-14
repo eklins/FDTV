@@ -50,6 +50,18 @@
     },
     {
       "id": 1,
+      "name": "360资源（娱乐专用）",
+      "ad": "no",
+      "url": "https://www.360jiexi.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "360资源（福利专用）",
+      "ad": "no",
+      "url": "https://bofang.360jiexi.com/?url="
+    },
+    {
+      "id": 1,
       "name": "草榴",
       "ad": "no",
       "url": "https://jx.caoliuzywcdnjx.com:188/m3u8.php?url="
