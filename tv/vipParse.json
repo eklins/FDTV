@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "iKun",
-      "ad": "no",
-      "url": "https://www.ikdmjx.com/?url="
-    },
-    {
-      "id": 1,
       "name": "海外看",
       "ad": "no",
       "url": "https://dp.haiwaikan.com/index.html?url="
@@ -47,6 +41,12 @@
       "name": "飞速",
       "ad": "no",
       "url": "https://www.feisuplayer.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "iKun",
+      "ad": "no",
+      "url": "https://www.ikdmjx.com/?url="
     },
     {
       "id": 1,
