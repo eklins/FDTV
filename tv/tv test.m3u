@@ -1005,6 +1005,13 @@ https://www.cnbctv18.com/live-tv/
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
 #EXTINF:-1, 北京体育
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXgRJDBuFIP_0HdZqLG9GGUVyS_T0KlzCkw&usqp=CAU",妇好鸮尊
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvnvAJ71eINGzyrpfGoagVrnzLooyKDne4g&usqp=CAU",妇好方斝
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOXzjix0PJ5Ad8Yhrv8yA30FLoDZr52XlIQ&usqp=CAU",妇好嵌绿松石象牙杯
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYnGhAUOKxgNtSwhVp8HbBiw_NS3UdpPZz4A&usqp=CAU",妇好嵌绿松石象牙杯 2
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K5cikOcshrNAn-DOsQ6XITaPhE4I1Qme2Q&usqp=CAU",簋
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZnprKpA_bUteZYd-Vj9lIL2UlKDLcXEYWeg&usqp=CAU",犺
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHip68xlB630DDZfj-JKqLGJ6mV1N4dRA4Q&usqp=CAU",匜
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVdSwUWkHfo9-QcW1-aSb0UNMccnKsZ7VxQ&usqp=CAU",吉高寧々
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlNE1dfRYs_JeNMAuHNAs_rl-u9DZl6vISg&usqp=CAU",鹫尾芽衣
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnFxntKb8wPHd0Ctl127MFAJN4R3-gP2OrQ&usqp=CAU",葵司
