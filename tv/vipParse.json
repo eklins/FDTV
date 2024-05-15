@@ -62,6 +62,12 @@
     },
     {
       "id": 1,
+      "name": "淘片②",
+      "ad": "no",
+      "url": "https://www.tpvod.com/player.html?uri="
+    },
+    {
+      "id": 1,
       "name": "快云",
       "ad": "no",
       "url": "https://www.kuaiyunplayer.com/dplayer/?url="
