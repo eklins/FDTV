@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "无尽备用",
-      "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
-    },
-    {
-      "id": 1,
       "name": "海外看",
       "ad": "no",
       "url": "https://dp.haiwaikan.com/index.html?url="
@@ -20,15 +14,15 @@
     },
     {
       "id": 1,
-      "name": "HLS Player",
-      "ad": "no",
-      "url": "https://www.hlsplayer.org/play?url="
-    },
-    {
-      "id": 1,
       "name": "量子",
       "ad": "no",
       "url": "https://lziplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -59,6 +53,12 @@
       "name": "iKun 福利",
       "ad": "no",
       "url": "https://bofang.ikdmjx.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "HLS Player",
+      "ad": "no",
+      "url": "https://www.hlsplayer.org/play?url="
     },
     {
       "id": 1,
