@@ -158,7 +158,7 @@
     },
     {
       "name": "Cinevault 80s",
-      "url": "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8",
+      "url": "https://lnc-cinevault-80s.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -170,7 +170,7 @@
     },
     {
       "name": "Cinevault Westerns",
-      "url": "https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8",
+      "url": "https://lnc-cinevault-westerns.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
