@@ -7,27 +7,9 @@
       "parse": false
     },
     {
-      "name": "Alf 1986-1990",
-      "url": "https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_ClHGxAbhPn8fTrr4eaibj5ndJdCcZ_TJg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Andromeda 2000-2005",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMy7KHkkDUw8OMEqUqOtu2xNtQW72Mkyzrow&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Anger Management 2012-2014",
-      "url": "https://lnc-anger-management.tubi.video/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6nb5ACb7EgbAM_sPwJCNtOinwuE9Z-zk2A&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Are We There Yet? 2010-2013",
-      "url": "https://lnc-are-we-there-yet.tubi.video/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqfTK92bGMFSCxtA3CLEB2Q19VSenlKuF46g&usqp=CAU",
       "parse": false
     },
     {
@@ -94,12 +76,6 @@
       "name": "Family Ties 1982-1989",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNELQnwnQOoF2f4oy-n-G04ad81S9y3aduA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Farscape 1999-2003",
-      "url": "https://a8d3367c658948afb1901efdd9babe5b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_Farscape/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-zW0DtN3oCdh_odY3Wf59Ys5HhVOVirPXPg&usqp=CAU",
       "parse": false
     },
     {
@@ -211,8 +187,14 @@
       "parse": false
     },
     {
-      "name": "雍正王朝 1999",
+      "name": "雍正王朝 1999（斗鱼）",
       "url": "https://live.metshop.top/douyu/11544610",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "雍正王朝 1999（YY）",
+      "url": "https://live.metshop.top/yy/1356043620",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
       "parse": false
     },
