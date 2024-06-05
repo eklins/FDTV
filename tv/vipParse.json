@@ -68,6 +68,12 @@
     },
     {
       "id": 1,
+      "name": "华为吧",
+      "ad": "no",
+      "url": "https://hw8.live/player?url="
+    },
+    {
+      "id": 1,
       "name": "丫丫",
       "ad": "no",
       "url": "https://jx.yayazy.cc/m3u8/?url="
