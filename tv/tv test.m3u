@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 ,黄瓜测试❌
-http://player.huangguam3u.com/20231126/zXLngkLa/index.m3u8
-#EXTINF:-1 ,ckdns8测试❌
-http://ckdns8.com/20240509/NYePbtFu/index.m3u8
 #EXTINF:-1 ,淘片测试❌1
 https://sd8.taopianplay1.com:43333/c56b1bc09da3/HD/2024-05-08/24/ee0a309a4b4f/fcc7c72fb1f9/playlist.m3u8
 #EXTINF:-1 ,淘片测试❌2
 https://sd8.taopianplay1.com/c56b1bc09da3/HD/2024-05-08/24/ee0a309a4b4f/fcc7c72fb1f9/playlist.m3u8
+#EXTINF:-1 ,黄瓜测试❌huangguam3u
+https://player.huangguam3u.com/20231126/zXLngkLa/index.m3u8
+#EXTINF:-1 ,黄瓜测试❌hgm3u9
+https://player.hgm3u9.com/20231126/zXLngkLa/index.m3u8
 #EXTINF:-1 ,video.myzybo
 https://videos3.myzybo.com/decry/vd/20240528/NGRmNTA1Z/101301/1280_720/aac/libx/hls/encrypt/index.m3u8
 #EXTINF:-1 ,videos3.myzybo
