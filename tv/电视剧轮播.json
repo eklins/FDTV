@@ -175,66 +175,6 @@
       "parse": false
     },
     {
-      "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
-      "url": "https://live.metshop.top/douyu/1584198",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOpPbtOb-rZI06-6ZSmG-4ha6QaedlFuYlPQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "大秦赋 2020",
-      "url": "https://live.metshop.top/huya/11352881",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "雍正王朝 1999（斗鱼）",
-      "url": "https://live.metshop.top/douyu/11544610",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "雍正王朝 1999（YY）",
-      "url": "https://live.metshop.top/yy/1356043620",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "康熙王朝 2001",
-      "url": "https://live.metshop.top/douyu/9650836",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "康熙微服私访记 1997-2003（斗鱼）",
-      "url": "https://live.metshop.top/douyu/7550220",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "康熙微服私访记 1997-2003（虎牙）",
-      "url": "https://live.metshop.top/huya/11342418",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "铁齿铜牙纪晓岚 1999-2008",
-      "url": "https://live.metshop.top/huya/25701671",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "芈月传 2015",
-      "url": "https://live.metshop.top/huya/11352975",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvXm6EBSw9L68tp2BOqOzUsMNNDXmMlA3Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "仙剑奇侠传 2005",
-      "url": "https://live.metshop.top/yy/1382749903",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKXq-mvQ0T70KY-cdApGi0ecVY1YCckfR_A&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Electric Now",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=53",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -334,6 +274,66 @@
       "name": "XUMO Crackle",
       "url": "http://crackle-xumo.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
+      "url": "https://live.metshop.top/douyu/1584198",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOpPbtOb-rZI06-6ZSmG-4ha6QaedlFuYlPQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "大秦赋 2020",
+      "url": "https://live.metshop.top/huya/11352881",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "雍正王朝 1999（斗鱼）",
+      "url": "https://live.metshop.top/douyu/11544610",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "雍正王朝 1999（YY）",
+      "url": "https://live.metshop.top/yy/1356043620",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "康熙王朝 2001",
+      "url": "https://live.metshop.top/douyu/9650836",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "康熙微服私访记 1997-2003（斗鱼）",
+      "url": "https://live.metshop.top/douyu/7550220",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "康熙微服私访记 1997-2003（虎牙）",
+      "url": "https://live.metshop.top/huya/11342418",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "铁齿铜牙纪晓岚 1999-2008",
+      "url": "https://live.metshop.top/huya/25701671",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芈月传 2015",
+      "url": "https://live.metshop.top/huya/11352975",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvXm6EBSw9L68tp2BOqOzUsMNNDXmMlA3Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "仙剑奇侠传 2005",
+      "url": "https://live.metshop.top/yy/1382749903",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKXq-mvQ0T70KY-cdApGi0ecVY1YCckfR_A&usqp=CAU",
       "parse": false
     }
   ]
