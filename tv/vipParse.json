@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "黄瓜 2024",
+      "ad": "no",
+      "url": "https://player.avre14.com:54188/player/?url="
+    },
+    {
+      "id": 1,
       "name": "海外看",
       "ad": "no",
       "url": "https://dp.haiwaikan.com/index.html?url="
