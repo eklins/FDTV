@@ -2,10 +2,16 @@
   "data": [
     {
       "id": 1,
+      "name": "HLS Player",
+      "ad": "no",
+      "url": "https://www.hlsplayer.org/play?url="
+    },
+    {
+      "id": 1,
       "name": "无尽 2024",
       "ad": "no",
       "url": "https://jx.wuvodbf.com/dplayer/?url="
-    },
+    },https://www.m3u8hls.com/
     {
       "id": 1,
       "name": "海外看",
@@ -83,12 +89,6 @@
       "name": "丫丫",
       "ad": "no",
       "url": "https://jx.yayazy.cc/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "HLS Player",
-      "ad": "no",
-      "url": "https://www.hlsplayer.org/play?url="
     },
     {
       "id": 1,
