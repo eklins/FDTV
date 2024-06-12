@@ -80,6 +80,12 @@
     },
     {
       "id": 1,
+      "name": "非凡",
+      "ad": "no",
+      "url": "https://svip.ffzyplay.com/?url="
+    },
+    {
+      "id": 1,
       "name": "华为吧",
       "ad": "no",
       "url": "https://hw8.live/player?url="
