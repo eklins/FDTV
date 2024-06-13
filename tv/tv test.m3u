@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,91av01
-https://vip.91av01.com/movie/auto/664ae8b42fac1118170bf5db.m3u8
-#EXTINF:-1 ,hgzy02
-https://api.hgzy02.com/movie/auto/664af2dc2fac11181711a1cc.m3u8
 #EXTINF:-1 ,淘片测试❌1
 https://sd8.taopianplay1.com:43333/c56b1bc09da3/HD/2024-05-08/24/ee0a309a4b4f/fcc7c72fb1f9/playlist.m3u8
 #EXTINF:-1 ,淘片测试❌2
@@ -11,6 +7,8 @@ https://sd8.taopianplay1.com/c56b1bc09da3/HD/2024-05-08/24/ee0a309a4b4f/fcc7c72f
 https://player.huangguam3u.com/20231126/zXLngkLa/index.m3u8
 #EXTINF:-1 ,黄瓜测试❌hgm3u9
 https://player.hgm3u9.com/20231126/zXLngkLa/index.m3u8
+#EXTINF:-1 ,黄瓜测试❌hgm4u9
+https://play.hgm4u9.com/20230523/KsCk5Ce7/index.m3u8
 #EXTINF:-1 ,video.myzybo
 https://videos3.myzybo.com/decry/vd/20240528/NGRmNTA1Z/101301/1280_720/aac/libx/hls/encrypt/index.m3u8
 #EXTINF:-1 ,videos3.myzybo
@@ -19,7 +17,11 @@ https://videos3.myzybo.com/decry/vd/20240528/NGRmNTA1Z/101301/1280_720/aac/libx/
 https://videos3.myzybo.com/https://videocdnbaidu.rhsj520.com/rbny/20181005/AIKA/AVOP-062/index.m3u8
 #EXTINF:-1 ,videos3★yongaomy❌
 https://videos3.myzybo.com/https://videomy.yongaomy.com/20210618/MapcGc9R/index.m3u8
-#EXTINF:-1 ,TMZY
+#EXTINF:-1 ,91av01
+https://vip.91av01.com/movie/auto/664ae8b42fac1118170bf5db.m3u8
+#EXTINF:-1 ,hgzy02
+https://api.hgzy02.com/movie/auto/664af2dc2fac11181711a1cc.m3u8
+#EXTINF:-1 ,TMZY❌
 https://tmzy2.cc/20231024/aPBhbQ5p/index.m3u8
 #EXTINF:-1 ,MTV (Belize)❌https
 https://170.254.18.106/MTV/index.m3u8
