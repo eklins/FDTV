@@ -8,9 +8,15 @@
     },
     {
       "id": 1,
-      "name": "华为吧",
+      "name": "华为吧 1",
       "ad": "no",
       "url": "https://player.huawei8.live/player?url="
+    },
+    {
+      "id": 1,
+      "name": "华为吧 2",
+      "ad": "no",
+      "url": "https://dp.hw8.live/player/?url="
     },
     {
       "id": 1,
