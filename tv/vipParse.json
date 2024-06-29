@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "华为吧",
       "ad": "no",
       "url": "https://player.huawei8.live/player?url="
@@ -20,15 +26,9 @@
     },
     {
       "id": 1,
-      "name": "无尽 2024",
+      "name": "无尽 2024（备用）",
       "ad": "no",
       "url": "https://jx.wuvodbf.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽备用",
-      "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
