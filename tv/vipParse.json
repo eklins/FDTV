@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "华为吧",
+      "ad": "no",
+      "url": "https://player.huawei8.live/player?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -83,12 +89,6 @@
       "name": "非凡",
       "ad": "no",
       "url": "https://svip.ffzyplay.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "华为吧",
-      "ad": "no",
-      "url": "https://hw8.live/player?url="
     },
     {
       "id": 1,
