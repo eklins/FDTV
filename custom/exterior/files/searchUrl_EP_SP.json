@@ -334,6 +334,15 @@
     },
     {
       "id": 1,
+      "name": "美剧范",
+      "url": "http://ttzmz.net/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl": "http://ttzmz.net/api.php/v1.vod/detail?vod_id=detailId",
+      "cate": "欧美剧,1&&英国剧,2&&动漫,5",
+      "type": "json",
+      "click": true
+    },
+    {
+      "id": 1,
       "name": "18X 热巴",
       "url": "http://reba.liuxinxs.com/api.php/provide/vod/at/xml/",
       "cate": "❌,20&&中文字幕,21&&中国传媒,22&&中国视频,23&&日本有码,24&&日本无码,25&&巨乳美乳,26&&强奸乱伦,27&&成人动漫,29&&欧美激情,30&&站长精选,31&&网曝门,32&&91探花,33&&自拍偷拍,34&&福利姬,35&&主播网红,36",
