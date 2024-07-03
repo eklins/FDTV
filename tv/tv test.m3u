@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,古宅老友记（svip）
+https://svip.high20-playback.com/20231026/2382_54535837/index.m3u8
+#EXTINF:-1 ,古宅老友记（yzzy）
+https://yzzy.play-cdn20.com/20231026/2382_54535837/index.m3u8
 #EXTINF:-1 ,好汉两个半（hw8）
 https://m3u.hw8.live/share/58e02575da11404598bea2127f55fe0d.m3u8
 #EXTINF:-1 ,好汉两个半（nikanba）
