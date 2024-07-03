@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,古宅老友记（svip）
-https://svip.high20-playback.com/20231026/2382_54535837/index.m3u8
-#EXTINF:-1 ,古宅老友记（yzzy）
-https://yzzy.play-cdn20.com/20231026/2382_54535837/index.m3u8
 #EXTINF:-1 ,好汉两个半（hw8）
 https://m3u.hw8.live/share/58e02575da11404598bea2127f55fe0d.m3u8
 #EXTINF:-1 ,好汉两个半（nikanba）
@@ -19,6 +15,10 @@ https://ikcdn01.ikzybf.com/20221214/0XzXf6pw/index.m3u8
 https://svip.high20-playback.com/20240109/11222_84c56383/index.m3u8
 #EXTINF:-1 ,1080ZYK❌yzzy1
 https://yzzy1.play-cdn20.com/20240109/11222_84c56383/index.m3u8
+#EXTINF:-1 ,古宅老友记（svip）
+https://svip.high20-playback.com/20231026/2382_54535837/index.m3u8
+#EXTINF:-1 ,古宅老友记（yzzy）
+https://yzzy.play-cdn20.com/20231026/2382_54535837/index.m3u8
 #EXTINF:-1 ,bbckjk1❌
 https://cdn.bbckjk1.com/%C3%A4%C2%B8%C2%AD%C3%A6%C2%96%C2%87%C3%A5%C2%AD%C2%97%C3%A5%C2%B9%C2%95/3h8Ls22N/index.m3u8
 #EXTINF:-1 ,淘片测试❌1
