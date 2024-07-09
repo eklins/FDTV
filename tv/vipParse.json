@@ -2,9 +2,9 @@
   "data": [
     {
       "id": 1,
-      "name": "HLS Player",
+      "name": "无尽备用",
       "ad": "no",
-      "url": "https://www.hlsplayer.org/play?url="
+      "url": "https://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -32,15 +32,15 @@
     },
     {
       "id": 1,
-      "name": "无尽备用",
-      "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
-    },
-    {
-      "id": 1,
       "name": "无尽 2024（备用）",
       "ad": "no",
       "url": "https://jx.wuvodbf.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "HLS Player",
+      "ad": "no",
+      "url": "https://www.hlsplayer.org/play?url="
     },
     {
       "id": 1,
