@@ -1065,6 +1065,11 @@ https://www.cnbctv18.com/live-tv/
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
 #EXTINF:-1, 北京体育
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhyuu5COyndkRhGrpOxrCN9k8YoMO8FqZpw&usqp=CAU",火龙
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF5fsWW7mKQLoSKkvmf9VUVpXHxrsm4Kw4qA&usqp=CAU",龙母（Daenerys Targaryen）01
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQaJaJ3awhJFk6USBayH3IS_I4UAKfSRdnQ&usqp=CAU",龙母（Daenerys Targaryen）02
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-48m7F_oYo3F_OrKpIydKofCRLwMpVL0IQQ&usqp=CAU",龙母（Daenerys Targaryen）03
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlvfzQO4bFjlQWynFLdQzYJJwMGTzSIvw2aw&usqp=CAU",龙母 01
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXgRJDBuFIP_0HdZqLG9GGUVyS_T0KlzCkw&usqp=CAU",妇好鸮尊
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvnvAJ71eINGzyrpfGoagVrnzLooyKDne4g&usqp=CAU",妇好方斝
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOXzjix0PJ5Ad8Yhrv8yA30FLoDZr52XlIQ&usqp=CAU",妇好嵌绿松石象牙杯
