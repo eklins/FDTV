@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "CCTV-13 新闻",
-      "url": "http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSml1RohUXU9F3EmzVHIMRr6E-Mm0MPKODHUw&usqp=CAU",
       "parse": false
     },
