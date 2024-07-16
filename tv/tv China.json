@@ -2,13 +2,13 @@
   "data": [
     {
       "name": "CCTV-1 综合",
-      "url": "https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsonaTIFDl7eNidjnMIMRJxB-8Eg9dDipFyA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-2 财经",
-      "url": "https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024075403.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIFRzwvl-0AdK3IYCPSUbX0czLxPgQ6YTTA&usqp=CAUc0RHa.jpg",
       "parse": false
     },
@@ -32,37 +32,37 @@
     },
     {
       "name": "CCTV-5 体育",
-      "url": "https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUtVhTuW7wJuKuEggOazQrvU28h1Z2HRFSA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-5+ 体育赛事",
-      "url": "https://z02.ubtvfans.com/live/rx1/2759/78abaaa94e5e5b85ca7e9c554abb50d1/index.m3u8",
+      "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymO_4CROh6yi39JsN-48NXJ29PZFqFQkxxQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-6 电影",
-      "url": "https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024086203.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4wKKnBl3g7MtCpyX7GxelHHFXn5POBIHKA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-7 国防军事",
-      "url": "http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN9HCILZWD9W7b0LCOq9RsxVLTXzsJXclzw&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-8 电视剧",
-      "url": "https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078503.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJpOLumxorzY2M62X2tKPVHnuYe_leVqYDQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-9 纪录",
-      "url": "https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQysQQ5EJfQrVkfErdfB5suwV6ID1tEThNg&usqp=CAU",
       "parse": false
     },
@@ -86,7 +86,7 @@
     },
     {
       "name": "CCTV-13 新闻",
-      "url": "https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSml1RohUXU9F3EmzVHIMRr6E-Mm0MPKODHUw&usqp=CAU",
       "parse": false
     },
@@ -116,49 +116,49 @@
     },
     {
       "name": "CCTV 第一剧场",
-      "url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
       "parse": false
     },
     {
       "name": "CCTV 发现之旅",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
+      "url": "http://58.223.166.16/live2.rxip.sc96655.com/live/fxzl_2000.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
       "parse": false
     },
     {
       "name": "CCTV 风云剧场",
-      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012513603.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
       "parse": false
     },
     {
       "name": "CCTV 风云音乐",
-      "url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121053553871.jpg",
       "parse": false
     },
     {
       "name": "CCTV 风云足球",
-      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012514203.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2012514203.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
       "parse": false
     },
     {
       "name": "CCTV 高尔夫•网球",
-      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012512503.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024166203.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
       "parse": false
     },
     {
       "name": "CCTV 怀旧剧场",
-      "url": "http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012511203.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171903.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
       "parse": false
     },
     {
       "name": "CCTV 女性时尚",
-      "url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172203.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6FE_v2wtvMu4J7lyFBZUVVvxoE3BswYgPA&usqp=CAU",
       "parse": false
     },
@@ -170,7 +170,7 @@
     },
     {
       "name": "CCTV 台球",
-      "url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
       "parse": false
     },
@@ -182,7 +182,7 @@
     },
     {
       "name": "安多卫视（青海藏语綜合频道）",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8",
+      "url": "http://stream.qhbtv.com/adws/sd/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0WThWbE8p2WAnrPvQcdMPFCWMEDXZAk_Vw&usqp=CAU",
       "parse": false
     },
@@ -200,7 +200,7 @@
     },
     {
       "name": "兵团卫视（新疆）",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8",
+      "url": "http://jxcbn.ws-cdn.gitv.tv/hls/BTWS/index.m3u8?gMac=unknown&livodToken=3372ee",
       "pic": "http://ikanpic.kanketv.com/image/live/icon/bingtuan.png",
       "parse": false
     },
@@ -212,7 +212,7 @@
     },
     {
       "name": "大湾区卫视（广东）",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8",
+      "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Qk12_XGG2COFNn2fD84hIQO3YXNXKwLISw&usqp=CAU",
       "parse": false
     },
@@ -254,7 +254,7 @@
     },
     {
       "name": "海南卫视",
-      "url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296202.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024054803.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLLmef9zQlyh8Wkw0JccEPJjEji1dJxl4sEQ&usqp=CAU",
       "parse": false
     },
@@ -308,13 +308,13 @@
     },
     {
       "name": "康巴卫视",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8",
+      "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266002/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8JKrudU_Susx-dYcAYTh7dspM5xBoxo1G1Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "辽宁卫视",
-      "url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8",
+      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171303.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png",
       "parse": false
     },
@@ -332,7 +332,7 @@
     },
     {
       "name": "农林卫视",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8",
+      "url": "http://58.248.112.229:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKmcvhGCzk9vaPOy1KwX%2F%2Bt%2Bt8%2BGzw88wCH0ODAqMBq60&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182732724&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5f1ab8c1956e&FvSeid=77fd5578ee723749&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4395&Fsv_chan_hls_se_idx=26&Fsv_TBt=2287344&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_NONGLIN&Fsv_CMSID=GD_CUCC",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikiw4Lpy2hCM_X2fWOs8f02_RMAv1Eu2zsw&usqp=CAU",
       "parse": false
     },
@@ -386,7 +386,7 @@
     },
     {
       "name": "厦门卫视",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8",
+      "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFuzu2gWJuH0EA9MrpwlxcX1bqwnrTR3WyQ&usqp=CAU",
       "parse": false
     },
@@ -398,7 +398,7 @@
     },
     {
       "name": "延边卫视",
-      "url": "http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8",
+      "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpITVUADxI8uaMjGZk20GEJ6I110zkCiswQ&usqp=CAU",
       "parse": false
     },
