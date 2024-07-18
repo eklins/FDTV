@@ -13,6 +13,12 @@
       "parse": false
     },
     {
+      "name": "哆啦A梦（ドラえもん）1973-？",
+      "url": "http://37.27.111.214:8080/live/107/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfzNqpkyPmgYhKrajYSYwXeKDXN0aMfQmbaQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "犬夜叉 2000-2010",
       "url": "https://live.metshop.top/douyu/11906591",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEg2R1aL8tIuH1TcDL7M3e-cRm_-_cV2IULA&usqp=CAU",
