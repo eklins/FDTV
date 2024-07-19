@@ -169,9 +169,9 @@
       "parse": false
     },
     {
-      "name": "Your Pretty Face Is Going to Hell 2013-2019",
+      "name": "Your Pretty Face Is Going To Hell 2013-2019",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJRgSlvEDVDpr24RXEr8d0TIoxDhTrgP_i8w&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReAh9bKiqo2ZYR5YMP07-2GEmnYHdKCKLcIA&usqp=CAU",
       "parse": false
     },
     {
@@ -296,7 +296,7 @@
     },
     {
       "name": "雍正王朝 1999（斗鱼）",
-      "url": "https://live.metshop.top/douyu/4808115",
+      "url": "https://live.metshop.top/douyu/4944033",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
       "parse": false
     },
@@ -311,12 +311,6 @@
       "url": "https://live.metshop.top/douyu/9650836",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "三国演义 1994",
-      "url": "https://live.metshop.top/douyu/7459925",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
-      "parse": true
     },
     {
       "name": "康熙微服私访记 1997-2003（斗鱼）",
@@ -361,9 +355,87 @@
       "parse": false
     },
     {
-      "name": "四大名著（封神榜、西游记、三国演义、水浒传）",
+      "name": "三国演义 1994",
+      "url": "https://live.metshop.top/douyu/7459925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "新水浒传 2011",
+      "url": "https://live.metshop.top/douyu/6785471",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp1Eyr_2xmBPUqptBb4-fk5IiDbxfVOR67Tg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "经典（封神榜、西游记、三国演义、水浒传）",
       "url": "https://live.metshop.top/douyu/6861249",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSypX0wMuVVJ11ngVAku322-xkfHh4ktT2DWw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "神探狄仁杰 2004-2008",
+      "url": "https://live.metshop.top/yy/1351755386",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmNbfckKx_YJkdR7L6oxsM_Sj528yekbzlA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "宰相刘罗锅 1996",
+      "url": "https://live.metshop.top/douyu/8543072",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPT1DuFORJ95r05kypIYDsAhVkzErK69TlDA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "隋唐英雄传 2003",
+      "url": "https://live.metshop.top/yy/1352475619",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_iAc6GjG-4Gk2QmLDgy8QJJoMHXGCx1F7Pw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "济公活佛 2010-2012",
+      "url": "https://live.metshop.top/huya/11342400",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHtvMxJdFwSIIIY9UKRlpPBVYtkL4aEbkwg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "神雕侠侣 2014",
+      "url": "https://live.metshop.top/huya/11352964",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoriG1geAQ6mrDVWHS9gcgkYs0IFcQeQZdnQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "神医喜来乐 2003",
+      "url": "https://live.metshop.top/yy/1382714119",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbO8BBtUEJ1vDonU7BnKMZHVZPabAKvflcQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "十大奇冤 2008",
+      "url": "https://live.metshop.top/huya/11352899",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlK6lwqEwxwuOq-aQuo7ILIr5nGkEY1ZNYwQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "龙门镖局 2013",
+      "url": "https://live.metshop.top/douyu/9650860",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXyJ8tqbSOFyZtZj6IVNzbswJfOGNW-WdQw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "大清盐商 2014",
+      "url": "https://live.metshop.top/huya/11342432",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLv1lcIWppREKu8_pegQlJvkR4dW5w5953Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "庆余年 2019",
+      "url": "https://live.metshop.top/douyu/7489563",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MWbCT00LROfbtH-ohRUwlSMZwzgNdekDkg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "金装四大才子（粤语）2000",
+      "url": "https://live.metshop.top/yy/1354926600",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheuwxOqe-r7lZyJvzj6dGESvxc4SlydbumA&usqp=CAU",
       "parse": false
     }
   ]
