@@ -1092,6 +1092,8 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvbpX45UIKr4AkbJBu8UoQBT2dtHOykXVdA&usqp=CAU",风云
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAc5YF9ZUSygtxRchPnqMLyqdrDiUH_LE3Dg&usqp=CAU",山风
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhx7PPAEm4fDHXPEBL55e1vAMXS-NENuDfA&usqp=CAU",爱华爱
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFmXKm5vPE7rCbf0HXlDpNW5aqrPKRSn9Cg&usqp=CAU",极图01
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN98bnRh7qEiUkRj2HdFkVW9XqRl4Va8eO8g&usqp=CAU",极图02
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",北极光01
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",北极光02
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",北极光03
@@ -1099,7 +1101,7 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",北极光05
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",北极光06
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",北极光07
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",北极光08
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",北极光08❌
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsam-wsfFTH__eZSum-7wDkNtTz0OPrNNr5g&usqp=CAU",北极光09
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgduEmU_97SIIUixn7L2EsK3DUxAm5DoM42Q&usqp=CAU",北极光10
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFAIzmHCgmRqiZQOD9zXexq2EEetMwjJD9aw&usqp=CAU",北极光11
@@ -1107,6 +1109,13 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMXtvv5_15aa_ez2lSZWKlA6n_rlcsBSmq4g&usqp=CAU",北极光13
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqL-Zw-s_FTvOleRJOIJD95igQ6MiV7bgnPg&usqp=CAU",北极光14
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvcwnunCSG-dEgyOdgoE-b1o5lChO_aSBdmQ&usqp=CAU",北极光15
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxdkDCF9Iw_8he8BHs1F8wedzgGG5JAsPCmQ&usqp=CAU",北极光16
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReY21N-yPl5hxq2TFYE-AP1wBUsAtlKvBw5g&usqp=CAU",北极光17
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9KpoyUqD8Th5Fbxu7bbQZHgRTIQwDCP0oQ&usqp=CAU",北极光18
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTadQe79QR5DuOa4K0rGcla4swDoH8bDp5tfA&usqp=CAU",北极光19
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAj4k3GARc6LWD4QGnQwCnFqnbtK7t8TdNYg&usqp=CAU",北极光20
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSOsFWosQyRAQPy6dc006cYDxsoMJ1k_FEw&usqp=CAU",北极光21
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",北极光22
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsSvI6d33KNTwPWeEuOpUZQo52mT4TQ06rQ&usqp=CAU",Lofoten 01
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWs79OF34nUan2wIYGMi7WB63Y5pPQeJw_Mw&usqp=CAU",Lofoten 02
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOS5yW04VEeqQWP2w-j2fGh_WlkYg8yZntSw&usqp=CAU",Lofoten 03
