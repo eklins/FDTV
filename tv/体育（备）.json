@@ -53,6 +53,30 @@
       "url": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "ASTRO Supersport",
+      "url": "https://z02.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ASTRO Supersport 2",
+      "url": "https://z02.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ASTRO Supersport 3",
+      "url": "https://z02.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ELTA體育3台",
+      "url": "https://z02.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQlQxwGRLCf-fg_txB_60e_v216ztoCnSnvA&usqp=CAU",
+      "parse": false
     }
   ]
 }
