@@ -165,7 +165,7 @@
     {
       "name": "Mission Impossible 1966-1973",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST2hV5BrRocvJgigZYp51H0sw8jbOCm9rDaA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03b-sIbxk6sPADuF7SG1jlG6Tl9Yl4AUIQw&usqp=CAU",
       "parse": false
     },
     {
@@ -189,7 +189,13 @@
     {
       "name": "Perry Mason 1957-1966",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6197086891ddd4000739941a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f26-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca24aed8-2923-4a88-ade9-1f918964f008",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH_lkiuekT22gLwxAHHvvgJx7UdHCCTdKU5Q&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsh7ci0mj-EYb-iMftnDzq3_ayEj1WXDZLzQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rawhide 1959-1965",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f307c7a068e00072c9982/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6278-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9433765-7aeb-4cd3-9244-281a4bcdc393",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQ6wHpS3zYW0pg37-FnOoGXUSa5tE8UwONg&usqp=CAU",
       "parse": false
     },
     {
@@ -205,9 +211,39 @@
       "parse": false
     },
     {
+      "name": "Star Trek 1966-?",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8fEoZlT5nRTgh8ymQXiwtpBU4hrq9Aqm3A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Star Trek：Deep Space Nine 1993-1999",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiiBKCUicIsyqy9rdfrwKiGx1CnWn4xjBZXA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Star Trek：Voyager 1995-2001",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf6bSQNpEWJ7Ix0ldG5bfKQLskXYnXmZFscQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stargate 1997-2011",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5881254c-5290-452b-a946-d919b7bb1297",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvMuGVXzV6qeClxa2nEmxGFfsdRn3hMbb4A&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "The Addams Family 1964-1966",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnxbaxTkyyjWLSXR1Y6h1DehsrJ3nJLBLgw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Andy Griffith Show 1960-1968",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75178e7f8aa0007e9c259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ac76ffb-0824-4138-ab9c-8f5c52abd631",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Ualnlb8EZ9WIdJ2P-5k-lQXMHXddoqQTNA&usqp=CAU",
       "parse": false
     },
     {
@@ -220,6 +256,12 @@
       "name": "The Carol Burnett Show 1967-1978 (Vizio)",
       "url": "https://carolburnett-vizio.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Lone Ranger 1949-1957",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6dafb7bdc8d0008473c85/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=14d4cc80-1b91-4f3d-aef3-50b19094af58",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Oq_lLDFloVbGgBgty3D_fQcCTSEUHkx4vw&usqp=CAU",
       "parse": false
     },
     {
@@ -241,9 +283,21 @@
       "parse": false
     },
     {
+      "name": "The Walking Dead Universe 2010-?",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRamvmwQ2lmCpgSxlAF9N2ryJTsRV0tXf6lw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Three's Company 1977-1984",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ef3977e5d773400077de284/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbm7K07ibq1PSL9AUaMaacmvqI2tHqzuM_xw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Wanted：Dead Or Alive 1958-1961",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1025-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66e6d8ef-5958-4806-9fdc-ff058061dd07",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi4CHv0s5f0e8Nh2RG2LFPMlAaXabXG20oA&usqp=CAU",
       "parse": false
     },
     {
