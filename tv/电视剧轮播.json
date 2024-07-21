@@ -43,9 +43,33 @@
       "parse": false
     },
     {
+      "name": "Criminal Minds 2005-?",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65653817c917a5000844bc30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ce2ba28f-f69b-43d4-8fe5-c0f83c15cc1b",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq6KCbBtjK4ocs9OhdY2kyl4svUMXIoIzWQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "CSI 2000-2015",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-iGCzEWaHRGfKxjtWTBEJ49_IwaKIFLYFw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CSI 2000-2015",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f778729ac60bd0007023d07/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285531-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bffd48e-94ab-4799-82c9-e0fff58eac2a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-iGCzEWaHRGfKxjtWTBEJ49_IwaKIFLYFw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CSI：Miami 2002-2012",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c11b3af68000702c304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285533-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=44c18303-2238-4f6c-aa15-2480de9dd1a8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhMc3LjNastbJu47XWIKNC8cW355fb6WBMg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CSI：New York 2004-2013",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c6439183b000769fb8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285535-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e57915ed-fd29-4d46-adb2-72d5623daaa5",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhLZcRf67YmORtqxIdwNJDeckRb1DFf0ELA&usqp=CAU",
       "parse": false
     },
     {
@@ -70,6 +94,12 @@
       "name": "Doctor Who Classic 1963-1989 (Tubi)",
       "url": "https://lnc-dr-who.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNQlBHzgb81SThl-5BaO-TMAyt0goMXk7VQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Dynasty 1981-1989",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d1606b4c5ed80008e3b8b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a350-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c4fb05d1-b382-4722-a7d5-66fbce6da394",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCgnP4WM4AOtmZfXxKYPQsRObwLtUiBGqXA&usqp=CAU",
       "parse": false
     },
     {
@@ -103,6 +133,24 @@
       "parse": false
     },
     {
+      "name": "I Love Lucy 1951-1957",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f3011f4fff20007431641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f96-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1eac761-1c3c-4db5-a99d-ca830bcc95eb",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KWrHH1nZlkeozWq6Ip4jbw4gGRHHlvZf6A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Little House On The Prairie 1974-1983",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933ac986ad20008a1f406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3163d9be-0827-492a-aab2-e9016a5ffbf4",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbN4yB7Itjv_6IrZBXS1xpMicBcPlgHDMFQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Matlock 1986-1995",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f754f98185580007eb0754/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5919973-30db-4595-8199-595f82332246",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkNFFyrrrMRD1aPM-oLPxIK2vVvDlIZme4w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Midsomer Murders 1997-? (Pluto)",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cbf6a868a1bce4a3d52a5e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=385&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
@@ -118,6 +166,30 @@
       "name": "Mission Impossible 1966-1973",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST2hV5BrRocvJgigZYp51H0sw8jbOCm9rDaA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MST3K（Mystery Science Theater 3000）1988-?",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/545943f1c9f133a519bbac92/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHiy_jtp9EqHy6ds5rVQEsIaFSMMRmdHTbZA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MST3K（Mystery Science Theater 3000）1988-?",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d44cfd87eb3a2717afc5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHiy_jtp9EqHy6ds5rVQEsIaFSMMRmdHTbZA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Murder，She Wrote 1984-1996",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b79f9ba-6021-48dd-b1ca-e60b7396018c",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlIOBF17nHHBBcBGcr2BuHpUqER9uwVvRQw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Perry Mason 1957-1966",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6197086891ddd4000739941a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f26-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca24aed8-2923-4a88-ade9-1f918964f008",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH_lkiuekT22gLwxAHHvvgJx7UdHCCTdKU5Q&usqp=CAU",
       "parse": false
     },
     {
@@ -139,8 +211,14 @@
       "parse": false
     },
     {
-      "name": "The Carol Burnett Show 1967-1978",
-      "url": "https://carolburnett-roku.amagi.tv/playlist.m3u8",
+      "name": "The Carol Burnett Show 1967-1978 (Pluto)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Carol Burnett Show 1967-1978 (Vizio)",
+      "url": "https://carolburnett-vizio.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
       "parse": false
     },
