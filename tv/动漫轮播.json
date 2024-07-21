@@ -1,19 +1,31 @@
 {
   "data": [
     {
-      "name": "海绵宝宝 1999-？〘3949681〙",
+      "name": "SpongeBob SquarePants（海绵宝宝）1999-？（斗鱼2479727）",
+      "url": "https://live.metshop.top/douyu/2479727",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rSSra2C4ZUxa6km5Rodt5Ww2gtcbj82x1Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SpongeBob SquarePants（海绵宝宝）1999-？（斗鱼3949681）",
       "url": "https://live.metshop.top/douyu/3949681",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rSSra2C4ZUxa6km5Rodt5Ww2gtcbj82x1Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "海绵宝宝 1999-？〘11922297〙",
-      "url": "https://live.metshop.top/douyu/11922297",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rSSra2C4ZUxa6km5Rodt5Ww2gtcbj82x1Q&usqp=CAU",
+      "name": "SpongeBob SquarePants（海绵宝宝）1999-？（虎牙11352919",
+      "url": "https://live.metshop.top/huya/11352919",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjKcD8-vLSKo3DRkEaamnQOAGLN--DnOwI8w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "哆啦A梦（ドラえもん）1973-？",
+      "name": "SpongeBob SquarePants（海绵宝宝）1999-？（虎牙29408165）",
+      "url": "https://live.metshop.top/huya/29408165",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjKcD8-vLSKo3DRkEaamnQOAGLN--DnOwI8w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "哆啦A梦（ドラえもん♦Doraemon）1973-？",
       "url": "http://37.27.111.214:8080/live/107/hls.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfzNqpkyPmgYhKrajYSYwXeKDXN0aMfQmbaQ&usqp=CAU",
       "parse": false
@@ -25,49 +37,49 @@
       "parse": false
     },
     {
-      "name": "灌篮高手 1993-1996（日语中字）",
+      "name": "灌篮高手（スラムダンク♦Slam Dunk）1993-1996（日语中字）",
       "url": "https://live.metshop.top/yy/1382735626",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TuCEOnWL2fPN5zQHj9PiDEaRFtyYhNVdXA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Bubble Guppies 2011",
+      "name": "Bubble Guppies 2011-2023",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c631817-0713-11eb-9df2-0242ac110002&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nn4oD4yp9V-jBqY0c4BdCZ7yDkkbhNRLCw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Garfield",
+      "name": "Garfield 1988-2016",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLSlJ0WKLFFIUzTqEbLaTYScWjJjNeST7_aQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Inspector Gadget",
+      "name": "Inspector Gadget 1983-2023",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dbc2d1ce10f0b0009e6cf9e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=efbfa162-0713-11eb-9b92-0242ac110002&terminate=false&userId=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2HiEacCq2ozYcduK2Y58zavKWh76PbaqEw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2StbXZhWXXayZ0KT3z-kHk8Xswkv2TEB8oQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Little Baby Bum",
+      "name": "Little Baby Bum 2011-2019",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5eb301b7395671000780d100&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=995&terminate=false&userId=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReiqdO4BlmXhJ9TwrvZ4dC-3Kf3CHUrfqRGw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPvIJ7RT1R5eRWaROJ7joH6PWzur_zEBowg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Naruto（火影忍者）2002",
+      "name": "Naruto（火影忍者）2007-2017",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcRDF7z0wlbDWqPO35Aukcgcq04Z9K8UiGw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "One Piece（海贼王）1999",
+      "name": "One Piece（海贼王）1999-？",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Sabrina",
+      "name": "Sabrina 1999-2004",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeaMtl9_7nT6QjAUbzvwId5GCcpUg-Ym-4wQ&usqp=CAU",
       "parse": false
@@ -79,13 +91,13 @@
       "parse": false
     },
     {
-      "name": "Totally Turtles (Nickelodeon)",
+      "name": "Totally Turtles 1987-2020（Nickelodeon）",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8livestitch/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d0c16d686454ead733d08f8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=983&terminate=false&userId=&profilesFromStream=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQVhGaHyiXeJl1hL45xfE_LX7RpWt1GNhRA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7iwfsp4Rzdk_yCoGzEQwry0V9f7ikM1zQ_g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Yu-Gi-Oh（游戏王）2000",
+      "name": "Yu-Gi-Oh（游戏王）1998-？",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcHpXmt0AOjykm6YJtYKO02Oq0rJMibARMw&usqp=CAU",
       "parse": false
