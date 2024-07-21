@@ -358,7 +358,13 @@
       "name": "三国演义 1994",
       "url": "https://live.metshop.top/douyu/7459925",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
-      "parse": true
+      "parse": false
+    },
+    {
+      "name": "新三国 2010",
+      "url": "https://live.metshop.top/douyu/5908256",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT05F5nXXGkcM9ipAMaE2q0wCnE3uIdW0oomg&usqp=CAU",
+      "parse": false
     },
     {
       "name": "新水浒传 2011",
