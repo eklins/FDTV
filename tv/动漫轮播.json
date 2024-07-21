@@ -49,7 +49,7 @@
       "parse": false
     },
     {
-      "name": "Garfield 1988-2016",
+      "name": "Garfield And Friends 1988-2016",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLSlJ0WKLFFIUzTqEbLaTYScWjJjNeST7_aQ&usqp=CAU",
       "parse": false
