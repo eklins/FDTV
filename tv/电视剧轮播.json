@@ -415,12 +415,6 @@
       "parse": false
     },
     {
-      "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
-      "url": "https://live.metshop.top/douyu/9388931",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOpPbtOb-rZI06-6ZSmG-4ha6QaedlFuYlPQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "大秦赋 2020",
       "url": "https://live.metshop.top/huya/11352881",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
@@ -574,6 +568,12 @@
       "name": "金装四大才子（粤语）2000",
       "url": "https://live.metshop.top/yy/1354926600",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheuwxOqe-r7lZyJvzj6dGESvxc4SlydbumA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "斗鱼 9388931",
+      "url": "https://live.metshop.top/douyu/9388931",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     }
   ]
