@@ -21,13 +21,13 @@
     {
       "name": "Fear Factor 2001-2012 (Pluto)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicS3X7o8Tb59O4STjRc7hFnPP35GlI1UTFg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4d1nBwIDDfI46HKb4yJec22ZokaOsDGDt0Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "Fear Factor 2001-2012 (Tubi)",
       "url": "https://lnc-fear-factor.tubi.video/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicS3X7o8Tb59O4STjRc7hFnPP35GlI1UTFg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4d1nBwIDDfI46HKb4yJec22ZokaOsDGDt0Q&usqp=CAU",
       "parse": false
     },
     {
@@ -39,7 +39,7 @@
     {
       "name": "Johnny Carson TV 1962-1992",
       "url": "https://lnc-johnny-carson.tubi.video/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5c0Y8TAdAhqfzMayX9TqZPpZfTF072Yj-iQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqkk3tuy8bFZjA2uYnfLgXHwxTWcWZSwNaeQ&usqp=CAU",
       "parse": false
     },
     {
@@ -93,7 +93,7 @@
     {
       "name": "舌尖上的中国 2012-2018",
       "url": "https://live.metshop.top/huya/11352955",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGEtcZuUJyt3IKFzmLUXwivLjXJP6ZxTmiw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOm6is9yPiW8oAdNKDNYWJIiE9OR6GMZzCQ&usqp=CAU",
       "parse": false
     },
     {
