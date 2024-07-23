@@ -277,19 +277,31 @@
       "parse": false
     },
     {
-      "name": "Midsomer Murders 1997-? (Pluto)",
+      "name": "Midsomer Murders 1997-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92447ea1e2a000735ed33/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d95013f-2fa7-4fc2-a78f-993e5252da47",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Midsomer Murders 1997-? (US-Pluto)",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cbf6a868a1bce4a3d52a5e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=385&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Midsomer Murders 1997-? (Tubi)",
+      "name": "Midsomer Murders 1997-? (US-Tubi)",
       "url": "https://lnc-midsomer-murders.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Mission Impossible 1966-1973",
+      "name": "Mission Impossible 1966-1973 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea43aa0c43540007f2db96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0878db09-3913-46f0-b42a-c9951a6f9f69",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03b-sIbxk6sPADuF7SG1jlG6Tl9Yl4AUIQw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Mission Impossible 1966-1973 (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03b-sIbxk6sPADuF7SG1jlG6Tl9Yl4AUIQw&usqp=CAU",
       "parse": false
@@ -310,6 +322,24 @@
       "name": "Murder，She Wrote 1984-1996",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b79f9ba-6021-48dd-b1ca-e60b7396018c",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlIOBF17nHHBBcBGcr2BuHpUqER9uwVvRQw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nashville 2012-2018 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8d7428730900087c5907/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f04-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=755f7df4-39e5-40b0-b9c3-628ab31d2612",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREuZ0r6F8KfYECSSB_513Iqg2x6U8W80ezDQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NCIS 2003-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f5de1c100100075665ef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f06-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cf46f3b0-cd26-4b98-92b0-312be52250e0",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpNQMggFx_o6Yhr8zyxgdbJQCkyvVYpLG5VQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NCIS More 2003-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e949f0cec1e60007f03314/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1b5eec9-2caa-42db-be84-da456a1d44db",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDRiJKK-vBx7hTvt3Q9sqsp1epQjeaAGw3A&usqp=CAU",
       "parse": false
     },
     {
