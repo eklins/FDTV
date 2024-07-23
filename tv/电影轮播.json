@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "30A Classic Movies",
+      "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC Me (Australia)",
+      "url": "https://c.mjh.nz/abc-me.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Ace (KCKS-LD3★480p)",
       "url": "https://cdn.igocast.com/channel3_hls/channel3_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
