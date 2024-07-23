@@ -1,15 +1,39 @@
 {
   "data": [
     {
-      "name": "90210 Beverly Hills 1990-2000",
+      "name": "90210 Beverly Hills 1990-2000 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63565bdbb0d80d00078d3450/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a41-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b972b605-b580-49aa-8079-19ae91d34013",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIh7nN7nY5dLXiDNKZUwFuvTQERRN1_Dskg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "90210 Beverly Hills 1990-2000 (US)",
       "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIh7nN7nY5dLXiDNKZUwFuvTQERRN1_Dskg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "A Million Little Things 2018-2023 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4a07c07f2a00070e8d9a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78f510-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=246c806d-de05-41c2-a26a-2a30c78f7bc5",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEv0YPQlI4KM8MIIl5VndEys0m6ky-KsJVnQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Andromeda 2000-2005",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMy7KHkkDUw8OMEqUqOtu2xNtQW72Mkyzrow&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Anger Management 2012-2014 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8bdaa25d5e00081e1e5d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c23-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ecb53ccf-2d45-4edb-949e-540d922e0d69",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoIELBQPsRqQMLv8roxkPhgcU9uzNKSsrKg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Are We There Yet? 2010-2013 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8b9328730900087c5324/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd1975a1-4578-4dba-893b-1a552eb054bc",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqiULe5EzhLkUWSHauXFbxI85y_Vkd_6Mxg&usqp=CAU",
       "parse": false
     },
     {
