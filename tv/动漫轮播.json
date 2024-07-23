@@ -79,7 +79,13 @@
       "parse": false
     },
     {
-      "name": "Naruto（火影忍者）2007-2017",
+      "name": "Naruto（火影忍者）2007-2017 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642be2939189ce0008916c21/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f03-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f83fe69-e624-47e7-9e5e-670cb73840f2",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcRDF7z0wlbDWqPO35Aukcgcq04Z9K8UiGw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Naruto（火影忍者）2007-2017 (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcRDF7z0wlbDWqPO35Aukcgcq04Z9K8UiGw&usqp=CAU",
       "parse": false
