@@ -115,6 +115,12 @@
       "parse": false
     },
     {
+      "name": "The Masked Singer 2019-?",
+      "url": "https://lnc-masked-singer.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY2o1OpNMeZMU6dKQ8hD_5G51tt18dqaxj3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "The Price is Right 1972-? (Canada)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c2214c2a7f2200089a0c4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c507a-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c93e6330-dc43-4864-ad74-9144287f8bbd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzVUTAGrpUtlg9YGKlPpm9x2RtqJy9tCeELg&usqp=CAU",
@@ -139,8 +145,14 @@
       "parse": false
     },
     {
-      "name": "Wipeout 2008-? (Canada)",
+      "name": "Wipeout 2008-2014 (Canada)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92a6f087606000767eae2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e96-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b45ce7a5-d6f7-4e7a-b14e-762d2646c053",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR181ghTuV8mHhXQTTRykqknqCSun5Tn2G4bQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Wipeout Xtra 2008-?",
+      "url": "https://lnc-wipeout-xtra.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR181ghTuV8mHhXQTTRykqknqCSun5Tn2G4bQ&usqp=CAU",
       "parse": false
     },
@@ -243,6 +255,12 @@
     {
       "name": "America's Dumbest Criminals",
       "url": "https://lnc-americas-dumbest-criminals.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "American Pickers Channel",
+      "url": "https://lnc-american-pickers.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -421,8 +439,20 @@
       "parse": false
     },
     {
-      "name": "Crime Hunters (US)",
+      "name": "Crime Hunters",
       "url": "https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Crime ThrillHer",
+      "url": "https://lnc-crime-thrillher.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Crime Time (Canada)",
+      "url": "https://lnc-crimetime-canada.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -625,14 +655,32 @@
       "parse": false
     },
     {
+      "name": "FilmRise Cheaters",
+      "url": "https://lnc-cheaters.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "FilmRise Forensic Files",
       "url": "https://lnc-forensic-files.tubi.video/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "FilmRise True Crime",
+      "name": "FilmRise True Crime (Canada)",
+      "url": "https://lnc-filmrise-true-crime-canada.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmRise True Crime (US)",
       "url": "https://lnc-filmrise-true-crime.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmRise World's Most Evil Killers",
+      "url": "https://lnc-worlds-most-evil-killers.tubi.video/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -763,8 +811,14 @@
       "parse": false
     },
     {
-      "name": "Haunt TV",
-      "url": "https://haunttv-roku.amagi.tv/playlist.m3u8",
+      "name": "Haunt TV (Canada)",
+      "url": "https://lnc-haunttv-canada.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Haunt TV (US)",
+      "url": "https://lnc-haunttv.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -801,6 +855,12 @@
     {
       "name": "Hunt Channel",
       "url": "http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Ice Road Truckers",
+      "url": "https://lnc-ice-road-truckers.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1579,7 +1639,7 @@
       "parse": false
     },
     {
-      "name": "TV One",
+      "name": "TV One Crime & Justice",
       "url": "https://lnc-tv-one.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
