@@ -355,7 +355,13 @@
       "parse": false
     },
     {
-      "name": "Rawhide 1959-1965",
+      "name": "Rawhide 1959-1965 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65660223635c3c00086c2578/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb40-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85823e0a-69bc-4cfd-9626-cb87aab91a02",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQ6wHpS3zYW0pg37-FnOoGXUSa5tE8UwONg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rawhide 1959-1965 (US)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f307c7a068e00072c9982/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6278-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9433765-7aeb-4cd3-9244-281a4bcdc393",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQ6wHpS3zYW0pg37-FnOoGXUSa5tE8UwONg&usqp=CAU",
       "parse": false
@@ -373,9 +379,15 @@
       "parse": false
     },
     {
-      "name": "Star Trek 1966-?",
+      "name": "Star Trek 1966-1969 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643ea768e0789d0008548886/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2962-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d491b1b5-034d-44e2-b45a-989c3dcd68d8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TVpcnNS7sccQuEIvcynR4THGHdTVPYVi-A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Star Trek 1966-1969 (US)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8fEoZlT5nRTgh8ymQXiwtpBU4hrq9Aqm3A&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TVpcnNS7sccQuEIvcynR4THGHdTVPYVi-A&usqp=CAU",
       "parse": false
     },
     {
@@ -397,27 +409,63 @@
       "parse": false
     },
     {
+      "name": "Taxi 1978-1983 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9186f8b685d000773cf58/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2965-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ddc6540-3409-4ff3-9e7e-06eb3030f1ea",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMcntToZ3PA9h2WtBOBNMjKZJCH_gV_bPNw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "The Addams Family 1964-1966",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnxbaxTkyyjWLSXR1Y6h1DehsrJ3nJLBLgw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "The Andy Griffith Show 1960-1968",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75178e7f8aa0007e9c259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ac76ffb-0824-4138-ab9c-8f5c52abd631",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Ualnlb8EZ9WIdJ2P-5k-lQXMHXddoqQTNA&usqp=CAU",
+      "name": "The Andy Griffith Show 1960-1968 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9145ec07f2a00070e68dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2967-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fbed224a-3b63-4abd-b7a5-8676931b8711",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHx5LrIwXcl2C-xD921cNd1hcU3weVajcTaA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "The Carol Burnett Show 1967-1978 (Pluto)",
+      "name": "The Andy Griffith Show 1960-1968 (US)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75178e7f8aa0007e9c259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ac76ffb-0824-4138-ab9c-8f5c52abd631",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHx5LrIwXcl2C-xD921cNd1hcU3weVajcTaA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Beverly Hillbillies 1962-1971 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6565fefdc917a50008485cc6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5070-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2dd9b7af-9b24-486e-8bae-af60ffceb2a1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3w94qYRvHUNuWq52gJfGTQDd3vnnEzCpgQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Carol Burnett Show 1967-1978 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Carol Burnett Show 1967-1978 (US-Pluto)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "The Carol Burnett Show 1967-1978 (Vizio)",
+      "name": "The Carol Burnett Show 1967-1978 (US-Vizio)",
       "url": "https://carolburnett-vizio.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Dick Van Dyke Show 1961-1966 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91384210bec0007ba714c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5074-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5dad2390-9fed-4365-9781-2efdca8de405",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4_3ck01zRqMF18x8xDCQt7GHwcxY38NczQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Facts Of Life 1979-1988 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52df0bc3ab40008488f5c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5076-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=07b54a32-d5da-4df1-9bbb-283909a8c139",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyGpJgwxOVGeY2w-T0BBovH9Ff_p_ksBG9lQ&usqp=CAU",
       "parse": false
     },
     {
@@ -433,7 +481,13 @@
       "parse": false
     },
     {
-      "name": "The Love Boat 1977-1986",
+      "name": "The Love Boat 1977-1986 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91563ce7ce300076f917e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5078-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2db14410-4921-497d-a226-bc4d2e0c53bc",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzST7D1emrZVNVCyNH9wqgI1o-ZISg79Ehg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Love Boat 1977-1986 (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794a788d29000079d2f07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzST7D1emrZVNVCyNH9wqgI1o-ZISg79Ehg&usqp=CAU",
       "parse": false
@@ -457,15 +511,33 @@
       "parse": false
     },
     {
-      "name": "Three's Company 1977-1984",
+      "name": "Three's Company 1977-1984 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ca723a2bc49300081a8966/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7785-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b997b20-1713-4925-97ac-2a8fe6c85814",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbm7K07ibq1PSL9AUaMaacmvqI2tHqzuM_xw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Three's Company 1977-1984 (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ef3977e5d773400077de284/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbm7K07ibq1PSL9AUaMaacmvqI2tHqzuM_xw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Walker Texas Ranger 1993-2001 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/635659445b4c4700076d2ad1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e94-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e2f6bf-cd8e-44d2-ad1e-a5747a670d91",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyeKKebNLSoiv3o08uflUIvaGbxIXlHMyYiA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Wanted：Dead Or Alive 1958-1961",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1025-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66e6d8ef-5958-4806-9fdc-ff058061dd07",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi4CHv0s5f0e8Nh2RG2LFPMlAaXabXG20oA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Who's The Boss? 1984-1992 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52ec24ea4800008370651/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e95-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1316847-5815-401d-b687-cbaa9c6ff900",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5aYcvaeUjaqA5uflwpj_2nwY0Rrl_qVV8Q&usqp=CAU",
       "parse": false
     },
     {
@@ -535,7 +607,7 @@
       "parse": false
     },
     {
-      "name": "Pluto Toku SHOUT Su",
+      "name": "Pluto TokuSHOUTsu",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
