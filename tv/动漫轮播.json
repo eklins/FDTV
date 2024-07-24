@@ -115,9 +115,63 @@
       "parse": false
     },
     {
-      "name": "Sailor Moon（美少女戦士セーラームーン）1992-2016",
+      "name": "Sailor Moon（美少女戦士セーラームーン）1992-2016 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642be30baa2d690008ed2935/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0250-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90602a89-140d-4b4a-b8d0-c360c511b227",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLE-wSnt_Gz7KEjXwz38Fj6E1XlgUh8i4cg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sailor Moon（美少女戦士セーラームーン）1992-2016 (US)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8985-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15c87267-b209-43f7-bd4a-3b14d32e2246",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLE-wSnt_Gz7KEjXwz38Fj6E1XlgUh8i4cg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "South Park 1997-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5mH63VZn_EatuOU_i9k7OP-R_pTLG_q9GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "South Park：Cartman Collection 1997-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df4934f7f0af0008c32545/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0255-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6f24dcfb-da34-41f5-919b-8bba40f8df5b",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5mH63VZn_EatuOU_i9k7OP-R_pTLG_q9GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "South Park：Kenny Collection 1997-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df47f428730900089f83ac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0256-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0b2f363-167e-451a-adeb-0cf7f5e4e242",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5mH63VZn_EatuOU_i9k7OP-R_pTLG_q9GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "South Park：Kyle Collection 1997-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df49b30d45610008172c5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0257-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ebeb9902-6395-475c-8273-2bf296ed2ee5",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5mH63VZn_EatuOU_i9k7OP-R_pTLG_q9GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "South Park：Stan Collection 1997-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df48ba28730900089f8480/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0258-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a92d95d6-dc1d-4fe9-9b4e-e63efabae635",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5mH63VZn_EatuOU_i9k7OP-R_pTLG_q9GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "South Park：The Many Deaths Of Kenny 1997-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66447eebcb3ea10008022ea4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2960-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93d129c0-c017-402f-adf1-4435ff396a73",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5mH63VZn_EatuOU_i9k7OP-R_pTLG_q9GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "South Park：Welcome To Canada! 1997-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663115d923e24f000843b49c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2961-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ab119fa-05a9-4969-b1d0-3284a871f460",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5mH63VZn_EatuOU_i9k7OP-R_pTLG_q9GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles 1987-2017 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a669ab2fac9c000835c443/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2966-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=279ce019-bd92-4f14-b227-6869b4b8a835",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL28Eoy3YFAE50bJcUuVnnUxHIwe3R06RvXg&usqp=CAU",
       "parse": false
     },
     {
@@ -127,19 +181,37 @@
       "parse": false
     },
     {
-      "name": "Totally Turtles 1987-2020（Nickelodeon）",
-      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8livestitch/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d0c16d686454ead733d08f8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=983&terminate=false&userId=&profilesFromStream=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7iwfsp4Rzdk_yCoGzEQwry0V9f7ikM1zQ_g&usqp=CAU",
+      "name": "Totally Turtles 1987-2020 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e95265c9fd030007268fb9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e91-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46f7cece-d4f5-4869-a9e4-bba83d8e7e96",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZCfGIg_ZZT96OOyl5jQnGhBnA3rBRP996w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Transformers 2007-2009",
+      "name": "Totally Turtles 1987-2020（US-Nickelodeon）",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8livestitch/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d0c16d686454ead733d08f8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=983&terminate=false&userId=&profilesFromStream=true",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZCfGIg_ZZT96OOyl5jQnGhBnA3rBRP996w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Transformers 1984-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da36dea995710008727d4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e92-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=49f70fab-e28d-40ce-be99-2d619c18477b",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdyuOQEVQMmKWA-Sjr_WvrpX8WmAPm0lKRXA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Transformers 1984-? (US)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=56e9a7e3-e01a-48b2-be16-e37776c8d5ef",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdyuOQEVQMmKWA-Sjr_WvrpX8WmAPm0lKRXA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Yu-Gi-Oh（游戏王）1998-？",
+      "name": "Yu-Gi-Oh!（游戏王）1998-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f87c73085b8c0008fc8e95/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7cc5a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5865c45c-42a3-4279-b47e-87d38f6e0cb4",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcHpXmt0AOjykm6YJtYKO02Oq0rJMibARMw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Yu-Gi-Oh!（游戏王）1998-? (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcHpXmt0AOjykm6YJtYKO02Oq0rJMibARMw&usqp=CAU",
       "parse": false
@@ -553,8 +625,26 @@
       "parse": false
     },
     {
+      "name": "Pluto Preschool Pals (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb67cbb3af68000702db15/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb437-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fff0d013-4b9f-4262-bd8b-8f09a990dd45",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Preschool Play (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb68a5a6a2670007b7c5b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb438-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bf06571a-1d0c-43e6-909a-8e1745098004",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Pluto Rainbow Squad",
       "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Retro Kid (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6408b41b83f58900081d91ad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb432-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e8b87cf6-60af-4f60-8a75-456452a82753",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
@@ -565,7 +655,13 @@
       "parse": false
     },
     {
-      "name": "Pluto Ryan And Friends",
+      "name": "Pluto Ryan And Friends (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6356584de76adf0007dcec3c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb49-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e644ef3c-52cb-4f38-8424-d7a60f849f9c",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Ryan And Friends (US)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb584b7613a31000789de5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8984-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=674985cd-9104-489b-8677-79ffaee83405",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
@@ -573,6 +669,12 @@
     {
       "name": "Pluto Team Spirit",
       "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto The Wiggles Classic (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66422cf294d5580008c41bf5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7783-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=edce0849-5729-49a3-a50b-87cb0ae3f908",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
