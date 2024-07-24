@@ -13,6 +13,18 @@
       "parse": false
     },
     {
+      "name": "Real Madrid TV (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f9ba32f7f0af0008fbcb3d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb43-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ad58b114-23ee-4023-be37-d11303c83d67",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLkWQ-XnT5-ozoGABaHiSlgVgEUD5t7xdHg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Real Madrid TV (Spain)",
+      "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLkWQ-XnT5-ozoGABaHiSlgVgEUD5t7xdHg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ACL Cornhole TV",
       "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/CORNHOLETV_SCTE.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -436,12 +448,6 @@
       "name": "Players TV (Canada)",
       "url": "https://playerstv-vizio.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Real Madrid TV (Spain)",
-      "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLkWQ-XnT5-ozoGABaHiSlgVgEUD5t7xdHg&usqp=CAU",
       "parse": false
     },
     {
