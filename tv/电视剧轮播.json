@@ -31,8 +31,20 @@
       "parse": false
     },
     {
+      "name": "Anger Management Channel 2012-2014",
+      "url": "https://lnc-anger-management2.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoIELBQPsRqQMLv8roxkPhgcU9uzNKSsrKg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Are We There Yet? 2010-2013 (Canada)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8b9328730900087c5324/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd1975a1-4578-4dba-893b-1a552eb054bc",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqiULe5EzhLkUWSHauXFbxI85y_Vkd_6Mxg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Are We There Yet? 2010-2013 (US)",
+      "url": "https://lnc-are-we-there-yet2.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqiULe5EzhLkUWSHauXFbxI85y_Vkd_6Mxg&usqp=CAU",
       "parse": false
     },
@@ -55,7 +67,7 @@
       "parse": false
     },
     {
-      "name": "BBC Silent Witness〘1996-?〙AND New Tricks〘2003-2015〙",
+      "name": "BBC：Silent Witness 1996-? ♦ New Tricks 2003-2015",
       "url": "https://lnc-bbc-silent-witness-new-tricks.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMm_3_e7xbrOP6ONh31-P5KvarB57f2zVh4w&usqp=CAU",
       "parse": false
@@ -532,6 +544,12 @@
       "name": "Wanted：Dead Or Alive 1958-1961",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1025-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66e6d8ef-5958-4806-9fdc-ff058061dd07",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi4CHv0s5f0e8Nh2RG2LFPMlAaXabXG20oA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "When Calls The Heart 2014-?【Super Channel Hearties Canada】",
+      "url": "https://lnc-super-channel-hearties-canada.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhQSVQTCEg-ihEhR3ib82IDiVboD1iySk5A&usqp=CAU",
       "parse": false
     },
     {
