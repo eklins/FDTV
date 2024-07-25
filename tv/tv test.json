@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "NCIS 2003-? (Canada)",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f5de1c100100075665ef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f06-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cf46f3b0-cd26-4b98-92b0-312be52250e0",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpNQMggFx_o6Yhr8zyxgdbJQCkyvVYpLG5VQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "仙剑奇侠传 2005",
       "url": "https://live.metshop.top/yy/1382749903",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKXq-mvQ0T70KY-cdApGi0ecVY1YCckfR_A&usqp=CAU",
