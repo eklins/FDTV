@@ -31,15 +31,81 @@
       "parse": false
     },
     {
-      "name": "犬夜叉 2000-2010",
+      "name": "灌篮高手（スラムダンク♦Slam Dunk）1993-1996（日语中字）",
+      "url": "https://live.metshop.top/yy/1382735626",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TuCEOnWL2fPN5zQHj9PiDEaRFtyYhNVdXA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "海贼王（ワンピース♦One Piece）1999-？",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "火影忍者（ナルト♦Naruto）2007-2017 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642be2939189ce0008916c21/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f03-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f83fe69-e624-47e7-9e5e-670cb73840f2",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcRDF7z0wlbDWqPO35Aukcgcq04Z9K8UiGw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "火影忍者（ナルト♦Naruto）2007-2017 (US)",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcRDF7z0wlbDWqPO35Aukcgcq04Z9K8UiGw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "鲁邦三世（ルパン三世♦Lupin The 3rd）1971-2022 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b5964d1bdba1000712521f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ceff1aa0-cebb-4159-99d2-7b38b17807a8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXwo8xB0V2q1NGCuzSjELXKFQgxgeQKxFbQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "鲁邦三世（ルパン三世♦Lupin The 3rd）1971-2022 (US)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=929f711f-6565-41d9-84a9-9f2c83d020e5",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXwo8xB0V2q1NGCuzSjELXKFQgxgeQKxFbQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "美少女战士（セーラームーン♦Sailor Moon）1992-2016 (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642be30baa2d690008ed2935/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0250-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90602a89-140d-4b4a-b8d0-c360c511b227",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLE-wSnt_Gz7KEjXwz38Fj6E1XlgUh8i4cg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "美少女战士（セーラームーン♦Sailor Moon）1992-2016 (US)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8985-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15c87267-b209-43f7-bd4a-3b14d32e2246",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLE-wSnt_Gz7KEjXwz38Fj6E1XlgUh8i4cg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "七龙珠（ドラゴンボール♦Dragon Ball）1986-2018（日语中字）",
+      "url": "https://live.metshop.top/huya/11601966",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeljGO1t0uY7KxvLYgJvubyoEAbU54bMn8Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "犬夜叉（いぬやしゃ♦Inu Yasha）2000-2010",
       "url": "https://live.metshop.top/douyu/11906591",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEg2R1aL8tIuH1TcDL7M3e-cRm_-_cV2IULA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "灌篮高手（スラムダンク♦Slam Dunk）1993-1996（日语中字）",
-      "url": "https://live.metshop.top/yy/1382735626",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TuCEOnWL2fPN5zQHj9PiDEaRFtyYhNVdXA&usqp=CAU",
+      "name": "游戏王（ゆうぎおう！♦Yu-Gi-Oh!）1998-? (Canada)",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f87c73085b8c0008fc8e95/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7cc5a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5865c45c-42a3-4279-b47e-87d38f6e0cb4",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcHpXmt0AOjykm6YJtYKO02Oq0rJMibARMw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "游戏王（ゆうぎおう！♦Yu-Gi-Oh!）1998-? (US)",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcHpXmt0AOjykm6YJtYKO02Oq0rJMibARMw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "中华小当家（中華一番！♦Chūka Ichiban!）1997-1998",
+      "url": "https://live.metshop.top/huya/11342413",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OQu4A5dfk5CCknVwYcCvlQr451GUtKG1kQ&usqp=CAU",
       "parse": false
     },
     {
@@ -67,39 +133,9 @@
       "parse": false
     },
     {
-      "name": "Lupin The 3rd（鲁邦三世）1971-2022 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b5964d1bdba1000712521f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ceff1aa0-cebb-4159-99d2-7b38b17807a8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXwo8xB0V2q1NGCuzSjELXKFQgxgeQKxFbQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Lupin The 3rd（鲁邦三世）1971-2022 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=929f711f-6565-41d9-84a9-9f2c83d020e5",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXwo8xB0V2q1NGCuzSjELXKFQgxgeQKxFbQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Naruto（火影忍者）2007-2017 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642be2939189ce0008916c21/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f03-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f83fe69-e624-47e7-9e5e-670cb73840f2",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcRDF7z0wlbDWqPO35Aukcgcq04Z9K8UiGw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Naruto（火影忍者）2007-2017 (US)",
-      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcRDF7z0wlbDWqPO35Aukcgcq04Z9K8UiGw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Max & Ruby 2002-2021 (Canada)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6a4feb32e8000708f4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ef7abed0-920d-4c83-92ed-2a600f6fc6d8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRothmqNGob7HX6cR3JMHpu6AfkmxfPmIAE4A&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "One Piece（海贼王）1999-？",
-      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
       "parse": false
     },
     {
@@ -112,18 +148,6 @@
       "name": "Sabrina 1999-2004",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeaMtl9_7nT6QjAUbzvwId5GCcpUg-Ym-4wQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sailor Moon（美少女戦士セーラームーン）1992-2016 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642be30baa2d690008ed2935/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0250-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90602a89-140d-4b4a-b8d0-c360c511b227",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLE-wSnt_Gz7KEjXwz38Fj6E1XlgUh8i4cg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sailor Moon（美少女戦士セーラームーン）1992-2016 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8985-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15c87267-b209-43f7-bd4a-3b14d32e2246",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLE-wSnt_Gz7KEjXwz38Fj6E1XlgUh8i4cg&usqp=CAU",
       "parse": false
     },
     {
@@ -181,6 +205,12 @@
       "parse": false
     },
     {
+      "name": "Tom And Jerry（猫和老鼠）1940-2014",
+      "url": "https://live.metshop.top/huya/11352879",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcQYJwSNsH7IEPQLyLrkkdmpmCuR9XPdNmcw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Totally Turtles 1987-2020 (Canada)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e95265c9fd030007268fb9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e91-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46f7cece-d4f5-4869-a9e4-bba83d8e7e96",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZCfGIg_ZZT96OOyl5jQnGhBnA3rBRP996w&usqp=CAU",
@@ -202,18 +232,6 @@
       "name": "Transformers 1984-? (US)",
       "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=56e9a7e3-e01a-48b2-be16-e37776c8d5ef",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdyuOQEVQMmKWA-Sjr_WvrpX8WmAPm0lKRXA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Yu-Gi-Oh!（游戏王）1998-? (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f87c73085b8c0008fc8e95/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7cc5a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5865c45c-42a3-4279-b47e-87d38f6e0cb4",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcHpXmt0AOjykm6YJtYKO02Oq0rJMibARMw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Yu-Gi-Oh!（游戏王）1998-? (US)",
-      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcHpXmt0AOjykm6YJtYKO02Oq0rJMibARMw&usqp=CAU",
       "parse": false
     },
     {
