@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "90210 Beverly Hills 1990-2000 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63565bdbb0d80d00078d3450/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a41-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b972b605-b580-49aa-8079-19ae91d34013",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63565bdbb0d80d00078d3450/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a41-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b972b605-b580-49aa-8079-19ae91d34013",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIh7nN7nY5dLXiDNKZUwFuvTQERRN1_Dskg&usqp=CAU",
       "parse": false
     },
@@ -14,7 +14,7 @@
     },
     {
       "name": "A Million Little Things 2018-2023 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4a07c07f2a00070e8d9a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78f510-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=246c806d-de05-41c2-a26a-2a30c78f7bc5",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4a07c07f2a00070e8d9a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78f510-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=246c806d-de05-41c2-a26a-2a30c78f7bc5",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEv0YPQlI4KM8MIIl5VndEys0m6ky-KsJVnQ&usqp=CAU",
       "parse": false
     },
@@ -26,7 +26,7 @@
     },
     {
       "name": "Anger Management 2012-2014 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8bdaa25d5e00081e1e5d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c23-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ecb53ccf-2d45-4edb-949e-540d922e0d69",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8bdaa25d5e00081e1e5d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c23-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ecb53ccf-2d45-4edb-949e-540d922e0d69",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoIELBQPsRqQMLv8roxkPhgcU9uzNKSsrKg&usqp=CAU",
       "parse": false
     },
@@ -38,7 +38,7 @@
     },
     {
       "name": "Are We There Yet? 2010-2013 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8b9328730900087c5324/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd1975a1-4578-4dba-893b-1a552eb054bc",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8b9328730900087c5324/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd1975a1-4578-4dba-893b-1a552eb054bc",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqiULe5EzhLkUWSHauXFbxI85y_Vkd_6Mxg&usqp=CAU",
       "parse": false
     },
@@ -74,25 +74,25 @@
     },
     {
       "name": "Blue Bloods 2010-?",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b3b8c645b45d0007a9bb8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fe7428fc-4fd0-424f-828f-7d5d5e9ad75c",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b3b8c645b45d0007a9bb8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fe7428fc-4fd0-424f-828f-7d5d5e9ad75c",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2thszntKfoHQwjnMNxzWtpQ_I37lUwGigGA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Cheers 1982-1993 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb7f0db2eb30007376d4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799155-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=794ad915-7321-49a1-8f52-1d90f588cfd9",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb7f0db2eb30007376d4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799155-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=794ad915-7321-49a1-8f52-1d90f588cfd9",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjUq8YGl3JE9pMPNwKUNnYxwRX0WYiLwmBSQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Criminal Minds 2005-?",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65653817c917a5000844bc30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ce2ba28f-f69b-43d4-8fe5-c0f83c15cc1b",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65653817c917a5000844bc30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ce2ba28f-f69b-43d4-8fe5-c0f83c15cc1b",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq6KCbBtjK4ocs9OhdY2kyl4svUMXIoIzWQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CSI 2000-2015 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9224f41d5e100076db2b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df70-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dec120d8-b140-4915-a068-07986f2860d1",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9224f41d5e100076db2b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df70-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dec120d8-b140-4915-a068-07986f2860d1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-iGCzEWaHRGfKxjtWTBEJ49_IwaKIFLYFw&usqp=CAU",
       "parse": false
     },
@@ -104,31 +104,31 @@
     },
     {
       "name": "CSI 2000-2015 (US②)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f778729ac60bd0007023d07/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285531-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bffd48e-94ab-4799-82c9-e0fff58eac2a",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f778729ac60bd0007023d07/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285531-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bffd48e-94ab-4799-82c9-e0fff58eac2a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-iGCzEWaHRGfKxjtWTBEJ49_IwaKIFLYFw&usqp=CAU",
       "parse": false
     },
     {
       "name": "CSI：Miami 2002-2012 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e0e63fde020007835cbe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df71-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a93e1bf0-0e0f-4cc0-a79d-1cb026b180ed",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e0e63fde020007835cbe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df71-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a93e1bf0-0e0f-4cc0-a79d-1cb026b180ed",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhMc3LjNastbJu47XWIKNC8cW355fb6WBMg&usqp=CAU",
       "parse": false
     },
     {
       "name": "CSI：Miami 2002-2012 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c11b3af68000702c304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285533-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=44c18303-2238-4f6c-aa15-2480de9dd1a8",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c11b3af68000702c304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285533-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=44c18303-2238-4f6c-aa15-2480de9dd1a8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhMc3LjNastbJu47XWIKNC8cW355fb6WBMg&usqp=CAU",
       "parse": false
     },
     {
       "name": "CSI：New York 2004-2013 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e11c7533d80008a1d5f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df72-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=619688bf-4e92-4933-ae80-a470b2c6493c",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e11c7533d80008a1d5f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df72-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=619688bf-4e92-4933-ae80-a470b2c6493c",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhLZcRf67YmORtqxIdwNJDeckRb1DFf0ELA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CSI：New York 2004-2013 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c6439183b000769fb8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285535-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e57915ed-fd29-4d46-adb2-72d5623daaa5",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c6439183b000769fb8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285535-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e57915ed-fd29-4d46-adb2-72d5623daaa5",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhLZcRf67YmORtqxIdwNJDeckRb1DFf0ELA&usqp=CAU",
       "parse": false
     },
@@ -146,19 +146,19 @@
     },
     {
       "name": "Diagnosis Murder 1993-2001 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65fd548f29adfd00089c662c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0681-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aed07097-3592-47e8-bac5-f9f578b23c54",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65fd548f29adfd00089c662c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0681-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aed07097-3592-47e8-bac5-f9f578b23c54",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRB6NrESjVVzluIBb1YyJW5NxcndB6fbJF7Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "Doc Martin 2004-2022 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e922f6675f71000736db3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0683-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=999d1690-f7fb-40a5-b944-462166e9515a",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e922f6675f71000736db3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0683-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=999d1690-f7fb-40a5-b944-462166e9515a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUo5qbNK7YezoEC2S9ZCukoXhX6K8K5s0ug&usqp=CAU",
       "parse": false
     },
     {
       "name": "Doctor Who Classic 1963-1989 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdad934d73d50007a82472/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0685-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb357bb3-ec69-4aa3-aa8c-7ad6b7bb3424",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdad934d73d50007a82472/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0685-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb357bb3-ec69-4aa3-aa8c-7ad6b7bb3424",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNQlBHzgb81SThl-5BaO-TMAyt0goMXk7VQ&usqp=CAU",
       "parse": false
     },
@@ -176,19 +176,19 @@
     },
     {
       "name": "Dynasty 1981-1989 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e919ca865c590007ecd0bd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d91-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a106f440-441b-42eb-86b4-d732ef6f814e",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e919ca865c590007ecd0bd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d91-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a106f440-441b-42eb-86b4-d732ef6f814e",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCgnP4WM4AOtmZfXxKYPQsRObwLtUiBGqXA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Dynasty 1981-1989 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d1606b4c5ed80008e3b8b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a350-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c4fb05d1-b382-4722-a7d5-66fbce6da394",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d1606b4c5ed80008e3b8b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a350-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c4fb05d1-b382-4722-a7d5-66fbce6da394",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCgnP4WM4AOtmZfXxKYPQsRObwLtUiBGqXA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Family Ties 1982-1989 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e920403bd6940007fb68b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d94-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53010fa-6841-4947-a218-d0d4d4f52c95",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e920403bd6940007fb68b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d94-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53010fa-6841-4947-a218-d0d4d4f52c95",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNELQnwnQOoF2f4oy-n-G04ad81S9y3aduA&usqp=CAU",
       "parse": false
     },
@@ -200,19 +200,19 @@
     },
     {
       "name": "Frasier 1993-2004 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f90e39183b000769f12b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=385f93fc-8e79-4ac3-9478-5758ce4a3181",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f90e39183b000769f12b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=385f93fc-8e79-4ac3-9478-5758ce4a3181",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK9SB0eMLvk3Js6tmpNJQSE4KvY0a8_Htexg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Gunsmoke 1955-1975 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e916affb29c60007211c8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1595266f-ecb0-4af0-bab6-40b7d0586999",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e916affb29c60007211c8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1595266f-ecb0-4af0-bab6-40b7d0586999",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqfE5sdnJ1_L-6MKfSKBQXGKP3h77U-ry_0Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "Happy Days 1974-1984 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e917b5e354cf0007b97a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9cae61e-6671-48b9-8e36-973e2921034d",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e917b5e354cf0007b97a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9cae61e-6671-48b9-8e36-973e2921034d",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQzyBLOYcn354xdoA3SN5Ldsm5DdVUGkTqw&usqp=CAU",
       "parse": false
     },
@@ -224,7 +224,7 @@
     },
     {
       "name": "Hawaii Five-0 2010-2020 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2977635c3c00085ce819/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d5737f9-f88a-49a8-962b-2810d37c8401",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2977635c3c00085ce819/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d5737f9-f88a-49a8-962b-2810d37c8401",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlY-kODw5eKIPxqZE1t94oGCl3W1SnkR9c9Q&usqp=CAU",
       "parse": false
     },
@@ -248,49 +248,49 @@
     },
     {
       "name": "I Love Lucy 1951-1957 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a2f1dda0d69700078b7cba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c9-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64cc0043-fd97-4489-ba4d-03d1eab764c2",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a2f1dda0d69700078b7cba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c9-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64cc0043-fd97-4489-ba4d-03d1eab764c2",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KWrHH1nZlkeozWq6Ip4jbw4gGRHHlvZf6A&usqp=CAU",
       "parse": false
     },
     {
       "name": "I Love Lucy 1951-1957 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f3011f4fff20007431641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f96-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1eac761-1c3c-4db5-a99d-ca830bcc95eb",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f3011f4fff20007431641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f96-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1eac761-1c3c-4db5-a99d-ca830bcc95eb",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KWrHH1nZlkeozWq6Ip4jbw4gGRHHlvZf6A&usqp=CAU",
       "parse": false
     },
     {
       "name": "King Of Queens 1998-2007 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f414c2ba130007f8b24e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4a0db601-9852-43bd-90bd-3b44aed929f7",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f414c2ba130007f8b24e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4a0db601-9852-43bd-90bd-3b44aed929f7",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTigABmQ2hVDZhN6ix4PsD8RirgAdCqnzepmw&usqp=CAU",
       "parse": false
     },
     {
       "name": "Little House On The Prairie 1974-1983",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933ac986ad20008a1f406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3163d9be-0827-492a-aab2-e9016a5ffbf4",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933ac986ad20008a1f406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3163d9be-0827-492a-aab2-e9016a5ffbf4",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbN4yB7Itjv_6IrZBXS1xpMicBcPlgHDMFQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Mad About You 1992-2019 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52e907d9341000802f886/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91689c00-42f5-4fdc-9694-8952120c6319",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52e907d9341000802f886/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91689c00-42f5-4fdc-9694-8952120c6319",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBH488w3EkuT1ruQ8hSPc4sqMA5MoEmFA68g&usqp=CAU",
       "parse": false
     },
     {
       "name": "Matlock 1986-1995 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da365f60bc8f0008a50f44/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f26df9e-4f5e-4183-a843-1996b0eaf551",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da365f60bc8f0008a50f44/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f26df9e-4f5e-4183-a843-1996b0eaf551",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkNFFyrrrMRD1aPM-oLPxIK2vVvDlIZme4w&usqp=CAU",
       "parse": false
     },
     {
       "name": "Matlock 1986-1995 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f754f98185580007eb0754/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5919973-30db-4595-8199-595f82332246",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f754f98185580007eb0754/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5919973-30db-4595-8199-595f82332246",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkNFFyrrrMRD1aPM-oLPxIK2vVvDlIZme4w&usqp=CAU",
       "parse": false
     },
     {
       "name": "Midsomer Murders 1997-? (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92447ea1e2a000735ed33/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d95013f-2fa7-4fc2-a78f-993e5252da47",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92447ea1e2a000735ed33/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d95013f-2fa7-4fc2-a78f-993e5252da47",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
       "parse": false
     },
@@ -308,7 +308,7 @@
     },
     {
       "name": "Mission Impossible 1966-1973 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea43aa0c43540007f2db96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0878db09-3913-46f0-b42a-c9951a6f9f69",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea43aa0c43540007f2db96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0878db09-3913-46f0-b42a-c9951a6f9f69",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03b-sIbxk6sPADuF7SG1jlG6Tl9Yl4AUIQw&usqp=CAU",
       "parse": false
     },
@@ -332,49 +332,49 @@
     },
     {
       "name": "Murder，She Wrote 1984-1996",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b79f9ba-6021-48dd-b1ca-e60b7396018c",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b79f9ba-6021-48dd-b1ca-e60b7396018c",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlIOBF17nHHBBcBGcr2BuHpUqER9uwVvRQw&usqp=CAU",
       "parse": false
     },
     {
       "name": "Nashville 2012-2018 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8d7428730900087c5907/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f04-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=755f7df4-39e5-40b0-b9c3-628ab31d2612",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8d7428730900087c5907/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f04-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=755f7df4-39e5-40b0-b9c3-628ab31d2612",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREuZ0r6F8KfYECSSB_513Iqg2x6U8W80ezDQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "NCIS 2003-? (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f5de1c100100075665ef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f06-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cf46f3b0-cd26-4b98-92b0-312be52250e0",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f5de1c100100075665ef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f06-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cf46f3b0-cd26-4b98-92b0-312be52250e0",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpNQMggFx_o6Yhr8zyxgdbJQCkyvVYpLG5VQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "NCIS More 2003-? (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e949f0cec1e60007f03314/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1b5eec9-2caa-42db-be84-da456a1d44db",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e949f0cec1e60007f03314/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1b5eec9-2caa-42db-be84-da456a1d44db",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn55z38qFs5uZSIRP-eEEMLrPXmf-kXu3-yQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Perry Mason 1957-1966 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63e20bd160bc8f0008b4c949/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6616-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4c893d1-40a3-46c4-813b-fefaf471db3f",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63e20bd160bc8f0008b4c949/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6616-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4c893d1-40a3-46c4-813b-fefaf471db3f",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsh7ci0mj-EYb-iMftnDzq3_ayEj1WXDZLzQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Perry Mason 1957-1966 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6197086891ddd4000739941a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f26-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca24aed8-2923-4a88-ade9-1f918964f008",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6197086891ddd4000739941a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f26-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca24aed8-2923-4a88-ade9-1f918964f008",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsh7ci0mj-EYb-iMftnDzq3_ayEj1WXDZLzQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Rawhide 1959-1965 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65660223635c3c00086c2578/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb40-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85823e0a-69bc-4cfd-9626-cb87aab91a02",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65660223635c3c00086c2578/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb40-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85823e0a-69bc-4cfd-9626-cb87aab91a02",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQ6wHpS3zYW0pg37-FnOoGXUSa5tE8UwONg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Rawhide 1959-1965 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f307c7a068e00072c9982/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6278-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9433765-7aeb-4cd3-9244-281a4bcdc393",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f307c7a068e00072c9982/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6278-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9433765-7aeb-4cd3-9244-281a4bcdc393",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQ6wHpS3zYW0pg37-FnOoGXUSa5tE8UwONg&usqp=CAU",
       "parse": false
     },
@@ -392,37 +392,37 @@
     },
     {
       "name": "Star Trek 1966-1969 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643ea768e0789d0008548886/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2962-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d491b1b5-034d-44e2-b45a-989c3dcd68d8",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643ea768e0789d0008548886/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2962-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d491b1b5-034d-44e2-b45a-989c3dcd68d8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TVpcnNS7sccQuEIvcynR4THGHdTVPYVi-A&usqp=CAU",
       "parse": false
     },
     {
       "name": "Star Trek 1966-1969 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TVpcnNS7sccQuEIvcynR4THGHdTVPYVi-A&usqp=CAU",
       "parse": false
     },
     {
       "name": "Star Trek：Deep Space Nine 1993-1999",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiiBKCUicIsyqy9rdfrwKiGx1CnWn4xjBZXA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Star Trek：Voyager 1995-2001",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf6bSQNpEWJ7Ix0ldG5bfKQLskXYnXmZFscQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Stargate 1997-2011",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5881254c-5290-452b-a946-d919b7bb1297",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5881254c-5290-452b-a946-d919b7bb1297",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvMuGVXzV6qeClxa2nEmxGFfsdRn3hMbb4A&usqp=CAU",
       "parse": false
     },
     {
       "name": "Taxi 1978-1983 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9186f8b685d000773cf58/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2965-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ddc6540-3409-4ff3-9e7e-06eb3030f1ea",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9186f8b685d000773cf58/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2965-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ddc6540-3409-4ff3-9e7e-06eb3030f1ea",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMcntToZ3PA9h2WtBOBNMjKZJCH_gV_bPNw&usqp=CAU",
       "parse": false
     },
@@ -434,31 +434,31 @@
     },
     {
       "name": "The Andy Griffith Show 1960-1968 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9145ec07f2a00070e68dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2967-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fbed224a-3b63-4abd-b7a5-8676931b8711",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9145ec07f2a00070e68dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2967-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fbed224a-3b63-4abd-b7a5-8676931b8711",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHx5LrIwXcl2C-xD921cNd1hcU3weVajcTaA&usqp=CAU",
       "parse": false
     },
     {
       "name": "The Andy Griffith Show 1960-1968 (US)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75178e7f8aa0007e9c259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ac76ffb-0824-4138-ab9c-8f5c52abd631",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75178e7f8aa0007e9c259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ac76ffb-0824-4138-ab9c-8f5c52abd631",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHx5LrIwXcl2C-xD921cNd1hcU3weVajcTaA&usqp=CAU",
       "parse": false
     },
     {
       "name": "The Beverly Hillbillies 1962-1971 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6565fefdc917a50008485cc6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5070-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2dd9b7af-9b24-486e-8bae-af60ffceb2a1",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6565fefdc917a50008485cc6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5070-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2dd9b7af-9b24-486e-8bae-af60ffceb2a1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3w94qYRvHUNuWq52gJfGTQDd3vnnEzCpgQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "The Carol Burnett Show 1967-1978 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "The Carol Burnett Show 1967-1978 (US-Pluto)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
       "parse": false
     },
@@ -470,31 +470,31 @@
     },
     {
       "name": "The Dick Van Dyke Show 1961-1966 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91384210bec0007ba714c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5074-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5dad2390-9fed-4365-9781-2efdca8de405",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91384210bec0007ba714c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5074-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5dad2390-9fed-4365-9781-2efdca8de405",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4_3ck01zRqMF18x8xDCQt7GHwcxY38NczQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "The Facts Of Life 1979-1988 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52df0bc3ab40008488f5c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5076-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=07b54a32-d5da-4df1-9bbb-283909a8c139",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52df0bc3ab40008488f5c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5076-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=07b54a32-d5da-4df1-9bbb-283909a8c139",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyGpJgwxOVGeY2w-T0BBovH9Ff_p_ksBG9lQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "The Life And Legend Of Wyatt Earp 1955-1961 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97c5f0d8c8e0007cf48b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f66a46a0-fa84-4e4f-864f-8427e9e6f97f",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97c5f0d8c8e0007cf48b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f66a46a0-fa84-4e4f-864f-8427e9e6f97f",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKnsIbEyepCeggmtAU1lBmyD9VMhz8x2OuQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "The Lone Ranger 1949-1957",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6dafb7bdc8d0008473c85/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=14d4cc80-1b91-4f3d-aef3-50b19094af58",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6dafb7bdc8d0008473c85/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=14d4cc80-1b91-4f3d-aef3-50b19094af58",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Oq_lLDFloVbGgBgty3D_fQcCTSEUHkx4vw&usqp=CAU",
       "parse": false
     },
     {
       "name": "The Love Boat 1977-1986 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91563ce7ce300076f917e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5078-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2db14410-4921-497d-a226-bc4d2e0c53bc",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91563ce7ce300076f917e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5078-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2db14410-4921-497d-a226-bc4d2e0c53bc",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzST7D1emrZVNVCyNH9wqgI1o-ZISg79Ehg&usqp=CAU",
       "parse": false
     },
@@ -518,13 +518,13 @@
     },
     {
       "name": "The Walking Dead Universe 2010-?",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRamvmwQ2lmCpgSxlAF9N2ryJTsRV0tXf6lw&usqp=CAU",
       "parse": false
     },
     {
       "name": "Three's Company 1977-1984 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ca723a2bc49300081a8966/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7785-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b997b20-1713-4925-97ac-2a8fe6c85814",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ca723a2bc49300081a8966/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7785-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b997b20-1713-4925-97ac-2a8fe6c85814",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbm7K07ibq1PSL9AUaMaacmvqI2tHqzuM_xw&usqp=CAU",
       "parse": false
     },
@@ -536,13 +536,13 @@
     },
     {
       "name": "Walker Texas Ranger 1993-2001 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/635659445b4c4700076d2ad1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e94-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e2f6bf-cd8e-44d2-ad1e-a5747a670d91",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/635659445b4c4700076d2ad1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e94-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e2f6bf-cd8e-44d2-ad1e-a5747a670d91",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyeKKebNLSoiv3o08uflUIvaGbxIXlHMyYiA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Wanted：Dead Or Alive 1958-1961",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1025-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66e6d8ef-5958-4806-9fdc-ff058061dd07",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1025-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66e6d8ef-5958-4806-9fdc-ff058061dd07",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi4CHv0s5f0e8Nh2RG2LFPMlAaXabXG20oA&usqp=CAU",
       "parse": false
     },
@@ -554,7 +554,7 @@
     },
     {
       "name": "Who's The Boss? 1984-1992 (Canada)",
-      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52ec24ea4800008370651/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e95-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1316847-5815-401d-b687-cbaa9c6ff900",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52ec24ea4800008370651/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e95-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1316847-5815-401d-b687-cbaa9c6ff900",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5aYcvaeUjaqA5uflwpj_2nwY0Rrl_qVV8Q&usqp=CAU",
       "parse": false
     },
