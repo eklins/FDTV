@@ -122,7 +122,7 @@
     },
     {
       "name": "CSI：New York 2004-2013 (Canada)",
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e11c7533d80008a1d5f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df72-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=619688bf-4e92-4933-ae80-a470b2c6493c",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e11c7533d80008a1d5f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df72-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=619688bf-4e92-4933-ae80-a470b2c6493c",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhLZcRf67YmORtqxIdwNJDeckRb1DFf0ELA&usqp=CAU",
       "parse": false
     },
