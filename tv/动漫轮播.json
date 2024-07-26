@@ -259,6 +259,18 @@
       "parse": false
     },
     {
+      "name": "Disney Channel",
+      "url": "https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney Junior",
+      "url": "https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Happy Kids",
       "url": "https://happykids-roku.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -315,6 +327,36 @@
     {
       "name": "My Kidz (Indonesia)",
       "url": "http://210.210.155.35:80/uq2663/h/h191/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nick Jr. (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/22/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nickelodeon (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/12/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Orchid Animation (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/57/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Orchid Animation 2 (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/106/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Orchid Animation 105 (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/105/hls.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
