@@ -181,6 +181,12 @@
       "parse": false
     },
     {
+      "name": "豬哥會社 2009-2012",
+      "url": "http://37.27.111.214:8080/live/35/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKuptPzg_NIhcr-t7EfpQ5REa0QeA8blVHsA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "4 Adventure",
       "url": "https://lnc-4adventure.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -483,6 +489,12 @@
     {
       "name": "Diva (South Africa)",
       "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Doc DigiChannel 影迷紀實台 (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/92/hls.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -835,6 +847,12 @@
       "parse": false
     },
     {
+      "name": "History (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/27/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "History Time",
       "url": "https://lnc-historytime.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -939,6 +957,12 @@
     {
       "name": "Law & Crime",
       "url": "https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Lifetime (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/71/hls.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
