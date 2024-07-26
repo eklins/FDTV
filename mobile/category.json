@@ -4,39 +4,15 @@
       "title": "热门",
       "list": [
         {
-          "name": "美团红包",
-          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01bXVNGG2C4PZWpj9Jk_!!913168420.png",
-          "url": "",
-          "type": "api://meituanwaimai"
-        },
-        {
-          "name": "饿了么红包",
-          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN012KNmnX2C4PZT5JXdH_!!913168420.png",
-          "url": "1571715733668",
-          "type": "api://taobaohuodongid"
-        },
-        {
-          "name": "低端影视",
-          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
-          "url": "https://ddrk.me&&&https://ddrk.me/mtp/0712_s.jpg,https://ddrk.me/mtp/0712_h.jpg",
-          "type": "app://customWeb"
-        },
-        {
-          "name": "素白白",
-          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01178WjU2C4PZONVD2G_!!913168420.png",
-          "url": "https://www.subaibai.com/&&&id=6933",
-          "type": "app://customWeb"
-        },
-        {
-          "name": "奈非高清",
-          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01WAXSiu2C4PZZTmHpN_!!913168420.png",
-          "url": "https://nfxhd.com/&&&ad,https://nfxhd.com/pic/p.gif",
-          "type": "app://customWeb"
-        },
-        {
           "name": "独播库",
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01TTF6yj2C4PZSVq0eg_!!913168420.png",
           "url": "https://e.duboku.fun/&&&adsbygoogle,googleapis,ads,google",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "奈非影视",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01WAXSiu2C4PZZTmHpN_!!913168420.png",
+          "url": "https://naifeitv.cc/",
           "type": "app://customWeb"
         },
         {
