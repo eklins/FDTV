@@ -463,6 +463,12 @@
       "parse": false
     },
     {
+      "name": "Crime+ Investigation (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/29/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Dare To Dream Network (3ABN)",
       "url": "https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
