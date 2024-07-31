@@ -2,13 +2,13 @@
   "data": [
     {
       "name": "CCTV-1 综合",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsonaTIFDl7eNidjnMIMRJxB-8Eg9dDipFyA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-2 财经",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024075403.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIFRzwvl-0AdK3IYCPSUbX0czLxPgQ6YTTA&usqp=CAUc0RHa.jpg",
       "parse": false
     },
@@ -32,37 +32,37 @@
     },
     {
       "name": "CCTV-5 体育",
-      "url": "https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUtVhTuW7wJuKuEggOazQrvU28h1Z2HRFSA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-5+ 体育赛事",
-      "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymO_4CROh6yi39JsN-48NXJ29PZFqFQkxxQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-6 电影",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024086203.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4wKKnBl3g7MtCpyX7GxelHHFXn5POBIHKA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-7 国防军事",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN9HCILZWD9W7b0LCOq9RsxVLTXzsJXclzw&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-8 电视剧",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078503.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJpOLumxorzY2M62X2tKPVHnuYe_leVqYDQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-9 纪录",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQysQQ5EJfQrVkfErdfB5suwV6ID1tEThNg&usqp=CAU",
       "parse": false
     },
@@ -86,7 +86,7 @@
     },
     {
       "name": "CCTV-13 新闻",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSml1RohUXU9F3EmzVHIMRr6E-Mm0MPKODHUw&usqp=CAU",
       "parse": false
     },
@@ -212,7 +212,7 @@
     },
     {
       "name": "安多卫视（青海藏语綜合频道）",
-      "url": "http://stream.qhbtv.com/adws/sd/live.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0WThWbE8p2WAnrPvQcdMPFCWMEDXZAk_Vw&usqp=CAU",
       "parse": false
     },
@@ -230,7 +230,7 @@
     },
     {
       "name": "兵团卫视（新疆）",
-      "url": "http://jxcbn.ws-cdn.gitv.tv/hls/BTWS/index.m3u8?gMac=unknown&livodToken=3372ee",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8",
       "pic": "http://ikanpic.kanketv.com/image/live/icon/bingtuan.png",
       "parse": false
     },
@@ -284,7 +284,7 @@
     },
     {
       "name": "海南卫视",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024054803.m3u8",
+      "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226320/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLLmef9zQlyh8Wkw0JccEPJjEji1dJxl4sEQ&usqp=CAU",
       "parse": false
     },
@@ -338,13 +338,13 @@
     },
     {
       "name": "康巴卫视",
-      "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266002/1.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8JKrudU_Susx-dYcAYTh7dspM5xBoxo1G1Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "辽宁卫视",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171303.m3u8",
+      "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png",
       "parse": false
     },
@@ -368,7 +368,7 @@
     },
     {
       "name": "青海卫视",
-      "url": "http://stream.qhbtv.com/qhws/sd/live.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlesJEfCylrZmvYkPoiHXIeiViBRUEkjf8jQ&usqp=CAU",
       "parse": false
     },
@@ -428,7 +428,7 @@
     },
     {
       "name": "延边卫视",
-      "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpITVUADxI8uaMjGZk20GEJ6I110zkCiswQ&usqp=CAU",
       "parse": false
     },
@@ -620,7 +620,7 @@
     },
     {
       "name": "哈尔滨影视",
-      "url": "http://stream.hrbtv.net/yspd/sd/live.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -669,6 +669,24 @@
     {
       "name": "河南乡村频道 (1080p)",
       "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226576/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "黑龙江少儿",
+      "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226304/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "黑龙江影视",
+      "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226365/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "黑龙江文体",
+      "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226239/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1400,13 +1418,13 @@
     },
     {
       "name": "CGTN (English)",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024181703.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png",
       "parse": false
     },
     {
       "name": "CGTN Documentary",
-      "url": "http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024182303.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
       "parse": false
     },
