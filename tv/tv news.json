@@ -116,7 +116,7 @@
     },
     {
       "name": "CGTN (China)",
-      "url": "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxZ3RixyVvFdCNg0Btma-aTxppRlM8MVIzA&usqp=CAU",
       "parse": false
     },
