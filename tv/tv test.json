@@ -211,6 +211,12 @@
       "parse": false
     },
     {
+      "name": "Cinemax (Singapore)",
+      "url": "https://z02.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Classic Movies Channel",
       "url": "https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -373,6 +379,12 @@
       "parse": false
     },
     {
+      "name": "HBO (Singapore)",
+      "url": "https://z02.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "HBO Family (Belize)",
       "url": "http://170.254.18.106/HBO_FAMILY/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -387,6 +399,12 @@
     {
       "name": "HBO Signature (Belize)",
       "url": "http://170.254.18.106/HBO_SIG/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO Signature (Singapore)",
+      "url": "https://z02.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df47291e152/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -645,6 +663,12 @@
     {
       "name": "Sci-Fi & Action",
       "url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sci-Fi & Action (YY)",
+      "url": "https://live.metshop.top/yy/37988782",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
