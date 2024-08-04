@@ -931,6 +931,12 @@
       "parse": false
     },
     {
+      "name": "TVB 星河 (Hong Kong)",
+      "url": "https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Victor Valley Movies [Not 24/7]",
       "url": "https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
