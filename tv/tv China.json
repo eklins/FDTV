@@ -284,7 +284,7 @@
     },
     {
       "name": "海南卫视",
-      "url": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226320/index.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226320/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLLmef9zQlyh8Wkw0JccEPJjEji1dJxl4sEQ&usqp=CAU",
       "parse": false
     },
@@ -344,7 +344,7 @@
     },
     {
       "name": "辽宁卫视",
-      "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png",
       "parse": false
     },
