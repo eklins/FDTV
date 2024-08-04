@@ -338,13 +338,13 @@
     },
     {
       "name": "中天新闻",
-      "url": "http://194.87.101.118/live.m3u8?c=7",
+      "url": "http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVBS新闻",
-      "url": "http://194.87.101.118/live.m3u8?c=5",
+      "url": "http://61.221.215.25:8800/hls/9/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
       "parse": false
     },
@@ -367,8 +367,8 @@
       "parse": false
     },
     {
-      "name": "民视新闻",
-      "url": "http://194.87.101.118/live.m3u8?c=11",
+      "name": "民视新闻台",
+      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
       "parse": false
     },
