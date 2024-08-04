@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,无线财经
+http://live.cooltv.top/tv/tvb.php?id=2&hq
+#EXTINF:-1 ,无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 ,斗鱼❌http
 http://live.metshop.top/douyu/20415
 #EXTINF:-1 ,斗鱼❌https
