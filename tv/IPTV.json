@@ -9,55 +9,13 @@
     {
       "name": "iHOT 谍战",
       "url": "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 都市",
-      "url": "天",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 怀旧",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXy2aPEwTBffMwIQ8fzT7ydYP0FPMngMF_4g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 极限",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 家庭",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 江湖",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 解密",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNpr_D67SlWwDl-pX1-L3TvNWqIn21ZP8jA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 经典",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2VU9aMZ4nxoJ_524-itvsBeYg9Xe0WV1eg&usqp=CAU",
       "parse": false
     },
     {
       "name": "iHOT 科幻",
       "url": "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2VU9aMZ4nxoJ_524-itvsBeYg9Xe0WV1eg&usqp=CAU",
       "parse": false
     },
     {
@@ -69,7 +27,7 @@
     {
       "name": "iHOT 浪漫",
       "url": "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2VU9aMZ4nxoJ_524-itvsBeYg9Xe0WV1eg&usqp=CAU",
       "parse": false
     },
     {
@@ -79,21 +37,9 @@
       "parse": false
     },
     {
-      "name": "iHOT 猎奇",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNzOEppMwRntX1DYoUDjXcAw_mI1Rzps3mA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "iHOT 旅行",
       "url": "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_EaHjWuKwJKM72sO73Uizpj1oKl_1O2fayg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 美食",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInhxblToHHoPecM_b2JpNg7XLy5A5Cyn7Gw&usqp=CAU",
       "parse": false
     },
     {
@@ -103,33 +49,9 @@
       "parse": false
     },
     {
-      "name": "iHOT 青春",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQyPvcwrU21XyYF7KyVnlvijImgsAlo3saw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "iHOT 赛车",
       "url": "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 世界",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF4P2OLUFuFE6vp6hT_JTD9r52O67gubgMvQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 时尚",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRci41KEQcLCcFkIyCjVXuTOqsZfijzAUEElw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 探索",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8KbnLiVCUri8KCD3EGWlpq7GKJ1uW2aAoA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2VU9aMZ4nxoJ_524-itvsBeYg9Xe0WV1eg&usqp=CAU",
       "parse": false
     },
     {
@@ -147,7 +69,7 @@
     {
       "name": "iHOT 喜剧",
       "url": "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2VU9aMZ4nxoJ_524-itvsBeYg9Xe0WV1eg&usqp=CAU",
       "parse": false
     },
     {
@@ -157,21 +79,15 @@
       "parse": false
     },
     {
-      "name": "iHOT 娱乐",
-      "url": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "iHOT 幼教",
       "url": "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2VU9aMZ4nxoJ_524-itvsBeYg9Xe0WV1eg&usqp=CAU",
       "parse": false
     },
     {
       "name": "iHOT 院线",
       "url": "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOfHmrgqA7jvB0hIW3hfE2S5AeKfMhhBnSA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2VU9aMZ4nxoJ_524-itvsBeYg9Xe0WV1eg&usqp=CAU",
       "parse": false
     },
     {
