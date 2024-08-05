@@ -331,6 +331,17 @@
       "click": true
     },
     {
+      "name": "人人影视",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.renren.pro/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "欧乐影院",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
@@ -343,7 +354,7 @@
     },
     {
       "name": "爱壹帆",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_49_g4gb9khQ7AFj537z2v9VjDZf0qsOfsg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
@@ -353,30 +364,8 @@
       "click": true
     },
     {
-      "name": "泥视频",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_49_g4gb9khQ7AFj537z2v9VjDZf0qsOfsg&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.nivod4.tv/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "欧乐影院",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://olevod1.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "小宝影院",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
@@ -386,30 +375,19 @@
       "click": true
     },
     {
-      "name": "努努影院",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.nunuyy5.org/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "Auete影视",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://auete.com/",
+      "webUrl": "https://auete.pro/",
       "webOpen": true,
       "click": true
     },
     {
       "name": "韩剧宝",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
