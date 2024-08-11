@@ -309,7 +309,13 @@
     {
       "name": "The First",
       "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYnaOLVLh4-GA2ktTzzm62gDLFyQ3tTIfhg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJpvrmaG62t0QhWvdDQTwNy5EGkdLDCWq6Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Ticker News (Australia)",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuFNLL_n6JBGVyVodAhynBgPrjqBVPiXPbw&usqp=CAU",
       "parse": false
     },
     {
