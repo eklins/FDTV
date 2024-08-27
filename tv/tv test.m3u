@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,videos3.myzybo
+https://videos3.myzybo.com/decry/vd/20240502/ZWI1MmRmNzRkMzV/014621/1280_720/libx/hls/encrypt/index.m3u8
 #EXTINF:-1 ,量子❌
 https://vip.lz-cdn4.com/20220907/22104_7b36b8fd/index.m3u8
 #EXTINF:-1 ,斗鱼（http）
