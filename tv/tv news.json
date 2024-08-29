@@ -224,8 +224,14 @@
     },
     {
       "name": "Newsmax",
+      "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaXeI7H5DJUpkqgMbs5wBZ5GO2lz2NzdWqQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Newsmax 2",
       "url": "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-Azs7QVvYxniqcBKz68TUrlOsTEIMfUq9w&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnpQNB55BMlFbNGOn6wnrcEVRKrMesd2SAQw&usqp=CAU",
       "parse": false
     },
     {
