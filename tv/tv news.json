@@ -313,6 +313,12 @@
       "parse": false
     },
     {
+      "name": "The Washington Post",
+      "url": "https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1BbpuyzmbsBrK-9Lt8b_pXYx7kqw049gUA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Ticker News (Australia)",
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuFNLL_n6JBGVyVodAhynBgPrjqBVPiXPbw&usqp=CAU",
