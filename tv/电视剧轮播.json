@@ -679,7 +679,13 @@
       "parse": false
     },
     {
-      "name": "雍正王朝 1999",
+      "name": "雍正王朝 1999（斗鱼）",
+      "url": "https://live.metshop.top/douyu/12199177",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "雍正王朝 1999（虎牙）",
       "url": "https://live.metshop.top/huya/11342439",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
       "parse": false
@@ -733,6 +739,12 @@
       "parse": false
     },
     {
+      "name": "仙剑奇侠传 三 2009",
+      "url": "https://live.metshop.top/huya/30156310",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhArUstBqyE4uHGBhwSTehCfJJvRYTl7fXLw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "三国演义 1994",
       "url": "https://live.metshop.top/douyu/7459925",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
@@ -775,8 +787,14 @@
       "parse": false
     },
     {
-      "name": "隋唐演义 2013",
+      "name": "隋唐演义 2013（斗鱼）",
       "url": "https://live.metshop.top/douyu/7552568",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCHj5QULKa6cMhmHA6og3RF_nVi1vCPS7YQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "隋唐演义 2013（虎牙）",
+      "url": "https://live.metshop.top/huya/30080219",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCHj5QULKa6cMhmHA6og3RF_nVi1vCPS7YQ&usqp=CAU",
       "parse": false
     },
