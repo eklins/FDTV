@@ -181,6 +181,12 @@
       "parse": false
     },
     {
+      "name": "CTV 中視經典",
+      "url": "http://37.27.111.214:8080/live/47/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cult Classic Movie Theater",
       "url": "https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
