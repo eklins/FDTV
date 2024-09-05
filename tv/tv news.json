@@ -355,43 +355,43 @@
       "parse": false
     },
     {
-      "name": "中天新闻",
+      "name": "中天新聞",
       "url": "http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "TVBS新闻",
+      "name": "TVBS NEWS 55",
       "url": "http://61.221.215.25:8800/hls/9/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBsDyE1gMaIDvQMjlKimOvf7jiTtk7fsKQ5g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "东森新闻",
+      "name": "東森新聞",
       "url": "http://37.27.111.214:8080/live/20/hls.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSeltIT1EVJAcXzstrQnjajWsrDUJj64FlQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "华视新闻",
+      "name": "華視新聞",
       "url": "http://37.27.111.214:8080/live/8/hls.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "镜新闻",
-      "url": "http://37.27.111.214:8080/live/62/hls.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
+      "name": "寰宇新聞•台湾台",
+      "url": "http://37.27.111.214:8080/live/63/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrwVFN6pveXph4ZtpK1sVGp3Z-rdkSLD2rPA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "民视新闻台",
+      "name": "民視新聞台",
       "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "民视台湾台",
+      "name": "民視台湾台",
       "url": "http://37.27.111.214:8080/live/5/hls.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS00SKlQL5QXEBrS9OGptHfB6XtRWSNo91nhw&usqp=CAU",
       "parse": false
@@ -400,6 +400,12 @@
       "name": "台视新闻",
       "url": "http://194.87.101.118/live.m3u8?c=4",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q8qNfsfYckBC4fWMv5VeLk9NvT4Ixp1cKA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "mnews•鏡新聞",
+      "url": "http://37.27.111.214:8080/live/62/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
       "parse": false
     }
   ]
