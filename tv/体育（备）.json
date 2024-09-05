@@ -79,9 +79,15 @@
       "parse": false
     },
     {
-      "name": "五星体育（上海）",
-      "url": "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7yCKSO5O_3eoSi9vFDiz5q_JwPbYlm4Tog&usqp=CAU",
+      "name": "博斯無限（台湾）",
+      "url": "http://37.27.111.214:8080/live/15/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "智林體育（台湾）",
+      "url": "http://37.27.111.214:8080/live/77/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     }
   ]
