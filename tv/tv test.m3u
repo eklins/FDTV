@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,量子❌
 https://vip.lz-cdn4.com/20220907/22104_7b36b8fd/index.m3u8
+#EXTINF:-1 ,❌jianzhuluntan
+https://videos3.jianzhuluntan.com/20220131/asfb00146/index.m3u8
 #EXTINF:-1 ,斗鱼（http）
 http://live.metshop.top/douyu/20415
 #EXTINF:-1 ,斗鱼（https）
