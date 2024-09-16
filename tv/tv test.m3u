@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 ,Logo East
+https://fl3.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 tvg-id="OxygenEast.us",Oxygen East
+https://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="SyfyEast.us",Syfy East
+https://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedyEast.us",Starz Comedy East
+https://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdgeEast.us",Starz Edge East
+https://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreEast.us",Starz Encore East
+https://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreActionEast.us",Starz Encore Action East
+https://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us",MGM+ Marquee
+https://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusEast.us",MGM+ East
+https://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomenEast.us",Showtime Women East
+https://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNextEast.us",Showtime Next East
+https://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us",Showtime Extreme East
+https://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2East.us",Showtime 2 East
+https://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeEast.us",Showtime East
+https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us",Paramount Network East
+https://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 ,精品❌03hao.top
 https://03hao.top/20240618/ViO8hcNS/index.m3u8
 #EXTINF:-1 ,精品❌jinpinxm.com
