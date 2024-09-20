@@ -67,7 +67,61 @@
       "parse": false
     },
     {
-      "name": "Fear Factor 2001-2012 (US-Tubi)",
+      "name": "Anger Management Channel 2012-2014",
+      "url": "https://lnc-anger-management2.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoIELBQPsRqQMLv8roxkPhgcU9uzNKSsrKg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Are We There Yet? 2010-2013 (US)",
+      "url": "https://lnc-are-we-there-yet2.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqiULe5EzhLkUWSHauXFbxI85y_Vkd_6Mxg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Baywatch 1989-2001 (US★Tubi)",
+      "url": "https://lnc-baywatch.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOlAAWjFVpNWy9egzIjy1BzNiMyNgQvwiKfg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BBC：Silent Witness 1996-? ♦ New Tricks 2003-2015",
+      "url": "https://lnc-bbc-silent-witness-new-tricks.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMm_3_e7xbrOP6ONh31-P5KvarB57f2zVh4w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Doctor Who Classic 1963-1989 (US★Tubi)",
+      "url": "https://lnc-dr-who.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNQlBHzgb81SThl-5BaO-TMAyt0goMXk7VQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Heartland 2007-? (US)",
+      "url": "https://lnc-heartland.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4QDYdHz46Kcd7fzYkkAG_AwXryvFCHxqFSQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Midsomer Murders 1997-? (US★Tubi)",
+      "url": "https://lnc-midsomer-murders.tubi.video/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Rifleman 1958-1963 (FilmRise)",
+      "url": "https://lnc-rifleman-filmrise.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhqNHhWNJdUu8wZOtwflTtv4RtWXQKucppg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "When Calls The Heart 2014-?【Super Channel Hearties Canada】",
+      "url": "https://lnc-super-channel-hearties-canada.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhQSVQTCEg-ihEhR3ib82IDiVboD1iySk5A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Fear Factor 2001-2012 (US★Tubi)",
       "url": "https://lnc-fear-factor.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4d1nBwIDDfI46HKb4yJec22ZokaOsDGDt0Q&usqp=CAU",
       "parse": false
