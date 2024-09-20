@@ -31,20 +31,8 @@
       "parse": false
     },
     {
-      "name": "Anger Management Channel 2012-2014",
-      "url": "https://lnc-anger-management2.tubi.video/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoIELBQPsRqQMLv8roxkPhgcU9uzNKSsrKg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Are We There Yet? 2010-2013 (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8b9328730900087c5324/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd1975a1-4578-4dba-893b-1a552eb054bc",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqiULe5EzhLkUWSHauXFbxI85y_Vkd_6Mxg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Are We There Yet? 2010-2013 (US)",
-      "url": "https://lnc-are-we-there-yet2.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqiULe5EzhLkUWSHauXFbxI85y_Vkd_6Mxg&usqp=CAU",
       "parse": false
     },
@@ -55,14 +43,8 @@
       "parse": false
     },
     {
-      "name": "Baywatch 1989-2001 (US★Pluto)",
+      "name": "Baywatch 1989-2001 (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOlAAWjFVpNWy9egzIjy1BzNiMyNgQvwiKfg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Baywatch 1989-2001 (US★Tubi)",
-      "url": "https://lnc-baywatch.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOlAAWjFVpNWy9egzIjy1BzNiMyNgQvwiKfg&usqp=CAU",
       "parse": false
     },
@@ -163,14 +145,8 @@
       "parse": false
     },
     {
-      "name": "Doctor Who Classic 1963-1989 (US-Pluto)",
+      "name": "Doctor Who Classic 1963-1989 (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNQlBHzgb81SThl-5BaO-TMAyt0goMXk7VQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Doctor Who Classic 1963-1989 (US-Tubi)",
-      "url": "https://lnc-dr-who.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNQlBHzgb81SThl-5BaO-TMAyt0goMXk7VQ&usqp=CAU",
       "parse": false
     },
@@ -235,12 +211,6 @@
       "parse": false
     },
     {
-      "name": "Heartland 2007-? (US)",
-      "url": "https://lnc-heartland.tubi.video/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4QDYdHz46Kcd7fzYkkAG_AwXryvFCHxqFSQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Hunter 1984-1991",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQylchIDLbzbperrfON0WaJOH6sUJr0yDuQ&usqp=CAU",
@@ -295,14 +265,8 @@
       "parse": false
     },
     {
-      "name": "Midsomer Murders 1997-? (US-Pluto)",
+      "name": "Midsomer Murders 1997-? (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cbf6a868a1bce4a3d52a5e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=385&terminate=false&userId=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Midsomer Murders 1997-? (US-Tubi)",
-      "url": "https://lnc-midsomer-murders.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
       "parse": false
     },
@@ -451,13 +415,13 @@
       "parse": false
     },
     {
-      "name": "The Carol Burnett Show 1967-1978 (US-Pluto)",
+      "name": "The Carol Burnett Show 1967-1978 (US★Pluto)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "The Carol Burnett Show 1967-1978 (US-Vizio)",
+      "name": "The Carol Burnett Show 1967-1978 (US★Vizio)",
       "url": "https://carolburnett-vizio.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Ykk_24rccyYitk33supSiD0o99T24zzNQ&usqp=CAU",
       "parse": false
@@ -499,13 +463,7 @@
       "parse": false
     },
     {
-      "name": "The Rifleman 1958-1963 (FilmRise)",
-      "url": "https://lnc-rifleman-filmrise.tubi.video/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhqNHhWNJdUu8wZOtwflTtv4RtWXQKucppg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The Rifleman 1958-1963 (Pluto)",
+      "name": "The Rifleman 1958-1963",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e825550e758c700077b0aef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhqNHhWNJdUu8wZOtwflTtv4RtWXQKucppg&usqp=CAU",
       "parse": false
@@ -541,12 +499,6 @@
       "parse": false
     },
     {
-      "name": "When Calls The Heart 2014-?【Super Channel Hearties Canada】",
-      "url": "https://lnc-super-channel-hearties-canada.tubi.video/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhQSVQTCEg-ihEhR3ib82IDiVboD1iySk5A&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Who's The Boss? 1984-1992 (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52ec24ea4800008370651/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e95-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1316847-5815-401d-b687-cbaa9c6ff900",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5aYcvaeUjaqA5uflwpj_2nwY0Rrl_qVV8Q&usqp=CAU",
@@ -561,12 +513,6 @@
     {
       "name": "Electric Now",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=53",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FilmRise Sci-Fi (Finland)",
-      "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
