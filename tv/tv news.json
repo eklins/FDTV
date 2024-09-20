@@ -217,12 +217,6 @@
       "parse": false
     },
     {
-      "name": "News 12 New York",
-      "url": "https://lnc-news12.tubi.video/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ975352qLKC2Ts0AgkKD9PGu1Zw8R9KEqc3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Newsmax",
       "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaXeI7H5DJUpkqgMbs5wBZ5GO2lz2NzdWqQ&usqp=CAU",
