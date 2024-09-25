@@ -13,27 +13,9 @@
       "parse": false
     },
     {
-      "name": "SpongeBob SquarePants（海绵宝宝）1999-？（虎牙①）",
-      "url": "https://live.metshop.top/huya/11352919",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjKcD8-vLSKo3DRkEaamnQOAGLN--DnOwI8w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SpongeBob SquarePants（海绵宝宝）1999-？（虎牙②）",
-      "url": "https://live.metshop.top/huya/29408165",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjKcD8-vLSKo3DRkEaamnQOAGLN--DnOwI8w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "哆啦A梦（ドラえもん♦Doraemon）1973-？",
       "url": "http://37.27.111.214:8080/live/107/hls.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfzNqpkyPmgYhKrajYSYwXeKDXN0aMfQmbaQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "灌篮高手（スラムダンク♦Slam Dunk）1993-1996（日语中字）",
-      "url": "https://live.metshop.top/yy/1382735626",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TuCEOnWL2fPN5zQHj9PiDEaRFtyYhNVdXA&usqp=CAU",
       "parse": false
     },
     {
@@ -79,12 +61,6 @@
       "parse": false
     },
     {
-      "name": "七龙珠（ドラゴンボール♦Dragon Ball）1986-2018（日语中字）",
-      "url": "https://live.metshop.top/huya/11601966",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeljGO1t0uY7KxvLYgJvubyoEAbU54bMn8Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "犬夜叉（いぬやしゃ♦Inu Yasha）2000-2010",
       "url": "https://live.metshop.top/douyu/11906591",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEg2R1aL8tIuH1TcDL7M3e-cRm_-_cV2IULA&usqp=CAU",
@@ -100,12 +76,6 @@
       "name": "游戏王（ゆうぎおう！♦Yu-Gi-Oh!）1998-? (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcHpXmt0AOjykm6YJtYKO02Oq0rJMibARMw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中华小当家（中華一番！♦Chūka Ichiban!）1997-1998",
-      "url": "https://live.metshop.top/huya/11342413",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OQu4A5dfk5CCknVwYcCvlQr451GUtKG1kQ&usqp=CAU",
       "parse": false
     },
     {
@@ -202,12 +172,6 @@
       "name": "Teletubbies 1997-2001",
       "url": "https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0gwb20xHm9l8v_9P507NOi-OAJT3LohHaoQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tom And Jerry（猫和老鼠）1940-2014",
-      "url": "https://live.metshop.top/huya/11352879",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcQYJwSNsH7IEPQLyLrkkdmpmCuR9XPdNmcw&usqp=CAU",
       "parse": false
     },
     {
