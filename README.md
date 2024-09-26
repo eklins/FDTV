@@ -31,14 +31,15 @@ custom/exterior/files/ | 收集到的文件
 
 # Usage
 
-[下载](https://wwi.lanzous.com/b025mpw7e) <br>
+[下载]
+https://wwi.lanzoui.com/b025mpw7e <br>
 选择自建接口，输入 
 - 默认：`https://github.com/eklins/FDTV/raw/main/tv/`
 - 干净版（无18禁资源）：`https://github.com/eklins/FreeD/raw/master/tv/`
 
 <br>
 
-也可以 fork 本项目，然后自己在自定义文件中修改自己喜欢的接口。（别忘了点 star）
+也可以 fork 本项目，然后自己在自定义文件中修改自己喜欢的接口。
 
 <br>
 
