@@ -34,7 +34,7 @@ custom/exterior/files/ | 收集到的文件
 [下载](https://wwi.lanzous.com/b025mpw7e) <br>
 选择自建接口，输入 
 - 默认：`https://github.com/eklins/FDTV/raw/main/tv/`
-- 大陆：`https://cdn.jsdelivr.net/gh/artxia/FreedTV@main/tv/`
+- 干净版（无18禁资源）：`https://github.com/eklins/FreeD/raw/main/tv/`
 
 <br>
 
