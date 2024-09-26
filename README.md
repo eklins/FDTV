@@ -31,15 +31,15 @@ custom/exterior/files/ | 收集到的文件
 
 # Usage
 
-[下载]
-① https://wwi.lanzoui.com/b025mpw7e
-② https://www.gdaily.org/25438/freedtv-apk
+【下载】
+https://wwi.lanzoui.com/b025mpw7e
+https://www.gdaily.org/25438/freedtv-apk
 
 <br>
 
 选择自建接口，输入 
-- 默认：`https://github.com/eklins/FDTV/raw/main/tv/`
-- 干净版（无18禁资源）：`https://github.com/eklins/FreeD/raw/master/tv/`
+- 默认：https://github.com/eklins/FDTV/raw/main/tv/
+- 干净版（无18禁资源）：https://github.com/eklins/FreeD/raw/master/tv/
 
 <br>
 
