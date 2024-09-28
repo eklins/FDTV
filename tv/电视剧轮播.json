@@ -697,18 +697,6 @@
       "parse": false
     },
     {
-      "name": "仙剑奇侠传 2005",
-      "url": "https://live.metshop.top/yy/1382749903",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKXq-mvQ0T70KY-cdApGi0ecVY1YCckfR_A&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "仙剑奇侠传 三 2009",
-      "url": "https://live.metshop.top/huya/30156310",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhArUstBqyE4uHGBhwSTehCfJJvRYTl7fXLw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "宰相刘罗锅 1996",
       "url": "https://live.metshop.top/douyu/8543072",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPT1DuFORJ95r05kypIYDsAhVkzErK69TlDA&usqp=CAU",
@@ -742,6 +730,18 @@
       "name": "济公活佛 2010-2012",
       "url": "https://live.metshop.top/huya/11342400",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHtvMxJdFwSIIIY9UKRlpPBVYtkL4aEbkwg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "仙剑奇侠传 2005",
+      "url": "https://live.metshop.top/yy/1382749903",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKXq-mvQ0T70KY-cdApGi0ecVY1YCckfR_A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "仙剑奇侠传 三 2009",
+      "url": "https://live.metshop.top/huya/30156310",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhArUstBqyE4uHGBhwSTehCfJJvRYTl7fXLw&usqp=CAU",
       "parse": false
     },
     {
