@@ -32,11 +32,9 @@ custom/exterior/files/ | 收集到的文件
 # Usage
 
 【下载】
-<br>
-FreeDTV：
+- FreeDTV：
 https://wwi.lanzoui.com/b025mpw7e
-<br>
-FreeD影院（手机版）：
+- FreeD影院（手机版）：
 https://www.lanzoui.com/b0aqen5i
 
 <br>
