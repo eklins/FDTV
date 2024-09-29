@@ -33,7 +33,6 @@ custom/exterior/files/ | 收集到的文件
 
 【下载】
 https://wwi.lanzoui.com/b025mpw7e
-https://www.gdaily.org/25438/freedtv-apk
 
 <br>
 
