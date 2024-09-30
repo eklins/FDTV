@@ -49,7 +49,7 @@
       "webPlus": {}
     },
     {
-      "name": "纪录•综艺 ",
+      "name": "纪录・综艺 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxm_LTl3s8ZoEW-Xo1F1A2o6yInYSpA-Sihw&usqp=CAU",
       "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%BA%AA%E5%BD%95%E3%80%81%E7%BB%BC%E8%89%BA.json",
       "type": "json",
@@ -65,7 +65,7 @@
       "webPlus": {}
     },
     {
-      "name": "考古•经典传奇 ",
+      "name": "考古・经典传奇 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUG-TByorWW3iBHyrutNm-jmp_EkoGPnB7g&usqp=CAU",
       "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E8%80%83%E5%8F%A4%E3%80%81%E7%BB%8F%E5%85%B8%E4%BC%A0%E5%A5%87.m3u",
       "type": "m3u",
@@ -577,7 +577,7 @@
       "webPlus": {}
     },
     {
-      "name": "直播•轮播后备json",
+      "name": "直播・轮播后备json",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E3%80%81%E8%BD%AE%E6%92%AD%E5%90%8E%E5%A4%87.json",
       "type": "json",
