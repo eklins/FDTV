@@ -41,7 +41,7 @@ https://www.lanzoui.com/b0aqen5i
 
 选择自建接口，输入 
 - 默认：https://github.com/eklins/FDTV/raw/main/tv/
-- 干净版（无18禁资源）：https://github.com/eklins/FreeD/raw/master/tv/
+- 纯净版（无18禁资源）：https://github.com/eklins/FreeD/raw/master/tv/
 
 <br>
 
