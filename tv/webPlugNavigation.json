@@ -397,10 +397,18 @@
       "click": true
     },
     {
-      "name": "西瓜视频(Web)",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "name": "西瓜卡通",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
       "ads": "",
-      "webUrl": "https://www.ixigua.com/channel/dianying/",
+      "webUrl": "https://www.xgcartoon.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "香港动漫网",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiHYl0g4FmD0dJOUiK0Cyv4-ZgNAMT7dnuw&usqp=CAU",
+      "ads": "",
+      "webUrl": "https://www.hkanime.com.hk/",
       "webOpen": true,
       "click": true
     },
