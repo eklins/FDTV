@@ -67,27 +67,9 @@
       "parse": false
     },
     {
-      "name": "Fear Factor 2001-2012 (US★Tubi)",
-      "url": "https://lnc-fear-factor.tubi.video/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4d1nBwIDDfI46HKb4yJec22ZokaOsDGDt0Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Johnny Carson TV 1962-1992 (US)",
       "url": "https://lnc-johnny-carson.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqkk3tuy8bFZjA2uYnfLgXHwxTWcWZSwNaeQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The Masked Singer 2019-?",
-      "url": "https://lnc-masked-singer.tubi.video/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY2o1OpNMeZMU6dKQ8hD_5G51tt18dqaxj3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Wipeout Xtra 2008-?",
-      "url": "https://lnc-wipeout-xtra.tubi.video/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR181ghTuV8mHhXQTTRykqknqCSun5Tn2G4bQ&usqp=CAU",
       "parse": false
     },
     {
