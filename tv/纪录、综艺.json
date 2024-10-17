@@ -409,12 +409,6 @@
       "parse": false
     },
     {
-      "name": "Crime+ Investigation (Taiwan)",
-      "url": "http://37.27.111.214:8080/live/29/hls.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Dare To Dream Network (3ABN)",
       "url": "https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -435,12 +429,6 @@
     {
       "name": "Diva (South Africa)",
       "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Doc DigiChannel 影迷紀實台 (Taiwan)",
-      "url": "http://37.27.111.214:8080/live/92/hls.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -715,12 +703,6 @@
       "parse": false
     },
     {
-      "name": "History (Taiwan)",
-      "url": "http://37.27.111.214:8080/live/27/hls.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Humor Mill",
       "url": "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -807,12 +789,6 @@
     {
       "name": "Law & Crime",
       "url": "https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Lifetime (Taiwan)",
-      "url": "http://37.27.111.214:8080/live/71/hls.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
