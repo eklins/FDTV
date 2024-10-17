@@ -49,8 +49,14 @@
       "parse": false
     },
     {
-      "name": "Fear Factor 2001-2012 (US)",
+      "name": "Fear Factor 2001-2012 (US★Pluto)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4d1nBwIDDfI46HKb4yJec22ZokaOsDGDt0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Fear Factor 2001-2012 (US★Tubi)",
+      "url": "https://apollo.production-public.tubi.io/live/ac-fear-factor.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4d1nBwIDDfI46HKb4yJec22ZokaOsDGDt0Q&usqp=CAU",
       "parse": false
     },
@@ -103,6 +109,12 @@
       "parse": false
     },
     {
+      "name": "The Masked Singer 2019-?",
+      "url": "https://apollo.production-public.tubi.io/live/ac-masked-singer.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY2o1OpNMeZMU6dKQ8hD_5G51tt18dqaxj3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "The Price is Right 1972-? (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c2214c2a7f2200089a0c4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c507a-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c93e6330-dc43-4864-ad74-9144287f8bbd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzVUTAGrpUtlg9YGKlPpm9x2RtqJy9tCeELg&usqp=CAU",
@@ -129,6 +141,12 @@
     {
       "name": "Wipeout 2008-2014 (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92a6f087606000767eae2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e96-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b45ce7a5-d6f7-4e7a-b14e-762d2646c053",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR181ghTuV8mHhXQTTRykqknqCSun5Tn2G4bQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Wipeout Xtra 2008-?",
+      "url": "https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR181ghTuV8mHhXQTTRykqknqCSun5Tn2G4bQ&usqp=CAU",
       "parse": false
     },
