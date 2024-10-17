@@ -31,12 +31,6 @@
       "parse": false
     },
     {
-      "name": "哆啦A梦（ドラえもん♦Doraemon）1973-？",
-      "url": "http://37.27.111.214:8080/live/107/hls.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfzNqpkyPmgYhKrajYSYwXeKDXN0aMfQmbaQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "犬夜叉（いぬやしゃ♦Inu Yasha）2000-2010",
       "url": "https://live.metshop.top/douyu/11906591",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEg2R1aL8tIuH1TcDL7M3e-cRm_-_cV2IULA&usqp=CAU",
@@ -337,42 +331,6 @@
       "parse": false
     },
     {
-      "name": "My Kidz (Indonesia)",
-      "url": "http://210.210.155.35:80/uq2663/h/h191/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Nick Jr. (Taiwan)",
-      "url": "http://37.27.111.214:8080/live/22/hls.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Nickelodeon (Taiwan)",
-      "url": "http://37.27.111.214:8080/live/12/hls.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Orchid Animation (Taiwan)",
-      "url": "http://37.27.111.214:8080/live/57/hls.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Orchid Animation 2 (Taiwan)",
-      "url": "http://37.27.111.214:8080/live/106/hls.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Orchid Animation 105 (Taiwan)",
-      "url": "http://37.27.111.214:8080/live/105/hls.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "PBS Kids",
       "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -387,12 +345,6 @@
     {
       "name": "Play Works (720p)",
       "url": "https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Pokemon Kids TV English (Japan)",
-      "url": "https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -417,12 +369,6 @@
     {
       "name": "Smile (540p)",
       "url": "https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TG",
-      "url": "https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
