@@ -187,6 +187,12 @@
       "parse": false
     },
     {
+      "name": "Cinema World (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/30/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cinevault 80s",
       "url": "https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -505,6 +511,12 @@
       "parse": false
     },
     {
+      "name": "HITS (Taiwan)",
+      "url": "http://37.27.111.214:8080/live/28/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Hollywood (Taiwan)",
       "url": "http://211.72.65.236:8554/.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -735,30 +747,6 @@
     {
       "name": "Mutant Movies",
       "url": "https://live.metshop.top/douyu/9651304",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "My Cinema (Indonesia)",
-      "url": "http://210.210.155.35:80/uq2663/h/h192/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "My Cinema Asia (Indonesia)",
-      "url": "http://210.210.155.35:80/uq2663/h/h193/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "My Cinema Europe (Switzerland★576p)",
-      "url": "http://210.210.155.35:80/uq2663/h/h18/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "My Family Channel (Indonesia)",
-      "url": "http://210.210.155.35:80/uq2663/h/h194/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
