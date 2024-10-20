@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us",AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 tvg-id="BETEast.us",BET
+https://streamer1.nexgen.bz/BET/index.m3u8
+#EXTINF:-1 tvg-id="BravoEast.us",Bravo
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="",FX
+https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 tvg-id="",History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="",Lifetime
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="MTVEast.us",MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us",Star Channel Central America
+https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1 tvg-id="VH1East.us",VH1
+https://streamer1.nexgen.bz/VH1/index.m3u8
 #EXTINF:-1 ,精品❌03hao.top
 https://03hao.top/20240618/ViO8hcNS/index.m3u8
 #EXTINF:-1 ,精品❌jinpinxm.com
