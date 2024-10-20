@@ -56,7 +56,7 @@
     },
     {
       "name": "BBC America",
-      "url": "https://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8",
+      "url": "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -470,7 +470,7 @@
     },
     {
       "name": "Hallmark Channel",
-      "url": "https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
+      "url": "http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -482,7 +482,7 @@
     },
     {
       "name": "HBO 2",
-      "url": "https://fl5.moveonjoy.com/HBO_2/index.m3u8",
+      "url": "http://fl5.moveonjoy.com/HBO_2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -680,7 +680,7 @@
     },
     {
       "name": "MGM+",
-      "url": "https://fl2.moveonjoy.com/EPIX/index.m3u8",
+      "url": "http://fl2.moveonjoy.com/EPIX/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -770,7 +770,7 @@
     },
     {
       "name": "Paramount Network",
-      "url": "https://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+      "url": "http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -830,13 +830,13 @@
     },
     {
       "name": "Showtime",
-      "url": "https://fl2.moveonjoy.com/SHOWTIME/index.m3u8",
+      "url": "http://fl2.moveonjoy.com/SHOWTIME/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
       "name": "Showtime 2",
-      "url": "https://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
+      "url": "http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -860,7 +860,7 @@
     },
     {
       "name": "Sundance",
-      "url": "https://fl2.moveonjoy.com/SUNDANCE/index.m3u8",
+      "url": "http://fl2.moveonjoy.com/SUNDANCE/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -926,7 +926,7 @@
     },
     {
       "name": "AMC",
-      "url": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+      "url": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
