@@ -49,12 +49,6 @@
       "parse": false
     },
     {
-      "name": "Baywatch 1989-2001 (Canada)",
-      "url": "https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4A1h-quDi4AusK57pO52ivZSA6gB2KQr6A&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Baywatch 1989-2001 (US★Pluto)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOlAAWjFVpNWy9egzIjy1BzNiMyNgQvwiKfg&usqp=CAU",
@@ -63,7 +57,13 @@
     {
       "name": "Baywatch 1989-2001 (US★Tubi)",
       "url": "https://apollo.production-public.tubi.io/live/ac-baywatch.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOlAAWjFVpNWy9egzIjy1BzNiMyNgQvwiKfg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4A1h-quDi4AusK57pO52ivZSA6gB2KQr6A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BBC：Silent Witness 1996-? ♦ New Tricks 2003-2015",
+      "url": "https://aegis-cloudfront-1.tubi.video/3723e418-8627-4a29-96fd-bcfebfccb004/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMm_3_e7xbrOP6ONh31-P5KvarB57f2zVh4w&usqp=CAU",
       "parse": false
     },
     {
