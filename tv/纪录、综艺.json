@@ -13,6 +13,12 @@
       "parse": false
     },
     {
+      "name": "BBC Top Gear 2002-2022",
+      "url": "https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Yz_uvFBDTYMZF9vsZh04rlj9h5NYA1F6kw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Deal or No Deal 2005-2019 (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92951c2db99000787c00d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df75-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d1f141-b1af-4c62-9b90-538de8ee3cc4",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsw2gPGVj8-aKk2wNR8acD7skBzPrhPlJsVg&usqp=CAU",
