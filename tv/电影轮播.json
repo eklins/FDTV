@@ -61,6 +61,12 @@
       "parse": false
     },
     {
+      "name": "BBC America",
+      "url": "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Best Action",
       "url": "https://lte.wiseplayout.com/WiseM3U8_14/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -733,6 +739,12 @@
       "parse": false
     },
     {
+      "name": "PeekFlick",
+      "url": "https://lte.wiseplayout.com/WiseM3U8_26/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Persiana Comedy (France)",
       "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -871,24 +883,6 @@
       "parse": false
     },
     {
-      "name": "Superheroes ①",
-      "url": "https://live.metshop.top/yy/1382736863",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Superheroes ②",
-      "url": "https://live.metshop.top/yy/1382745091",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Suspense & Thriller",
-      "url": "https://live.metshop.top/yy/1382745090",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "SYFY",
       "url": "http://fl2.moveonjoy.com/SYFY/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -933,12 +927,6 @@
     {
       "name": "Victor Valley Movies [Not 24/7]",
       "url": "https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "War ①",
-      "url": "https://live.metshop.top/yy/1382736857",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
