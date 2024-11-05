@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,❌咪咕（备）01【stbId=YanG-1989】
+#EXTINF:-1 ,❌咪咕（备）01【stbId=YanG-1989】gslbservzqhsw
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+#EXTINF:-1 ,❌咪咕（备）01【stbId=YanG-1989】gslbservstudent
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 #EXTINF:-1 ,精品❌03hao.top
 https://03hao.top/20240618/ViO8hcNS/index.m3u8
 #EXTINF:-1 ,精品❌jinpinxm.com
