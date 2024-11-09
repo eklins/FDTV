@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,大秦赋（iill）
+https://live.iill.top/huya/11352881
 #EXTINF:-1 ,CCTV4 中文国际「IPV6」
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8
+#EXTINF:-1 ,❌咪咕（备）01【stbId=3】gslbservzqhsw
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 ,❌咪咕（备）01【stbId=3】gslbservstudent
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 ,❌咪咕（备）01【stbId=YanG-1989】gslbservzqhsw
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 #EXTINF:-1 ,❌咪咕（备）01【stbId=YanG-1989】gslbservstudent
@@ -15,8 +21,6 @@ https://jpxzy.top/20240618/ViO8hcNS/index.m3u8
 https://zyznygvideo.m6b3xt5.com/decry/vd/20240817/ZGIwN2M5MWE/143613/1280_720/libx/hls/encrypt/index.m3u8
 #EXTINF:-1 ,量子❌
 https://vip.lz-cdn4.com/20220907/22104_7b36b8fd/index.m3u8
-#EXTINF:-1 ,量子❌CKplayer
-https://www.ckplayer.vip/jiexi/?url=https://vip1.lz-cdn8.com/20221005/28239_0679dd8a/index.m3u8
 #EXTINF:-1 ,索尼❌qrssv
 https://v2.qrssv.com/202308/22/LeQfsPQqE22/video/index.m3u8
 #EXTINF:-1 ,索尼❌pe12369
