@@ -32,27 +32,9 @@
     },
     {
       "id": 1,
-      "name": "去插播",
+      "name": "如意",
       "ad": "no",
-      "url": "http://18.mp8.top/000bofangqi/qushuiyin/?url="
-    },
-    {
-      "id": 1,
-      "name": "DMPlayer",
-      "ad": "no",
-      "url": "https://dmplay.knowhub.vip/d?url="
-    },
-    {
-      "id": 1,
-      "name": "CKplayer",
-      "ad": "no",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "id": 1,
-      "name": "HLS Player",
-      "ad": "no",
-      "url": "https://www.hlsplayer.org/play?url="
+      "url": "https://ryplayer.com?url="
     },
     {
       "id": 1,
@@ -383,6 +365,30 @@
       "name": "鱼乐",
       "ad": "no",
       "url": "https://jx.ylbfq.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "去插播",
+      "ad": "no",
+      "url": "http://18.mp8.top/000bofangqi/qushuiyin/?url="
+    },
+    {
+      "id": 1,
+      "name": "DMPlayer",
+      "ad": "no",
+      "url": "https://dmplay.knowhub.vip/d?url="
+    },
+    {
+      "id": 1,
+      "name": "CKplayer",
+      "ad": "no",
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "id": 1,
+      "name": "HLS Player",
+      "ad": "no",
+      "url": "https://www.hlsplayer.org/play?url="
     },
     {
       "id": 1,
