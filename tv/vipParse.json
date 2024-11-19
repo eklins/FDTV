@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "如意",
-      "ad": "no",
-      "url": "https://ryplayer.com?url="
-    },
-    {
-      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -47,6 +41,12 @@
       "name": "iKun 福利",
       "ad": "no",
       "url": "https://bofang.ikdmjx.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "如意",
+      "ad": "no",
+      "url": "https://ryplayer.com?url="
     },
     {
       "id": 1,
