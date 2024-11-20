@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "量子（2024）",
-      "ad": "no",
-      "url": "https://playerlz.com/?url="
-    },
-    {
-      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -53,6 +47,12 @@
       "name": "如意",
       "ad": "no",
       "url": "https://ryplayer.com?url="
+    },
+    {
+      "id": 1,
+      "name": "量子（2024）",
+      "ad": "no",
+      "url": "https://playerlz.com/?url="
     },
     {
       "id": 1,
