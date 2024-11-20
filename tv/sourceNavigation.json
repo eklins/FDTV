@@ -225,9 +225,9 @@
       "webPlus": {}
     },
     {
-      "name": "東瀛C-H🈲",
+      "name": "東瀛C-E🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcqI9Wdbmtl_kzeW3iSOogDBsol068dzbsA&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20C-H.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20C-E.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -241,9 +241,25 @@
       "webPlus": {}
     },
     {
-      "name": "東瀛I-L🈲",
+      "name": "東瀛F-I🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcqI9Wdbmtl_kzeW3iSOogDBsol068dzbsA&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20I-L.m3u",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20F-I.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "東瀛J-L🈲",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcqI9Wdbmtl_kzeW3iSOogDBsol068dzbsA&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/xxx%20Japan%20J-L.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
