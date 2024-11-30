@@ -829,6 +829,12 @@
       "parse": false
     },
     {
+      "name": "PeekFlick",
+      "url": "https://lte.wiseplayout.com/WiseM3U8_26/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Persiana Comedy (Iran)",
       "url": "http://51.210.199.27/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
