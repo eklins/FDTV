@@ -655,12 +655,6 @@
       "parse": false
     },
     {
-      "name": "Movie Sphere (US)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-moviesphere.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MTV2",
       "url": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -705,12 +699,6 @@
     {
       "name": "Paramount Network",
       "url": "http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PeekFlick",
-      "url": "https://lte.wiseplayout.com/WiseM3U8_26/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
