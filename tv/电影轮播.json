@@ -223,6 +223,24 @@
       "parse": false
     },
     {
+      "name": "Crave 1 (Canada)",
+      "url": "http://fl3.moveonjoy.com/CRAVE_1/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Crave 2 (Canada)",
+      "url": "http://fl2.moveonjoy.com/CRAVE_2/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Crave 4 (Canada)",
+      "url": "http://fl2.moveonjoy.com/CRAVE_4/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "CrimeFlix",
       "url": "https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -1910,127 +1928,97 @@
     },
     {
       "name": "TVS Classic Cinema (240p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-classiccinema/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-classiccinema/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Classic Movies (480p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Comedy Classics",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Drive In Movie (360p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Family Channel (360p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Film Noir",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8",
+      "url": "https://bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "TVS Front Page Detective (360p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Game Show",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Golden TV (240p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-goldentv/index.m3u8",
+      "name": "TVS Flashback",
+      "url": "https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Hi-Tops",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-hitops/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Hollywood History (582p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/tracks-v1a1/mono.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Horror (476p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Inspirational Network (480p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Mainstreet (360p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Music",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Mystery (360p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Nostalgia (472p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-nostalgia/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Nostalgia Movies (480p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Tally Ho (360p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Television Network (490p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-tvstn/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "TVS Western Movie (270p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8",
+      "url": "https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
