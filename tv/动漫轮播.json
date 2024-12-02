@@ -489,199 +489,199 @@
     {
       "name": "Pluto 90s Kids",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto After School Cartoons",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Anime All Ages",
       "url": "http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Anime All Day (UK)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Anime All Day (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Arthur (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6482f27c17f5e10008c10ff0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794330-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=708b1b6d-b68b-435b-a9fc-551cbc3b51ea",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Baby Shark",
       "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto BBC Kids",
       "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Cartoon Network",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Classic Toons TV [Not 24/7]",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Comedy Central Animation",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Dora TV",
       "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Family",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Find Out Why",
       "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9368c7ad900082bc9a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Forever Kids",
       "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Kids Animation",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ad56edc89300090d2ebb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=976&terminate=false&userId=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Kids Movie Club",
       "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Little Angel's Playroom",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=87da2eb1-308b-4018-9aeb-e6093b4de358",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Little Stars Universe",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33174d1f-99cb-4190-85d6-69259af9a54b",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Nick (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb6a83c6e37000726823b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f08-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c15d1002-05a1-4c9d-82b6-2c554bbbf97f",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Nick Jr. (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f07-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e1ba5b-febb-444b-927d-f017f608e57e",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Nick Jr. (US)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Nick Toons (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Nickelodeon",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Preschool Pals (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb67cbb3af68000702db15/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb437-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fff0d013-4b9f-4262-bd8b-8f09a990dd45",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Preschool Play (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb68a5a6a2670007b7c5b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb438-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bf06571a-1d0c-43e6-909a-8e1745098004",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Rainbow Squad",
       "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Retro Kid (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6408b41b83f58900081d91ad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb432-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e8b87cf6-60af-4f60-8a75-456452a82753",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Retro Toons",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Ryan And Friends (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6356584de76adf0007dcec3c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb49-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e644ef3c-52cb-4f38-8424-d7a60f849f9c",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Ryan And Friends (US)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb584b7613a31000789de5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8984-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=674985cd-9104-489b-8677-79ffaee83405",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto Team Spirit",
       "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "Pluto The Wiggles Classic (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66422cf294d5580008c41bf5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7783-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=edce0849-5729-49a3-a50b-87cb0ae3f908",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
     {
