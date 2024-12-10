@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "新闪电",
+      "ad": "no",
+      "url": "https://www.shandianbf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -113,12 +119,6 @@
       "name": "天空 2024",
       "ad": "no",
       "url": "https://jx.huishij.com/yun/?url="
-    },
-    {
-      "id": 1,
-      "name": "新闪电",
-      "ad": "no",
-      "url": "https://www.shandianbf.com/m3u8/?url="
     },
     {
       "id": 1,
