@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 logo="https://cdn001.imggle.net/poster/20230207/1690601421.jpg",jpg
-#EXTINF:-1 logo="https://cdn001.imggle.net/webp/poster/20241703/1712550534.webp",webp
+#EXTINF:-1 ,ASTRO QJ
+http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
+#EXTINF:-1 ,ASTRO QJ（＋s）
+https://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
 #EXTINF:-1 ,20220606（金鹰）
 https://hd.ijycnd.com/play/negJxX3d/index.m3u8
 #EXTINF:-1 ,大秦赋（iill）
