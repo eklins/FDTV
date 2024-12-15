@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "DMPlayer",
+      "ad": "no",
+      "url": "https://dmplay.knowhub.vip/d?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -359,12 +365,6 @@
       "name": "去插播",
       "ad": "no",
       "url": "http://18.mp8.top/000bofangqi/qushuiyin/?url="
-    },
-    {
-      "id": 1,
-      "name": "DMPlayer",
-      "ad": "no",
-      "url": "https://dmplay.knowhub.vip/d?url="
     },
     {
       "id": 1,
