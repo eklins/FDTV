@@ -10,6 +10,7 @@
 #EXTINF:-1 logo="天",🎦1-0 Alert：Missing Persons Unit【警戒】❌ 08/01/2023💠
 #EXTINF:-1 logo="天",1-0 Alias【双面女间谍】❌ 30/09/2001💠
 #EXTINF:-1 logo="天",1-0 Ally McBeal【甜心俏佳人】❌ 08/09/1997💠
+#EXTINF:-1 logo="天",1-0 Alphas【阿尔法战士】❌ 11/07/2011💠
 #EXTINF:-1 logo="天",1-0 Alta Mar【High Seas（海上谋杀案）西班牙】❌ 24/05/2019💠
 #EXTINF:-1 logo="天",1-0 American Gods【美国众神】❌ 30/04/2017💠
 #EXTINF:-1 logo="天",🎦01-0 American Horror Story【美国恐怖故事】❌ 05/10/2011💠
@@ -396,7 +397,6 @@
 #EXTINF:-1 logo="天",01-0 The X-Files【X档案（加拿大）】❌ 10/09/1993💠
 #EXTINF:-1 logo="天",♦️1-0 The Lone Gunmen【孤枪侠】❌ 04/03/2001💠
 #EXTINF:-1 logo="♥️",1-0 Timeless【穿越时间线／时空守卫】❌ 03/10/2016💠
-#EXTINF:-1 logo="天",1-0 Titans【泰坦】❌ 12/10/2018💠
 #EXTINF:-1 logo="天",1-0 Travelers【穿越者／时空旅行者（加拿大）】❌ 17/10/2016💠
 #EXTINF:-1 logo="天",1-0 True Blood【真爱如血】❌ 07/09/2008💠
 #EXTINF:-1 logo="天",🎦1-0 True Detective【真探】❌ 12/01/2014💠
@@ -485,8 +485,8 @@
 #EXTINF:-1 logo="天",1-0 Wonder Woman【神奇女侠】❌ 07/11/1975💠
 #EXTINF:-1 logo="天",1-0 Y：The Last Man【Y染色体：最后的男人】❌ 13/09/2021💠
 ♥️Marvel's
-#EXTINF:-1 logo="♥️",1-0 Agent Carter【特工卡特】❌ 06/01/2015💠
 #EXTINF:-1 logo="♥️",1-0 Agents Of S.H.I.E.L.D.【神盾局特工】❌ 24/09/2013💠
+#EXTINF:-1 logo="♥️",♦️1-0 Agent Carter【特工卡特】❌ 06/01/2015💠
 #EXTINF:-1 logo="天",1-0 Daredevil【夜魔侠】❌ 10/04/2015💠
 #EXTINF:-1 logo="天",♦️1-0 Jessica Jones【杰西卡・琼斯】❌ 20/11/2015💠
 #EXTINF:-1 logo="天",♦️1-0 Luke Cage【卢克・凯奇】❌ 30/09/2016💠
