@@ -97,6 +97,12 @@
       "parse": false
     },
     {
+      "name": "The Biggest Loser 2004-2020",
+      "url": "https://apollo.production-public.tubi.io/live/ac-biggest-loser.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyrTDgoSkJVVhUAEFEDIZKvX0FhV2RtoKKHQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "The Challenge 1998-? (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a22a3efb510008245df0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5073-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=63985417-98be-4524-83cc-9a7c05387193",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMg2FSfvfDuXHuUoypWGK32nuNbrh3GlHMxg&usqp=CAU",
@@ -249,6 +255,12 @@
     {
       "name": "Always Funny Videos",
       "url": "https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "American Pickers",
+      "url": "https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -595,6 +607,48 @@
       "parse": false
     },
     {
+      "name": "FBI Files",
+      "url": "https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmRise Cheaters",
+      "url": "https://apollo.production-public.tubi.io/live/ac-cheaters.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmRise Forensic Files",
+      "url": "https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmRise True Crime (Canada)",
+      "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime-canada.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmRise True Crime (US)",
+      "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmRise Unsolved Mysteries",
+      "url": "https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmRise World's Most Evil Killers",
+      "url": "https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Firstlight (576p)",
       "url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -891,6 +945,12 @@
     {
       "name": "Manoto TV",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Mr. Beast",
+      "url": "https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1225,6 +1285,12 @@
       "parse": false
     },
     {
+      "name": "Super Channel Uncovered (Canada)",
+      "url": "https://apollo.production-public.tubi.io/live/ac-super-channel-uncovered-canada.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Supreme Master TV",
       "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1429,26 +1495,8 @@
       "parse": false
     },
     {
-      "name": "TV Max (Brazil)",
-      "url": "https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TV Santa Cruz B",
-      "url": "https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamb/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TV Santa Cruz C",
-      "url": "https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamc/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TV5 (Finland)",
-      "url": "https://live-fi.tvkaista.net/tv5/live.m3u8",
+      "name": "TV One Crime & Justice",
+      "url": "https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
