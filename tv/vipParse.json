@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "A6club",
+      "ad": "no",
+      "url": "https://pl.a6club.com/player/analysis.php?v="
+    },
+    {
+      "id": 1,
       "name": "DMPlayer",
       "ad": "no",
       "url": "https://dmplay.knowhub.vip/d?url="
