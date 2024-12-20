@@ -8,6 +8,12 @@
     },
     {
       "id": 1,
+      "name": "宝片",
+      "ad": "no",
+      "url": "https://jiexi.ibaopian.pro/player/?url="
+    },
+    {
+      "id": 1,
       "name": "DMPlayer",
       "ad": "no",
       "url": "https://dmplay.knowhub.vip/d?url="
