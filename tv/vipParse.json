@@ -2,15 +2,9 @@
   "data": [
     {
       "id": 1,
-      "name": "A6club",
+      "name": "MACcmspro",
       "ad": "no",
-      "url": "https://pl.a6club.com/player/analysis.php?v="
-    },
-    {
-      "id": 1,
-      "name": "宝片",
-      "ad": "no",
-      "url": "https://jiexi.ibaopian.pro/player/?url="
+      "url": "https://jx.pingguocms.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -92,15 +86,15 @@
     },
     {
       "id": 1,
-      "name": "九月",
+      "name": "A6club",
       "ad": "no",
-      "url": "https://www.9yuezy.com/m3u8/?url="
+      "url": "https://pl.a6club.com/player/analysis.php?v="
     },
     {
       "id": 1,
-      "name": "九月（备用）",
+      "name": "宝片",
       "ad": "no",
-      "url": "https://www.jiuyuezy.live/m3u8/?url="
+      "url": "https://jiexi.ibaopian.pro/player/?url="
     },
     {
       "id": 1,
