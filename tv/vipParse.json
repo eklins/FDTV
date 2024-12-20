@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "MACcmspro",
-      "ad": "no",
-      "url": "https://jx.pingguocms.com/dplayer/?url="
-    },
-    {
-      "id": 1,
       "name": "DMPlayer",
       "ad": "no",
       "url": "https://dmplay.knowhub.vip/d?url="
@@ -89,6 +83,12 @@
       "name": "A6club",
       "ad": "no",
       "url": "https://pl.a6club.com/player/analysis.php?v="
+    },
+    {
+      "id": 1,
+      "name": "MACcmspro",
+      "ad": "no",
+      "url": "https://jx.pingguocms.com/dplayer/?url="
     },
     {
       "id": 1,
