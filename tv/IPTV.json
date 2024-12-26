@@ -128,7 +128,7 @@
     },
     {
       "name": "NewTV 东北热剧",
-      "url": "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225741/index.m3u8",
+      "url": "http://39.134.136.161:6610/000000001000/2000000003000000051/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000051",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -164,7 +164,7 @@
     },
     {
       "name": "NewTV 欢乐剧场",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8",
+      "url": "http://39.134.136.161:6610/000000001000/2000000003000000050/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000050",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -235,6 +235,12 @@
       "parse": false
     },
     {
+      "name": "NewTV 魅力潇湘",
+      "url": "http://39.134.136.161:6610/000000001000/2000000003000000041/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000041",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NewTV 明星大片",
       "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
@@ -260,7 +266,7 @@
     },
     {
       "name": "NewTV 炫舞未来",
-      "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000000515/1.m3u8",
+      "url": "http://39.134.136.161:6610/000000001000/2000000003000000044/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000044",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
