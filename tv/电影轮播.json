@@ -1987,12 +1987,6 @@
       "parse": false
     },
     {
-      "name": "精彩影视",
-      "url": "http://39.134.136.161:6610/000000001000/2000000004000000063/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000063",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "古墓、探险",
       "url": "https://live.metshop.top/huya/11352913",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
