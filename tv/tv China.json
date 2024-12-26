@@ -374,7 +374,7 @@
     },
     {
       "name": "山东卫视",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8",
+      "url": "http://39.134.136.161:6610/000000001000/5314654537380139019/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=531465453738013901",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/shandong.png",
       "parse": false
     },
