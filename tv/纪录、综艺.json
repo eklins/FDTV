@@ -187,6 +187,12 @@
       "parse": false
     },
     {
+      "name": "中华美食 Food",
+      "url": "http://39.134.136.161:6610/000000001000/2000000003000000052/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000052",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJgV5vK8mHqAYP9WA45Rp8DBm0Mlyn0Gsmg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "天才衝衝衝 2006-?",
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMD4DoneGPiUMkUql7pcNo607pp8kGT15YQ&usqp=CAU",
