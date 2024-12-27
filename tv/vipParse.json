@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "DMPlayer",
-      "ad": "no",
-      "url": "https://dmplay.knowhub.vip/d?url="
-    },
-    {
-      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -77,6 +71,12 @@
       "name": "华为吧（旧）",
       "ad": "no",
       "url": "https://dp.hw8.live/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "DMPlayer",
+      "ad": "no",
+      "url": "https://dmplay.knowhub.vip/d?url="
     },
     {
       "id": 1,
