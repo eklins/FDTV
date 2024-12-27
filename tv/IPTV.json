@@ -104,7 +104,7 @@
     },
     {
       "name": "NewTV 超级电视剧",
-      "url": "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8",
+      "url": "http://39.134.136.161:6610/000000001000/1000000001000008139/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008139",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
