@@ -841,6 +841,12 @@
       "parse": false
     },
     {
+      "name": "SSTC 博斯無限（台湾）",
+      "url": "http://37.27.111.214:8080/live/15/hls.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Star Channel (Belize)",
       "url": "https://streamer1.nexgen.bz/STAR/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
