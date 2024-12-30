@@ -1,145 +1,145 @@
 {
   "data": [
     {
-      "name": "MG（备）PPTV1",
+      "name": "MG（备）01【PPTV】",
       "url": "http://39.134.136.161:6610/000000001000/3000000001000028638/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000028638",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）PPTV2",
+      "name": "MG（备）02【PPTV】",
       "url": "http://39.134.136.161:6610/000000001000/3000000001000008379/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000008379",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）PPTV3",
+      "name": "MG（备）03【PPTV】",
       "url": "http://39.134.136.161:6610/000000001000/3000000001000008001/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000008001",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）PPTV4",
+      "name": "MG（备）04【PPTV】",
       "url": "http://39.134.136.161:6610/000000001000/3000000001000031494/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000031494",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）PPTV5",
+      "name": "MG（备）05【PPTV】",
       "url": "http://39.134.136.161:6610/000000001000/3000000001000008176/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000008176",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）PPTV6",
+      "name": "MG（备）06【PPTV】",
       "url": "http://39.134.136.161:6610/000000001000/3000000001000010129/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000010129",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）PPTV7",
+      "name": "MG（备）07【PPTV】",
       "url": "http://39.134.136.161:6610/000000001000/3000000001000010948/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000010948",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）PPTV8",
+      "name": "MG（备）08【PPTV】",
       "url": "http://39.134.136.161:6610/000000001000/3000000001000007218/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000007218",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）PPTV9",
+      "name": "MG（备）09【PPTV】",
       "url": "http://39.134.136.161:6610/000000001000/3000000001000005308/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000005308",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛01",
+      "name": "MG（备）01【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000027691/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000027691",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛02",
+      "name": "MG（备）02【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000015560/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000015560",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛03",
+      "name": "MG（备）03【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000002809/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000002809",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛04",
+      "name": "MG（备）04【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000000097/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000000097",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛05",
+      "name": "MG（备）05【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000006077/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000006077",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛06",
+      "name": "MG（备）06【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000012558/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000012558",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛07",
+      "name": "MG（备）07【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000023434/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000023434",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛08",
+      "name": "MG（备）08【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000003915/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000003915",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛09",
+      "name": "MG（备）09【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000004193/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000004193",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛10",
+      "name": "MG（备）10【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000021904/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000021904",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛11",
+      "name": "MG（备）11【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000011297/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000011297",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛12",
+      "name": "MG（备）12【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000015686/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000015686",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛13",
+      "name": "MG（备）13【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000006658/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000006658",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛14",
+      "name": "MG（备）14【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000010833/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000010833",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）足球联赛15",
+      "name": "MG（备）15【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000025380/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000025380",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
