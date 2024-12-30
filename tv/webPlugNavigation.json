@@ -12,17 +12,6 @@
       "click": true
     },
     {
-      "name": "优直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL8M9RTVz9LX_1VqkxuVovt-2Rcx61cyuXA&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.yoozhibo.net/zuqiu/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "优直播网⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL8M9RTVz9LX_1VqkxuVovt-2Rcx61cyuXA&usqp=CAU",
       "keyDownPlay": false,
@@ -30,6 +19,72 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.yoozhibo.cc",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "直播豆⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL8M9RTVz9LX_1VqkxuVovt-2Rcx61cyuXA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://m.zhibodou.com/zuqiu",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "WikiSport⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL8M9RTVz9LX_1VqkxuVovt-2Rcx61cyuXA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://wikisport.cc/schedule/soccer",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "74直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.74.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "90直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.90zhibo.com/live/zuqiu/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "310直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "http://www.310.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "321直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://m.321tvzb.com/events",
       "webOpen": true,
       "click": true
     },
@@ -45,6 +100,17 @@
       "click": true
     },
     {
+      "name": "956直播⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.956.live/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "五楼直播⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
       "keyDownPlay": false,
@@ -52,17 +118,6 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://m.259zb.com/pages/bisai",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "310直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "http://www.310.tv/",
       "webOpen": true,
       "click": true
     },
@@ -89,17 +144,6 @@
       "click": true
     },
     {
-      "name": "360看球⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.360kanqiu.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "56直播网⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
       "keyDownPlay": false,
@@ -107,39 +151,6 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://56zhibo.cc/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "70直播网⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "http://70zhibo.com/#/mindex",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "全球体育⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://qqzb88.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "米8直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.m8zb.com/live/zuqiu/",
       "webOpen": true,
       "click": true
     },
@@ -288,18 +299,18 @@
     },
     {
       "name": "JAVDay🈲",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgmLKc7T_vnSWUYC5yhf1AEmFxgAuzYJXOg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAp2tdKtuOcWt63V4Ceu6GX5pMq6sH0R-OLA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://javday.tv/",
+      "webUrl": "https://javday.tv",
       "webOpen": true,
       "click": true
     },
     {
       "name": "Mat6Tube🈲",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgmLKc7T_vnSWUYC5yhf1AEmFxgAuzYJXOg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAp2tdKtuOcWt63V4Ceu6GX5pMq6sH0R-OLA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
@@ -315,7 +326,7 @@
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.aznude.com/",
+      "webUrl": "https://www.aznude.com",
       "webOpen": true,
       "click": true
     },
@@ -326,7 +337,7 @@
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://zh.stripchat.global/",
+      "webUrl": "https://zh.stripchat.global",
       "webOpen": true,
       "click": true
     },
