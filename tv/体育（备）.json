@@ -121,12 +121,6 @@
       "parse": false
     },
     {
-      "name": "MG（备）12【足球联赛】",
-      "url": "http://39.134.136.161:6610/000000001000/3000000010000015686/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000015686",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MG（备）13【足球联赛】",
       "url": "http://39.134.136.161:6610/000000001000/3000000010000006658/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000006658",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
