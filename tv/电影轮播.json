@@ -541,12 +541,6 @@
       "parse": false
     },
     {
-      "name": "HITS (Taiwan)",
-      "url": "http://37.27.111.214:8080/live/28/hls.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Horror",
       "url": "https://live.metshop.top/huya/11352903",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
