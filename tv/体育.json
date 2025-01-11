@@ -607,32 +607,8 @@
       "parse": false
     },
     {
-      "name": "TNT Sports ① (Brazil)",
-      "url": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TNT Sports ② (Brazil)",
-      "url": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TNT Sports ③ (Brazil)",
-      "url": "https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TNT Sports ④ (Brazil)",
-      "url": "https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TNT Sports ⑤ (Brazil)",
-      "url": "https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8",
+      "name": "Total Nonstop Action",
+      "url": "https://a-cdn.klowdtv.com/live2/tna_720p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
