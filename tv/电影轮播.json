@@ -67,30 +67,6 @@
       "parse": false
     },
     {
-      "name": "Best Action",
-      "url": "https://lte.wiseplayout.com/WiseM3U8_14/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Best Classic",
-      "url": "https://lte.wiseplayout.com/WiseM3U8_15/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Best Drama",
-      "url": "https://lte.wiseplayout.com/WiseM3U8_16/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Best Thriller",
-      "url": "https://lte.wiseplayout.com/WiseM3U8_17/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BET (Belize)",
       "url": "https://streamer1.nexgen.bz/BET/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -159,12 +135,6 @@
     {
       "name": "Cine Life",
       "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cine Past",
-      "url": "https://lte.wiseplayout.com/WiseM3U8_6/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -243,6 +213,12 @@
     {
       "name": "Crave 2 (Canada)",
       "url": "http://fl2.moveonjoy.com/CRAVE_2/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Crave 3 (Canada)",
+      "url": "http://fl3.moveonjoy.com/CRAVE_3/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -871,7 +847,7 @@
       "parse": false
     },
     {
-      "name": "Sundance",
+      "name": "Sundance TV",
       "url": "http://fl2.moveonjoy.com/SUNDANCE/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
