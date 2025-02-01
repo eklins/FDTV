@@ -271,7 +271,7 @@
       "parse": false
     },
     {
-      "name": "DouYu 20415（可乐电影）",
+      "name": "DouYu 20415（神乐／可乐电影）",
       "url": "https://live.metshop.top/douyu/20415",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
@@ -301,8 +301,14 @@
       "parse": false
     },
     {
-      "name": "DouYu 2793084",
+      "name": "DouYu 2793084（经典巨制）",
       "url": "https://live.metshop.top/douyu/2793084",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu 7882691（欧美惊悚）",
+      "url": "https://live.metshop.top/douyu/7882691",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
