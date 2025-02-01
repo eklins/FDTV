@@ -265,7 +265,7 @@
       "parse": false
     },
     {
-      "name": "DouYu 4332",
+      "name": "DouYu 4332（IMAX2厅）",
       "url": "https://live.metshop.top/douyu/4332",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
@@ -277,13 +277,13 @@
       "parse": false
     },
     {
-      "name": "DouYu 36337（贝爷影厅）",
+      "name": "DouYu 36337（贝爷影厅2）",
       "url": "https://live.metshop.top/douyu/36337",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 252802",
+      "name": "DouYu 252802（贝爷影厅1）",
       "url": "https://live.metshop.top/douyu/252802",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
@@ -303,6 +303,12 @@
     {
       "name": "DouYu 2793084",
       "url": "https://live.metshop.top/douyu/2793084",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu 8912325",
+      "url": "https://live.metshop.top/douyu/8912325",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
