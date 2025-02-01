@@ -259,13 +259,19 @@
       "parse": false
     },
     {
+      "name": "DouBan 52787（豆瓣高评分电影）",
+      "url": "https://live.metshop.top/douyu/52787",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "DouBan Top 250",
       "url": "https://live.metshop.top/douyu/8770422",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 4332（IMAX2厅）",
+      "name": "DouYu 4332（贝爷MAX厅）",
       "url": "https://live.metshop.top/douyu/4332",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
@@ -277,13 +283,13 @@
       "parse": false
     },
     {
-      "name": "DouYu 36337（贝爷影厅）",
+      "name": "DouYu 36337（贝爷影厅2）",
       "url": "https://live.metshop.top/douyu/36337",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 252802（电影1厅）",
+      "name": "DouYu 252802（贝爷影厅：科幻、动作）",
       "url": "https://live.metshop.top/douyu/252802",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
@@ -321,6 +327,12 @@
     {
       "name": "DouYu 冰冰小剧场",
       "url": "https://live.metshop.top/douyu/74374",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu 幽默笑场",
+      "url": "https://live.metshop.top/douyu/428402",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -619,8 +631,14 @@
       "parse": false
     },
     {
-      "name": "Marvel",
+      "name": "Marvel 6140589",
       "url": "https://live.metshop.top/douyu/6140589",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Marvel 11673725",
+      "url": "https://live.metshop.top/douyu/11673725",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
