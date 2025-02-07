@@ -1118,6 +1118,12 @@
     },
     {
       "name": "Tubi Originals",
+      "url": "https://apollo.production-public.tubi.io/live/tubi-originals.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tubi Originals",
       "url": "https://lnc-tubi-originals.tubi.video/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
