@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "无尽备用",
-      "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
-    },
-    {
-      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -20,21 +14,15 @@
     },
     {
       "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "黑木耳",
       "ad": "no",
       "url": "https://hoplayer.com/index.html?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽 2024（备用）",
-      "ad": "no",
-      "url": "https://jx.wuvodbf.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "HLS Player",
-      "ad": "no",
-      "url": "https://www.hlsplayer.org/play?url="
     },
     {
       "id": 1,
@@ -47,6 +35,36 @@
       "name": "iKun 福利",
       "ad": "no",
       "url": "https://bofang.ikdmjx.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "量子 2025",
+      "ad": "no",
+      "url": "https://lziplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "量子 2024",
+      "ad": "no",
+      "url": "https://playerlz.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "豆瓣（P2P商业加速解析）",
+      "ad": "no",
+      "url": "https://www.dbjiexi.com:966/jx/?url="
+    },
+    {
+      "id": 1,
+      "name": "豆瓣（备用）",
+      "ad": "no",
+      "url": "https://dbjiexi.com:966/jx/?url="
+    },
+    {
+      "id": 1,
+      "name": "如意",
+      "ad": "no",
+      "url": "https://ryplayer.com?url="
     },
     {
       "id": 1,
@@ -68,15 +86,33 @@
     },
     {
       "id": 1,
-      "name": "九月",
+      "name": "DMPlayer",
       "ad": "no",
-      "url": "https://www.9yuezy.com/m3u8/?url="
+      "url": "https://dmplay.knowhub.vip/d?url="
     },
     {
       "id": 1,
-      "name": "九月（备用）",
+      "name": "A6club",
       "ad": "no",
-      "url": "https://www.jiuyuezy.live/m3u8/?url="
+      "url": "https://pl.a6club.com/player/analysis.php?v="
+    },
+    {
+      "id": 1,
+      "name": "MACcmspro",
+      "ad": "no",
+      "url": "https://jx.pingguocms.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "宝片",
+      "ad": "no",
+      "url": "https://jiexi.ibaopian.pro/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "18X 极品",
+      "ad": "no",
+      "url": "https://jipinzycdnplayurl.com/?url="
     },
     {
       "id": 1,
@@ -116,21 +152,9 @@
     },
     {
       "id": 1,
-      "name": "飞速",
-      "ad": "no",
-      "url": "https://www.feisuplayer.com/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "草榴",
       "ad": "no",
       "url": "https://jx.caoliuzywcdnjx.com/m3u8.php?url="
-    },
-    {
-      "id": 1,
-      "name": "海外看",
-      "ad": "no",
-      "url": "https://dp.haiwaikan.com/index.html?url="
     },
     {
       "id": 1,
@@ -155,12 +179,6 @@
       "name": "淘片②",
       "ad": "no",
       "url": "https://www.tpvod.com/player.html?uri="
-    },
-    {
-      "id": 1,
-      "name": "快云",
-      "ad": "no",
-      "url": "https://www.kuaiyunplayer.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -302,6 +320,18 @@
     },
     {
       "id": 1,
+      "name": "奥斯卡（2025）①",
+      "ad": "no",
+      "url": "https://askvodbf.com/play.html?url="
+    },
+    {
+      "id": 1,
+      "name": "奥斯卡（2025）②",
+      "ad": "no",
+      "url": "https://askvodbf.com/?url="
+    },
+    {
+      "id": 1,
       "name": "奥斯卡",
       "ad": "no",
       "url": "https://aosikazy11.com/?url="
@@ -359,6 +389,24 @@
       "name": "鱼乐",
       "ad": "no",
       "url": "https://jx.ylbfq.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "去插播",
+      "ad": "no",
+      "url": "http://18.mp8.top/000bofangqi/qushuiyin/?url="
+    },
+    {
+      "id": 1,
+      "name": "CKplayer",
+      "ad": "no",
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "id": 1,
+      "name": "HLS Player",
+      "ad": "no",
+      "url": "https://www.hlsplayer.org/play?url="
     },
     {
       "id": 1,
