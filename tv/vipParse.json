@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "DMPlayer",
-      "ad": "no",
-      "url": "https://dmplay.knowhub.vip/d?url="
-    },
-    {
-      "id": 1,
       "name": "索尼",
       "ad": "no",
       "url": "https://www.snplayer.com/?url="
@@ -98,15 +92,15 @@
     },
     {
       "id": 1,
-      "name": "MACcmspro",
+      "name": "DMPlayer",
       "ad": "no",
-      "url": "https://jx.pingguocms.com/dplayer/?url="
+      "url": "https://dmplay.knowhub.vip/d?url="
     },
     {
       "id": 1,
-      "name": "宝片",
+      "name": "MACcmspro",
       "ad": "no",
-      "url": "https://jiexi.ibaopian.pro/player/?url="
+      "url": "https://jx.pingguocms.com/dplayer/?url="
     },
     {
       "id": 1,
