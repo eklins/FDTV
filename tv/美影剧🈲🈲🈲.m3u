@@ -103,6 +103,7 @@
 #EXTINF:-1 logo="天",🎦01-0 Death In Paradise【天堂岛疑云（英国、法国）】❌ 25/10/2011💠
 #EXTINF:-1 logo="天",♦️🎦1-0 Beyond Paradise【超越天堂（英国）】❌ 24/02/2023💠
 #EXTINF:-1 logo="天",♦️🎦1-0 Return To Paradise【重返天堂岛（英国、澳洲）】❌ 22/11/2024💠
+#EXTINF:-1 logo="天",1-0 Debris【残骸／星骸危机／碎片】❌ 01/03/2021💠
 #EXTINF:-1 logo="♥️",1-0 Defiance【抗争／地球异世界】❌ 15/04/2013💠
 #EXTINF:-1 logo="天",1-0 Desperate Housewives【绝望的主妇／疯狂主妇／欲望师奶】❌ 03/10/2004💠
 #EXTINF:-1 logo="天",1-0 Dexter【嗜血法医／梦魇杀魔】❌ 01/10/2006💠
@@ -161,7 +162,6 @@
 #EXTINF:-1 logo="天",1-0 Good Witch【好女巫／女巫家庭（加拿大、美国）】❌ 28/02/2015💠
 #EXTINF:-1 logo="天",1-0 Gossip Girl【绯闻女孩／花边教主】❌ 19/09/2007💠
 #EXTINF:-1 logo="天",♦️1-0 Gossip Girl【新绯闻女孩】❌ 08/07/2021💠
-#EXTINF:-1 logo="天",1-0 Gotham【哥谭镇】❌ 22/09/2014💠
 #EXTINF:-1 logo="天",🎦01-0 Grey's Anatomy【实习医生格蕾】❌ 27/03/2005💠
 #EXTINF:-1 logo="天",1-0 Grimm【格林】❌ 28/10/2011💠
 #EXTINF:-1 logo="天",1-0 Hache【女毒枭（西班牙）】❌ 01/11/2019💠
@@ -222,7 +222,7 @@
 #EXTINF:-1 logo="天",1-0 Line Of Duty【重任在肩（英国）】❌ 26/03/2017💠
 #EXTINF:-1 logo="天",1-0 Lost【迷失】❌ 22/09/2004💠
 #EXTINF:-1 logo="天",1-0 Lost Girl【妖女迷行（加拿大）】❌ 12/09/2010💠
-#EXTINF:-1 logo="天",1-0 MacGyver【百战天龙／玉面飞龙／马盖先】❌ 29/09/1985💠
+#EXTINF:-1 logo="天",1-0 MacGyver【玉面飞龙／百战天龙／马盖先】❌ 29/09/1985💠
 #EXTINF:-1 logo="♥️",♦️1-0 MacGyver【新百战天龙】❌ 23/09/2016💠
 #EXTINF:-1 logo="天",1-0 Mad About You【为你疯狂】❌ 23/09/1992💠
 #EXTINF:-1 logo="天",1-0 Mad Men【广告狂人】❌ 19/07/2007💠
@@ -382,7 +382,7 @@
 #EXTINF:-1 logo="♥️",1-0 Terra Nova【史前新纪元】❌ 26/09/2011💠
 #EXTINF:-1 logo="天",1-0 That '70s Show【70年代秀】❌ 23/08/1998💠
 #EXTINF:-1 logo="天",♦️1-0 That '80s Show【80年代秀】❌ 23/01/2002💠
-#EXTINF:-1 logo="天",♦️🎦1-0 That '90s Show【90年代秀】❌ 19/01/2023💠
+#EXTINF:-1 logo="天",♦️1-0 That '90s Show【90年代秀】❌ 19/01/2023💠
 #EXTINF:-1 logo="天",1-0 The 100【地球百子】❌ 19/03/2014💠
 #EXTINF:-1 logo="天",1-0 The 4400【4400】❌ 11/07/2004💠
 #EXTINF:-1 logo="天",1-0 The A-Team【A字特攻队／天龙特攻队／铁腕群英】❌ 23/01/1983💠
@@ -461,7 +461,7 @@
 #EXTINF:-1 logo="天",1-0 Travelers【穿越者／时空旅行者（加拿大）】❌ 17/10/2016💠
 #EXTINF:-1 logo="天",1-0 True Blood【真爱如血】❌ 07/09/2008💠
 #EXTINF:-1 logo="天",🎦1-0 True Detective【真探】❌ 12/01/2014💠
-#EXTINF:-1 logo="天",1-0 Trust Me【相信我／请相信我：罪「救」英国】❌ 08/08/2017💠
+#EXTINF:-1 logo="天",1-0 Trust Me【相信我／请相信我：罪「救」（英国）】❌ 08/08/2017💠
 #EXTINF:-1 logo="天",1-0 Twin Peaks【双峰】❌ 08/04/2013💠
 #EXTINF:-1 logo="♥️",01-0 Two And A Half Men【好汉两个半】❌ 22/09/2003💠
 #EXTINF:-1 logo="天",1-0 Under The Dome【穹顶之下】❌ 24/06/2013💠
@@ -497,7 +497,7 @@
 #EXTINF:-1 logo="天",1-0 Xena：Warrior Princess【战士公主西娜】❌ 04/09/1995💠
 #EXTINF:-1 logo="天",1-0 Yellowstone【黄石】❌ 20/06/2018💠
 #EXTINF:-1 logo="天",♦️1-0 1883【黄石：1883】❌ 19/12/2021💠
-#EXTINF:-1 logo="天",🎦♦️1-0 1923【黄石：1923】❌ 18/12/2022💠
+#EXTINF:-1 logo="天",♦️🎦1-0 1923【黄石：1923】❌ 18/12/2022💠
 #EXTINF:-1 logo="天",1-0 Young & Hungry【浪女大厨】❌ 25/06/2014💠
 #EXTINF:-1 logo="天",1-0 Young Sheldon【小谢尔顿】❌ 25/09/2017💠
 #EXTINF:-1 logo="天",1-0 Younger【年轻一代】❌ 31/03/2015💠
