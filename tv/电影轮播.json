@@ -566,7 +566,7 @@
     },
     {
       "name": "ion PLUS",
-      "url": "https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8",
+      "url": "https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
