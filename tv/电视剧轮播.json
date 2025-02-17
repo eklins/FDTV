@@ -367,6 +367,12 @@
       "parse": false
     },
     {
+      "name": "Portlandia 2011-2018",
+      "url": "https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8ENjf-T1kzOkS5pKKMx3n7nIX5lq70qQkw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rawhide 1959-1965 (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65660223635c3c00086c2578/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb40-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85823e0a-69bc-4cfd-9626-cb87aab91a02",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQ6wHpS3zYW0pg37-FnOoGXUSa5tE8UwONg&usqp=CAU",
@@ -487,8 +493,14 @@
       "parse": false
     },
     {
-      "name": "The Lone Ranger 1949-1957",
+      "name": "The Lone Ranger 1949-1957 (Pluto)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6dafb7bdc8d0008473c85/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=14d4cc80-1b91-4f3d-aef3-50b19094af58",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Oq_lLDFloVbGgBgty3D_fQcCTSEUHkx4vw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Lone Ranger 1949-1957 (XUMO)",
+      "url": "https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Oq_lLDFloVbGgBgty3D_fQcCTSEUHkx4vw&usqp=CAU",
       "parse": false
     },
