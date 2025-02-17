@@ -140,6 +140,12 @@
     },
     {
       "name": "Asian Crush",
+      "url": "https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Asian Crush",
       "url": "https://ac-samsung-us.ono.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
@@ -219,6 +225,12 @@
     {
       "name": "BET★ (Belize)",
       "url": "http://170.254.18.106/BET/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BET★Her",
+      "url": "http://fl2.moveonjoy.com/BET_HER/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -303,6 +315,24 @@
     {
       "name": "Cinemax (Singapore)",
       "url": "https://z02.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinevault 80s",
+      "url": "https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinevault Classics",
+      "url": "https://apollo.production-public.tubi.io/live/ac-cinevault-classics.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinevault Westerns",
+      "url": "https://apollo.production-public.tubi.io/live/ac-cinevault-westerns.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -1059,6 +1089,12 @@
     {
       "name": "SYFY",
       "url": "http://38.96.178.201:80/live/SYFYHD/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TCT",
+      "url": "https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live2/tct_720p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
