@@ -547,12 +547,6 @@
       "parse": false
     },
     {
-      "name": "iFilm English (Iran)",
-      "url": "https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ion",
       "url": "https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
