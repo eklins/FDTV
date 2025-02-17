@@ -281,27 +281,9 @@
     },
     {
       "id": 1,
-      "name": "18X 色戒",
-      "url": "https://sjzy.tv/api.php/provide/vod/at/xml/",
-      "cate": "伦理片,2&&伦理剧,3",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
       "name": "18X GZY",
       "url": "https://gayapi.com/api.php/provide/vod/at/xml",
       "cate": "视频一区,2&&视频二区,3&&视频四区,4&&视频三区,6&&男同,7&&女同,8&&重口猎奇,9&&人兽大战,10&&人妖系列,12&&SM调教,13&&日本无码,14&&中文有码,15&&黑人无码,16&&欧美无码,20&&海外主播,21&&国产视频,22&&明星换脸,23&&萝莉少女,24&&网红主播,25&&探花约炮,26&&传媒拍摄,27&&伦理三级,28&&网暴黑料,29&&激情动漫,30&&VR视角,31",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "旺旺",
-      "url": "https://api.wwzy.tv/api.php/provide/vod/at/xml",
-      "cate": "短剧,2",
       "click": true,
       "type": "xml",
       "detailUrl": ""
@@ -383,6 +365,24 @@
       "name": "百度",
       "url": "https://bdzy.tv/api.php/provide/vod/from/dbm3u8/at/xml/",
       "cate": "动漫,4&&❌,5&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&香港剧,14&&韩国剧,15&&日本剧,16&&纪录片,17&&犯罪片,18&&动漫电影,20&&台湾剧,21&&欧美剧,22&&海外剧,23&&泰国剧,24&&中国综艺,25&&日韩综艺,26&&港台综艺,27&&欧美综艺,28&&中国动漫,29&&日本动漫,30&&欧美动漫,31&&悬疑片,32&&邵氏电影,33&&体育赛事,34",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
+      "id": 1,
+      "name": "色戒X",
+      "url": "https://sjzy.tv/api.php/provide/vod/at/xml/",
+      "cate": "伦理片,2&&伦理剧,3",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
+      "id": 1,
+      "name": "旺旺",
+      "url": "https://api.wwzy.tv/api.php/provide/vod/at/xml",
+      "cate": "短剧,2",
       "click": true,
       "type": "xml",
       "detailUrl": ""
