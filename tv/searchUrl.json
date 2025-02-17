@@ -282,8 +282,8 @@
     {
       "id": 1,
       "name": "18X 色戒",
-      "url": "https://sjzy.tv/api.php/provide/vod/at/xml/",
-      "cate": "伦理片,2&&伦理剧,3",
+      "url": "https://sjzy01.com/api.php/provide/vod/at/xml/",
+      "cate": "伦理片,55&&伦理剧,56",
       "click": true,
       "type": "xml",
       "detailUrl": ""
