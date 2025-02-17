@@ -13,6 +13,18 @@
       "parse": false
     },
     {
+      "name": "American Ninja Warrior 2009-?",
+      "url": "https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHt2WxDlezcLh06wezv06HXttsTd9_OTU1w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BBC Impossible 2017-2021",
+      "url": "https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY14j9lhlnV-gmelD65wZ89ga84P5nJqSAzg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BBC Top Gear 2002-2022",
       "url": "https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Yz_uvFBDTYMZF9vsZh04rlj9h5NYA1F6kw&usqp=CAU",
@@ -43,8 +55,14 @@
       "parse": false
     },
     {
-      "name": "Family Feud Classic 1976-1985 (US)",
+      "name": "Family Feud Classic 1976-1985 (US★Pluto)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643f03b9d8436e0008edf021/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a359-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8763840e-c36c-4cb7-b51f-a83433e8ecfc",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP0V8tRUSIw-0QcAX3PfHYxx1cyzEM7IHe_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Family Feud Classic 1976-1985 (US★XUMO)",
+      "url": "https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP0V8tRUSIw-0QcAX3PfHYxx1cyzEM7IHe_Q&usqp=CAU",
       "parse": false
     },
@@ -213,6 +231,12 @@
     {
       "name": "Action (KCKS-LD4★Kansas City) [2100-1500]",
       "url": "https://cdn.igocast.com/channel4_hls/channel4_master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "American Crimes",
+      "url": "https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -393,6 +417,18 @@
     {
       "name": "Cooking Panda",
       "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Court TV",
+      "url": "https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Court TV Legendary Trials",
+      "url": "https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2701,320 +2737,38 @@
       "parse": false
     },
     {
-      "name": "Rakuten Documentaries (Portugal)",
-      "url": "https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Rakuten Revry News",
       "url": "https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Rakuten The Design Network (Italy)",
-      "url": "https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rakuten The Guardian (Ireland)",
-      "url": "https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rakuten The Guardian (Netherlands)",
-      "url": "https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rakuten Travel XP (UK)",
-      "url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rakuten Wonder",
-      "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "RedBox Made In Hollywood TV",
-      "url": "https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8WKhpHTZoLYtP6x6QThDEu0Q9nPIE_z7pg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "RedBox Tastemade France",
-      "url": "https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8WKhpHTZoLYtP6x6QThDEu0Q9nPIE_z7pg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR ET Live (Entertainment Tonight)",
-      "url": "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8",
+      "name": "STIRR Extreme+",
+      "url": "https://d3p1dbb9xrkmd5.cloudfront.net/scheduler/scheduleMaster/276.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "STIRR So...Real",
-      "url": "https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Chef Champion",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-chefchampion/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Chef Rock",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-chefrock/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Game Show",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS HollyWire",
-      "url": "https://bozztv.com/hwotta/playlist/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Mad Dog and Merrill (540p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Pet Parade Network (480p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Rare Collectibles",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Select Network",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS STGN (Sent TV Global Network)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Today Home Entertainment Network",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Travel Network",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO America's Test Kitchen",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8",
+      "name": "XUMO Bravo Vault",
+      "url": "https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "XUMO Architecture Digest",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8",
+      "name": "XUMO Investigation",
+      "url": "https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "XUMO bon appétit",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8",
+      "name": "XUMO Million Dollar Listing Vault",
+      "url": "https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "XUMO Chive TV",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Circle",
-      "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Complex",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO FailArmy International",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Food 52",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Forensic Files (432p)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Funny or Die (RedBox)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Funny or Die (Roku)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Glamour",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Go Traveler",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Hungry",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Journy",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Just for Laughs Gags",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Law & Crime",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Nosey",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Now This",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Outdoor America",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Outside TV",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Outside TV Plus",
-      "url": "https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO People TV",
-      "url": "https://peopletvssai.akamaized.net/amagi_hls_data_peopletvA-peopletvxumo/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Pocket Watch",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Reelz Channel",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Shout! Factory TV",
-      "url": "https://shoutfactory-xumo.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO So Yummy!",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Vanity Fair",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Vogue",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Voyage Documentaries",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Wired",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8",
+      "name": "XUMO SNL Vault",
+      "url": "https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     }
