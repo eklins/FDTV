@@ -301,6 +301,12 @@
       "parse": false
     },
     {
+      "name": "Midsomer Murders 1997-? (US★XUMO)",
+      "url": "https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Mission Impossible 1966-1973 (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea43aa0c43540007f2db96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0878db09-3913-46f0-b42a-c9951a6f9f69",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03b-sIbxk6sPADuF7SG1jlG6Tl9Yl4AUIQw&usqp=CAU",
