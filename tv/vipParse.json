@@ -2,6 +2,18 @@
   "data": [
     {
       "id": 1,
+      "name": "闪电",
+      "ad": "no",
+      "url": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "索尼",
+      "ad": "no",
+      "url": "https://www.snplayer.com/?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -65,12 +77,6 @@
       "name": "M3U8解析",
       "ad": "no",
       "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "id": 1,
-      "name": "索尼",
-      "ad": "no",
-      "url": "https://www.snplayer.com/?url="
     },
     {
       "id": 1,
@@ -143,18 +149,6 @@
       "name": "天空 2024",
       "ad": "no",
       "url": "https://jx.huishij.com/yun/?url="
-    },
-    {
-      "id": 1,
-      "name": "新闪电",
-      "ad": "no",
-      "url": "https://www.shandianbf.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "闪电",
-      "ad": "no",
-      "url": "https://www.shankubf.com/m3u8/?url="
     },
     {
       "id": 1,
