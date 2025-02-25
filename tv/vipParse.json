@@ -14,18 +14,6 @@
     },
     {
       "id": 1,
-      "name": "闪电",
-      "ad": "no",
-      "url": "https://www.shankubf.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "索尼",
-      "ad": "no",
-      "url": "https://www.snplayer.com/?url="
-    },
-    {
-      "id": 1,
       "name": "量子 2025",
       "ad": "no",
       "url": "https://lziplayer.com/?url="
@@ -71,6 +59,18 @@
       "name": "iKun 福利",
       "ad": "no",
       "url": "https://bofang.ikdmjx.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "闪电",
+      "ad": "no",
+      "url": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "索尼",
+      "ad": "no",
+      "url": "https://www.snplayer.com/?url="
     },
     {
       "id": 1,
