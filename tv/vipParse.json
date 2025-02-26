@@ -86,6 +86,12 @@
     },
     {
       "id": 1,
+      "name": "非凡",
+      "ad": "no",
+      "url": "https://svip.ffzyplay.com/?url="
+    },
+    {
+      "id": 1,
       "name": "华为吧",
       "ad": "no",
       "url": "https://player.huawei8.live/player?url="
@@ -98,27 +104,15 @@
     },
     {
       "id": 1,
-      "name": "A6club",
-      "ad": "no",
-      "url": "https://pl.a6club.com/player/analysis.php?v="
-    },
-    {
-      "id": 1,
-      "name": "DMPlayer",
-      "ad": "no",
-      "url": "https://dmplay.knowhub.vip/d?url="
-    },
-    {
-      "id": 1,
-      "name": "MACcmspro",
-      "ad": "no",
-      "url": "https://jx.pingguocms.com/dplayer/?url="
-    },
-    {
-      "id": 1,
       "name": "18X jKun",
       "ad": "no",
       "url": "https://www.jkunzyjx.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "18X 搜AV",
+      "ad": "no",
+      "url": "https://souavzy.info/m3u8/?url="
     },
     {
       "id": 1,
@@ -152,9 +146,21 @@
     },
     {
       "id": 1,
-      "name": "非凡",
+      "name": "A6club",
       "ad": "no",
-      "url": "https://svip.ffzyplay.com/?url="
+      "url": "https://pl.a6club.com/player/analysis.php?v="
+    },
+    {
+      "id": 1,
+      "name": "DMPlayer",
+      "ad": "no",
+      "url": "https://dmplay.knowhub.vip/d?url="
+    },
+    {
+      "id": 1,
+      "name": "MACcmspro",
+      "ad": "no",
+      "url": "https://jx.pingguocms.com/dplayer/?url="
     },
     {
       "id": 1,
