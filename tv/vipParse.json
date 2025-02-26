@@ -74,12 +74,6 @@
     },
     {
       "id": 1,
-      "name": "M3U8解析",
-      "ad": "no",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "id": 1,
       "name": "如意",
       "ad": "no",
       "url": "https://ryplayer.com?url="
@@ -116,6 +110,12 @@
     },
     {
       "id": 1,
+      "name": "18X X细胞",
+      "ad": "no",
+      "url": "https://www.xxibaozyw.com/player.php?url="
+    },
+    {
+      "id": 1,
       "name": "18X 极品",
       "ad": "no",
       "url": "https://jipinzycdnplayurl.com/?url="
@@ -140,9 +140,9 @@
     },
     {
       "id": 1,
-      "name": "天空 2024",
+      "name": "M3U8解析",
       "ad": "no",
-      "url": "https://jx.huishij.com/yun/?url="
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
       "id": 1,
