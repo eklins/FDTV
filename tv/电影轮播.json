@@ -547,6 +547,12 @@
       "parse": false
     },
     {
+      "name": "HOT Movie 欧美影院 (China)",
+      "url": "http://155.248.180.39:8880/TVOD/2000000004000000005/hnbblive/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ion",
       "url": "https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
