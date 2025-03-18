@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "HLS",
-      "ad": "no",
-      "url": "https://jx.hls.one/?url="
-    },
-    {
-      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -80,15 +74,15 @@
     },
     {
       "id": 1,
-      "name": "如意",
+      "name": "M3U8解析",
       "ad": "no",
-      "url": "https://ryplayer.com?url="
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
       "id": 1,
-      "name": "非凡",
+      "name": "如意",
       "ad": "no",
-      "url": "https://svip.ffzyplay.com/?url="
+      "url": "https://ryplayer.com?url="
     },
     {
       "id": 1,
@@ -104,21 +98,27 @@
     },
     {
       "id": 1,
+      "name": "A6club",
+      "ad": "no",
+      "url": "https://pl.a6club.com/player/analysis.php?v="
+    },
+    {
+      "id": 1,
+      "name": "DMPlayer",
+      "ad": "no",
+      "url": "https://dmplay.knowhub.vip/d?url="
+    },
+    {
+      "id": 1,
+      "name": "MACcmspro",
+      "ad": "no",
+      "url": "https://jx.pingguocms.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "18X jKun",
       "ad": "no",
       "url": "https://www.jkunzyjx.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "18X 搜AV",
-      "ad": "no",
-      "url": "https://souavzy.info/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "18X X细胞",
-      "ad": "no",
-      "url": "https://www.xxibaozyw.com/player.php?url="
     },
     {
       "id": 1,
@@ -146,27 +146,15 @@
     },
     {
       "id": 1,
-      "name": "M3U8解析",
+      "name": "天空 2024",
       "ad": "no",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
+      "url": "https://jx.huishij.com/yun/?url="
     },
     {
       "id": 1,
-      "name": "A6club",
+      "name": "非凡",
       "ad": "no",
-      "url": "https://pl.a6club.com/player/analysis.php?v="
-    },
-    {
-      "id": 1,
-      "name": "DMPlayer",
-      "ad": "no",
-      "url": "https://dmplay.knowhub.vip/d?url="
-    },
-    {
-      "id": 1,
-      "name": "MACcmspro",
-      "ad": "no",
-      "url": "https://jx.pingguocms.com/dplayer/?url="
+      "url": "https://svip.ffzyplay.com/?url="
     },
     {
       "id": 1,
