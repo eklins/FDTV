@@ -1,7 +1,13 @@
 {
   "data": [
     {
-      "name": "Marvel",
+      "name": "Marvel（斗鱼）",
+      "url": "https://live.metshop.top/douyu/6140589",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Marvel（YY）",
       "url": "https://live.metshop.top/yy/1354930233",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
       "parse": false
@@ -61,6 +67,12 @@
       "parse": false
     },
     {
+      "name": "Cantonese 6566671",
+      "url": "https://live.metshop.top/douyu/6566671",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Comedy",
       "url": "https://live.metshop.top/yy/1382736861",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -75,6 +87,24 @@
     {
       "name": "DouYu 129",
       "url": "https://live.metshop.top/douyu/413573",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu 4332（贝爷MAX厅）",
+      "url": "https://live.metshop.top/douyu/4332",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu 36337（贝爷影厅2）",
+      "url": "https://live.metshop.top/douyu/36337",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu 252802（贝爷影厅：科幻、动作）",
+      "url": "https://live.metshop.top/douyu/252802",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -117,6 +147,18 @@
     {
       "name": "DouYu 麓山迷踪",
       "url": "https://live.metshop.top/douyu/4505431",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu 豆瓣高评分电影",
+      "url": "https://live.metshop.top/douyu/52787",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DouYu 幽默笑场",
+      "url": "https://live.metshop.top/douyu/428402",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -219,6 +261,12 @@
     {
       "name": "Sports Inspirational",
       "url": "https://live.metshop.top/yy/1382735626",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Spy Movies",
+      "url": "https://live.metshop.top/douyu/9292499",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
