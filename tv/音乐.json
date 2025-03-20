@@ -73,12 +73,6 @@
       "parse": false
     },
     {
-      "name": "Can",
-      "url": "http://canbroadcast.com:7000/canlican/tv.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Clubbing TV (New Zealand)",
       "url": "https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -147,12 +141,6 @@
     {
       "name": "Juice TV (New Zealand)",
       "url": "https://juicex.nz/hls/mystream.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "K-Pop (Korea)",
-      "url": "http://live.kytv.co.kr:8080/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -514,96 +502,6 @@
       "name": "Pluto The Story of Beatclub",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f982c3420de4100070a545e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f982c3420de4100070a545e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=09ab0f67-3401-11eb-a786-0242ac110002&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch045pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Aillion (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch149pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Among Your God (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch086pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Christ (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch064pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay EDM (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch091pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Lenadi (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch052pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Live (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch173pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Mova (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch034pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Pop (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch066pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Rap (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch107pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Rock (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch114pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Xtip (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch056pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Classica",
-      "url": "https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR It's Showtime at the Apollo",
-      "url": "https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Qello Concerts",
-      "url": "https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
     {
