@@ -1,12 +1,6 @@
 {
   "data": [
     {
-      "name": "24 Hour Free Movies",
-      "url": "https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "30A Classic Movies",
       "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -117,12 +111,6 @@
     {
       "name": "Cantonese 5033502",
       "url": "https://live.metshop.top/douyu/5033502",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cantonese 6566671",
-      "url": "https://live.metshop.top/douyu/6566671",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -265,31 +253,13 @@
       "parse": false
     },
     {
-      "name": "DouYu 4332（贝爷MAX厅）",
-      "url": "https://live.metshop.top/douyu/4332",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "DouYu 20415（神乐／可乐电影）",
       "url": "https://live.metshop.top/douyu/20415",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 36337（贝爷影厅2）",
-      "url": "https://live.metshop.top/douyu/36337",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 252802（贝爷影厅：科幻、动作）",
-      "url": "https://live.metshop.top/douyu/252802",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 263824（吃奶滴虫）",
+      "name": "DouYu 263824（吃奶滴虫）Horror & Disaster",
       "url": "https://live.metshop.top/douyu/263824",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
@@ -327,18 +297,6 @@
     {
       "name": "DouYu 冰冰小剧场",
       "url": "https://live.metshop.top/douyu/74374",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 豆瓣高评分电影",
-      "url": "https://live.metshop.top/douyu/52787",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DouYu 幽默笑场",
-      "url": "https://live.metshop.top/douyu/428402",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -505,6 +463,12 @@
       "parse": false
     },
     {
+      "name": "FXM Retro",
+      "url": "http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "FXX",
       "url": "http://fl2.moveonjoy.com/FXX/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -523,14 +487,14 @@
       "parse": false
     },
     {
-      "name": "Harry Potter",
-      "url": "https://live.metshop.top/douyu/8814650",
+      "name": "Hallmark Channel",
+      "url": "http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Hallmark Channel",
-      "url": "http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
+      "name": "Hallmark Movies Mysteries",
+      "url": "http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -559,12 +523,6 @@
       "parse": false
     },
     {
-      "name": "Horror Classic",
-      "url": "https://live.metshop.top/douyu/1165374",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Horror Machine",
       "url": "https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -573,12 +531,6 @@
     {
       "name": "Horror TV",
       "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HOT Movie 欧美影院 (China)",
-      "url": "http://155.248.180.39:8880/TVOD/2000000004000000005/hnbblive/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -603,12 +555,6 @@
     {
       "name": "Jupiter TV",
       "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "KBS World (Korea)",
-      "url": "https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -649,6 +595,12 @@
       "parse": false
     },
     {
+      "name": "LMN (Lifetime Movies Network)",
+      "url": "http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Logo",
       "url": "http://fl3.moveonjoy.com/Logo/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -663,12 +615,6 @@
     {
       "name": "Lone Star Network",
       "url": "https://6b88cde9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/ec788187-7d6a-4887-aeb7-cbe7214a3dc7/2.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Marvel",
-      "url": "https://live.metshop.top/douyu/6140589",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -723,12 +669,6 @@
     {
       "name": "MTV2",
       "url": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Mutant Movies",
-      "url": "https://live.metshop.top/douyu/9651304",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -835,12 +775,6 @@
       "parse": false
     },
     {
-      "name": "Sci-Fi & Action",
-      "url": "https://live.metshop.top/douyu/323876",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Scream Factory TV",
       "url": "https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -879,12 +813,6 @@
     {
       "name": "Showtime Women",
       "url": "http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Spy Movies",
-      "url": "https://live.metshop.top/douyu/9292499",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
