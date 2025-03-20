@@ -1,12 +1,6 @@
 {
   "data": [
     {
-       "id": 1,
-       "name": "HLS",
-       "ad": "no",
-       "url": "https://jx.hls.one/?url="
-    },
-    {
       "id": 1,
       "name": "1080ZYK",
       "ad": "no",
@@ -53,6 +47,12 @@
       "name": "黑木耳",
       "ad": "no",
       "url": "https://hoplayer.com/index.html?url="
+    },
+    {
+       "id": 1,
+       "name": "HLS",
+       "ad": "no",
+       "url": "https://jx.hls.one/?url="
     },
     {
       "id": 1,
