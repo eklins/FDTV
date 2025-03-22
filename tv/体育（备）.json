@@ -1,14 +1,38 @@
 {
   "data": [
     {
-      "name": "MG（备）19",
-      "url": "http://155.248.180.39:8880/TVOD/3000000010000010833/FifastbLive/index.m3u8",
+      "name": "MG（备）03 精彩竞技",
+      "url": "http://138.2.44.51:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）36",
-      "url": "http://alist.137390740.xyz:5000/TVOD/1000000006000270004/ystenlive/index.m3u8",
+      "name": "MG（备）30 精彩竞技",
+      "url": "http://138.2.44.51:50001/TVOD/3000000010000025380/FifastbLive/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）31",
+      "url": "http://138.2.44.51:50001/TVOD/3000000010000027691/FifastbLive/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）6658",
+      "url": "http://1.169.12.210:50001/TVOD/3000000010000006658/FifastbLive/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）11518",
+      "url": "http://125.78.60.194:9000/TVOD/3000000010000011518/FifastbLive/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）精彩竞技",
+      "url": "http://43.239.249.89:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
@@ -27,12 +51,6 @@
     {
       "name": "ASTRO Grandstand",
       "url": "http://198.16.100.186:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CCTV-5 体育",
-      "url": "http://146.235.220.188:3389/6000000001000016431/wasusyt/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
