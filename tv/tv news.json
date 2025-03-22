@@ -343,6 +343,12 @@
       "parse": false
     },
     {
+      "name": "VOA (Voice Of America)",
+      "url": "https://streams2.sofast.tv/voa-eng/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO83NlrtrCb6Bb1aw_8qDINrXdZfLt0mzDLQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Washington Post",
       "url": "https://washingtonpost-firetv.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFMeo2Zr_zL3LDl8YS7j_nM_6E0z2jztgCA&usqp=CAU",
