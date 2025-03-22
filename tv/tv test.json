@@ -295,6 +295,12 @@
       "parse": false
     },
     {
+      "name": "Charge! [2100-1500]",
+      "url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cine Past",
       "url": "https://lte.wiseplayout.com/WiseM3U8_6/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
