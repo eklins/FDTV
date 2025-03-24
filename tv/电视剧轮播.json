@@ -325,6 +325,12 @@
       "parse": false
     },
     {
+      "name": "Mr. Bean 1990-1995 (France)",
+      "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8muUD8zFneYbe1h68XahSnN96cJs0RqK3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MST3K（Mystery Science Theater 3000）1988-?",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/545943f1c9f133a519bbac92/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHiy_jtp9EqHy6ds5rVQEsIaFSMMRmdHTbZA&usqp=CAU",
