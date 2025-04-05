@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,📛测试播放器（videos3.myzybo）
+#EXTINF:-1 ,📛测试播放器（video.myzybo）ATID-567
+https://video.myzybo.com/decry/vd/20240528/NGU1N2FiNz/094902/1280_720/aac/libx/hls/encrypt/index.m3u8
+#EXTINF:-1 ,📛测试播放器（videos3.myzybo）ATID-567
 https://videos3.myzybo.com/decry/vd/20240528/NGU1N2FiNz/094902/1280_720/aac/libx/hls/encrypt/index.m3u8
 #EXTINF:-1 ,📛测试播放器（yongaomy）
 https://videomy.yongaomy.com/20211224/c9SfxyQz/index.m3u8
