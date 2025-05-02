@@ -181,6 +181,12 @@
       "parse": false
     },
     {
+      "name": "AXN (Belize)",
+      "url": "https://streamer1.nexgen.bz/AXN/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AXN (Portugal)",
       "url": "http://50.7.137.106:8080/AXN/index.m3u8?token=test",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -237,6 +243,12 @@
     {
       "name": "BET★ (Belize)",
       "url": "http://170.254.18.106/BET/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BET★ (Belize)",
+      "url": "https://streamer1.nexgen.bz/BET/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
