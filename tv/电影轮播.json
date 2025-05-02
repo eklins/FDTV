@@ -157,24 +157,6 @@
       "parse": false
     },
     {
-      "name": "Cleo TV",
-      "url": "http://fl3.moveonjoy.com/Cleo_TV/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CMT",
-      "url": "http://fl3.moveonjoy.com/CMT/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Comet [2100-1500]",
-      "url": "http://fl3.moveonjoy.com/COMET/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cowboy Movie Channel",
       "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -367,26 +349,8 @@
       "parse": false
     },
     {
-      "name": "Freeform",
-      "url": "http://fl2.moveonjoy.com/FREE_FORM/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FX (US)",
-      "url": "http://fl2.moveonjoy.com/FX/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "FX ① Movies (Iran)",
       "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "get. (480p)",
-      "url": "http://fl2.moveonjoy.com/GET_TV/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -399,12 +363,6 @@
     {
       "name": "Groovy (Greece★360p)",
       "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO 2",
-      "url": "https://fl5.moveonjoy.com/HBO_2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -435,12 +393,6 @@
     {
       "name": "Horror TV",
       "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "INSP",
-      "url": "http://fl2.moveonjoy.com/INSP/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -549,12 +501,6 @@
     {
       "name": "Movie Sphere (UK)",
       "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV2",
-      "url": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -685,26 +631,8 @@
       "parse": false
     },
     {
-      "name": "Start TV",
-      "url": "http://fl3.moveonjoy.com/Start_Tv/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Encore Classic",
-      "url": "http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Stephen Chow（周星驰，1962）",
       "url": "https://live.metshop.top/huya/11336587",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sundance TV",
-      "url": "http://fl3.moveonjoy.com/SUNDANCE/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -717,12 +645,6 @@
     {
       "name": "Super Channel Uncovered (Canada)",
       "url": "https://apollo.production-public.tubi.io/live/ac-super-channel-uncovered-canada.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SYFY",
-      "url": "http://fl5.moveonjoy.com/SYFY/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -787,12 +709,6 @@
       "parse": false
     },
     {
-      "name": "Up TV",
-      "url": "http://fl3.moveonjoy.com/Up_Tv/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Urban Action TV",
       "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -838,12 +754,6 @@
       "name": "Zjarr (Albania)［Not 24/7］",
       "url": "https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AMC",
-      "url": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
     {
