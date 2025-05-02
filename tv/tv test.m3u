@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,SYFY 13
+http://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 ,SYFY 15
+http://fl5.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 ,📛测试播放器（videos3.myzybo）ATID-567
 https://videos3.myzybo.com/decry/vd/20240528/NGU1N2FiNz/094902/1280_720/aac/libx/hls/encrypt/index.m3u8
 #EXTINF:-1 ,📛测试播放器（yongaomy）
