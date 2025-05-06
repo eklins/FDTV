@@ -679,12 +679,6 @@
       "parse": false
     },
     {
-      "name": "大秦赋 2020",
-      "url": "https://live.metshop.top/huya/21059634",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "雍正王朝 1999",
       "url": "https://live.metshop.top/huya/11342439",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
@@ -849,6 +843,12 @@
     {
       "name": "斗鱼 9388931",
       "url": "https://live.metshop.top/douyu/9388931",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "虎牙 21059634",
+      "url": "https://live.metshop.top/huya/21059634",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
