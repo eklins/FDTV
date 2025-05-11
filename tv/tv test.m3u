@@ -1,7 +1,14 @@
 #EXTM3U
-#EXTINF:-1 ,SYFY 13
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRnx_10V_1TqYPkDurduK1cJofNMprwCLEL0dUPBq4Q&s",Jennifer Connelly（1970）
+#EXTINF:-1 ,📛SYFY 11
+http://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 ,📛SYFY 12
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 ,📛SYFY 13
 http://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 ,SYFY 15
+#EXTINF:-1 ,📛SYFY 14
+http://fl4.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 ,📛SYFY 15
 http://fl5.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 ,📛测试播放器（videos3.myzybo）ATID-567
 https://videos3.myzybo.com/decry/vd/20240528/NGU1N2FiNz/094902/1280_720/aac/libx/hls/encrypt/index.m3u8
