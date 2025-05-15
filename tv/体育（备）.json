@@ -1,44 +1,14 @@
 {
   "data": [
     {
-      "name": "MG（备）03 精彩竞技",
-      "url": "http://138.2.44.51:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8",
+      "name": "MG（备）270001",
+      "url": "http://39.137.75.229/000000001000/1000000006000270001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=no",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MG（备）30 精彩竞技",
-      "url": "http://138.2.44.51:50001/TVOD/3000000010000025380/FifastbLive/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）31",
-      "url": "http://138.2.44.51:50001/TVOD/3000000010000027691/FifastbLive/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）6658",
-      "url": "http://1.169.12.210:50001/TVOD/3000000010000006658/FifastbLive/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）11518",
-      "url": "http://125.78.60.194:9000/TVOD/3000000010000011518/FifastbLive/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）精彩竞技",
-      "url": "http://43.239.249.89:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）精彩篮球",
-      "url": "http://8.218.67.196:5000/3000000020000011529/FifastbLive/index.m3u8",
+      "name": "MG（备）270002",
+      "url": "http://39.137.75.229/000000001000/1000000006000270002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=no",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
       "parse": false
     },
