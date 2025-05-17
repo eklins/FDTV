@@ -12,6 +12,28 @@
       "click": true
     },
     {
+      "name": "优直播网⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL8M9RTVz9LX_1VqkxuVovt-2Rcx61cyuXA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "",
+      "ads": "",
+      "webUrl": "https://www.yoozhibo.cc/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "直播豆⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL8M9RTVz9LX_1VqkxuVovt-2Rcx61cyuXA&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "",
+      "ads": "",
+      "webUrl": "https://m.zhibodou.com/zuqiu/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "泡泡直播⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL8M9RTVz9LX_1VqkxuVovt-2Rcx61cyuXA&usqp=CAU",
       "keyDownPlay": false,
@@ -30,17 +52,6 @@
       "userAgent": "",
       "ads": "",
       "webUrl": "https://www.fczhibo.net/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "直播豆⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpL8M9RTVz9LX_1VqkxuVovt-2Rcx61cyuXA&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "",
-      "ads": "",
-      "webUrl": "https://m.zhibodou.com/zuqiu/",
       "webOpen": true,
       "click": true
     },
