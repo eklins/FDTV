@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRnx_10V_1TqYPkDurduK1cJofNMprwCLEL0dUPBq4Q&s",Jennifer Connelly（1970）
+#EXTINF:-1 ,华为吧（m3u8hw8）
+https://cos.m3u8hw8.com/share/fa0f6903c93d4ea5af1fcbc83d37afc6.m3u8
+#EXTINF:-1 ,华为吧（nikanba）
+https://m3u.nikanba.live/share/fa0f6903c93d4ea5af1fcbc83d37afc6.m3u8
 #EXTINF:-1 ,📛SYFY 11
 http://fl1.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 ,📛SYFY 12
