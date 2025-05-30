@@ -7,6 +7,12 @@
       "parse": false
     },
     {
+      "name": "无线新闻台",
+      "url": "https://live.tvfix.org/live/inews/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
+      "parse": true
+    },
+    {
       "name": "凤凰卫视",
       "url": "http://211.72.65.236:8576/.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJR1PgOCVMIZz26J2ICl9ifdXXm6JEmp-fTA&usqp=CAU",
