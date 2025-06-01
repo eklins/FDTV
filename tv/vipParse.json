@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "CKplayer",
+      "ad": "no",
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "id": 1,
       "name": "无尽备用",
       "ad": "no",
       "url": "https://jx.wujinkk.com/dplayer/?url="
