@@ -1145,6 +1145,15 @@ https://www.cnbctv18.com/live-tv/
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
 #EXTINF:-1, 北京体育
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFQZkfW4mB8-y1U43eM8kk1wegyRlphXO6g&usqp=CAU",Legends Of Tomorrow 01
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGC8IxS03pqrwjqSns62BnA1zvP_z9zbuP1Q&usqp=CAU",Legends Of Tomorrow 02
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWqNbV200qC8XwGGGldLzdymWUknI38xn5A&usqp=CAU",Legends Of Tomorrow 03
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYW82nGgKmnNyi68siYcfNtJbDK-hCt52Pg&usqp=CAU",Legends Of Tomorrow 04
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywzr1-Fei2CZnIf1HceqpF83oFvgzwop4ZQ&usqp=CAU",Legends Of Tomorrow Character Card
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3xQVOJctwWK9lRIlqFaeLGXYYze-SlSzb2A&usqp=CAU",Legends Of Tomorrow White Canary
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGN0OpB8Qrxa29bq0e1XsGJnM6Uokg20IL1A&usqp=CAU",Legends Of Tomorrow Season 3
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQC-g0vn_o86dvpkmvlmh9XL9qPfc3lR3ZQ&usqp=CAU",Legends Of Tomorrow Season 4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qH8FwNOU9duT__-PQJYnl6z2EC_ZkH7k9w&usqp=CAU",Legends Of Tomorrow Season 7
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhyuu5COyndkRhGrpOxrCN9k8YoMO8FqZpw&usqp=CAU",火龙
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF5fsWW7mKQLoSKkvmf9VUVpXHxrsm4Kw4qA&usqp=CAU",龙母（Daenerys Targaryen）01
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQaJaJ3awhJFk6USBayH3IS_I4UAKfSRdnQ&usqp=CAU",龙母（Daenerys Targaryen）02
