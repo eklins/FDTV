@@ -2,15 +2,9 @@
   "data": [
     {
       "id": 1,
-      "name": "量子 2025",
+      "name": "西瓜播放器",
       "ad": "no",
-      "url": "https://lziplayer.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "量子 2024",
-      "ad": "no",
-      "url": "https://playerlz.com/?url="
+      "url": "https://onepage.czl.net/xg/?url="
     },
     {
       "id": 1,
@@ -26,6 +20,18 @@
     },
     {
       "id": 1,
+      "name": "量子 2025",
+      "ad": "no",
+      "url": "https://lziplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "量子 2024",
+      "ad": "no",
+      "url": "https://playerlz.com/?url="
+    },
+    {
+      "id": 1,
       "name": "黑木耳",
       "ad": "no",
       "url": "https://hoplayer.com/index.html?url="
@@ -35,12 +41,6 @@
       "name": "无尽备用",
       "ad": "no",
       "url": "https://jx.wujinkk.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "西瓜播放器",
-      "ad": "no",
-      "url": "https://onepage.czl.net/xg/?url="
     },
     {
        "id": 1,
