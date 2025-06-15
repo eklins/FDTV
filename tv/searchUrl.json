@@ -327,7 +327,7 @@
     {
       "id": 1,
       "name": "18X 小鸡",
-      "url": "https://api.xiaojizy.live/provide/vod/at/xml",
+      "url": "https://api.xiaojizy.live/provide/vod?at=xml&ac=list",
       "cate": "视频一区,25&&麻豆探花,4&&乱伦,9&&丝袜,5&&SM,22&&网曝门,6&&强奸,7&&迷奸,8&&情趣,10&&偷拍,21&&剧情,3&&群交,13&&萝莉,11&&同性,12&&人兽,24&&自拍,23&&熟女,20&&自慰,17&&动漫,18&&其他,26",
       "click": true,
       "type": "xml",
