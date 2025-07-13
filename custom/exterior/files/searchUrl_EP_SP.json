@@ -74,6 +74,24 @@
     },
     {
       "id": 1,
+      "name": "量子LZ",
+      "url": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "cate": "Action,6&&Comedy,7&&Romance,8&&Sci-Fi,9&&Horror,10&&Drama,11&&War,12&&China Series,13&&Hong Kong Series,14&&Korea Series,15&&US Series,16&&Documentary,20&&Taiwan Series,21&&Japan Series,22&&Others Series,23&&泰Thai Series,24&&China Variety,25&&Taiwan Variety,26&&Korea Variety,27&&US Variety,28&&China Anime,29&&Japan Anime,30&&US Anime,31&&Taiwan Anime,32&&Others Anime,33&&Ethical,34&&电影解说,35&&Sports,36&& Football,37&&Basketball,38&&Tennis,39&&Snooker,40&&❌,41&&❌,42&&❌,43&&❌,44&&Trailer,45&&Mini Series,46&&❌,47",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
+      "id": 1,
+      "name": "黑木耳HME",
+      "url": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml",
+      "cate": "Drama,6&&Action,7&&Adventure,8&&LGBT,9&&Comedy,10&&Fantasy,11&&Horror,12&&China Series,13&&Hong Kong Series,14&&Korea Series,15&&Japan Series,16&&Suspense,20&&Thriller,21&&Disaster,22&&Romance,23&&Crime,24&&Sci-Fi,25&&Animation,26&&❌,27&&Thai Series,28&&Taiwan Series,29&&US Series,30&&新马剧,31&&Others Series,32&&Musical,33&&War,34&&Classic,35&&网络电影,36&&其他电影,37&&China Variety,38&&Taiwan Variety,39&&Korea Variety,40&&Japan Variety,41&&US Variety,42&&新马泰综艺,43&&Others Variety,44&&古装短剧,45&&虐恋短剧,46&&逆袭短剧,47&&悬疑短剧,48&&神豪短剧,49&&重生短剧,50&&复仇短剧,51&&穿越短剧,52&&甜宠短剧,53&&强者短剧,54&&萌宝短剧,55&&其它短剧,56&&欧美动漫,57&&日本动漫,58&&韩国动漫,59&&中国动漫,60&&港台动漫,61&&❌,62&&其它动漫,63&&❌,64&&❌,65",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
+      "id": 1,
       "name": "华为吧",
       "url": "https://hw8.live/api.php/provide/vod/at/xml/",
       "cate": "冒险片,22&&剧情片,24&&动作片,26&&动画电影,28&&同性片,30&&喜剧片,32&&奇幻片,34&&恐怖片,36&&悬疑片,38&&惊悚片,40&&歌舞片,42&&灾难片,44&&爱情,46&&科幻片,48&&犯罪片,50&&经典片,52&&网络电影,54&&战争片,56&&❌,58&&电视剧,60&&欧美剧,62&&日本剧,64&&韩国剧,66&&台湾剧,68&&泰国剧,70&&中国剧,72&&香港剧,74&&新马剧,76&&其他剧,78&&动漫,80&&综艺,82&&体育,84&&❌,86&&❌,88&&❌,90&&❌,92&&❌,94&&欧美动漫,96&&日本动漫,98&&中国动漫,100&&新马泰动漫,102&&港台动漫,104&&其他动漫,106&&中国综艺,108&&韩日综艺,110&&欧美综艺,112&&新马泰综艺,114&&港台综艺,116&&其他综艺,118&&短剧,120&&❌,121",
