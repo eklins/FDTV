@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "西瓜播放器",
-      "ad": "no",
-      "url": "https://onepage.czl.net/xg/?url="
-    },
-    {
-      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -17,6 +11,12 @@
       "name": "1080ZYK（优质资源库）备用",
       "ad": "no",
       "url": "https://vip.yyzyplay.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "西瓜播放器",
+      "ad": "no",
+      "url": "https://onepage.czl.net/xg/?url="
     },
     {
       "id": 1,
