@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1 ,05-16 天堂执法者（非凡）
-https://vip.ffzy-online4.com/20230302/12616_31aeb92e/index.m3u8
-#EXTINF:-1 ,JUL-540（yongaomy）
-https://videomy.yongaomy.com/20210731/e12PtYJ6/index.m3u8
-#EXTINF:-1 ,JUL-540（yongaomy.com:8091）+s
-https://videomy.yongaomy.com:8091/20210731/e12PtYJ6/index.m3u8
-#EXTINF:-1 ,JUL-540（yongaomy.com:8091）-s
-http://videomy.yongaomy.com:8091/20210731/e12PtYJ6/index.m3u8
-#EXTINF:-1 ,图书馆员 S3-01（淘片 2025）
-https://m1.taopianplay1.com:43333/c56b1bc09da3/HD/2022-11-26/15/fd1d31ac6097/6914611021ae/playlist.m3u8
+#EXTINF:-1 ,NCIS S7-09（量子停止测试）＋1
+https://vip1.lz-cdn6.com/20221005/29391_c0377300/index.m3u8
 #EXTINF:-1 ,NCIS S7-09（量子停止测试）
 https://vip.lz-cdn6.com/20221005/29391_c0377300/index.m3u8
-#EXTINF:-1 ,华为吧（m3u8hw8）
-https://cos.m3u8hw8.com/share/fa0f6903c93d4ea5af1fcbc83d37afc6.m3u8
-#EXTINF:-1 ,华为吧（nikanba）
-https://m3u.nikanba.live/share/fa0f6903c93d4ea5af1fcbc83d37afc6.m3u8
+#EXTINF:-1 ,05-16 天堂执法者（非凡）
+https://vip.ffzy-online4.com/20230302/12616_31aeb92e/index.m3u8
+#EXTINF:-1 ,图书馆员 S3-01（淘片 2025）
+https://m1.taopianplay1.com:43333/c56b1bc09da3/HD/2022-11-26/15/fd1d31ac6097/6914611021ae/playlist.m3u8
 #EXTINF:-1 ,📛SYFY 11
 http://fl1.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 ,📛SYFY 12
