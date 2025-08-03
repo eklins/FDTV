@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "茅台",
-      "ad": "no",
-      "url": "https://mtjiexi.cc:966/?url="
-    },
-    {
-      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -59,6 +53,12 @@
       "name": "无尽备用 2024",
       "ad": "no",
       "url": "https://jx.wujinkk.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "茅台",
+      "ad": "no",
+      "url": "https://mtjiexi.cc:966/?url="
     },
     {
        "id": 1,
