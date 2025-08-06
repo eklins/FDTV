@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "量子 2025",
+      "ad": "no",
+      "url": "https://lziplayer.com/?url="
+    },
+    {
+      "id": 1,
       "name": "西瓜播放器",
       "ad": "no",
       "url": "https://onepage.czl.net/xg/?url="
@@ -17,12 +23,6 @@
       "name": "1080ZYK（优质资源库）备用",
       "ad": "no",
       "url": "https://vip.yyzyplay.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "量子 2025",
-      "ad": "no",
-      "url": "https://lziplayer.com/?url="
     },
     {
       "id": 1,
