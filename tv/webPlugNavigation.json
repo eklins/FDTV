@@ -67,50 +67,6 @@
       "click": true
     },
     {
-      "name": "90直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.90zhibo.com/live/zuqiu/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "114体育⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.c114t.net/live/zuqius/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "310直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "http://www.310.tv/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "321直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.321tvzb.com/events",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "515直播⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
       "keyDownPlay": false,
@@ -118,72 +74,6 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://www.515.tv/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "857直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.857zb2.com/match.html",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "956直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.956.live/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "五楼直播⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.259zb.com/pages/bisai",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "乐视吧⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://my.letv8.cc/list_soccer_1.html",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "天下足球⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://m.txzqzhibo.com/live/zuqiu/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "56直播网⚽",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqstk2ysWuPB26FX2NnxyDDBomCNLrp8Y8Uw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "http://56zhibo.cc/",
       "webOpen": true,
       "click": true
     },
