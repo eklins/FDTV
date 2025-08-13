@@ -7,6 +7,12 @@
       "url": "https://jx.xllmcms.com/dplayer/?url="
     },
     {
+       "id": 1,
+       "name": "HLS",
+       "ad": "no",
+       "url": "https://jx.hls.one/?url="
+    },
+    {
       "id": 1,
       "name": "1080ZYK",
       "ad": "no",
@@ -44,21 +50,9 @@
     },
     {
       "id": 1,
-      "name": "无尽备用 2024",
-      "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
-    },
-    {
-      "id": 1,
       "name": "茅台",
       "ad": "no",
       "url": "https://mtjiexi.cc:966/?url="
-    },
-    {
-       "id": 1,
-       "name": "HLS",
-       "ad": "no",
-       "url": "https://jx.hls.one/?url="
     },
     {
       "id": 1,
