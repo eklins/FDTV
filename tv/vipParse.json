@@ -1,18 +1,6 @@
 {
   "data": [
     {
-       "id": 1,
-       "name": "爱奇艺",
-       "ad": "no",
-       "url": "https://www.iqiyizyjx.com/?url="
-    },
-    {
-       "id": 1,
-       "name": "HLS",
-       "ad": "no",
-       "url": "https://jx.hls.one/?url="
-    },
-    {
       "id": 1,
       "name": "1080ZYK",
       "ad": "no",
@@ -23,6 +11,18 @@
       "name": "1080ZYK（优质资源库）备用",
       "ad": "no",
       "url": "https://vip.yyzyplay.com/?url="
+    },
+    {
+       "id": 1,
+       "name": "爱奇艺",
+       "ad": "no",
+       "url": "https://www.iqiyizyjx.com/?url="
+    },
+    {
+       "id": 1,
+       "name": "HLS",
+       "ad": "no",
+       "url": "https://jx.hls.one/?url="
     },
     {
       "id": 1,
