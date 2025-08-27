@@ -2,12 +2,6 @@
   "data": [
     {
        "id": 1,
-       "name": "爱奇艺",
-       "ad": "no",
-       "url": "https://www.iqiyizyjx.com/?url="
-    },
-    {
-       "id": 1,
        "name": "HLS",
        "ad": "no",
        "url": "https://jx.hls.one/?url="
@@ -41,6 +35,12 @@
       "name": "西瓜播放器",
       "ad": "no",
       "url": "https://onepage.czl.net/xg/?url="
+    },
+    {
+       "id": 1,
+       "name": "爱奇艺",
+       "ad": "no",
+       "url": "https://www.iqiyizyjx.com/?url="
     },
     {
       "id": 1,
