@@ -1,6 +1,12 @@
 {
   "data": [
     {
+       "id": 1,
+       "name": "HLS",
+       "ad": "no",
+       "url": "https://jx.hls.one/?url="
+    },
+    {
       "id": 1,
       "name": "1080ZYK",
       "ad": "no",
@@ -29,12 +35,6 @@
       "name": "西瓜播放器",
       "ad": "no",
       "url": "https://onepage.czl.net/xg/?url="
-    },
-    {
-       "id": 1,
-       "name": "HLS",
-       "ad": "no",
-       "url": "https://jx.hls.one/?url="
     },
     {
        "id": 1,
