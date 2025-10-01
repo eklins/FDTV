@@ -31,6 +31,12 @@
       "parse": false
     },
     {
+      "name": "Alter Horror",
+      "url": "https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c83320d/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AMG TV",
       "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -92,7 +98,7 @@
     },
     {
       "name": "Bounce XL",
-      "url": "https://scripps-bouncexl-1-us.xumo.wurl.tv/playlist.m3u8",
+      "url": "https://livetv-fa.tubi.video/bounce-xl/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -308,25 +314,25 @@
     },
     {
       "name": "FilmRise Black TV (Canada)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv-canada.m3u8",
+      "url": "https://livetv-fa.tubi.video/filmrise-blacktv-canada/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise Black TV (US)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv.m3u8",
+      "url": "https://livetv-fa.tubi.video/filmrise-blacktv/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise Horror (Canada)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8",
+      "url": "https://livetv-fa.tubi.video/filmrise-horror-canada/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise Horror (US)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8",
+      "url": "https://livetv-fa.tubi.video/filmrise-horror/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -398,7 +404,7 @@
     },
     {
       "name": "Grit Xtra",
-      "url": "https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8",
+      "url": "https://livetv-fa.tubi.video/grit-extra/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -470,7 +476,7 @@
     },
     {
       "name": "ion",
-      "url": "https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8",
+      "url": "https://livetv-fa.tubi.video/ion/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -482,7 +488,7 @@
     },
     {
       "name": "ion PLUS",
-      "url": "https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8",
+      "url": "https://livetv-fa.tubi.video/ion-plus/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -560,7 +566,7 @@
     },
     {
       "name": "Maverick Black Cinema (Tubi)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8",
+      "url": "https://livetv-fa.tubi.video/maverick-black-cinema/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -596,7 +602,7 @@
     },
     {
       "name": "Movie Sphere (Canada)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8",
+      "url": "https://livetv-fa.tubi.video/moviesphere-canada2/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -848,7 +854,7 @@
     },
     {
       "name": "Super Channel Hearties (Canada)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-super-channel-hearties-canada.m3u8",
+      "url": "https://livetv-fa.tubi.video/super-channel-hearties-canada/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -939,6 +945,12 @@
     {
       "name": "Urban Action TV",
       "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "USA Network",
+      "url": "http://fl25.moveonjoy.com/USA_NETWORK/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
