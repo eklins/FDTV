@@ -26,7 +26,7 @@
     },
     {
       "name": "BBC Top Gear 2002-2022",
-      "url": "https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8",
+      "url": "https://livetv-fa.tubi.video/bbc-top-gear2/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Yz_uvFBDTYMZF9vsZh04rlj9h5NYA1F6kw&usqp=CAU",
       "parse": false
     },
@@ -188,7 +188,7 @@
     },
     {
       "name": "Wipeout Xtra 2008-?",
-      "url": "https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8",
+      "url": "https://livetv-fa.tubi.video/wipeout-xtra/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR181ghTuV8mHhXQTTRykqknqCSun5Tn2G4bQ&usqp=CAU",
       "parse": false
     },
@@ -308,7 +308,7 @@
     },
     {
       "name": "American Pickers",
-      "url": "https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8",
+      "url": "https://livetv-fa.tubi.video/american-pickers/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -902,7 +902,7 @@
     },
     {
       "name": "Mr. Beast",
-      "url": "https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8",
+      "url": "https://livetv-fa.tubi.video/mr-beast/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1190,7 +1190,7 @@
     },
     {
       "name": "Super Channel Uncovered (Canada)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-super-channel-uncovered-canada.m3u8",
+      "url": "https://livetv-fa.tubi.video/super-channel-uncovered-canada/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1376,7 +1376,7 @@
     },
     {
       "name": "TV One Crime & Justice",
-      "url": "https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8",
+      "url": "https://livetv-fa.tubi.video/tv-one/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
