@@ -7,18 +7,20 @@ https://vip.lz-cdn6.com/20221005/29391_c0377300/index.m3u8
 https://vip.ffzy-online4.com/20230302/12616_31aeb92e/index.m3u8
 #EXTINF:-1 ,图书馆员 S3-01（淘片 2025）
 https://m1.taopianplay1.com:43333/c56b1bc09da3/HD/2022-11-26/15/fd1d31ac6097/6914611021ae/playlist.m3u8
-#EXTINF:-1 ,📛SYFY 17（s）
-https://fl7.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 ,📛SYFY 11
+#EXTINF:-1 ,📛SYFY 25（s）
+https://fl25.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 ,📛SYFY 1
 http://fl1.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 ,📛SYFY 12
+#EXTINF:-1 ,📛SYFY 2
 http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 ,📛SYFY 13
+#EXTINF:-1 ,📛SYFY 3
 http://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 ,📛SYFY 14
+#EXTINF:-1 ,📛SYFY 4
 http://fl4.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 ,📛SYFY 15
+#EXTINF:-1 ,📛SYFY 5
 http://fl5.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 ,📛SYFY 7
+http://fl7.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 ,📛测试播放器（videos3.myzybo）ATID-567
 https://videos3.myzybo.com/decry/vd/20240528/NGU1N2FiNz/094902/1280_720/aac/libx/hls/encrypt/index.m3u8
 #EXTINF:-1 ,📛测试播放器（yongaomy）
