@@ -860,7 +860,7 @@
     },
     {
       "name": "Super Channel Uncovered (Canada)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-super-channel-uncovered-canada.m3u8",
+      "url": "https://livetv-fa.tubi.video/super-channel-uncovered-canada/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
