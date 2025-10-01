@@ -33,25 +33,25 @@
     {
       "name": "Deal or No Deal 2005-2019 (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92951c2db99000787c00d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df75-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d1f141-b1af-4c62-9b90-538de8ee3cc4",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsw2gPGVj8-aKk2wNR8acD7skBzPrhPlJsVg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IJtwTGvLUx9hDhlzxEi0Fy3jV5959bqhiA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Deal or No Deal 2005-2019 (UK)",
       "url": "https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsw2gPGVj8-aKk2wNR8acD7skBzPrhPlJsVg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IJtwTGvLUx9hDhlzxEi0Fy3jV5959bqhiA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Deal or No Deal 2005-2019 (US★Pluto)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsw2gPGVj8-aKk2wNR8acD7skBzPrhPlJsVg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IJtwTGvLUx9hDhlzxEi0Fy3jV5959bqhiA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Deal or No Deal 2005-2019 (US★Tubi)",
       "url": "https://livetv-fa.tubi.video/deal-or-no-deal/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsw2gPGVj8-aKk2wNR8acD7skBzPrhPlJsVg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IJtwTGvLUx9hDhlzxEi0Fy3jV5959bqhiA&usqp=CAU",
       "parse": false
     },
     {
