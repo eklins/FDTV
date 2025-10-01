@@ -43,8 +43,14 @@
       "parse": false
     },
     {
-      "name": "Deal or No Deal 2005-2019 (US)",
+      "name": "Deal or No Deal 2005-2019 (US★Pluto)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsw2gPGVj8-aKk2wNR8acD7skBzPrhPlJsVg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Deal or No Deal 2005-2019 (US★Tubi)",
+      "url": "https://livetv-fa.tubi.video/deal-or-no-deal/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsw2gPGVj8-aKk2wNR8acD7skBzPrhPlJsVg&usqp=CAU",
       "parse": false
     },
@@ -86,7 +92,7 @@
     },
     {
       "name": "Fear Factor 2001-2012 (US★Tubi)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-fear-factor.m3u8",
+      "url": "https://livetv-fa.tubi.video/fear-factor/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4d1nBwIDDfI46HKb4yJec22ZokaOsDGDt0Q&usqp=CAU",
       "parse": false
     },
@@ -122,7 +128,7 @@
     },
     {
       "name": "The Biggest Loser 2004-2020",
-      "url": "https://apollo.production-public.tubi.io/live/ac-biggest-loser.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/5e65c946-0563-42f1-ae32-0d260c85fc63/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyrTDgoSkJVVhUAEFEDIZKvX0FhV2RtoKKHQ&usqp=CAU",
       "parse": false
     },
@@ -146,7 +152,7 @@
     },
     {
       "name": "The Masked Singer 2019-?",
-      "url": "https://apollo.production-public.tubi.io/live/ac-masked-singer.m3u8",
+      "url": "https://livetv-fa.tubi.video/masked-singer/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY2o1OpNMeZMU6dKQ8hD_5G51tt18dqaxj3w&usqp=CAU",
       "parse": false
     },
@@ -602,43 +608,43 @@
     },
     {
       "name": "FBI Files",
-      "url": "https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8",
+      "url": "https://livetv-fa.tubi.video/the-fbi-files/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise Cheaters",
-      "url": "https://apollo.production-public.tubi.io/live/ac-cheaters.m3u8",
+      "url": "https://livetv-fa.tubi.video/cheaters/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise Forensic Files",
-      "url": "https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8",
+      "url": "https://livetv-fa.tubi.video/forensic-files/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise True Crime (Canada)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime-canada.m3u8",
+      "url": "https://livetv-fa.tubi.video/filmrise-true-crime-canada/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise True Crime (US)",
-      "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8",
+      "url": "https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise Unsolved Mysteries",
-      "url": "https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8",
+      "url": "https://livetv-fa.tubi.video/unsolved-mysteries/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise World's Most Evil Killers",
-      "url": "https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8",
+      "url": "https://livetv-fa.tubi.video/worlds-most-evil-killers/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
