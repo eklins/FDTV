@@ -236,13 +236,13 @@
     },
     {
       "name": "Disney Channel",
-      "url": "http://fl25.moveonjoy.com/DISNEY_CHANNEL/index.m3u8",
+      "url": "https://fl7.moveonjoy.com/DISNEY_CHANNEL/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
       "name": "Disney Junior",
-      "url": "http://fl25.moveonjoy.com/DISNEY_JR/index.m3u8",
+      "url": "https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
