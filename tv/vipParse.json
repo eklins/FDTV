@@ -86,6 +86,12 @@
     },
     {
       "id": 1,
+      "name": "最大",
+      "ad": "no",
+      "url": "https://jx.zuidplay.com/m3u8Player/?url="
+    },
+    {
+      "id": 1,
       "name": "HLS Player",
       "ad": "no",
       "url": "https://www.hlsplayer.org/play?url="
