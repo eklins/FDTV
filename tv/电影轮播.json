@@ -422,7 +422,7 @@
     },
     {
       "name": "Hallmark Family (Drama)",
-      "url": "https://fl25.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
+      "url": "https://fl41.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -434,7 +434,7 @@
     },
     {
       "name": "HBO 2",
-      "url": "https://fl25.moveonjoy.com/HBO_2/index.m3u8",
+      "url": "https://fl41.moveonjoy.com/HBO_2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -620,7 +620,7 @@
     },
     {
       "name": "MTV2",
-      "url": "https://fl25.moveonjoy.com/MTV_2/index.m3u8",
+      "url": "https://fl41.moveonjoy.com/MTV_2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -758,7 +758,7 @@
     },
     {
       "name": "Showtime (US-West)",
-      "url": "https://fl25.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
+      "url": "https://fl41.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
