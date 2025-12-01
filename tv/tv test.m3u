@@ -35,6 +35,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e949f0cec1e60007f03314/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1b5eec9-2caa-42db-be84-da456a1d44db&already_redirected=true
 #EXTINF:-1 ,❌NCIS More（s）
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e949f0cec1e60007f03314/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1b5eec9-2caa-42db-be84-da456a1d44db&already_redirected=true
+#EXTINF:-1 ,考古公开课（卧龙）
+https://cdn.wlcdn88.com:777/241c567d/index.m3u8
+#EXTINF:-1 ,考古公开课（卧龙-海外测试）
+https://wolongzywcdn3.com:65/241c567d/index.m3u8
 #EXTINF:-1 ,三国演义（斗鱼epg）
 http://epg.112114.xyz/douyu/7459925
 #EXTINF:-1 ,三国演义（斗鱼diyp）
