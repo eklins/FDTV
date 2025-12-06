@@ -482,7 +482,7 @@
     },
     {
       "name": "ion MYSTERY",
-      "url": "https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
