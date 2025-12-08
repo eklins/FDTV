@@ -73,6 +73,12 @@
       "parse": false
     },
     {
+      "name": "Baywatch 1989-2001 (UK)",
+      "url": "https://amg00145-amg00145c2-rakuten-us-5323.playouts.now.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4A1h-quDi4AusK57pO52ivZSA6gB2KQr6A&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Johnny Carson TV 1962-1992 (US)",
       "url": "https://lnc-johnny-carson.tubi.video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqkk3tuy8bFZjA2uYnfLgXHwxTWcWZSwNaeQ&usqp=CAU",
