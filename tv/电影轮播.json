@@ -391,8 +391,14 @@
       "parse": false
     },
     {
-      "name": "FX ① Movies (Iran)",
+      "name": "FX ① (Iran)",
       "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FX ② (Iran)",
+      "url": "https://toonixhls.wns.live/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
