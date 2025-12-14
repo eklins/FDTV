@@ -601,6 +601,12 @@
       "parse": false
     },
     {
+      "name": "Z Nation 2014-2018 (Poland)",
+      "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcQa49OnJc0FAoe1VkfbNjkDdMx2Ci6JDSlzO16hqUPQ&s=10",
+      "parse": false
+    },
+    {
       "name": "ion",
       "url": "https://livetv-fa.tubi.video/ion/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
