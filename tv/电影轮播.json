@@ -470,7 +470,7 @@
     },
     {
       "name": "Hi-YAH!",
-      "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
+      "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
