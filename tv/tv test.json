@@ -649,6 +649,12 @@
       "parse": false
     },
     {
+      "name": "Freedom Movie Sphere (Uganda)",
+      "url": "https://panel.freedomflixtv.org:3311/stream/play.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Freeform",
       "url": "http://fl2.moveonjoy.com/FREE_FORM/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
