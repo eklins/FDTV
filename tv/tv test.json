@@ -277,6 +277,12 @@
       "parse": false
     },
     {
+      "name": "Bloody Disgusting【Scream Box TV】",
+      "url": "https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Bounty (Australia)",
       "url": "https://bountyfilms-bounty-1-au.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
