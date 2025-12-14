@@ -151,6 +151,12 @@
       "parse": false
     },
     {
+      "name": "Cinevault 80s",
+      "url": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cinevault Classics (540p)",
       "url": "https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -363,12 +369,6 @@
     {
       "name": "Freebie TV [Not 24/7]",
       "url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Freedom Movie Sphere (Uganda)",
-      "url": "https://panel.freedomflixtv.org:3311/stream/play.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -627,6 +627,12 @@
     {
       "name": "Movie Sphere (Canada)",
       "url": "https://livetv-fa.tubi.video/moviesphere-canada2/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Movie Sphere (UK)",
+      "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
