@@ -1,7 +1,13 @@
 {
   "data": [
     {
-      "name": "30A Classic Movies",
+      "name": "&flix (India★576p)",
+      "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "30A Classic Movies (480p)",
       "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
@@ -37,6 +43,12 @@
       "parse": false
     },
     {
+      "name": "American Horrors (480p)",
+      "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AMG TV",
       "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -45,6 +57,12 @@
     {
       "name": "Antenna TV",
       "url": "https://fl1.moveonjoy.com/Antenna_TV/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ARTFLIX Movie Classics US (Netherlands★480p)",
+      "url": "https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -97,8 +115,14 @@
       "parse": false
     },
     {
-      "name": "Bloody Disgusting【Scream Box TV】",
-      "url": "https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8",
+      "name": "Bollywood Clasic (Romania)",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bollywood HD (Romania)",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -439,6 +463,12 @@
       "parse": false
     },
     {
+      "name": "Grand Cinema (Turkey)",
+      "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Grit",
       "url": "https://fl1.moveonjoy.com/GRIT_TV/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -447,6 +477,12 @@
     {
       "name": "Grit Xtra",
       "url": "https://livetv-fa.tubi.video/grit-extra/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Grjngo Western Movies (Germany)",
+      "url": "https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -506,7 +542,7 @@
     },
     {
       "name": "Horror TV",
-      "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8",
+      "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93falseb-cbcf-4988-ab97-94feced4c14b/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -643,6 +679,12 @@
       "parse": false
     },
     {
+      "name": "Mix Hollywood (Egypt)",
+      "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Movie Sphere (Canada)",
       "url": "https://livetv-fa.tubi.video/moviesphere-canada2/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -697,13 +739,25 @@
       "parse": false
     },
     {
+      "name": "NewFlix (Iran)",
+      "url": "https://newfhls.wns.live/hls/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Outlaw (WKRP 25.3★Cincinnati)",
       "url": "https://cdn.igocast.com/wkrp_channel3_hls/wkrp_channel3_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Paramount Network",
+      "name": "Paramount Channel (France★576p)",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramounFrance",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Paramount Network (US)",
       "url": "https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
