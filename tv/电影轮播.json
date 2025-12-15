@@ -73,6 +73,18 @@
       "parse": false
     },
     {
+      "name": "AXN (Taiwan)",
+      "url": "http://smart.cityq.xyz:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AXN Asia (Taiwan)",
+      "url": "http://smart.cityq.xyz:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BBC America",
       "url": "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -166,6 +178,12 @@
       "name": "Cinema 35 (Los Angeles City View 35)",
       "url": "https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinemax (Taiwan)",
+      "url": "http://smart.cityq.xyz:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
     {
@@ -339,6 +357,12 @@
     {
       "name": "Dwayne Johnson（1972）",
       "url": "https://live.metshop.top/huya/21059581",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "EBC Western (Taiwan)",
+      "url": "http://smart.cityq.xyz:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -519,6 +543,12 @@
     {
       "name": "Hi-YAH!",
       "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Hollywood (Taiwan)",
+      "url": "http://smart.cityq.xyz:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -829,6 +859,18 @@
       "parse": false
     },
     {
+      "name": "ROCK Action (Singapore)",
+      "url": "http://152.32.229.52:5050/4gtv-live138/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ROCK Entertainment (Singapore)",
+      "url": "http://152.32.229.52:5050/4gtv-live080/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Samuel Goldwyn Classics",
       "url": "https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -1021,6 +1063,12 @@
       "parse": false
     },
     {
+      "name": "Thrill (Taiwan)",
+      "url": "http://smart.cityq.xyz:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Toonami Aftermath Movies (540p)",
       "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -1041,6 +1089,12 @@
     {
       "name": "TV One",
       "url": "https://fl1.moveonjoy.com/TV_ONE/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVN Movies (Taiwan)",
+      "url": "http://smart.cityq.xyz:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
