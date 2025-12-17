@@ -7,9 +7,15 @@
       "parse": false
     },
     {
-      "name": "MG（备）270002",
-      "url": "http://39.137.75.229/000000001000/1000000006000270002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=no",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
+      "name": "CCTV-5 体育",
+      "url": "http://23.237.228.134/live5/CCTV5.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UUYv8XVAJ93tMkT8nzqBvxwbwQtufj2UQ7-DsLJo-w&s=10",
+      "parse": false
+    },
+    {
+      "name": "CCTV-5+ 体育赛事",
+      "url": "http://23.237.228.134/live5/CCTV5p.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFEq4Ole1Szlqi4k-feAS2REfbetfU93uUQsjnFtyrIw&s",
       "parse": false
     },
     {
