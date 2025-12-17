@@ -14,7 +14,7 @@
     },
     {
       "name": "香港无线新闻台",
-      "url": "http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80",
+      "url": "http://hls.168.us.kg/u/83/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDhvPFh3Oj5CaDRaZ5_hK6w8RZ7vCv0F0NQ&usqp=CAU",
       "parse": false
     },
