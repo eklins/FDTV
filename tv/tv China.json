@@ -2,115 +2,109 @@
   "data": [
     {
       "name": "CCTV-1 综合",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8",
+      "url": "http://23.237.228.134/live5/CCTV1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsonaTIFDl7eNidjnMIMRJxB-8Eg9dDipFyA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-2 财经",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8",
+      "url": "http://23.237.228.134/live5/CCTV2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIFRzwvl-0AdK3IYCPSUbX0czLxPgQ6YTTA&usqp=CAUc0RHa.jpg",
       "parse": false
     },
     {
       "name": "CCTV-3 综艺",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
+      "url": "http://23.237.228.134/live5/CCTV3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGS5wQ-Fb9Bts78C8A9We8EEL-XnI6ylTCPQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-4 中文国际",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8",
+      "url": "http://23.237.228.134/live5/CCTV4.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffpcllCOv5yV-6daYXvBRjtHlgByKzH1HFQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "CCTV-4 美洲",
-      "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CNVzu7VFU1-Dcmsq4QomNs8v_lyWlBcRew&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CCTV-5 体育",
-      "url": "http://39.134.136.161:6610/000000001000/1000000001000009204/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009204",
+      "url": "http://23.237.228.134/live5/CCTV5.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUtVhTuW7wJuKuEggOazQrvU28h1Z2HRFSA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-5+ 体育赛事",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
+      "url": "http://23.237.228.134/live5/CCTV5p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymO_4CROh6yi39JsN-48NXJ29PZFqFQkxxQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-6 电影",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
+      "url": "http://23.237.228.134/live5/CCTV6.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4wKKnBl3g7MtCpyX7GxelHHFXn5POBIHKA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-7 国防军事",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8",
+      "url": "http://23.237.228.134/live5/CCTV7.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN9HCILZWD9W7b0LCOq9RsxVLTXzsJXclzw&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-8 电视剧",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8",
+      "url": "http://23.237.228.134/live5/CCTV8.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJpOLumxorzY2M62X2tKPVHnuYe_leVqYDQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-9 纪录",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8",
+      "url": "http://23.237.228.134/live5/CCTV9.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQysQQ5EJfQrVkfErdfB5suwV6ID1tEThNg&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-10 科教",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8",
+      "url": "http://23.237.228.134/live3/CCTV10.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYL2v7XpnJDK5h0OdY161IocFytfm6IoQkFw&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-11 戏曲",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8",
+      "url": "http://23.237.228.134/live3/CCTV11.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpde-u1QahDqv1v9QbPnoeUggmOuuXHeWFBQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-12 社会与法",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8",
+      "url": "http://23.237.228.134/live3/CCTV12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScP2_2Tr7VigiB4JP0FeeVROpLlxAxwQV0DQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-13 新闻",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8",
+      "url": "http://23.237.228.134/live3/CCTV13.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSml1RohUXU9F3EmzVHIMRr6E-Mm0MPKODHUw&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-14 少儿",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8",
+      "url": "http://23.237.228.134/live3/CCTV14.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054259469.jpg",
       "parse": false
     },
     {
       "name": "CCTV-15 音乐",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8",
+      "url": "http://23.237.228.134/live3/CCTV15.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054325579.jpg",
       "parse": false
     },
     {
       "name": "CCTV-16 奥林匹克",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8",
+      "url": "http://23.237.228.134/live3/CCTV16.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiYz9cTj9snQ_sJdWtiTJDatTgi-Qvou46g&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-17 农业农村",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8",
+      "url": "http://23.237.228.134/live3/CCTV17.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/4b142ac98dcc795bfb8565909c04cf92.jpg",
       "parse": false
     },
