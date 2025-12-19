@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,❌iill（斗鱼）
+https://live.iill.top/douyu/8791622
+#EXTINF:-1 ,❌iill（虎牙）
+https://live.iill.top/huya/11352940
+#EXTINF:-1 ,❌iill（bilibili）
+https://live.iill.top/bilibili/21622811
+#EXTINF:-1 ,❌iill（YY）
+https://live.iill.top/yy/1382745091
 #EXTINF:-1 ,HITS Movies（php）
 https://tzh911.qzz.io/play-smt.php?id=Hitsmovie
 #EXTINF:-1 ,NCIS S7-09（量子停止测试）＋1
