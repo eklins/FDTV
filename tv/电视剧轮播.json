@@ -703,7 +703,13 @@
       "parse": false
     },
     {
-      "name": "康熙王朝 2001",
+      "name": "康熙王朝 2001（斗鱼）",
+      "url": "https://live.metshop.top/douyu/747764",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "康熙王朝 2001（虎牙）",
       "url": "https://live.metshop.top/huya/11352940",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
       "parse": false
