@@ -161,6 +161,22 @@
       "webPlus": {}
     },
     {
+      "name": "电影动漫 ",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMVEApbDe7oFOqZOquVIBwlpW0gzx7_Qf2uA&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/美电影动漫.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "美影剧🈲",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQur_6__uz3mNuLwy7D31bL__yclL8x6ME0Ow&usqp=CAU",
       "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/%E7%BE%8E%E5%BD%B1%E5%89%A7%F0%9F%88%B2.m3u",
