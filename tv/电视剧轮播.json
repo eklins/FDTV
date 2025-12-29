@@ -253,12 +253,6 @@
       "parse": false
     },
     {
-      "name": "Heartland 2007-? (US)",
-      "url": "https://livetv-fa.tubi.video/heartland/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4QDYdHz46Kcd7fzYkkAG_AwXryvFCHxqFSQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Hunter 1984-1991",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQylchIDLbzbperrfON0WaJOH6sUJr0yDuQ&usqp=CAU",
@@ -589,12 +583,6 @@
       "parse": false
     },
     {
-      "name": "When Calls The Heart 2014-?【Super Channel Hearties Canada】",
-      "url": "https://livetv-fa.tubi.video/super-channel-hearties-canada/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhQSVQTCEg-ihEhR3ib82IDiVboD1iySk5A&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Who's The Boss? 1984-1992 (Canada)",
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52ec24ea4800008370651/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e95-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1316847-5815-401d-b687-cbaa9c6ff900",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5aYcvaeUjaqA5uflwpj_2nwY0Rrl_qVV8Q&usqp=CAU",
@@ -608,7 +596,7 @@
     },
     {
       "name": "ion",
-      "url": "https://livetv-fa.tubi.video/ion/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/51860817-b4e8-4fad-9254-7fccce5b2ac8/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
