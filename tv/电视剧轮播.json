@@ -38,7 +38,7 @@
     },
     {
       "name": "Anger Management Channel 2012-2014",
-      "url": "https://livetv-fa.tubi.video/anger-management2/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoIELBQPsRqQMLv8roxkPhgcU9uzNKSsrKg&usqp=CAU",
       "parse": false
     },
@@ -50,7 +50,7 @@
     },
     {
       "name": "Are We There Yet? 2010-2013 (US)",
-      "url": "https://livetv-fa.tubi.video/are-we-there-yet2/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqiULe5EzhLkUWSHauXFbxI85y_Vkd_6Mxg&usqp=CAU",
       "parse": false
     },
@@ -74,7 +74,7 @@
     },
     {
       "name": "Baywatch 1989-2001 (US★Tubi)",
-      "url": "https://livetv-fa.tubi.video/baywatch/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOlAAWjFVpNWy9egzIjy1BzNiMyNgQvwiKfg&usqp=CAU",
       "parse": false
     },
@@ -320,7 +320,7 @@
     },
     {
       "name": "Midsomer Murders 1997-? (US★Tubi)",
-      "url": "https://livetv-fa.tubi.video/midsomer-murders/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJj-eBCgoTWLh3mR_2Eyuy7Cvaa6dm0md3w&usqp=CAU",
       "parse": false
     },
@@ -541,14 +541,14 @@
       "parse": false
     },
     {
-      "name": "The Rifleman 1958-1963",
+      "name": "The Rifleman 1958-1963 (Pluto)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e825550e758c700077b0aef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhqNHhWNJdUu8wZOtwflTtv4RtWXQKucppg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "The Rifleman 1958-1963 (FilmRise)",
-      "url": "https://livetv-fa.tubi.video/rifleman-filmrise/index.m3u8",
+      "name": "The Rifleman 1958-1963 (Tubi)",
+      "url": "https://aegis-cloudfront-1.tubi.video/f9a87f91-5bdf-4c02-8dfe-980bc71b2c5d/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhqNHhWNJdUu8wZOtwflTtv4RtWXQKucppg&usqp=CAU",
       "parse": false
     },
@@ -584,7 +584,7 @@
     },
     {
       "name": "Wanted：Dead Or Alive 1958-1961 (Tubi)",
-      "url": "https://livetv-fa.tubi.video/wanted-dead-or-alive2/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGkv3ZMtHU6tsGBd_uST5Dzes9ulBDICqgQw&usqp=CAU",
       "parse": false
     },
