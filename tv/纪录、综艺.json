@@ -26,7 +26,7 @@
     },
     {
       "name": "BBC Top Gear 2002-2022",
-      "url": "https://livetv-fa.tubi.video/bbc-top-gear2/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Yz_uvFBDTYMZF9vsZh04rlj9h5NYA1F6kw&usqp=CAU",
       "parse": false
     },
@@ -303,12 +303,6 @@
     {
       "name": "Always Funny Videos",
       "url": "https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "American Pickers",
-      "url": "https://livetv-fa.tubi.video/american-pickers/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -608,43 +602,37 @@
     },
     {
       "name": "FBI Files",
-      "url": "https://livetv-fa.tubi.video/the-fbi-files/index.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/4f7b1ce8-9c61-4e7a-8cb8-04663b9cf11e/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise Cheaters",
-      "url": "https://livetv-fa.tubi.video/cheaters/index.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/599d452d-bbc8-4a96-8a43-e015ac5b6367/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise Forensic Files",
-      "url": "https://livetv-fa.tubi.video/forensic-files/index.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/8f9574e6-6ba7-4f56-84e5-52afa2bd3c14/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "FilmRise True Crime (Canada)",
-      "url": "https://livetv-fa.tubi.video/filmrise-true-crime-canada/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FilmRise True Crime (US)",
-      "url": "https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8",
+      "name": "FilmRise True Crime",
+      "url": "https://aegis-cloudfront-1.tubi.video/0b0ca4db-ad59-4d59-82f4-1504f5f0fe73/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise Unsolved Mysteries",
-      "url": "https://livetv-fa.tubi.video/unsolved-mysteries/index.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/4cf6fb4f-fd5b-4edf-8812-bd7eb49550b9/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FilmRise World's Most Evil Killers",
-      "url": "https://livetv-fa.tubi.video/worlds-most-evil-killers/index.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/c7400837-bc80-432a-8216-731d0b31a05f/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -902,7 +890,7 @@
     },
     {
       "name": "Mr. Beast",
-      "url": "https://livetv-fa.tubi.video/mr-beast/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1189,12 +1177,6 @@
       "parse": false
     },
     {
-      "name": "Super Channel Uncovered (Canada)",
-      "url": "https://livetv-fa.tubi.video/super-channel-uncovered-canada/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Supreme Master TV",
       "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1376,7 +1358,7 @@
     },
     {
       "name": "TV One Crime & Justice",
-      "url": "https://livetv-fa.tubi.video/tv-one/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/66353608-b293-407b-9e79-d69ba8b17594/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
