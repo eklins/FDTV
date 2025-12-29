@@ -50,7 +50,7 @@
     },
     {
       "name": "Deal or No Deal 2005-2019 (US★Tubi)",
-      "url": "https://livetv-fa.tubi.video/deal-or-no-deal/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IJtwTGvLUx9hDhlzxEi0Fy3jV5959bqhiA&usqp=CAU",
       "parse": false
     },
@@ -92,7 +92,7 @@
     },
     {
       "name": "Fear Factor 2001-2012 (US★Tubi)",
-      "url": "https://livetv-fa.tubi.video/fear-factor/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4d1nBwIDDfI46HKb4yJec22ZokaOsDGDt0Q&usqp=CAU",
       "parse": false
     },
@@ -152,7 +152,7 @@
     },
     {
       "name": "The Masked Singer 2019-?",
-      "url": "https://livetv-fa.tubi.video/masked-singer/index.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/af138c2c-c4f2-49f7-88d7-64eeabbad414/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY2o1OpNMeZMU6dKQ8hD_5G51tt18dqaxj3w&usqp=CAU",
       "parse": false
     },
@@ -188,7 +188,7 @@
     },
     {
       "name": "Wipeout Xtra 2008-?",
-      "url": "https://livetv-fa.tubi.video/wipeout-xtra/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/e0a81cae-d483-46f9-aaa1-d0b87faa13cf/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR181ghTuV8mHhXQTTRykqknqCSun5Tn2G4bQ&usqp=CAU",
       "parse": false
     },
