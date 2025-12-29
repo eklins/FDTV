@@ -134,7 +134,7 @@
     },
     {
       "name": "Bounce XL",
-      "url": "https://livetv-fa.tubi.video/bounce-xl/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/22eea4e9-00a6-427c-92dd-57e78cc160dc/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -409,14 +409,8 @@
       "parse": false
     },
     {
-      "name": "FilmRise Black TV (Canada)",
-      "url": "https://livetv-fa.tubi.video/filmrise-blacktv-canada/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FilmRise Black TV (US)",
-      "url": "https://livetv-fa.tubi.video/filmrise-blacktv/index.m3u8",
+      "name": "FilmRise Black TV",
+      "url": "https://aegis-cloudfront-1.tubi.video/69b40c96-ddfc-44f5-9bff-2adaca16fd4d/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -427,14 +421,8 @@
       "parse": false
     },
     {
-      "name": "FilmRise Horror (Canada)",
-      "url": "https://livetv-fa.tubi.video/filmrise-horror-canada/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FilmRise Horror (US)",
-      "url": "https://livetv-fa.tubi.video/filmrise-horror/index.m3u8",
+      "name": "FilmRise Horror",
+      "url": "https://aegis-cloudfront-1.tubi.video/ae32ebac-afe0-47c3-b08b-e07d26e3944a/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -512,7 +500,7 @@
     },
     {
       "name": "Grit Xtra",
-      "url": "https://livetv-fa.tubi.video/grit-extra/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -602,7 +590,7 @@
     },
     {
       "name": "ion",
-      "url": "https://livetv-fa.tubi.video/ion/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/51860817-b4e8-4fad-9254-7fccce5b2ac8/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -704,7 +692,7 @@
     },
     {
       "name": "Maverick Black Cinema (Tubi)",
-      "url": "https://livetv-fa.tubi.video/maverick-black-cinema/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
@@ -751,12 +739,6 @@
       "parse": false
     },
     {
-      "name": "Movie Sphere (Canada)",
-      "url": "https://livetv-fa.tubi.video/moviesphere-canada2/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Movie Sphere (UK)",
       "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
@@ -764,7 +746,7 @@
     },
     {
       "name": "Movie Sphere (US)",
-      "url": "https://livetv-fa.tubi.video/moviesphere/playlist.m3u8",
+      "url": "https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
       "parse": false
     },
