@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "豆瓣（P2P商业加速解析）",
+      "ad": "no",
+      "url": "https://www.dbjiexi.com:966/jx/?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
