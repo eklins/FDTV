@@ -341,7 +341,8 @@
       "click": true,
       "type": "xml",
       "detailUrl": ""
-    }xml   {
+    },
+    {
       "id": 1,
       "name": "豆瓣",
       "url": "https://dbzy1.com/api.php/provide/vod/at/xml",
