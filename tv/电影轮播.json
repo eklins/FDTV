@@ -145,12 +145,6 @@
       "parse": false
     },
     {
-      "name": "Cinema 35 (Los Angeles City View 35)",
-      "url": "https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cinevault 80s",
       "url": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWMUa_aMgtiwzpy1XWaLyFQP-QWNwT20P3g&usqp=CAU",
