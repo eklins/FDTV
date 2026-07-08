@@ -865,6 +865,54 @@
       "parse": false
     },
     {
+      "name": "AfroLand Comedy",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFbvV1kK-JlEJii6jMgYarqFgTVr4fEN6BmirApAFlA&s=10",
+      "parse": false
+    },
+    {
+      "name": "AfroLand Crime",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6070",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFbvV1kK-JlEJii6jMgYarqFgTVr4fEN6BmirApAFlA&s=10",
+      "parse": false
+    },
+    {
+      "name": "AfroLand Drama",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6067",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFbvV1kK-JlEJii6jMgYarqFgTVr4fEN6BmirApAFlA&s=10",
+      "parse": false
+    },
+    {
+      "name": "AfroLand Featured",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6057",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFbvV1kK-JlEJii6jMgYarqFgTVr4fEN6BmirApAFlA&s=10",
+      "parse": false
+    },
+    {
+      "name": "AfroLand Nollywood",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6076",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFbvV1kK-JlEJii6jMgYarqFgTVr4fEN6BmirApAFlA&s=10",
+      "parse": false
+    },
+    {
+      "name": "AfroLand Romance",
+      "urlAfroLands://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6074",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFbvV1kK-JlEJii6jMgYarqFgTVr4fEN6BmirApAFlA&s=10",
+      "parse": false
+    },
+    {
+      "name": "AfroLand Thriller",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6073",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFbvV1kK-JlEJii6jMgYarqFgTVr4fEN6BmirApAFlA&s=10",
+      "parse": false
+    },
+    {
+      "name": "AfroLand Top 10",
+      "url"AfroLand://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6098",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFbvV1kK-JlEJii6jMgYarqFgTVr4fEN6BmirApAFlA&s=10",
+      "parse": false
+    },
+    {
       "name": "AMC Presents",
       "url": "https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
