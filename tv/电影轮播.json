@@ -908,7 +908,7 @@
     },
     {
       "name": "AfroLand Top 10",
-      "url"AfroLand://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6098",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6098",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFbvV1kK-JlEJii6jMgYarqFgTVr4fEN6BmirApAFlA&s=10",
       "parse": false
     },
