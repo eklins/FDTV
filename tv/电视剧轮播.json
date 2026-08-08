@@ -61,6 +61,12 @@
       "parse": false
     },
     {
+      "name": "Battlestar Galactica 2004-2009",
+      "url": "https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJuRf3LQrr1IqvLlFr5Jv44Eutf_QORF83AcfnPM9FJQ&s=10",
+      "parse": false
+    },
+    {
       "name": "Baywatch 1989-2001 (Australia)",
       "url": "https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4A1h-quDi4AusK57pO52ivZSA6gB2KQr6A&usqp=CAU",
