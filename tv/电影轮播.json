@@ -907,6 +907,54 @@
       "parse": false
     },
     {
+      "name": "Pluto BET",
+      "url": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto BET Cinema",
+      "url": "https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto BET Classics",
+      "url": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto BET Comedy Movies",
+      "url": "https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto BET Throwbacks",
+      "url": "https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto BET Visionaries",
+      "url": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto BET x Tyler Perry Comedy",
+      "url": "https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto BET x Tyler Perry Drama",
+      "url": "https://jmp2.uk/plu-666b38a5efa2a10008b15b3a.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rakuten &TV (UK)",
       "url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
