@@ -1,13 +1,7 @@
 {
   "data": [
     {
-      "name": "48 HOURS∣MYSTERY 1988-? (Canada)",
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e925bc68d18a00077bb990/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78ce00-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d510e704-124c-497f-89cb-732e27dd295a",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJOf8DTXe_HAz9F1pBE3-4c2iikl1ikB4dzg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "48 HOURS∣MYSTERY 1988-? (US)",
+      "name": "48 HOURS∣MYSTERY 1988-?",
       "url": "https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJOf8DTXe_HAz9F1pBE3-4c2iikl1ikB4dzg&usqp=CAU",
       "parse": false
@@ -37,9 +31,9 @@
       "parse": false
     },
     {
-      "name": "Deal or No Deal 2005-2019 (Canada)",
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92951c2db99000787c00d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df75-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d1f141-b1af-4c62-9b90-538de8ee3cc4",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IJtwTGvLUx9hDhlzxEi0Fy3jV5959bqhiA&usqp=CAU",
+      "name": "Dallas Cowboys Cheerleaders：Making The Team 2006-2021",
+      "url": "https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCID38OYoIUJCApcal3lHD6QhwaTdtlesPs8nZUuVWVg&s=10",
       "parse": false
     },
     {
@@ -50,7 +44,7 @@
     },
     {
       "name": "Deal or No Deal 2005-2019 (US★Pluto)",
-      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
+      "url": "https://jmp2.uk/plu-5e9debf8c881310007d7bde1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IJtwTGvLUx9hDhlzxEi0Fy3jV5959bqhiA&usqp=CAU",
       "parse": false
     },
@@ -1587,6 +1581,84 @@
     {
       "name": "Pluto Beach Day",
       "url": "https://jmp2.uk/plu-68bb162bb3900870ec364cbe.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Big Brother",
+      "url": "https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Black Ink Crew",
+      "url": "https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Bravo Vault",
+      "url": "https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto BUZZR",
+      "url": "https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Car Chase",
+      "url": "https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Cheaters",
+      "url": "https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Cold Case Files by A&E",
+      "url": "https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Comedy Central",
+      "url": "https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Confess by Nosey",
+      "url": "https://jmp2.uk/plu-634ee8f95aa9870007248333.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto COPS",
+      "url": "https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Court TV",
+      "url": "https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Dateline 24/7",
+      "url": "https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pluto Dating Disasters",
+      "url": "https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BZyR_xA2iBlFd5kZn0tii4lhLQ-4yygsQ&usqp=CAU",
       "parse": false
     },
